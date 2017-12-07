@@ -22,13 +22,14 @@
 # NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 # POSSIBILITY OF SUCH DAMAGE.
 
-ROS_DISTRO=${ROS_DISTRO:-lunar}
+ROS_DISTRO=${ROS_DISTRO:-kinetic}
 ROS_CONFIGURATION=${ROS_CONFIGURATION:-desktop_full}
 ROS_EXTRA_PACKAGES=${ROS_EXTRA_PACKAGES:-}
 ROS_INSTALL_DIR=${ROS_INSTALL_DIR:-/opt/ros/${ROS_DISTRO}}
 
 do_install()
 {
+  #sudo chown -R jaymingwong:admin /usr/local/*
   set -e
 
   # Homebrew
@@ -163,7 +164,7 @@ do_install()
     fi
 
     # Package dependencies.
-    rosdep install --from-paths . --ignore-src --rosdistro ${ROS_DISTRO} -y --as-root pip:no
+    rosdep install --from-paths . --ignore-src --rosdistro ${ROS_DISTRO} -y --as-root pip:yes --skip-keys "gazebo"
   popd
 
   # Clean out or create the install directory.
@@ -191,7 +192,7 @@ do_install()
   echo
   echo "  source ${ROS_INSTALL_DIR}/setup.bash"
   echo
-  
+
   # Check for SIP if on OSX/macOS 10.11 (El Capitan) or later
   if [[ `sw_vers -productVersion` > "10.10" ]]
   then

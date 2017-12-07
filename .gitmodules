@@ -1,0 +1,18 @@
+[submodule "src/rviz"]
+	path = src/rviz
+	url = https://github.com/ros-visualization/rviz.git
+[submodule "src/rospack"]
+	path = src/rospack
+	url = https://github.com/ros/rospack.git
+[submodule "kinetic_desktop_full_ws/src/rospack"]
+	path = kinetic_desktop_full_ws/src/rospack
+	url = https://github.com/ros/rospack.git
+[submodule "kinetic_desktop_full_ws/src/rviz"]
+	path = kinetic_desktop_full_ws/src/rviz
+	url = https://github.com/ros-visualization/rviz.git
+[submodule "kinetic_desktop_full_ws/src/ros-industrial/industrial_core"]
+	path = kinetic_desktop_full_ws/src/ros-industrial/industrial_core
+	url = https://github.com/ros-industrial/industrial_core.git
+[submodule "kinetic_desktop_full_ws/src/ros-planning/moveit"]
+	path = kinetic_desktop_full_ws/src/ros-planning/moveit
+	url = https://github.com/ros-planning/moveit.git
