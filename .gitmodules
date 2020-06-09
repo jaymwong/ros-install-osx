@@ -6,7 +6,7 @@
 	url = https://github.com/ros/rospack.git
 [submodule "kinetic_desktop_full_ws/src/rviz"]
 	path = kinetic_desktop_full_ws/src/rviz
-	url = https://github.com/ros-visualization/rviz.git
+	url = https://github.com/jaymwong/rviz.git
 [submodule "kinetic_desktop_full_ws/src/ros-industrial/industrial_core"]
 	path = kinetic_desktop_full_ws/src/ros-industrial/industrial_core
 	url = https://github.com/ros-industrial/industrial_core.git
@@ -30,7 +30,7 @@
 	url = https://github.com/ros/actionlib.git
 [submodule "kinetic_desktop_full_ws/src/image_common"]
 	path = kinetic_desktop_full_ws/src/image_common
-	url = https://github.com/ros-perception/image_common.git
+	url = https://github.com/jaymwong/image_common.git
 [submodule "kinetic_desktop_full_ws/src/rosauth"]
 	path = kinetic_desktop_full_ws/src/rosauth
 	url = https://github.com/GT-RAIL/rosauth.git
