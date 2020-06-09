@@ -1,0 +1,3 @@
+[ 16%] Built target compressed_depth_image_transport_gencfg
+[ 33%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_depth_image_transport/lib/libcompressed_depth_image_transport.dylib[0m
+[100%] Built target compressed_depth_image_transport

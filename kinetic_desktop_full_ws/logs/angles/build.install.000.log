@@ -1,0 +1,29 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/angles.pc
+-- Installing: /opt/ros/kinetic/share/angles/cmake/anglesConfig.cmake
+-- Installing: /opt/ros/kinetic/share/angles/cmake/anglesConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/angles/package.xml
+-- Installing: /opt/ros/kinetic/include/angles
+-- Installing: /opt/ros/kinetic/include/angles/angles.h
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/angles
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/angles/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/angles /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/angles/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/angles install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/angles/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/angles/lib/angles
+copying src/angles/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/angles/lib/angles
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/angles
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/angles/lib/angles/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/angles
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/angles/__init__.py to __init__.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/angles-1.9.11-py2.7.egg-info

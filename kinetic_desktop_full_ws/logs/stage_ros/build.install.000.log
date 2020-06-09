@@ -1,0 +1,77 @@
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[100%] Built target stageros
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/stage_ros.pc
+-- Installing: /opt/ros/kinetic/share/stage_ros/cmake/stage_rosConfig.cmake
+-- Installing: /opt/ros/kinetic/share/stage_ros/cmake/stage_rosConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/stage_ros/package.xml
+-- Installing: /opt/ros/kinetic/lib/stage_ros/upgrade-world.sh
+-- Installing: /opt/ros/kinetic/lib/stage_ros/stageros
+-- Installing: /opt/ros/kinetic/share/stage_ros/rviz
+-- Installing: /opt/ros/kinetic/share/stage_ros/rviz/stage.rviz
+-- Installing: /opt/ros/kinetic/share/stage_ros/world
+-- Installing: /opt/ros/kinetic/share/stage_ros/world/willow-erratic.world
+-- Installing: /opt/ros/kinetic/share/stage_ros/world/willow-four-erratics-multisensor.world
+-- Installing: /opt/ros/kinetic/share/stage_ros/world/willow-four-erratics.world
+-- Installing: /opt/ros/kinetic/share/stage_ros/world/willow-full.pgm

@@ -1,0 +1,5 @@
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/librosconsole_bridge.dylib
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/rosconsole_bridge.pc
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/rosconsole_bridge/cleanup
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig-version.cmake
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig.cmake

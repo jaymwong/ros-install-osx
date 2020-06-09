@@ -1,0 +1,6 @@
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/etc/ros/genmsg/gencpp
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/gencpp.pc
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/python2.7/site-packages/gencpp/__init__.py
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/gencpp/cmake/gencpp-extras.cmake
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/gencpp/cmake/gencppConfig-version.cmake
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/gencpp/cmake/gencppConfig.cmake

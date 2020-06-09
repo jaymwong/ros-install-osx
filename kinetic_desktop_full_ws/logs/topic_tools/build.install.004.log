@@ -1,0 +1,168 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxList
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxSelect
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxAdd
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxList
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxAdd
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxDelete
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxSelect
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxDelete
+[ 14%] Built target topic_tools_generate_messages_nodejs
+[ 14%] Built target std_msgs_generate_messages_py
+[ 29%] Built target topic_tools_generate_messages_py
+[ 29%] Built target std_msgs_generate_messages_cpp
+[ 43%] Built target topic_tools_generate_messages_cpp
+[ 43%] Built target std_msgs_generate_messages_eus
+[ 59%] Built target topic_tools_generate_messages_eus
+[ 59%] Built target std_msgs_generate_messages_lisp
+[ 73%] Built target topic_tools_generate_messages_lisp
+[ 78%] Built target topic_tools
+[ 82%] Built target relay
+[ 85%] Built target drop
+[ 85%] Built target topic_tools_generate_messages
+[ 89%] Built target mux
+[ 92%] Built target demux
+[ 96%] Built target throttle
+[100%] Built target switch_mux
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/topic_tools
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/topic_tools/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/topic_tools /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/topic_tools/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/topic_tools install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools-1.12.14-py2.7.egg-info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools-1.12.14-py2.7.egg-info
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/srv/MuxAdd.srv
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/srv/MuxDelete.srv
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/srv/MuxList.srv
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/srv/MuxSelect.srv
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/srv/DemuxAdd.srv
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/srv/DemuxDelete.srv
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/srv/DemuxList.srv
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/srv/DemuxSelect.srv
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/cmake/topic_tools-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxAdd.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxAddRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxAddResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxDelete.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxDeleteRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxDeleteResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxList.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxListRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxListResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxSelect.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxSelectRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/DemuxSelectResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxAdd.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxAddRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxAddResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxDelete.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxDeleteRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxDeleteResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxList.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxListRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxListResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxSelect.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxSelectRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/MuxSelectResponse.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/srv/DemuxAdd.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/srv/DemuxDelete.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/srv/DemuxList.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/srv/DemuxSelect.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/srv/MuxAdd.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/srv/MuxDelete.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/srv/MuxList.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/topic_tools/srv/MuxSelect.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/_package_DemuxAdd.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/_package_DemuxDelete.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/_package_DemuxList.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/_package_DemuxSelect.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/_package_MuxAdd.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/_package_MuxDelete.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/_package_MuxList.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/_package_MuxSelect.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/DemuxAdd.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/DemuxDelete.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/DemuxList.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/DemuxSelect.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/MuxAdd.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/MuxDelete.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/MuxList.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/MuxSelect.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/topic_tools/srv/topic_tools-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv/DemuxAdd.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv/DemuxDelete.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv/DemuxList.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv/DemuxSelect.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv/MuxAdd.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv/MuxDelete.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv/MuxList.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/topic_tools/srv/MuxSelect.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/topic_tools/lib/python2.7/site-packages/topic_tools ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/topic_tools/lib/python2.7/site-packages/topic_tools/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_DemuxAdd.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_DemuxAdd.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_DemuxDelete.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_DemuxDelete.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_DemuxList.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_DemuxList.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_DemuxSelect.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_DemuxSelect.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_MuxAdd.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_MuxAdd.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_MuxDelete.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_MuxDelete.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_MuxList.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_MuxList.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_MuxSelect.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/_MuxSelect.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/topic_tools/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/topic_tools.pc
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/cmake/topic_tools-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/cmake/topic_toolsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/cmake/topic_toolsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/topic_tools/package.xml
+-- Up-to-date: /opt/ros/kinetic/etc/catkin/profile.d/20.transform.bash
+-- Installing: /opt/ros/kinetic/lib/libtopic_tools.dylib
+-- Installing: /opt/ros/kinetic/lib/topic_tools/switch_mux
+-- Installing: /opt/ros/kinetic/lib/topic_tools/mux
+-- Installing: /opt/ros/kinetic/lib/topic_tools/demux
+-- Installing: /opt/ros/kinetic/lib/topic_tools/relay
+-- Installing: /opt/ros/kinetic/lib/topic_tools/drop
+-- Installing: /opt/ros/kinetic/lib/topic_tools/throttle
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/macros.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/parse.h
+-- Up-to-date: /opt/ros/kinetic/include/topic_tools/shape_shifter.h
+-- Up-to-date: /opt/ros/kinetic/lib/topic_tools/mux_add
+-- Up-to-date: /opt/ros/kinetic/lib/topic_tools/mux_delete
+-- Up-to-date: /opt/ros/kinetic/lib/topic_tools/mux_list
+-- Up-to-date: /opt/ros/kinetic/lib/topic_tools/mux_select
+-- Up-to-date: /opt/ros/kinetic/lib/topic_tools/relay_field
+-- Up-to-date: /opt/ros/kinetic/lib/topic_tools/transform

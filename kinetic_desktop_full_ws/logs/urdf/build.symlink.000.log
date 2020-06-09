@@ -1,0 +1,5 @@
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/include/urdf/urdfdom_compatibility.h
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/liburdf.dylib
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/urdf.pc
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/urdf/cmake/urdfConfig-version.cmake
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/urdf/cmake/urdfConfig.cmake

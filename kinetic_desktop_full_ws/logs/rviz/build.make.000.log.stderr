@@ -1,0 +1,77 @@
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/visualizer_app.cpp:121:3: [0m[0;1;35mwarning: [0m[1m'GetCurrentProcess' is deprecated: first deprecated in macOS 10.9 [-Wdeprecated-declarations][0m
+  GetCurrentProcess(&PSN);
+[0;1;32m  ^
+[0m[1m/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/Processes.h:415:1: [0m[0;1;30mnote: [0m'GetCurrentProcess' has been explicitly marked deprecated here[0m
+MacGetCurrentProcess(ProcessSerialNumber * PSN)               AVAILABLE_MAC_OS_X_VERSION_10_0_AND_LATER_BUT_DEPRECATED_IN_MAC_OS_X_VERSION_10_9;
+[0;1;32m^
+[0m[1m/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/Processes.h:412:34: [0m[0;1;30mnote: [0mexpanded from macro 'MacGetCurrentProcess'[0m
+    #define MacGetCurrentProcess GetCurrentProcess
+[0;1;32m                                 ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/visualizer_app.cpp:123:3: [0m[0;1;35mwarning: [0m[1m'SetFrontProcess' is deprecated: first deprecated in macOS 10.9 [-Wdeprecated-declarations][0m
+  SetFrontProcess(&PSN);
+[0;1;32m  ^
+[0m[1m/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/Processes.h:603:1: [0m[0;1;30mnote: [0m'SetFrontProcess' has been explicitly marked deprecated here[0m
+SetFrontProcess(const ProcessSerialNumber * PSN)              AVAILABLE_MAC_OS_X_VERSION_10_0_AND_LATER_BUT_DEPRECATED_IN_MAC_OS_X_VERSION_10_9;
+[0;1;32m^
+[0m2 warnings generated.
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/image_view/main.cpp:50:3: [0m[0;1;35mwarning: [0m[1m'GetCurrentProcess' is deprecated: first deprecated in macOS 10.9 [-Wdeprecated-declarations][0m
+  GetCurrentProcess(&PSN);
+[0;1;32m  ^
+[0m[1m/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/Processes.h:415:1: [0m[0;1;30mnote: [0m'GetCurrentProcess' has been explicitly marked deprecated here[0m
+MacGetCurrentProcess(ProcessSerialNumber * PSN)               AVAILABLE_MAC_OS_X_VERSION_10_0_AND_LATER_BUT_DEPRECATED_IN_MAC_OS_X_VERSION_10_9;
+[0;1;32m^
+[0m[1m/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/Processes.h:412:34: [0m[0;1;30mnote: [0mexpanded from macro 'MacGetCurrentProcess'[0m
+    #define MacGetCurrentProcess GetCurrentProcess
+[0;1;32m                                 ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/image_view/main.cpp:52:3: [0m[0;1;35mwarning: [0m[1m'SetFrontProcess' is deprecated: first deprecated in macOS 10.9 [-Wdeprecated-declarations][0m
+  SetFrontProcess(&PSN);
+[0;1;32m  ^
+[0m[1m/System/Library/Frameworks/ApplicationServices.framework/Frameworks/HIServices.framework/Headers/Processes.h:603:1: [0m[0;1;30mnote: [0m'SetFrontProcess' has been explicitly marked deprecated here[0m
+SetFrontProcess(const ProcessSerialNumber * PSN)              AVAILABLE_MAC_OS_X_VERSION_10_0_AND_LATER_BUT_DEPRECATED_IN_MAC_OS_X_VERSION_10_9;
+[0;1;32m^
+[0m2 warnings generated.
+In file included from tool_manager.sip:8:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/tool_manager.h:36:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/pluginlib_factory.h:40:
+In file included from /opt/ros/kinetic/include/pluginlib/class_loader.h:35:
+In file included from /opt/ros/kinetic/include/pluginlib/./class_loader.hpp:350:
+[1m/opt/ros/kinetic/include/pluginlib/./class_loader_imp.hpp:68:26: [0m[0;1;35mwarning: [0m[1mfunction 'catkinFindLib' is not needed and will not be emitted [-Wunneeded-internal-declaration][0m
+std::vector<std::string> catkinFindLib()
+[0;1;32m                         ^
+[0m1 warning generated.
+In file included from tool_manager.sip:8:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/tool_manager.h:36:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/pluginlib_factory.h:40:
+In file included from /opt/ros/kinetic/include/pluginlib/class_loader.h:35:
+In file included from /opt/ros/kinetic/include/pluginlib/./class_loader.hpp:350:
+[1m/opt/ros/kinetic/include/pluginlib/./class_loader_imp.hpp:68:26: [0m[0;1;35mwarning: [0m[1mfunction 'catkinFindLib' is not needed and will not be emitted [-Wunneeded-internal-declaration][0m
+std::vector<std::string> catkinFindLib()
+[0;1;32m                         ^
+[0m1 warning generated.
+In file included from view_manager.sip:8:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/view_manager.h:36:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/pluginlib_factory.h:40:
+In file included from /opt/ros/kinetic/include/pluginlib/class_loader.h:35:
+In file included from /opt/ros/kinetic/include/pluginlib/./class_loader.hpp:350:
+[1m/opt/ros/kinetic/include/pluginlib/./class_loader_imp.hpp:68:26: [0m[0;1;35mwarning: [0m[1mfunction 'catkinFindLib' is not needed and will not be emitted [-Wunneeded-internal-declaration][0m
+std::vector<std::string> catkinFindLib()
+[0;1;32m                         ^
+[0m1 warning generated.
+In file included from view_manager.sip:8:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/view_manager.h:36:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/pluginlib_factory.h:40:
+In file included from /opt/ros/kinetic/include/pluginlib/class_loader.h:35:
+In file included from /opt/ros/kinetic/include/pluginlib/./class_loader.hpp:350:
+[1m/opt/ros/kinetic/include/pluginlib/./class_loader_imp.hpp:68:26: [0m[0;1;35mwarning: [0m[1mfunction 'catkinFindLib' is not needed and will not be emitted [-Wunneeded-internal-declaration][0m
+std::vector<std::string> catkinFindLib()
+[0;1;32m                         ^
+[0m1 warning generated.
+ld: warning: directory not found for option '-F0'
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/default_plugin/map_display.cpp:212:3: [0m[0;1;35mwarning: [0m[1m'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete][0m
+  delete pixels;
+[0;1;32m  ^
+[0m[0;32m        []
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rviz/src/rviz/default_plugin/map_display.cpp:182:27: [0m[0;1;30mnote: [0mallocated with 'new[]' here[0m
+  unsigned char* pixels = new unsigned char[pixels_size];
+[0;1;32m                          ^
+[0m1 warning generated.

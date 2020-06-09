@@ -1,0 +1,375 @@
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_JoyFeedback
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_RelativeHumidity
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_Imu
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_LaserScan
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_PointField
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_FluidPressure
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_ChannelFloat32
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_BatteryState
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_MultiEchoLaserScan
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_NavSatFix
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_PointCloud2
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_Temperature
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_TimeReference
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_JointState
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_Image
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_RegionOfInterest
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_Illuminance
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_MultiDOFJointState
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_PointCloud
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_CompressedImage
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_SetCameraInfo
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_LaserEcho
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_NavSatStatus
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_Joy
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_CameraInfo
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_MagneticField
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_Range
+[  0%] Built target _sensor_msgs_generate_messages_check_deps_JoyFeedbackArray
+[ 19%] Built target sensor_msgs_generate_messages_eus
+[ 19%] Built target std_msgs_generate_messages_nodejs
+[ 19%] Built target geometry_msgs_generate_messages_nodejs
+[ 39%] Built target sensor_msgs_generate_messages_nodejs
+[ 39%] Built target geometry_msgs_generate_messages_lisp
+[ 39%] Built target std_msgs_generate_messages_lisp
+[ 58%] Built target sensor_msgs_generate_messages_lisp
+[ 58%] Built target geometry_msgs_generate_messages_cpp
+[ 58%] Built target std_msgs_generate_messages_cpp
+[ 78%] Built target sensor_msgs_generate_messages_cpp
+[ 78%] Built target std_msgs_generate_messages_py
+[ 78%] Built target geometry_msgs_generate_messages_py
+[100%] Built target sensor_msgs_generate_messages_py
+[100%] Built target sensor_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/common_msgs/sensor_msgs
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/sensor_msgs/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/sensor_msgs /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/common_msgs/sensor_msgs/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/sensor_msgs install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/sensor_msgs/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/sensor_msgs/lib/sensor_msgs
+copying src/sensor_msgs/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/sensor_msgs/lib/sensor_msgs
+copying src/sensor_msgs/point_cloud2.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/sensor_msgs/lib/sensor_msgs
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/sensor_msgs/lib/sensor_msgs/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/sensor_msgs/lib/sensor_msgs/point_cloud2.py -> /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/point_cloud2.py to point_cloud2.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs-1.12.6-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/BatteryState.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/CameraInfo.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/ChannelFloat32.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/CompressedImage.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/FluidPressure.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/Illuminance.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/Image.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/Imu.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/JointState.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/Joy.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/JoyFeedback.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/JoyFeedbackArray.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/LaserEcho.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/LaserScan.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/MagneticField.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/MultiDOFJointState.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/MultiEchoLaserScan.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/NavSatFix.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/NavSatStatus.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/PointCloud.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/PointCloud2.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/PointField.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/Range.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/RegionOfInterest.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/RelativeHumidity.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/Temperature.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/msg/TimeReference.msg
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/srv/SetCameraInfo.srv
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/cmake/sensor_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/sensor_msgs
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/BatteryState.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/CameraInfo.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/ChannelFloat32.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/CompressedImage.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/FluidPressure.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/Illuminance.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/Image.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/Imu.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/JointState.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/Joy.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/JoyFeedback.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/JoyFeedbackArray.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/LaserEcho.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/LaserScan.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/MagneticField.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/MultiDOFJointState.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/MultiEchoLaserScan.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/NavSatFix.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/NavSatStatus.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/PointCloud.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/PointCloud2.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/PointField.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/Range.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/RegionOfInterest.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/RelativeHumidity.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/SetCameraInfo.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/SetCameraInfoRequest.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/SetCameraInfoResponse.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/Temperature.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/TimeReference.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/BatteryState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/CameraInfo.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/ChannelFloat32.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/CompressedImage.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/FluidPressure.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/Illuminance.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/Image.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/Imu.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/JointState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/Joy.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/JoyFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/JoyFeedbackArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/LaserEcho.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/LaserScan.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/MagneticField.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/MultiDOFJointState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/MultiEchoLaserScan.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/NavSatFix.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/NavSatStatus.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/PointCloud.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/PointCloud2.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/PointField.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/Range.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/RegionOfInterest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/RelativeHumidity.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/Temperature.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/msg/TimeReference.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/sensor_msgs/srv/SetCameraInfo.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_BatteryState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_CameraInfo.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_ChannelFloat32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_CompressedImage.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_FluidPressure.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_Illuminance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_Image.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_Imu.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_JointState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_Joy.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_JoyFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_JoyFeedbackArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_LaserEcho.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_LaserScan.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_MagneticField.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_MultiDOFJointState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_MultiEchoLaserScan.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_NavSatFix.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_NavSatStatus.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_PointCloud.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_PointCloud2.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_PointField.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_Range.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_RegionOfInterest.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_RelativeHumidity.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_Temperature.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/_package_TimeReference.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/BatteryState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/CameraInfo.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/ChannelFloat32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/CompressedImage.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/FluidPressure.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/Illuminance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/Image.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/Imu.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/JointState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/Joy.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/JoyFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/JoyFeedbackArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/LaserEcho.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/LaserScan.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/MagneticField.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/MultiDOFJointState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/MultiEchoLaserScan.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/NavSatFix.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/NavSatStatus.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/PointCloud.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/PointCloud2.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/PointField.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/Range.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/RegionOfInterest.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/RelativeHumidity.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/sensor_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/Temperature.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/msg/TimeReference.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/srv/_package_SetCameraInfo.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/srv/sensor_msgs-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/sensor_msgs/srv/SetCameraInfo.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/BatteryState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/CameraInfo.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/ChannelFloat32.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/CompressedImage.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/FluidPressure.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/Illuminance.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/Image.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/Imu.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/JointState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/Joy.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/JoyFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/JoyFeedbackArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/LaserEcho.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/LaserScan.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/MagneticField.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/MultiDOFJointState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/MultiEchoLaserScan.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/NavSatFix.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/NavSatStatus.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/PointCloud.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/PointCloud2.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/PointField.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/Range.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/RegionOfInterest.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/RelativeHumidity.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/Temperature.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/msg/TimeReference.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/sensor_msgs/srv/SetCameraInfo.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_BatteryState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_CameraInfo.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_ChannelFloat32.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_CompressedImage.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_FluidPressure.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_Illuminance.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_Image.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_Imu.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_JointState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_Joy.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_JoyFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_JoyFeedbackArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_LaserEcho.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_LaserScan.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_MagneticField.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_MultiDOFJointState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_MultiEchoLaserScan.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_NavSatFix.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_NavSatStatus.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_PointCloud.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_PointCloud2.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_PointField.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_Range.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_RegionOfInterest.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_RelativeHumidity.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_Temperature.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/_TimeReference.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/srv/_SetCameraInfo.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/sensor_msgs/lib/python2.7/site-packages/sensor_msgs/srv/__init__.py ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_BatteryState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_BatteryState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_CameraInfo.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_CameraInfo.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_ChannelFloat32.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_ChannelFloat32.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_CompressedImage.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_CompressedImage.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_FluidPressure.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_FluidPressure.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Illuminance.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Illuminance.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Image.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Image.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Imu.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Imu.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_JointState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_JointState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Joy.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Joy.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_JoyFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_JoyFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_JoyFeedbackArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_JoyFeedbackArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_LaserEcho.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_LaserEcho.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_LaserScan.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_LaserScan.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_MagneticField.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_MagneticField.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_MultiDOFJointState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_MultiDOFJointState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_MultiEchoLaserScan.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_MultiEchoLaserScan.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_NavSatFix.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_NavSatFix.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_NavSatStatus.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_NavSatStatus.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_PointCloud.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_PointCloud.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_PointCloud2.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_PointCloud2.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_PointField.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_PointField.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Range.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Range.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_RegionOfInterest.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_RegionOfInterest.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_RelativeHumidity.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_RelativeHumidity.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Temperature.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_Temperature.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_TimeReference.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/_TimeReference.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/srv/_SetCameraInfo.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/srv/_SetCameraInfo.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/sensor_msgs/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/sensor_msgs.pc
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/cmake/sensor_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/cmake/sensor_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/cmake/sensor_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/sensor_msgs
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/distortion_models.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/fill_image.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/image_encodings.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/impl
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/impl/point_cloud2_iterator.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/point_cloud2_iterator.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/point_cloud_conversion.h
+-- Installing: /opt/ros/kinetic/include/sensor_msgs/point_field_conversion.h
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/migration_rules
+-- Installing: /opt/ros/kinetic/share/sensor_msgs/migration_rules/sensor_msgs.bmr

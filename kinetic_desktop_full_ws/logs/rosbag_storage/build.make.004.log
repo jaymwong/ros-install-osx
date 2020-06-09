@@ -1,0 +1,2 @@
+[  8%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbag_storage/lib/librosbag_storage.dylib[0m
+[100%] Built target rosbag_storage

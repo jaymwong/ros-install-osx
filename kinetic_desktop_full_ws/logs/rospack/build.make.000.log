@@ -1,0 +1,25 @@
+[35m[1mScanning dependencies of target rospack[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/rospack.dir/src/rospack.cpp.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rospack/src/rospack.cpp:28:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rospack/include/rospack/rospack.h:108:10: [0m[0;1;31mfatal error: [0m[1m'boost/tr1/unordered_set.hpp' file not found[0m
+#include <boost/tr1/unordered_set.hpp>
+[0;1;32m         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ 22%] [32mBuilding CXX object CMakeFiles/rospack.dir/src/rospack_backcompat.cpp.o[0m
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rospack/src/rospack_backcompat.cpp:29:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rospack/include/rospack/rospack.h:108:10: [0m[0;1;31mfatal error: [0m[1m'boost/tr1/unordered_set.hpp' file not found[0m
+#include <boost/tr1/unordered_set.hpp>
+[0;1;32m         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ 33%] [32mBuilding CXX object CMakeFiles/rospack.dir/src/rospack_cmdline.cpp.o[0m
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rospack/src/rospack_cmdline.cpp:28:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rospack/include/rospack/rospack.h:108:10: [0m[0;1;31mfatal error: [0m[1m'boost/tr1/unordered_set.hpp' file not found[0m
+#include <boost/tr1/unordered_set.hpp>
+[0;1;32m         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m1 error generated.
+make[2]: *** [CMakeFiles/rospack.dir/src/rospack.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+1 error generated.
+make[2]: *** [CMakeFiles/rospack.dir/src/rospack_backcompat.cpp.o] Error 1
+1 error generated.
+make[2]: *** [CMakeFiles/rospack.dir/src/rospack_cmdline.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rospack.dir/all] Error 2
+make: *** [all] Error 2

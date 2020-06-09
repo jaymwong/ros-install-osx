@@ -1,0 +1,90 @@
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target _laser_assembler_generate_messages_check_deps_AssembleScans
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _laser_assembler_generate_messages_check_deps_AssembleScans2
+[  7%] Built target laser_assembler_generate_messages_cpp
+[  7%] Built target laser_assembler_gencpp
+[ 14%] Built target dummy_scan_producer
+[ 21%] Built target periodic_snapshotter
+[ 28%] Built target point_cloud2_assembler
+[ 35%] Built target point_cloud_assembler_srv
+[ 42%] Built target laser_scan_assembler
+[ 50%] Built target merge_clouds
+[ 57%] Built target laser_scan_assembler_srv
+[ 57%] Built target std_msgs_generate_messages_lisp
+[ 57%] Built target sensor_msgs_generate_messages_lisp
+[ 64%] Built target laser_assembler_generate_messages_lisp
+[ 64%] Built target std_msgs_generate_messages_nodejs
+[ 64%] Built target sensor_msgs_generate_messages_nodejs
+[ 71%] Built target laser_assembler_generate_messages_nodejs
+[ 71%] Built target std_msgs_generate_messages_eus
+[ 71%] Built target sensor_msgs_generate_messages_eus
+[ 82%] Built target laser_assembler_generate_messages_eus
+[ 82%] Built target std_msgs_generate_messages_py
+[ 82%] Built target sensor_msgs_generate_messages_py
+[ 92%] Built target laser_assembler_generate_messages_py
+[ 92%] Built target laser_assembler_generate_messages
+[100%] Built target point_cloud_assembler
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/laser_assembler/srv/AssembleScans.srv
+-- Up-to-date: /opt/ros/kinetic/share/laser_assembler/srv/AssembleScans2.srv
+-- Up-to-date: /opt/ros/kinetic/share/laser_assembler/cmake/laser_assembler-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler/AssembleScans.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler/AssembleScans2.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler/AssembleScans2Request.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler/AssembleScans2Response.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler/AssembleScansRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler/AssembleScansResponse.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/laser_assembler
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/laser_assembler/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/laser_assembler/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/laser_assembler/srv/AssembleScans.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/laser_assembler/srv/AssembleScans2.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/laser_assembler
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/laser_assembler/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/laser_assembler/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/laser_assembler/srv/_package_AssembleScans.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/laser_assembler/srv/_package_AssembleScans2.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/laser_assembler/srv/AssembleScans.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/laser_assembler/srv/AssembleScans2.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/laser_assembler/srv/laser_assembler-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/laser_assembler
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/laser_assembler/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/laser_assembler/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/laser_assembler/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/laser_assembler/srv/AssembleScans.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/laser_assembler/srv/AssembleScans2.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/python2.7/site-packages/laser_assembler ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/python2.7/site-packages/laser_assembler/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler/srv/_AssembleScans.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler/srv/_AssembleScans.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler/srv/_AssembleScans2.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/laser_assembler/srv/_AssembleScans2.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/laser_assembler.pc
+-- Up-to-date: /opt/ros/kinetic/share/laser_assembler/cmake/laser_assembler-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/laser_assembler/cmake/laser_assemblerConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/laser_assembler/cmake/laser_assemblerConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/laser_assembler/package.xml
+-- Installing: /opt/ros/kinetic/lib/laser_assembler/laser_scan_assembler_srv
+-- Installing: /opt/ros/kinetic/lib/laser_assembler/laser_scan_assembler
+-- Installing: /opt/ros/kinetic/lib/laser_assembler/merge_clouds
+-- Installing: /opt/ros/kinetic/lib/laser_assembler/point_cloud_assembler_srv
+-- Installing: /opt/ros/kinetic/lib/laser_assembler/point_cloud_assembler
+-- Installing: /opt/ros/kinetic/lib/laser_assembler/point_cloud2_assembler
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler/base_assembler.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_assembler/base_assembler_srv.h

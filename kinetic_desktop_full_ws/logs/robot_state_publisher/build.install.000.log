@@ -1,0 +1,28 @@
+[ 33%] Built target robot_state_publisher_solver
+[ 55%] Built target state_publisher
+[ 77%] Built target joint_state_listener
+[100%] Built target robot_state_publisher
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/robot_state_publisher.pc
+-- Installing: /opt/ros/kinetic/share/robot_state_publisher/cmake/robot_state_publisherConfig.cmake
+-- Installing: /opt/ros/kinetic/share/robot_state_publisher/cmake/robot_state_publisherConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/robot_state_publisher/package.xml
+-- Installing: /opt/ros/kinetic/share/robot_state_publisher/test/one_link.urdf
+-- Installing: /opt/ros/kinetic/share/robot_state_publisher/test/pr2.urdf
+-- Installing: /opt/ros/kinetic/share/robot_state_publisher/test/two_links_fixed_joint.urdf
+-- Installing: /opt/ros/kinetic/share/robot_state_publisher/test/two_links_moving_joint.urdf
+-- Installing: /opt/ros/kinetic/lib/librobot_state_publisher_solver.dylib
+-- Installing: /opt/ros/kinetic/lib/libjoint_state_listener.dylib
+-- Installing: /opt/ros/kinetic/lib/robot_state_publisher/robot_state_publisher
+-- Installing: /opt/ros/kinetic/lib/robot_state_publisher/state_publisher
+-- Installing: /opt/ros/kinetic/include/robot_state_publisher
+-- Installing: /opt/ros/kinetic/include/robot_state_publisher/joint_state_listener.h
+-- Installing: /opt/ros/kinetic/include/robot_state_publisher/robot_state_publisher.h
+-- Installing: /opt/ros/kinetic/include/robot_state_publisher/treefksolverposfull_recursive.hpp

@@ -1,0 +1,6 @@
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/libcollada_urdf.dylib
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/collada_urdf/collada_to_urdf
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/collada_urdf/urdf_to_collada
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/collada_urdf.pc
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/collada_urdf/cmake/collada_urdfConfig-version.cmake
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/collada_urdf/cmake/collada_urdfConfig.cmake

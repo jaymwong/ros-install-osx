@@ -1,0 +1,124 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rospy.pc
+-- Installing: /opt/ros/kinetic/share/rospy/cmake/rospyConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rospy/cmake/rospyConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rospy/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rospy
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rospy/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/client.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/core.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/exceptions.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/logger_level_service_caller.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/msg.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/msproxy.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/names.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/numpy_msg.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/rosconsole.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/rostime.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/service.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/timer.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+copying src/rospy/topics.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/init.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/masterslave.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/paramserver.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/registration.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/rosout.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/simtime.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/statistics.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/tcpros.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/tcpros_base.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/tcpros_pubsub.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/tcpros_service.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/transport.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/udpros.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+copying src/rospy/impl/validators.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/scripts-2.7
+copying and adjusting scripts/rosconsole -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/scripts-2.7/rosconsole from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/client.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/core.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/exceptions.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/init.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/masterslave.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/paramserver.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/registration.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/rosout.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/simtime.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/statistics.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/tcpros.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/tcpros_base.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/tcpros_pubsub.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/tcpros_service.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/transport.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/udpros.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/impl/validators.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/logger_level_service_caller.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/msg.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/msproxy.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/names.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/numpy_msg.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/rosconsole.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/rostime.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/service.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/timer.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/lib/rospy/topics.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rospy
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/client.py to client.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/core.py to core.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/exceptions.py to exceptions.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/init.py to init.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/masterslave.py to masterslave.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/paramserver.py to paramserver.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/registration.py to registration.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/rosout.py to rosout.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/simtime.py to simtime.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/statistics.py to statistics.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/tcpros.py to tcpros.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/tcpros_base.py to tcpros_base.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/tcpros_pubsub.py to tcpros_pubsub.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/tcpros_service.py to tcpros_service.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/transport.py to transport.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/udpros.py to udpros.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/impl/validators.py to validators.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/logger_level_service_caller.py to logger_level_service_caller.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/msg.py to msg.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/msproxy.py to msproxy.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/names.py to names.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/numpy_msg.py to numpy_msg.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/rosconsole.py to rosconsole.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/rostime.py to rostime.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/service.py to service.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/timer.py to timer.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rospy/topics.py to topics.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rospy/scripts-2.7/rosconsole -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/rosconsole to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rospy-1.12.14-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rospy/rosbuild/rospy.cmake
+-- Installing: /opt/ros/kinetic/share/rospy/rosbuild/scripts/genmsg_py.py
+-- Installing: /opt/ros/kinetic/share/rospy/rosbuild/scripts/gensrv_py.py
+-- Installing: /opt/ros/kinetic/share/rospy/rosbuild/scripts/genutil.py

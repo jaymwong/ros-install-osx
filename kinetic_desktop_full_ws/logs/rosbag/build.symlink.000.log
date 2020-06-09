@@ -1,0 +1,8 @@
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/bin/rosbag
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/librosbag.dylib
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/rosbag.pc
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/python2.7/site-packages/rosbag/__init__.py
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/rosbag/play
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/rosbag/record
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rosbag/cmake/rosbagConfig-version.cmake
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rosbag/cmake/rosbagConfig.cmake

@@ -1,0 +1,357 @@
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestEmpty
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestTimeArray
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestMultipleResponseFields
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestUInt8FixedSizeArray16
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_SendBytes
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestHeaderArray
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestNestedService
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_AddTwoInts
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestRequestAndResponse
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestMultipleRequestFields
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestArrayRequest
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestResponseOnly
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestUInt8
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_Num
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestHeader
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestHeaderTwo
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestDurationArray
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestRequestOnly
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestChar
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 19%] Built target rosbridge_library_generate_messages_nodejs
+[ 19%] Built target geometry_msgs_generate_messages_py
+[ 19%] Built target std_msgs_generate_messages_py
+[ 40%] Built target rosbridge_library_generate_messages_py
+[ 40%] Built target geometry_msgs_generate_messages_cpp
+[ 40%] Built target std_msgs_generate_messages_cpp
+[ 60%] Built target rosbridge_library_generate_messages_cpp
+[ 60%] Built target geometry_msgs_generate_messages_lisp
+[ 60%] Built target std_msgs_generate_messages_lisp
+[ 79%] Built target rosbridge_library_generate_messages_lisp
+[ 79%] Built target geometry_msgs_generate_messages_eus
+[ 79%] Built target std_msgs_generate_messages_eus
+[100%] Built target rosbridge_library_generate_messages_eus
+[100%] Built target rosbridge_library_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rosbridge_suite/rosbridge_library
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rosbridge_suite/rosbridge_library/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library
+copying src/rosbridge_library/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library
+copying src/rosbridge_library/capability.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library
+copying src/rosbridge_library/protocol.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library
+copying src/rosbridge_library/rosbridge_protocol.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/cbor_conversion.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/exceptions.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/message_conversion.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/outgoing_message.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/pngcompression.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/publishers.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/ros_loader.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/services.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/subscribers.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/subscription_modifiers.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+copying src/rosbridge_library/internal/topics.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/advertise.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/advertise_service.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/call_service.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/defragmentation.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/fragmentation.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/publish.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/service_response.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/subscribe.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+copying src/rosbridge_library/capabilities/unadvertise_service.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/util
+copying src/rosbridge_library/util/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/util
+copying src/rosbridge_library/util/cbor.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/util
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/advertise.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/advertise_service.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/call_service.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/defragmentation.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/fragmentation.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/publish.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/service_response.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/subscribe.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capabilities/unadvertise_service.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/capability.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/cbor_conversion.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/exceptions.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/message_conversion.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/outgoing_message.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/pngcompression.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/publishers.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/ros_loader.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/services.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/subscribers.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/subscription_modifiers.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/internal/topics.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/protocol.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/rosbridge_protocol.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/util
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/util/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/util
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/rosbridge_library/util/cbor.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/util
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/advertise.py to advertise.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/advertise_service.py to advertise_service.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/call_service.py to call_service.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/defragmentation.py to defragmentation.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/fragmentation.py to fragmentation.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/publish.py to publish.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/service_response.py to service_response.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/subscribe.py to subscribe.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capabilities/unadvertise_service.py to unadvertise_service.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/capability.py to capability.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/cbor_conversion.py to cbor_conversion.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/exceptions.py to exceptions.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/message_conversion.py to message_conversion.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/outgoing_message.py to outgoing_message.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/pngcompression.py to pngcompression.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/publishers.py to publishers.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/ros_loader.py to ros_loader.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/services.py to services.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/subscribers.py to subscribers.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/subscription_modifiers.py to subscription_modifiers.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/internal/topics.py to topics.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/protocol.py to protocol.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/rosbridge_protocol.py to rosbridge_protocol.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/util/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/util/cbor.py to cbor.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library-0.10.2-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rosbridge_library/cmake/rosbridge_library-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/rosbridge_library
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/AddTwoInts.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/AddTwoIntsRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/AddTwoIntsResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/Num.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/SendBytes.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/SendBytesRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/SendBytesResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestArrayRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestArrayRequestRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestArrayRequestResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestChar.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestDurationArray.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestEmpty.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestEmptyRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestEmptyResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestHeader.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestHeaderArray.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestHeaderTwo.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestMultipleRequestFields.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestMultipleRequestFieldsRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestMultipleRequestFieldsResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestMultipleResponseFields.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestMultipleResponseFieldsRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestMultipleResponseFieldsResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestNestedService.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestNestedServiceRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestNestedServiceResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestRequestAndResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestRequestAndResponseRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestRequestAndResponseResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestRequestOnly.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestRequestOnlyRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestRequestOnlyResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestResponseOnly.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestResponseOnlyRequest.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestResponseOnlyResponse.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestTimeArray.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestUInt8.h
+-- Installing: /opt/ros/kinetic/include/rosbridge_library/TestUInt8FixedSizeArray16.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/Num.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestChar.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestDurationArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestHeader.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestHeaderArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestHeaderTwo.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestTimeArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestUInt8.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestUInt8FixedSizeArray16.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/AddTwoInts.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/SendBytes.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestArrayRequest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestEmpty.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestMultipleRequestFields.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestMultipleResponseFields.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestNestedService.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestRequestAndResponse.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestRequestOnly.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestResponseOnly.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_Num.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestChar.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestDurationArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestHeader.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestHeaderArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestHeaderTwo.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestTimeArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestUInt8.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestUInt8FixedSizeArray16.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/Num.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/rosbridge_library-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestChar.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestDurationArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestHeader.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestHeaderArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestHeaderTwo.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestTimeArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestUInt8.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestUInt8FixedSizeArray16.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_AddTwoInts.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_SendBytes.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestArrayRequest.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestEmpty.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestMultipleRequestFields.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestMultipleResponseFields.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestNestedService.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestRequestAndResponse.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestRequestOnly.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestResponseOnly.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/AddTwoInts.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/rosbridge_library-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/SendBytes.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestArrayRequest.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestEmpty.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestMultipleRequestFields.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestMultipleResponseFields.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestNestedService.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestRequestAndResponse.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestRequestOnly.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestResponseOnly.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/Num.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestChar.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestDurationArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestHeader.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestHeaderArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestHeaderTwo.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestTimeArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestUInt8.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestUInt8FixedSizeArray16.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/AddTwoInts.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/SendBytes.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestArrayRequest.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestEmpty.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestMultipleRequestFields.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestMultipleResponseFields.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestNestedService.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestRequestAndResponse.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestRequestOnly.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestResponseOnly.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/_Num.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/_TestChar.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/_TestDurationArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeader.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderTwo.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/_TestTimeArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8FixedSizeArray16.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_AddTwoInts.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_SendBytes.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_TestArrayRequest.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_TestEmpty.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleRequestFields.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleResponseFields.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_TestNestedService.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestAndResponse.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestOnly.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/_TestResponseOnly.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv/__init__.py ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_Num.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_Num.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestChar.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestChar.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestDurationArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestDurationArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeader.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeader.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderTwo.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderTwo.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestTimeArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestTimeArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8FixedSizeArray16.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8FixedSizeArray16.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_AddTwoInts.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_AddTwoInts.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_SendBytes.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_SendBytes.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestArrayRequest.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestArrayRequest.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestEmpty.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestEmpty.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleRequestFields.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleRequestFields.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleResponseFields.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleResponseFields.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestNestedService.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestNestedService.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestAndResponse.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestAndResponse.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestOnly.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestOnly.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestResponseOnly.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestResponseOnly.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rosbridge_library.pc
+-- Installing: /opt/ros/kinetic/share/rosbridge_library/cmake/rosbridge_library-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/rosbridge_library/cmake/rosbridge_libraryConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rosbridge_library/cmake/rosbridge_libraryConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rosbridge_library/package.xml

@@ -1,0 +1,12 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/media_export.pc
+-- Up-to-date: /opt/ros/kinetic/share/media_export/cmake/media_exportConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/media_export/cmake/media_exportConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/media_export/package.xml

@@ -1,0 +1,17 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _stereo_msgs_generate_messages_check_deps_DisparityImage
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[ 14%] Built target stereo_msgs_generate_messages_nodejs
+[ 28%] Built target stereo_msgs_generate_messages_lisp
+[ 42%] Built target stereo_msgs_generate_messages_cpp
+[ 71%] Built target stereo_msgs_generate_messages_eus
+[100%] Built target stereo_msgs_generate_messages_py
+[100%] Built target stereo_msgs_generate_messages

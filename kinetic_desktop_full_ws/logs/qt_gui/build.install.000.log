@@ -1,0 +1,154 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/qt_gui.pc
+-- Installing: /opt/ros/kinetic/share/qt_gui/cmake/qt_guiConfig.cmake
+-- Installing: /opt/ros/kinetic/share/qt_gui/cmake/qt_guiConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/qt_gui/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/qt_gui_core/qt_gui
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/qt_gui_core/qt_gui/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/about_handler.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/application_context.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/application_dbus_interface.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/composite_plugin_provider.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/container_manager.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/dock_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/dock_widget_container.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/dock_widget_title_bar.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/dockable_main_window.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/errors.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/help_provider.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/icon_loader.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/main.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/main_window.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/menu_manager.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/minimized_dock_widgets_toolbar.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/perspective_manager.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/perspective_manager_dbus_interface.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_context.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_descriptor.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_handler.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_handler_container.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_handler_dbus_service.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_handler_direct.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_handler_xembed.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_handler_xembed_client.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_handler_xembed_container.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_instance_id.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_manager.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_manager_dbus_interface.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_menu.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/plugin_provider.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/recursive_plugin_provider.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/reload_importer.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/reparent_event.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/ros_package_helper.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/settings.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/settings_proxy.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/settings_proxy_dbus_service.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+copying src/qt_gui/window_changed_signaler.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/about_handler.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/application_context.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/application_dbus_interface.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/composite_plugin_provider.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/container_manager.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/dock_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/dock_widget_container.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/dock_widget_title_bar.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/dockable_main_window.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/errors.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/help_provider.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/icon_loader.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/main.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/main_window.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/menu_manager.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/minimized_dock_widgets_toolbar.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/perspective_manager.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/perspective_manager_dbus_interface.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_context.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_descriptor.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_handler.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_handler_container.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_handler_dbus_service.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_handler_direct.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_handler_xembed.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_handler_xembed_client.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_handler_xembed_container.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_instance_id.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_manager.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_manager_dbus_interface.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_menu.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/plugin_provider.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/recursive_plugin_provider.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/reload_importer.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/reparent_event.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/ros_package_helper.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/settings.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/settings_proxy.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/settings_proxy_dbus_service.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_gui/lib/qt_gui/window_changed_signaler.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/about_handler.py to about_handler.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/application_context.py to application_context.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/application_dbus_interface.py to application_dbus_interface.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/composite_plugin_provider.py to composite_plugin_provider.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/container_manager.py to container_manager.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/dock_widget.py to dock_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/dock_widget_container.py to dock_widget_container.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/dock_widget_title_bar.py to dock_widget_title_bar.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/dockable_main_window.py to dockable_main_window.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/errors.py to errors.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/help_provider.py to help_provider.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/icon_loader.py to icon_loader.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/main.py to main.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/main_window.py to main_window.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/menu_manager.py to menu_manager.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/minimized_dock_widgets_toolbar.py to minimized_dock_widgets_toolbar.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/perspective_manager.py to perspective_manager.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/perspective_manager_dbus_interface.py to perspective_manager_dbus_interface.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin.py to plugin.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_context.py to plugin_context.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_descriptor.py to plugin_descriptor.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_handler.py to plugin_handler.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_handler_container.py to plugin_handler_container.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_handler_dbus_service.py to plugin_handler_dbus_service.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_handler_direct.py to plugin_handler_direct.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_handler_xembed.py to plugin_handler_xembed.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_handler_xembed_client.py to plugin_handler_xembed_client.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_handler_xembed_container.py to plugin_handler_xembed_container.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_instance_id.py to plugin_instance_id.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_manager.py to plugin_manager.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_manager_dbus_interface.py to plugin_manager_dbus_interface.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_menu.py to plugin_menu.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/plugin_provider.py to plugin_provider.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/recursive_plugin_provider.py to recursive_plugin_provider.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/reload_importer.py to reload_importer.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/reparent_event.py to reparent_event.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/ros_package_helper.py to ros_package_helper.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/settings.py to settings.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/settings_proxy.py to settings_proxy.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/settings_proxy_dbus_service.py to settings_proxy_dbus_service.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui/window_changed_signaler.py to window_changed_signaler.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/qt_gui-0.3.11-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/qt_gui/resource
+-- Installing: /opt/ros/kinetic/share/qt_gui/resource/dock_widget_title_bar.ui
+-- Installing: /opt/ros/kinetic/share/qt_gui/resource/perspective_create.ui
+-- Installing: /opt/ros/kinetic/share/qt_gui/resource/ros_org_vertical.png

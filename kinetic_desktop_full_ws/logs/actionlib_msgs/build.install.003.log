@@ -1,0 +1,75 @@
+[  0%] Built target _actionlib_msgs_generate_messages_check_deps_GoalID
+[  0%] Built target _actionlib_msgs_generate_messages_check_deps_GoalStatusArray
+[  0%] Built target _actionlib_msgs_generate_messages_check_deps_GoalStatus
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 17%] Built target actionlib_msgs_generate_messages_cpp
+[ 17%] Built target std_msgs_generate_messages_py
+[ 41%] Built target actionlib_msgs_generate_messages_py
+[ 41%] Built target std_msgs_generate_messages_lisp
+[ 58%] Built target actionlib_msgs_generate_messages_lisp
+[ 58%] Built target std_msgs_generate_messages_eus
+[ 82%] Built target actionlib_msgs_generate_messages_eus
+[ 82%] Built target std_msgs_generate_messages_nodejs
+[100%] Built target actionlib_msgs_generate_messages_nodejs
+[100%] Built target actionlib_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/msg/GoalID.msg
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/msg/GoalStatus.msg
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/msg/GoalStatusArray.msg
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgs-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/actionlib_msgs
+-- Up-to-date: /opt/ros/kinetic/include/actionlib_msgs/GoalID.h
+-- Up-to-date: /opt/ros/kinetic/include/actionlib_msgs/GoalStatus.h
+-- Up-to-date: /opt/ros/kinetic/include/actionlib_msgs/GoalStatusArray.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/msg/GoalID.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/msg/GoalStatus.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/msg/GoalStatusArray.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/_package_GoalID.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/_package_GoalStatus.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/_package_GoalStatusArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/actionlib_msgs-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/GoalID.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/GoalStatus.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/GoalStatusArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg/GoalID.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg/GoalStatus.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg/GoalStatusArray.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_msgs/lib/python2.7/site-packages/actionlib_msgs ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_msgs/lib/python2.7/site-packages/actionlib_msgs/msg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalID.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalID.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatus.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatus.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatusArray.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatusArray.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/actionlib_msgs.pc
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgs-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgs-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/package.xml
+-- Up-to-date: /opt/ros/kinetic/lib/actionlib_msgs/genaction.py
+-- Up-to-date: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionbuild.cmake

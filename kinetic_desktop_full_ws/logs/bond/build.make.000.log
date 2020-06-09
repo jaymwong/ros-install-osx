@@ -1,0 +1,38 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _bond_generate_messages_check_deps_Status[0m
+[  0%] Built target _bond_generate_messages_check_deps_Status
+[35m[1mScanning dependencies of target _bond_generate_messages_check_deps_Constants[0m
+[  0%] Built target _bond_generate_messages_check_deps_Constants
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[  8%] [34m[1mGenerating C++ code from bond/Constants.msg[0m
+[ 16%] [34m[1mGenerating C++ code from bond/Status.msg[0m
+[ 16%] Built target bond_generate_messages_cpp
+[35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[ 25%] [34m[1mGenerating Lisp code from bond/Constants.msg[0m
+[ 33%] [34m[1mGenerating Lisp code from bond/Status.msg[0m
+[ 33%] Built target bond_generate_messages_lisp
+[35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[ 41%] [34m[1mGenerating EusLisp code from bond/Constants.msg[0m
+[ 50%] [34m[1mGenerating EusLisp code from bond/Status.msg[0m
+[ 58%] [34m[1mGenerating EusLisp manifest code for bond[0m
+[ 58%] Built target bond_generate_messages_eus
+[35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[ 66%] [34m[1mGenerating Python from MSG bond/Constants[0m
+[ 75%] [34m[1mGenerating Python from MSG bond/Status[0m
+[ 83%] [34m[1mGenerating Python msg __init__.py for bond[0m
+[ 83%] Built target bond_generate_messages_py
+[35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[ 91%] [34m[1mGenerating Javascript code from bond/Constants.msg[0m
+[100%] [34m[1mGenerating Javascript code from bond/Status.msg[0m
+[100%] Built target bond_generate_messages_nodejs
+[35m[1mScanning dependencies of target bond_generate_messages[0m
+[100%] Built target bond_generate_messages

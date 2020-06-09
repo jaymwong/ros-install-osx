@@ -1,0 +1,26 @@
+[ 20%] Built target image_publisher_gencfg
+[ 60%] Built target image_publisher
+[100%] Built target image_publisher_exe
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/include/image_publisher/ImagePublisherConfig.h
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_publisher/__init__.py
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_publisher/lib/python2.7/site-packages/image_publisher/cfg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_publisher/cfg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_publisher/cfg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_publisher/cfg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_publisher/cfg/ImagePublisherConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_publisher/cfg/ImagePublisherConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/image_publisher.pc
+-- Up-to-date: /opt/ros/kinetic/share/image_publisher/cmake/image_publisherConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/image_publisher/cmake/image_publisherConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/image_publisher/package.xml
+-- Installing: /opt/ros/kinetic/lib/libimage_publisher.dylib
+-- Installing: /opt/ros/kinetic/lib/image_publisher/image_publisher
+-- Up-to-date: /opt/ros/kinetic/share/image_publisher/nodelet_plugins.xml

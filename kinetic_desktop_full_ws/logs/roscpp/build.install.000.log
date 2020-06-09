@@ -1,0 +1,187 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _roscpp_generate_messages_check_deps_Logger
+[  0%] Built target _roscpp_generate_messages_check_deps_Empty
+[  0%] Built target _roscpp_generate_messages_check_deps_GetLoggers
+[  0%] Built target _roscpp_generate_messages_check_deps_SetLoggerLevel
+[  8%] Built target roscpp_generate_messages_py
+[ 13%] Built target roscpp_generate_messages_nodejs
+[ 19%] Built target roscpp_generate_messages_lisp
+[ 26%] Built target roscpp_generate_messages_eus
+[ 26%] Built target _catkin_empty_exported_target
+[ 26%] Built target std_msgs_generate_messages_lisp
+[ 31%] Built target roscpp_generate_messages_cpp
+[ 31%] Built target std_msgs_generate_messages_py
+[ 31%] Built target std_msgs_generate_messages_eus
+[ 31%] Built target rosgraph_msgs_generate_messages_py
+[ 31%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 31%] Built target std_msgs_generate_messages_cpp
+[ 31%] Built target rosgraph_msgs_generate_messages_lisp
+[ 31%] Built target rosgraph_msgs_generate_messages_eus
+[ 31%] Built target rosgraph_msgs_generate_messages_cpp
+[100%] Built target roscpp
+[100%] Built target roscpp_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/roscpp/msg/Logger.msg
+-- Installing: /opt/ros/kinetic/share/roscpp/srv/Empty.srv
+-- Installing: /opt/ros/kinetic/share/roscpp/srv/GetLoggers.srv
+-- Installing: /opt/ros/kinetic/share/roscpp/srv/SetLoggerLevel.srv
+-- Installing: /opt/ros/kinetic/share/roscpp/cmake/roscpp-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/roscpp
+-- Installing: /opt/ros/kinetic/include/roscpp/Empty.h
+-- Installing: /opt/ros/kinetic/include/roscpp/EmptyRequest.h
+-- Installing: /opt/ros/kinetic/include/roscpp/EmptyResponse.h
+-- Installing: /opt/ros/kinetic/include/roscpp/GetLoggers.h
+-- Installing: /opt/ros/kinetic/include/roscpp/GetLoggersRequest.h
+-- Installing: /opt/ros/kinetic/include/roscpp/GetLoggersResponse.h
+-- Installing: /opt/ros/kinetic/include/roscpp/Logger.h
+-- Installing: /opt/ros/kinetic/include/roscpp/SetLoggerLevel.h
+-- Installing: /opt/ros/kinetic/include/roscpp/SetLoggerLevelRequest.h
+-- Installing: /opt/ros/kinetic/include/roscpp/SetLoggerLevelResponse.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/roscpp
+-- Installing: /opt/ros/kinetic/share/roseus/ros/roscpp/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/roscpp/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/roscpp/msg/Logger.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/roscpp/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/roscpp/srv/Empty.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/roscpp/srv/GetLoggers.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/roscpp/srv/SetLoggerLevel.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg/_package_Logger.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg/Logger.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg/roscpp-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/_package_Empty.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/_package_GetLoggers.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/_package_SetLoggerLevel.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/Empty.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/GetLoggers.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/roscpp-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/SetLoggerLevel.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp/msg/Logger.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv/Empty.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv/GetLoggers.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv/SetLoggerLevel.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/msg/_Logger.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/srv/_Empty.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/srv/_GetLoggers.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/srv/_SetLoggerLevel.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/srv/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg/_Logger.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg/_Logger.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_Empty.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_Empty.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_GetLoggers.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_GetLoggers.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_SetLoggerLevel.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_SetLoggerLevel.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/roscpp.pc
+-- Installing: /opt/ros/kinetic/share/roscpp/cmake/roscpp-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/roscpp/cmake/roscppConfig.cmake
+-- Installing: /opt/ros/kinetic/share/roscpp/cmake/roscppConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/roscpp/package.xml
+-- Installing: /opt/ros/kinetic/lib/libroscpp.dylib
+-- Up-to-date: /opt/ros/kinetic/include
+-- Installing: /opt/ros/kinetic/include/boost_161_condition_variable.h
+-- Installing: /opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
+-- Installing: /opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
+-- Up-to-date: /opt/ros/kinetic/include/ros
+-- Installing: /opt/ros/kinetic/include/ros/advertise_options.h
+-- Installing: /opt/ros/kinetic/include/ros/advertise_service_options.h
+-- Installing: /opt/ros/kinetic/include/ros/callback_queue.h
+-- Installing: /opt/ros/kinetic/include/ros/callback_queue_interface.h
+-- Installing: /opt/ros/kinetic/include/ros/connection.h
+-- Installing: /opt/ros/kinetic/include/ros/connection_manager.h
+-- Installing: /opt/ros/kinetic/include/ros/exceptions.h
+-- Installing: /opt/ros/kinetic/include/ros/file_log.h
+-- Installing: /opt/ros/kinetic/include/ros/forwards.h
+-- Installing: /opt/ros/kinetic/include/ros/init.h
+-- Installing: /opt/ros/kinetic/include/ros/internal_timer_manager.h
+-- Installing: /opt/ros/kinetic/include/ros/intraprocess_publisher_link.h
+-- Installing: /opt/ros/kinetic/include/ros/intraprocess_subscriber_link.h
+-- Installing: /opt/ros/kinetic/include/ros/io.h
+-- Installing: /opt/ros/kinetic/include/ros/master.h
+-- Installing: /opt/ros/kinetic/include/ros/message.h
+-- Installing: /opt/ros/kinetic/include/ros/message_deserializer.h
+-- Installing: /opt/ros/kinetic/include/ros/names.h
+-- Installing: /opt/ros/kinetic/include/ros/network.h
+-- Installing: /opt/ros/kinetic/include/ros/node_handle.h
+-- Installing: /opt/ros/kinetic/include/ros/param.h
+-- Installing: /opt/ros/kinetic/include/ros/parameter_adapter.h
+-- Installing: /opt/ros/kinetic/include/ros/poll_manager.h
+-- Installing: /opt/ros/kinetic/include/ros/poll_set.h
+-- Installing: /opt/ros/kinetic/include/ros/publication.h
+-- Installing: /opt/ros/kinetic/include/ros/publisher.h
+-- Installing: /opt/ros/kinetic/include/ros/publisher_link.h
+-- Installing: /opt/ros/kinetic/include/ros/ros.h
+-- Installing: /opt/ros/kinetic/include/ros/rosout_appender.h
+-- Installing: /opt/ros/kinetic/include/ros/service.h
+-- Installing: /opt/ros/kinetic/include/ros/service_callback_helper.h
+-- Installing: /opt/ros/kinetic/include/ros/service_client.h
+-- Installing: /opt/ros/kinetic/include/ros/service_client_link.h
+-- Installing: /opt/ros/kinetic/include/ros/service_client_options.h
+-- Installing: /opt/ros/kinetic/include/ros/service_manager.h
+-- Installing: /opt/ros/kinetic/include/ros/service_publication.h
+-- Installing: /opt/ros/kinetic/include/ros/service_server.h
+-- Installing: /opt/ros/kinetic/include/ros/service_server_link.h
+-- Installing: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
+-- Installing: /opt/ros/kinetic/include/ros/spinner.h
+-- Installing: /opt/ros/kinetic/include/ros/statistics.h
+-- Installing: /opt/ros/kinetic/include/ros/steady_timer.h
+-- Installing: /opt/ros/kinetic/include/ros/steady_timer_options.h
+-- Installing: /opt/ros/kinetic/include/ros/subscribe_options.h
+-- Installing: /opt/ros/kinetic/include/ros/subscriber.h
+-- Installing: /opt/ros/kinetic/include/ros/subscriber_link.h
+-- Installing: /opt/ros/kinetic/include/ros/subscription.h
+-- Installing: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
+-- Installing: /opt/ros/kinetic/include/ros/subscription_queue.h
+-- Installing: /opt/ros/kinetic/include/ros/this_node.h
+-- Installing: /opt/ros/kinetic/include/ros/timer.h
+-- Installing: /opt/ros/kinetic/include/ros/timer_manager.h
+-- Installing: /opt/ros/kinetic/include/ros/timer_options.h
+-- Installing: /opt/ros/kinetic/include/ros/topic.h
+-- Installing: /opt/ros/kinetic/include/ros/topic_manager.h
+-- Installing: /opt/ros/kinetic/include/ros/transport
+-- Installing: /opt/ros/kinetic/include/ros/transport/transport.h
+-- Installing: /opt/ros/kinetic/include/ros/transport/transport_tcp.h
+-- Installing: /opt/ros/kinetic/include/ros/transport/transport_udp.h
+-- Installing: /opt/ros/kinetic/include/ros/transport_hints.h
+-- Installing: /opt/ros/kinetic/include/ros/transport_publisher_link.h
+-- Installing: /opt/ros/kinetic/include/ros/transport_subscriber_link.h
+-- Installing: /opt/ros/kinetic/include/ros/wall_timer.h
+-- Installing: /opt/ros/kinetic/include/ros/wall_timer_options.h
+-- Installing: /opt/ros/kinetic/include/ros/xmlrpc_manager.h
+-- Installing: /opt/ros/kinetic/include/ros/common.h
+-- Installing: /opt/ros/kinetic/share/roscpp/rosbuild/roscpp.cmake
+-- Installing: /opt/ros/kinetic/share/roscpp/rosbuild/scripts/genmsg_cpp.py
+-- Installing: /opt/ros/kinetic/share/roscpp/rosbuild/scripts/gensrv_cpp.py
+-- Installing: /opt/ros/kinetic/share/roscpp/rosbuild/scripts/msg_gen.py

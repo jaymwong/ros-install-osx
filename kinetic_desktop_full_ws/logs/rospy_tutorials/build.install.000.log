@@ -1,0 +1,129 @@
+[  0%] Built target _rospy_tutorials_generate_messages_check_deps_Floats
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _rospy_tutorials_generate_messages_check_deps_HeaderString
+[  0%] Built target _rospy_tutorials_generate_messages_check_deps_BadTwoInts
+[  0%] Built target _rospy_tutorials_generate_messages_check_deps_AddTwoInts
+[ 26%] Built target rospy_tutorials_generate_messages_py
+[ 26%] Built target std_msgs_generate_messages_lisp
+[ 43%] Built target rospy_tutorials_generate_messages_lisp
+[ 43%] Built target std_msgs_generate_messages_eus
+[ 65%] Built target rospy_tutorials_generate_messages_eus
+[ 65%] Built target std_msgs_generate_messages_nodejs
+[ 82%] Built target rospy_tutorials_generate_messages_nodejs
+[ 82%] Built target std_msgs_generate_messages_cpp
+[100%] Built target rospy_tutorials_generate_messages_cpp
+[100%] Built target rospy_tutorials_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/msg/Floats.msg
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/msg/HeaderString.msg
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/srv/AddTwoInts.srv
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/srv/BadTwoInts.srv
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/cmake/rospy_tutorials-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/rospy_tutorials
+-- Installing: /opt/ros/kinetic/include/rospy_tutorials/AddTwoInts.h
+-- Installing: /opt/ros/kinetic/include/rospy_tutorials/AddTwoIntsRequest.h
+-- Installing: /opt/ros/kinetic/include/rospy_tutorials/AddTwoIntsResponse.h
+-- Installing: /opt/ros/kinetic/include/rospy_tutorials/BadTwoInts.h
+-- Installing: /opt/ros/kinetic/include/rospy_tutorials/BadTwoIntsRequest.h
+-- Installing: /opt/ros/kinetic/include/rospy_tutorials/BadTwoIntsResponse.h
+-- Installing: /opt/ros/kinetic/include/rospy_tutorials/Floats.h
+-- Installing: /opt/ros/kinetic/include/rospy_tutorials/HeaderString.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/msg/Floats.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/msg/HeaderString.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/srv/AddTwoInts.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/srv/BadTwoInts.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/_package_Floats.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/_package_HeaderString.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/Floats.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/HeaderString.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/rospy_tutorials-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/_package_AddTwoInts.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/_package_BadTwoInts.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/AddTwoInts.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/BadTwoInts.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/rospy_tutorials-srv.asd
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/msg/Floats.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/msg/HeaderString.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/srv/AddTwoInts.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/srv/BadTwoInts.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/msg/_Floats.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/msg/_HeaderString.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/srv/_AddTwoInts.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/srv/_BadTwoInts.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/srv/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/_Floats.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/_Floats.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/_HeaderString.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/_HeaderString.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/_AddTwoInts.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/_AddTwoInts.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/_BadTwoInts.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/_BadTwoInts.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rospy_tutorials.pc
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/cmake/rospy_tutorials-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/cmake/rospy_tutorialsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/cmake/rospy_tutorialsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/package.xml
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/listener
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/listener.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/talker
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/talker.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/README
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/talker_listener.launch
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/002_headers/listener_header.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/002_headers/talker_header.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/002_headers/headers.launch
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/003_listener_with_user_data/listener_with_user_data.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/003_listener_with_user_data/listener_with_user_data.launch
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/004_listener_subscribe_notify/listener_subscribe_notify.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/004_listener_subscribe_notify/listener_subscribe_notify.launch
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/005_add_two_ints/add_two_ints_client
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/005_add_two_ints/add_two_ints_server
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/006_parameters/param_talker.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/006_parameters/param_talker.launch
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/client_connection_header.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/listener_connection_header.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/server_connection_header.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/talker_connection_header.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/connection_header.launch
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/README
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/008_on_shutdown/publish_on_shutdown.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/008_on_shutdown/on_shutdown.launch
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/009_advanced_publish/advanced_publish.py
+-- Installing: /opt/ros/kinetic/share/rospy_tutorials/009_advanced_publish/advanced_publish.launch

@@ -1,0 +1,104 @@
+Checking md5sum on /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/perception_pcl/pcl_ros/samples/data/table_scene_lms400.pcd
+[  0%] Built target table_scene_lms400.pcd
+[  1%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/pointcloud_to_pcd[0m
+[  3%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/convert_pointcloud_to_image[0m
+[  4%] Built target pointcloud_to_pcd
+[  4%] Built target topic_tools_generate_messages_cpp
+[  4%] Built target tf2_msgs_generate_messages_lisp
+[  4%] Built target tf2_msgs_generate_messages_eus
+[  4%] Built target tf2_msgs_generate_messages_cpp
+[  4%] Built target actionlib_msgs_generate_messages_eus
+[  6%] Built target convert_pointcloud_to_image
+[  6%] Built target actionlib_msgs_generate_messages_nodejs
+[  6%] Built target actionlib_msgs_generate_messages_lisp
+[  6%] Built target actionlib_msgs_generate_messages_cpp
+[  6%] Built target actionlib_generate_messages_nodejs
+[  6%] Built target std_msgs_generate_messages_eus
+[  6%] Built target actionlib_generate_messages_eus
+[  6%] Built target tf_generate_messages_cpp
+[  6%] Built target topic_tools_generate_messages_py
+[  6%] Built target topic_tools_generate_messages_eus
+[  6%] Built target std_srvs_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_cpp
+[  6%] Built target std_srvs_generate_messages_cpp
+[  6%] Built target tf2_msgs_generate_messages_nodejs
+[  6%] Built target tf_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_py
+[  6%] Built target pcl_msgs_generate_messages_lisp
+[  6%] Built target topic_tools_generate_messages_nodejs
+[  6%] Built target sensor_msgs_generate_messages_nodejs
+[  6%] Built target sensor_msgs_generate_messages_lisp
+[  6%] Built target dynamic_reconfigure_generate_messages_lisp
+[  6%] Built target pcl_msgs_generate_messages_nodejs
+[  6%] Built target nodelet_topic_tools_gencfg
+[  6%] Built target sensor_msgs_generate_messages_cpp
+[  6%] Built target rosgraph_msgs_generate_messages_nodejs
+[  6%] Built target tf_generate_messages_lisp
+[  6%] Built target rosgraph_msgs_generate_messages_cpp
+[  6%] Built target std_msgs_generate_messages_nodejs
+[  6%] Built target std_srvs_generate_messages_lisp
+[  6%] Built target rosgraph_msgs_generate_messages_eus
+[  6%] Built target std_srvs_generate_messages_eus
+[  6%] Built target roscpp_generate_messages_py
+[  6%] Built target actionlib_msgs_generate_messages_py
+[  6%] Built target dynamic_reconfigure_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_lisp
+[  6%] Built target sensor_msgs_generate_messages_py
+[  6%] Built target topic_tools_generate_messages_lisp
+[  6%] Built target roscpp_generate_messages_nodejs
+[  6%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  6%] Built target roscpp_generate_messages_lisp
+[  6%] Built target nodelet_generate_messages_py
+[  6%] Built target pcl_msgs_generate_messages_eus
+[  6%] Built target roscpp_generate_messages_cpp
+[  6%] Built target tf_generate_messages_nodejs
+[  6%] Built target bond_generate_messages_py
+[  6%] Built target nodelet_generate_messages_eus
+[  6%] Built target tf2_msgs_generate_messages_py
+[  6%] Built target pcl_msgs_generate_messages_cpp
+[  6%] Built target nodelet_generate_messages_nodejs
+[  6%] Built target bond_generate_messages_nodejs
+[  6%] Built target tf_generate_messages_eus
+[  6%] Built target bond_generate_messages_cpp
+[  6%] Built target bond_generate_messages_eus
+[  6%] Built target actionlib_generate_messages_lisp
+[  6%] Built target roscpp_generate_messages_eus
+[  6%] Built target nodelet_generate_messages_cpp
+[  6%] Built target pcl_msgs_generate_messages_py
+[  6%] Built target std_msgs_generate_messages_lisp
+[  6%] Built target std_msgs_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_nodejs
+[  6%] Built target rosgraph_msgs_generate_messages_lisp
+[  6%] Built target bond_generate_messages_lisp
+[  6%] Built target dynamic_reconfigure_gencfg
+[  6%] Built target std_srvs_generate_messages_nodejs
+[  6%] Built target std_msgs_generate_messages_cpp
+[  6%] Built target sensor_msgs_generate_messages_eus
+[  6%] Built target actionlib_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_eus
+[  6%] Built target actionlib_generate_messages_cpp
+[  6%] Built target rosgraph_msgs_generate_messages_py
+[  6%] Built target dynamic_reconfigure_generate_messages_eus
+[  6%] Built target nodelet_generate_messages_lisp
+[  6%] Built target dynamic_reconfigure_generate_messages_cpp
+[ 26%] Built target pcl_ros_gencfg
+[ 26%] Built target download_extra_data
+[ 30%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/convert_pcd_to_image[0m
+[ 30%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/pcd_to_pointcloud[0m
+[ 31%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_tf.dylib[0m
+[ 33%] Built target pcd_to_pointcloud
+[ 34%] Built target convert_pcd_to_image
+[ 34%] Built target download
+[ 36%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_surface.dylib[0m
+[ 38%] Built target pcl_ros_tf
+[ 42%] Built target pcl_ros_surface
+[ 44%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_io.dylib[0m
+[ 52%] Built target pcl_ros_io
+[ 53%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_segmentation.dylib[0m
+[ 55%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_features.dylib[0m
+[ 57%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/bag_to_pcd[0m
+[ 58%] Built target bag_to_pcd
+[ 77%] Built target pcl_ros_features
+[ 85%] Built target pcl_ros_segmentation
+[ 87%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_filters.dylib[0m
+[100%] Built target pcl_ros_filters

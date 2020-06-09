@@ -1,0 +1,48 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rqt_bag_plugins.pc
+-- Installing: /opt/ros/kinetic/share/rqt_bag_plugins/cmake/rqt_bag_pluginsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_bag_plugins/cmake/rqt_bag_pluginsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_bag_plugins/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_bag/rqt_bag_plugins
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_bag/rqt_bag_plugins/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins
+copying src/rqt_bag_plugins/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins
+copying src/rqt_bag_plugins/image_helper.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins
+copying src/rqt_bag_plugins/image_plugin.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins
+copying src/rqt_bag_plugins/image_timeline_renderer.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins
+copying src/rqt_bag_plugins/image_view.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins
+copying src/rqt_bag_plugins/plot_plugin.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins
+copying src/rqt_bag_plugins/plot_view.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins/image_helper.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins/image_plugin.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins/image_timeline_renderer.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins/image_view.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins/plot_plugin.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_bag_plugins/lib/rqt_bag_plugins/plot_view.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins/image_helper.py to image_helper.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins/image_plugin.py to image_plugin.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins/image_timeline_renderer.py to image_timeline_renderer.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins/image_view.py to image_view.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins/plot_plugin.py to plot_plugin.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins/plot_view.py to plot_view.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rqt_bag_plugins-0.4.12-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rqt_bag_plugins/plugin.xml
+-- Installing: /opt/ros/kinetic/share/rqt_bag_plugins/resource
+-- Installing: /opt/ros/kinetic/share/rqt_bag_plugins/resource/plot.ui

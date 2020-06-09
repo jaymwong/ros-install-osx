@@ -1,0 +1,7 @@
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/kdl_parser/kdl_parser/src/check_kdl_parser.cpp:64:5: [0m[0;1;35mwarning: [0m[1mbool literal returned from 'main' [-Wmain][0m
+    return false;
+[0;1;32m    ^      ~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/kdl_parser/kdl_parser/src/check_kdl_parser.cpp:70:5: [0m[0;1;35mwarning: [0m[1mbool literal returned from 'main' [-Wmain][0m
+    return false;
+[0;1;32m    ^      ~~~~~
+[0m2 warnings generated.

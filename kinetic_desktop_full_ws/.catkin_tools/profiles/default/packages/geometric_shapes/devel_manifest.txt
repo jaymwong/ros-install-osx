@@ -1,0 +1,5 @@
+geometric_shapes
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometric_shapes/lib/libgeometric_shapes.dylib /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/libgeometric_shapes.dylib
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometric_shapes/lib/pkgconfig/geometric_shapes.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/geometric_shapes.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometric_shapes/share/geometric_shapes/cmake/geometric_shapesConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/geometric_shapes/cmake/geometric_shapesConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometric_shapes/share/geometric_shapes/cmake/geometric_shapesConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/geometric_shapes/cmake/geometric_shapesConfig.cmake

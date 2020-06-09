@@ -1,0 +1,34 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rosparam.pc
+-- Installing: /opt/ros/kinetic/share/rosparam/cmake/rosparamConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rosparam/cmake/rosparamConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rosparam/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rosparam
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rosparam/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam/lib/rosparam
+copying src/rosparam/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam/lib/rosparam
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam/scripts-2.7
+copying and adjusting scripts/rosparam -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam/scripts-2.7/rosparam from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosparam
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam/lib/rosparam/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosparam
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosparam/__init__.py to __init__.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosparam/scripts-2.7/rosparam -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/rosparam to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rosparam-1.12.14-py2.7.egg-info

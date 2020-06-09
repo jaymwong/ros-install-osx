@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target plugin_tool[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/plugin_tool.dir/src/plugin_tool.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pluginlib/lib/pluginlib/plugin_tool[0m
+[100%] Built target plugin_tool

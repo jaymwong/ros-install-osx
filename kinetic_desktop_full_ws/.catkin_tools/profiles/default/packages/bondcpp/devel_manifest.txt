@@ -1,0 +1,5 @@
+bond_core/bondcpp
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/bondcpp/lib/libbondcpp.dylib /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/libbondcpp.dylib
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/bondcpp/lib/pkgconfig/bondcpp.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/bondcpp.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/bondcpp/share/bondcpp/cmake/bondcppConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/bondcpp/cmake/bondcppConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/bondcpp/share/bondcpp/cmake/bondcppConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/bondcpp/cmake/bondcppConfig.cmake

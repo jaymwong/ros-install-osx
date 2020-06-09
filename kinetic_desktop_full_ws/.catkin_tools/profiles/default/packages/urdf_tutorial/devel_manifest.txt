@@ -1,0 +1,4 @@
+urdf_tutorial/urdf_tutorial
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf_tutorial/lib/pkgconfig/urdf_tutorial.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/urdf_tutorial.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake

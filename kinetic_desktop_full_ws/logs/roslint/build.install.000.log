@@ -1,0 +1,42 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/roslint.pc
+-- Installing: /opt/ros/kinetic/share/roslint/cmake/roslint-extras.cmake
+-- Installing: /opt/ros/kinetic/share/roslint/cmake/roslintConfig.cmake
+-- Installing: /opt/ros/kinetic/share/roslint/cmake/roslintConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/roslint/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/roslint
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/wizard/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/tbt/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-externals/devel/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/roslint/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/roslint
+copying src/roslint/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/roslint
+copying src/roslint/cpplint.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/roslint
+copying src/roslint/cpplint_wrapper.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/roslint
+copying src/roslint/pep8.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/roslint
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/roslint
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/roslint/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslint
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/roslint/cpplint.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslint
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/roslint/cpplint_wrapper.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslint
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslint/lib/roslint/pep8.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslint
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslint/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslint/cpplint.py to cpplint.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslint/cpplint_wrapper.py to cpplint_wrapper.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslint/pep8.py to pep8.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/roslint-0.11.0-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/roslint/cpplint
+-- Installing: /opt/ros/kinetic/lib/roslint/pep8
+-- Installing: /opt/ros/kinetic/lib/roslint/test_wrapper
+-- Up-to-date: /opt/ros/kinetic/share/roslint/cmake
+-- Installing: /opt/ros/kinetic/share/roslint/cmake/roslint-extras.cmake.em

@@ -1,0 +1,42 @@
+[ 56%] Built target stage
+[ 60%] Built target stagebinary
+[ 63%] Built target fasr
+[ 67%] Built target pioneer_flocking
+[ 70%] Built target dynamic
+[ 74%] Built target lasernoise
+[ 75%] [32mBuilding CXX object examples/ctrl/CMakeFiles/fasr2.dir/fasr2.o[0m
+[ 79%] Built target rasterize
+[ 81%] [32mBuilding CXX object examples/ctrl/CMakeFiles/fasr2.dir/astar/findpath.o[0m
+[ 82%] [32mBuilding CXX object examples/ctrl/CMakeFiles/wander.dir/wander.o[0m
+[ 84%] [32mBuilding CXX object examples/ctrl/CMakeFiles/source.dir/source.o[0m
+[ 86%] [32mBuilding CXX object examples/ctrl/CMakeFiles/sink.dir/sink.o[0m
+[ 87%] [32mBuilding CXX object worlds/benchmark/CMakeFiles/expand_pioneer.dir/expand_pioneer.o[0m
+[ 89%] [32mBuilding CXX object worlds/benchmark/CMakeFiles/expand_swarm.dir/expand_swarm.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:205:10: [0m[0;1;35mwarning: [0m[1mprivate field 'pool_zone' is not used [-Wunused-private-field][0m
+  Model* pool_zone;
+[0;1;32m         ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:206:19: [0m[0;1;35mwarning: [0m[1mprivate field 'randcount' is not used [-Wunused-private-field][0m
+  int avoidcount, randcount;
+[0;1;32m                  ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:207:7: [0m[0;1;35mwarning: [0m[1mprivate field 'work_get' is not used [-Wunused-private-field][0m
+  int work_get, work_put;
+[0;1;32m      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:207:17: [0m[0;1;35mwarning: [0m[1mprivate field 'work_put' is not used [-Wunused-private-field][0m
+  int work_get, work_put;
+[0;1;32m                ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:230:16: [0m[0;1;35mwarning: [0m[1mprivate field 'node_interval_countdown' is not used [-Wunused-private-field][0m
+  unsigned int node_interval_countdown;
+[0;1;32m               ^
+[ 91%] [32m[1mLinking CXX shared module wander.so[0m
+[ 93%] [32m[1mLinking CXX shared module sink.so[0m
+[ 93%] Built target wander
+[0m5 warnings generated.
+[ 93%] Built target sink
+[ 94%] [32m[1mLinking CXX shared module fasr2.so[0m
+[ 96%] [32m[1mLinking CXX shared module source.so[0m
+[ 96%] Built target fasr2
+[ 96%] Built target source
+[ 98%] [32m[1mLinking CXX shared module expand_pioneer.so[0m
+[ 98%] Built target expand_pioneer
+[100%] [32m[1mLinking CXX shared module expand_swarm.so[0m
+[100%] Built target expand_swarm

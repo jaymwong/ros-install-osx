@@ -1,0 +1,21 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rosbash.pc
+-- Installing: /opt/ros/kinetic/share/rosbash/cmake/rosbashConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rosbash/cmake/rosbashConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rosbash/package.xml
+-- Installing: /opt/ros/kinetic/share/rosbash/rosbash
+-- Installing: /opt/ros/kinetic/share/rosbash/rosfish
+-- Installing: /opt/ros/kinetic/share/rosbash/rostcsh
+-- Installing: /opt/ros/kinetic/share/rosbash/roszsh
+-- Installing: /opt/ros/kinetic/bin/rosrun
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/15.rosbash.bash
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/15.rosbash.fish
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/15.rosbash.tcsh
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/15.rosbash.zsh

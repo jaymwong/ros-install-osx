@@ -1,0 +1,167 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _map_msgs_generate_messages_check_deps_GetMapROI
+[  0%] Built target _map_msgs_generate_messages_check_deps_ProjectedMapInfo
+[  0%] Built target _map_msgs_generate_messages_check_deps_GetPointMap
+[  0%] Built target _map_msgs_generate_messages_check_deps_PointCloud2Update
+[  0%] Built target _map_msgs_generate_messages_check_deps_ProjectedMap
+[  0%] Built target _map_msgs_generate_messages_check_deps_GetPointMapROI
+[  0%] Built target _map_msgs_generate_messages_check_deps_ProjectedMapsInfo
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target _map_msgs_generate_messages_check_deps_SaveMap
+[  0%] Built target _map_msgs_generate_messages_check_deps_OccupancyGridUpdate
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target _map_msgs_generate_messages_check_deps_SetMapProjections
+[ 18%] Built target map_msgs_generate_messages_nodejs
+[ 18%] Built target sensor_msgs_generate_messages_eus
+[ 18%] Built target std_msgs_generate_messages_eus
+[ 18%] Built target nav_msgs_generate_messages_eus
+[ 39%] Built target map_msgs_generate_messages_eus
+[ 39%] Built target std_msgs_generate_messages_lisp
+[ 39%] Built target sensor_msgs_generate_messages_lisp
+[ 39%] Built target nav_msgs_generate_messages_lisp
+[ 58%] Built target map_msgs_generate_messages_lisp
+[ 58%] Built target std_msgs_generate_messages_cpp
+[ 58%] Built target nav_msgs_generate_messages_cpp
+[ 58%] Built target sensor_msgs_generate_messages_cpp
+[ 77%] Built target map_msgs_generate_messages_cpp
+[ 77%] Built target sensor_msgs_generate_messages_py
+[ 77%] Built target nav_msgs_generate_messages_py
+[ 77%] Built target std_msgs_generate_messages_py
+[100%] Built target map_msgs_generate_messages_py
+[100%] Built target map_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/msg/OccupancyGridUpdate.msg
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/msg/PointCloud2Update.msg
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/msg/ProjectedMapInfo.msg
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/msg/ProjectedMap.msg
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/srv/GetMapROI.srv
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/srv/GetPointMapROI.srv
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/srv/GetPointMap.srv
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/srv/ProjectedMapsInfo.srv
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/srv/SaveMap.srv
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/srv/SetMapProjections.srv
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/cmake/map_msgs-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/GetMapROI.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/GetMapROIRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/GetMapROIResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/GetPointMap.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/GetPointMapRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/GetPointMapResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/GetPointMapROI.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/GetPointMapROIRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/GetPointMapROIResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/OccupancyGridUpdate.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/PointCloud2Update.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/ProjectedMap.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/ProjectedMapInfo.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/ProjectedMapsInfo.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/ProjectedMapsInfoRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/ProjectedMapsInfoResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/SaveMap.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/SaveMapRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/SaveMapResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/SetMapProjections.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/SetMapProjectionsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/map_msgs/SetMapProjectionsResponse.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/msg/OccupancyGridUpdate.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/msg/PointCloud2Update.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/msg/ProjectedMap.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/msg/ProjectedMapInfo.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/srv/GetMapROI.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/srv/GetPointMap.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/srv/GetPointMapROI.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/srv/ProjectedMapsInfo.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/srv/SaveMap.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/map_msgs/srv/SetMapProjections.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/_package_OccupancyGridUpdate.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/_package_PointCloud2Update.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/_package_ProjectedMap.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/_package_ProjectedMapInfo.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/map_msgs-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/OccupancyGridUpdate.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/PointCloud2Update.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/ProjectedMap.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/msg/ProjectedMapInfo.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/_package_GetMapROI.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/_package_GetPointMap.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/_package_GetPointMapROI.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/_package_ProjectedMapsInfo.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/_package_SaveMap.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/_package_SetMapProjections.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/GetMapROI.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/GetPointMap.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/GetPointMapROI.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/map_msgs-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/ProjectedMapsInfo.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/SaveMap.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/map_msgs/srv/SetMapProjections.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/msg/OccupancyGridUpdate.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/msg/PointCloud2Update.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/msg/ProjectedMap.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/msg/ProjectedMapInfo.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/srv/GetMapROI.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/srv/GetPointMap.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/srv/GetPointMapROI.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/srv/ProjectedMapsInfo.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/srv/SaveMap.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/map_msgs/srv/SetMapProjections.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/map_msgs/lib/python2.7/site-packages/map_msgs ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/map_msgs/lib/python2.7/site-packages/map_msgs/msg ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/map_msgs/lib/python2.7/site-packages/map_msgs/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/_OccupancyGridUpdate.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/_OccupancyGridUpdate.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/_PointCloud2Update.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/_PointCloud2Update.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/_ProjectedMap.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/_ProjectedMap.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/_ProjectedMapInfo.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/msg/_ProjectedMapInfo.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_GetMapROI.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_GetMapROI.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_GetPointMap.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_GetPointMap.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_GetPointMapROI.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_GetPointMapROI.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_ProjectedMapsInfo.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_ProjectedMapsInfo.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_SaveMap.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_SaveMap.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_SetMapProjections.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/map_msgs/srv/_SetMapProjections.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/map_msgs.pc
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/cmake/map_msgs-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/cmake/map_msgsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/cmake/map_msgsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/map_msgs/package.xml

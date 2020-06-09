@@ -1,0 +1,675 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The CXX compiler identification is AppleClang 9.0.0.9000038
+[36m--[0m The C compiler identification is AppleClang 9.0.0.9000038
+[36m--[0m Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+[36m--[0m Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+[36m--[0m Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Performing Test HAVE_CXX11 (check file: cmake/checks/cxx11.cpp)
+[36m--[0m Performing Test HAVE_CXX11 - Failed
+[36m--[0m Found PythonInterp: /usr/local/bin/python2 (found suitable version "2.7.15", minimum required is "2.7")
+[36m--[0m Found PythonLibs: /usr/local/Cellar/python@@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/libpython2.7.dylib (found suitable exact version "2.7.15")
+[36m--[0m Found PythonInterp: /usr/local/bin/python3 (found suitable version "3.7", minimum required is "3.4")
+[36m--[0m Found PythonLibs: /usr/local/Frameworks/Python.framework/Versions/3.7/lib/libpython3.7m.dylib (found suitable exact version "3.7.0")
+Error in sitecustomize; set PYTHONVERBOSE for traceback:
+AttributeError: module 'enum' has no attribute 'IntFlag'
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/distutils/sysconfig.py", line 14, in <module>
+    import re
+  File "/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/re.py", line 143, in <module>
+    class RegexFlag(enum.IntFlag):
+AttributeError: module 'enum' has no attribute 'IntFlag'
+Error in sitecustomize; set PYTHONVERBOSE for traceback:
+AttributeError: module 'enum' has no attribute 'IntFlag'
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/numpy/core/__init__.py", line 16, in <module>
+    from . import multiarray
+ImportError: dlopen(/usr/local/lib/python2.7/site-packages/numpy/core/multiarray.so, 2): Symbol not found: _PyBuffer_Type
+  Referenced from: /usr/local/lib/python2.7/site-packages/numpy/core/multiarray.so
+  Expected in: flat namespace
+ in /usr/local/lib/python2.7/site-packages/numpy/core/multiarray.so
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/usr/local/lib/python2.7/site-packages/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "/usr/local/lib/python2.7/site-packages/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/usr/local/lib/python2.7/site-packages/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/usr/local/lib/python2.7/site-packages/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/usr/local/lib/python2.7/site-packages/numpy/core/__init__.py", line 26, in <module>
+    raise ImportError(msg)
+ImportError:
+Importing the multiarray numpy extension module failed.  Most
+likely you are trying to import a failed build of numpy.
+If you're working with a numpy git repo, try `git clean -xdf` (removes all
+files not under version control).  Otherwise reinstall numpy.
+
+Original error was: dlopen(/usr/local/lib/python2.7/site-packages/numpy/core/multiarray.so, 2): Symbol not found: _PyBuffer_Type
+  Referenced from: /usr/local/lib/python2.7/site-packages/numpy/core/multiarray.so
+  Expected in: flat namespace
+ in /usr/local/lib/python2.7/site-packages/numpy/core/multiarray.so
+
+[36m--[0m Looking for ccache - not found
+[36m--[0m Performing Test HAVE_CXX_FSIGNED_CHAR
+[36m--[0m Performing Test HAVE_CXX_FSIGNED_CHAR - Success
+[36m--[0m Performing Test HAVE_C_FSIGNED_CHAR
+[36m--[0m Performing Test HAVE_C_FSIGNED_CHAR - Success
+[36m--[0m Performing Test HAVE_CXX_W
+[36m--[0m Performing Test HAVE_CXX_W - Success
+[36m--[0m Performing Test HAVE_C_W
+[36m--[0m Performing Test HAVE_C_W - Success
+[36m--[0m Performing Test HAVE_CXX_WALL
+[36m--[0m Performing Test HAVE_CXX_WALL - Success
+[36m--[0m Performing Test HAVE_C_WALL
+[36m--[0m Performing Test HAVE_C_WALL - Success
+[36m--[0m Performing Test HAVE_CXX_WERROR_RETURN_TYPE
+[36m--[0m Performing Test HAVE_CXX_WERROR_RETURN_TYPE - Success
+[36m--[0m Performing Test HAVE_C_WERROR_RETURN_TYPE
+[36m--[0m Performing Test HAVE_C_WERROR_RETURN_TYPE - Success
+[36m--[0m Performing Test HAVE_CXX_WERROR_NON_VIRTUAL_DTOR
+[36m--[0m Performing Test HAVE_CXX_WERROR_NON_VIRTUAL_DTOR - Success
+[36m--[0m Performing Test HAVE_C_WERROR_NON_VIRTUAL_DTOR
+[36m--[0m Performing Test HAVE_C_WERROR_NON_VIRTUAL_DTOR - Success
+[36m--[0m Performing Test HAVE_CXX_WERROR_ADDRESS
+[36m--[0m Performing Test HAVE_CXX_WERROR_ADDRESS - Success
+[36m--[0m Performing Test HAVE_C_WERROR_ADDRESS
+[36m--[0m Performing Test HAVE_C_WERROR_ADDRESS - Success
+[36m--[0m Performing Test HAVE_CXX_WERROR_SEQUENCE_POINT
+[36m--[0m Performing Test HAVE_CXX_WERROR_SEQUENCE_POINT - Success
+[36m--[0m Performing Test HAVE_C_WERROR_SEQUENCE_POINT
+[36m--[0m Performing Test HAVE_C_WERROR_SEQUENCE_POINT - Success
+[36m--[0m Performing Test HAVE_CXX_WFORMAT
+[36m--[0m Performing Test HAVE_CXX_WFORMAT - Success
+[36m--[0m Performing Test HAVE_C_WFORMAT
+[36m--[0m Performing Test HAVE_C_WFORMAT - Success
+[36m--[0m Performing Test HAVE_CXX_WERROR_FORMAT_SECURITY
+[36m--[0m Performing Test HAVE_CXX_WERROR_FORMAT_SECURITY - Success
+[36m--[0m Performing Test HAVE_C_WERROR_FORMAT_SECURITY
+[36m--[0m Performing Test HAVE_C_WERROR_FORMAT_SECURITY - Success
+[36m--[0m Performing Test HAVE_CXX_WMISSING_DECLARATIONS
+[36m--[0m Performing Test HAVE_CXX_WMISSING_DECLARATIONS - Success
+[36m--[0m Performing Test HAVE_C_WMISSING_DECLARATIONS
+[36m--[0m Performing Test HAVE_C_WMISSING_DECLARATIONS - Success
+[36m--[0m Performing Test HAVE_CXX_WMISSING_PROTOTYPES
+[36m--[0m Performing Test HAVE_CXX_WMISSING_PROTOTYPES - Success
+[36m--[0m Performing Test HAVE_C_WMISSING_PROTOTYPES
+[36m--[0m Performing Test HAVE_C_WMISSING_PROTOTYPES - Success
+[36m--[0m Performing Test HAVE_CXX_WSTRICT_PROTOTYPES
+[36m--[0m Performing Test HAVE_CXX_WSTRICT_PROTOTYPES - Success
+[36m--[0m Performing Test HAVE_C_WSTRICT_PROTOTYPES
+[36m--[0m Performing Test HAVE_C_WSTRICT_PROTOTYPES - Success
+[36m--[0m Performing Test HAVE_CXX_WUNDEF
+[36m--[0m Performing Test HAVE_CXX_WUNDEF - Success
+[36m--[0m Performing Test HAVE_C_WUNDEF
+[36m--[0m Performing Test HAVE_C_WUNDEF - Success
+[36m--[0m Performing Test HAVE_CXX_WINIT_SELF
+[36m--[0m Performing Test HAVE_CXX_WINIT_SELF - Success
+[36m--[0m Performing Test HAVE_C_WINIT_SELF
+[36m--[0m Performing Test HAVE_C_WINIT_SELF - Success
+[36m--[0m Performing Test HAVE_CXX_WPOINTER_ARITH
+[36m--[0m Performing Test HAVE_CXX_WPOINTER_ARITH - Success
+[36m--[0m Performing Test HAVE_C_WPOINTER_ARITH
+[36m--[0m Performing Test HAVE_C_WPOINTER_ARITH - Success
+[36m--[0m Performing Test HAVE_CXX_WSHADOW
+[36m--[0m Performing Test HAVE_CXX_WSHADOW - Success
+[36m--[0m Performing Test HAVE_C_WSHADOW
+[36m--[0m Performing Test HAVE_C_WSHADOW - Success
+[36m--[0m Performing Test HAVE_CXX_WSIGN_PROMO
+[36m--[0m Performing Test HAVE_CXX_WSIGN_PROMO - Success
+[36m--[0m Performing Test HAVE_C_WSIGN_PROMO
+[36m--[0m Performing Test HAVE_C_WSIGN_PROMO - Success
+[36m--[0m Performing Test HAVE_CXX_WUNINITIALIZED
+[36m--[0m Performing Test HAVE_CXX_WUNINITIALIZED - Success
+[36m--[0m Performing Test HAVE_C_WUNINITIALIZED
+[36m--[0m Performing Test HAVE_C_WUNINITIALIZED - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_NARROWING
+[36m--[0m Performing Test HAVE_CXX_WNO_NARROWING - Success
+[36m--[0m Performing Test HAVE_C_WNO_NARROWING
+[36m--[0m Performing Test HAVE_C_WNO_NARROWING - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_DELETE_NON_VIRTUAL_DTOR
+[36m--[0m Performing Test HAVE_CXX_WNO_DELETE_NON_VIRTUAL_DTOR - Success
+[36m--[0m Performing Test HAVE_C_WNO_DELETE_NON_VIRTUAL_DTOR
+[36m--[0m Performing Test HAVE_C_WNO_DELETE_NON_VIRTUAL_DTOR - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_UNNAMED_TYPE_TEMPLATE_ARGS
+[36m--[0m Performing Test HAVE_CXX_WNO_UNNAMED_TYPE_TEMPLATE_ARGS - Success
+[36m--[0m Performing Test HAVE_C_WNO_UNNAMED_TYPE_TEMPLATE_ARGS
+[36m--[0m Performing Test HAVE_C_WNO_UNNAMED_TYPE_TEMPLATE_ARGS - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_COMMENT
+[36m--[0m Performing Test HAVE_CXX_WNO_COMMENT - Success
+[36m--[0m Performing Test HAVE_C_WNO_COMMENT
+[36m--[0m Performing Test HAVE_C_WNO_COMMENT - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_IMPLICIT_FALLTHROUGH
+[36m--[0m Performing Test HAVE_CXX_WNO_IMPLICIT_FALLTHROUGH - Success
+[36m--[0m Performing Test HAVE_C_WNO_IMPLICIT_FALLTHROUGH
+[36m--[0m Performing Test HAVE_C_WNO_IMPLICIT_FALLTHROUGH - Success
+[36m--[0m Performing Test HAVE_CXX_FDIAGNOSTICS_SHOW_OPTION
+[36m--[0m Performing Test HAVE_CXX_FDIAGNOSTICS_SHOW_OPTION - Success
+[36m--[0m Performing Test HAVE_C_FDIAGNOSTICS_SHOW_OPTION
+[36m--[0m Performing Test HAVE_C_FDIAGNOSTICS_SHOW_OPTION - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_LONG_LONG
+[36m--[0m Performing Test HAVE_CXX_WNO_LONG_LONG - Success
+[36m--[0m Performing Test HAVE_C_WNO_LONG_LONG
+[36m--[0m Performing Test HAVE_C_WNO_LONG_LONG - Success
+[36m--[0m Performing Test HAVE_CXX_QUNUSED_ARGUMENTS
+[36m--[0m Performing Test HAVE_CXX_QUNUSED_ARGUMENTS - Success
+[36m--[0m Performing Test HAVE_C_QUNUSED_ARGUMENTS
+[36m--[0m Performing Test HAVE_C_QUNUSED_ARGUMENTS - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_SEMICOLON_BEFORE_METHOD_BODY
+[36m--[0m Performing Test HAVE_CXX_WNO_SEMICOLON_BEFORE_METHOD_BODY - Success
+[36m--[0m Performing Test HAVE_C_WNO_SEMICOLON_BEFORE_METHOD_BODY
+[36m--[0m Performing Test HAVE_C_WNO_SEMICOLON_BEFORE_METHOD_BODY - Success
+[36m--[0m Performing Test HAVE_CXX_FFUNCTION_SECTIONS
+[36m--[0m Performing Test HAVE_CXX_FFUNCTION_SECTIONS - Success
+[36m--[0m Performing Test HAVE_C_FFUNCTION_SECTIONS
+[36m--[0m Performing Test HAVE_C_FFUNCTION_SECTIONS - Success
+[36m--[0m Performing Test HAVE_CXX_FDATA_SECTIONS
+[36m--[0m Performing Test HAVE_CXX_FDATA_SECTIONS - Success
+[36m--[0m Performing Test HAVE_C_FDATA_SECTIONS
+[36m--[0m Performing Test HAVE_C_FDATA_SECTIONS - Success
+[36m--[0m Performing Test HAVE_CXX_MSSE (check file: cmake/checks/cpu_sse.cpp)
+[36m--[0m Performing Test HAVE_CXX_MSSE - Success
+[36m--[0m Performing Test HAVE_CXX_MSSE2 (check file: cmake/checks/cpu_sse2.cpp)
+[36m--[0m Performing Test HAVE_CXX_MSSE2 - Success
+[36m--[0m Performing Test HAVE_CXX_MSSE3 (check file: cmake/checks/cpu_sse3.cpp)
+[36m--[0m Performing Test HAVE_CXX_MSSE3 - Success
+[36m--[0m Performing Test HAVE_CXX_MSSSE3 (check file: cmake/checks/cpu_ssse3.cpp)
+[36m--[0m Performing Test HAVE_CXX_MSSSE3 - Success
+[36m--[0m Performing Test HAVE_CXX_MSSE4_1 (check file: cmake/checks/cpu_sse41.cpp)
+[36m--[0m Performing Test HAVE_CXX_MSSE4_1 - Success
+[36m--[0m Performing Test HAVE_CXX_MPOPCNT (check file: cmake/checks/cpu_popcnt.cpp)
+[36m--[0m Performing Test HAVE_CXX_MPOPCNT - Success
+[36m--[0m Performing Test HAVE_CXX_MSSE4_2 (check file: cmake/checks/cpu_sse42.cpp)
+[36m--[0m Performing Test HAVE_CXX_MSSE4_2 - Success
+[36m--[0m Performing Test HAVE_CXX_MF16C (check file: cmake/checks/cpu_fp16.cpp)
+[36m--[0m Performing Test HAVE_CXX_MF16C - Success
+[36m--[0m Performing Test HAVE_CXX_MFMA
+[36m--[0m Performing Test HAVE_CXX_MFMA - Success
+[36m--[0m Performing Test HAVE_CXX_MAVX (check file: cmake/checks/cpu_avx.cpp)
+[36m--[0m Performing Test HAVE_CXX_MAVX - Success
+[36m--[0m Performing Test HAVE_CXX_MAVX2 (check file: cmake/checks/cpu_avx2.cpp)
+[36m--[0m Performing Test HAVE_CXX_MAVX2 - Success
+[36m--[0m Performing Test HAVE_CPU_BASELINE_FLAGS
+[36m--[0m Performing Test HAVE_CPU_BASELINE_FLAGS - Success
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_SSE4_1
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_SSE4_1 - Success
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_SSE4_2
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_SSE4_2 - Success
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_FP16
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_FP16 - Success
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_AVX
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_AVX - Success
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_AVX2
+[36m--[0m Performing Test HAVE_CPU_DISPATCH_FLAGS_AVX2 - Success
+[36m--[0m Performing Test HAVE_CXX_FVISIBILITY_HIDDEN
+[36m--[0m Performing Test HAVE_CXX_FVISIBILITY_HIDDEN - Success
+[36m--[0m Performing Test HAVE_C_FVISIBILITY_HIDDEN
+[36m--[0m Performing Test HAVE_C_FVISIBILITY_HIDDEN - Success
+[36m--[0m Performing Test HAVE_CXX_FVISIBILITY_INLINES_HIDDEN
+[36m--[0m Performing Test HAVE_CXX_FVISIBILITY_INLINES_HIDDEN - Success
+[36m--[0m Performing Test HAVE_C_FVISIBILITY_INLINES_HIDDEN
+[36m--[0m Performing Test HAVE_C_FVISIBILITY_INLINES_HIDDEN - Success
+[36m--[0m Looking for posix_memalign
+[36m--[0m Looking for posix_memalign - found
+[36m--[0m Looking for malloc.h
+[36m--[0m Looking for malloc.h - not found
+[36m--[0m Check if the system is big endian
+[36m--[0m Searching 16 bit integer
+[36m--[0m Looking for sys/types.h
+[36m--[0m Looking for sys/types.h - found
+[36m--[0m Looking for stdint.h
+[36m--[0m Looking for stdint.h - found
+[36m--[0m Looking for stddef.h
+[36m--[0m Looking for stddef.h - found
+[36m--[0m Check size of unsigned short
+[36m--[0m Check size of unsigned short - done
+[36m--[0m Using unsigned short
+[36m--[0m Check if the system is big endian - little endian
+[36m--[0m Looking for fseeko
+[36m--[0m Looking for fseeko - found
+[36m--[0m Looking for unistd.h
+[36m--[0m Looking for unistd.h - found
+[36m--[0m Check size of off64_t
+[36m--[0m Check size of off64_t - failed
+[36m--[0m Performing Test HAVE_C_WNO_SHORTEN_64_TO_32
+[36m--[0m Performing Test HAVE_C_WNO_SHORTEN_64_TO_32 - Success
+[36m--[0m Performing Test HAVE_C_WNO_ATTRIBUTES
+[36m--[0m Performing Test HAVE_C_WNO_ATTRIBUTES - Success
+[36m--[0m Performing Test HAVE_C_WNO_STRICT_PROTOTYPES
+[36m--[0m Performing Test HAVE_C_WNO_STRICT_PROTOTYPES - Success
+[36m--[0m Performing Test HAVE_C_WNO_MISSING_PROTOTYPES
+[36m--[0m Performing Test HAVE_C_WNO_MISSING_PROTOTYPES - Success
+[36m--[0m Performing Test HAVE_C_WNO_MISSING_DECLARATIONS
+[36m--[0m Performing Test HAVE_C_WNO_MISSING_DECLARATIONS - Success
+[36m--[0m Performing Test HAVE_C_WNO_SHIFT_NEGATIVE_VALUE
+[36m--[0m Performing Test HAVE_C_WNO_SHIFT_NEGATIVE_VALUE - Success
+[36m--[0m Performing Test HAVE_C_WNO_UNDEF
+[36m--[0m Performing Test HAVE_C_WNO_UNDEF - Success
+[36m--[0m Performing Test HAVE_C_WNO_CAST_ALIGN
+[36m--[0m Performing Test HAVE_C_WNO_CAST_ALIGN - Success
+[36m--[0m Performing Test HAVE_C_WNO_SHADOW
+[36m--[0m Performing Test HAVE_C_WNO_SHADOW - Success
+[36m--[0m Performing Test HAVE_C_WNO_UNUSED
+[36m--[0m Performing Test HAVE_C_WNO_UNUSED - Success
+[36m--[0m Performing Test HAVE_C_WNO_UNUSED_PARAMETER
+[36m--[0m Performing Test HAVE_C_WNO_UNUSED_PARAMETER - Success
+[36m--[0m Looking for assert.h
+[36m--[0m Looking for assert.h - found
+[36m--[0m Looking for dlfcn.h
+[36m--[0m Looking for dlfcn.h - found
+[36m--[0m Looking for fcntl.h
+[36m--[0m Looking for fcntl.h - found
+[36m--[0m Looking for inttypes.h
+[36m--[0m Looking for inttypes.h - found
+[36m--[0m Looking for io.h
+[36m--[0m Looking for io.h - not found
+[36m--[0m Looking for limits.h
+[36m--[0m Looking for limits.h - found
+[36m--[0m Looking for memory.h
+[36m--[0m Looking for memory.h - found
+[36m--[0m Looking for search.h
+[36m--[0m Looking for search.h - found
+[36m--[0m Looking for string.h
+[36m--[0m Looking for string.h - found
+[36m--[0m Looking for strings.h
+[36m--[0m Looking for strings.h - found
+[36m--[0m Looking for sys/time.h
+[36m--[0m Looking for sys/time.h - found
+[36m--[0m Looking for unistd.h
+[36m--[0m Looking for unistd.h - found
+[36m--[0m Performing Test C_HAS_inline
+[36m--[0m Performing Test C_HAS_inline - Success
+[36m--[0m Check size of signed short
+[36m--[0m Check size of signed short - done
+[36m--[0m Check size of unsigned short
+[36m--[0m Check size of unsigned short - done
+[36m--[0m Check size of signed int
+[36m--[0m Check size of signed int - done
+[36m--[0m Check size of unsigned int
+[36m--[0m Check size of unsigned int - done
+[36m--[0m Check size of signed long
+[36m--[0m Check size of signed long - done
+[36m--[0m Check size of unsigned long
+[36m--[0m Check size of unsigned long - done
+[36m--[0m Check size of signed long long
+[36m--[0m Check size of signed long long - done
+[36m--[0m Check size of unsigned long long
+[36m--[0m Check size of unsigned long long - done
+[36m--[0m Check size of unsigned char *
+[36m--[0m Check size of unsigned char * - done
+[36m--[0m Check size of size_t
+[36m--[0m Check size of size_t - done
+[36m--[0m Check size of ptrdiff_t
+[36m--[0m Check size of ptrdiff_t - done
+[36m--[0m Check size of INT8
+[36m--[0m Check size of INT8 - failed
+[36m--[0m Check size of INT16
+[36m--[0m Check size of INT16 - failed
+[36m--[0m Check size of INT32
+[36m--[0m Check size of INT32 - failed
+[36m--[0m Looking for floor
+[36m--[0m Looking for floor - found
+[36m--[0m Looking for pow
+[36m--[0m Looking for pow - found
+[36m--[0m Looking for sqrt
+[36m--[0m Looking for sqrt - found
+[36m--[0m Looking for isascii
+[36m--[0m Looking for isascii - found
+[36m--[0m Looking for memset
+[36m--[0m Looking for memset - found
+[36m--[0m Looking for mmap
+[36m--[0m Looking for mmap - found
+[36m--[0m Looking for getopt
+[36m--[0m Looking for getopt - found
+[36m--[0m Looking for memmove
+[36m--[0m Looking for memmove - found
+[36m--[0m Looking for setmode
+[36m--[0m Looking for setmode - found
+[36m--[0m Looking for strcasecmp
+[36m--[0m Looking for strcasecmp - found
+[36m--[0m Looking for strchr
+[36m--[0m Looking for strchr - found
+[36m--[0m Looking for strrchr
+[36m--[0m Looking for strrchr - found
+[36m--[0m Looking for strstr
+[36m--[0m Looking for strstr - found
+[36m--[0m Looking for strtol
+[36m--[0m Looking for strtol - found
+[36m--[0m Looking for strtol
+[36m--[0m Looking for strtol - found
+[36m--[0m Looking for strtoull
+[36m--[0m Looking for strtoull - found
+[36m--[0m Looking for lfind
+[36m--[0m Looking for lfind - found
+[36m--[0m Performing Test HAVE_SNPRINTF
+[36m--[0m Performing Test HAVE_SNPRINTF - Success
+[36m--[0m Check if the system is big endian
+[36m--[0m Searching 16 bit integer
+[36m--[0m Using unsigned short
+[36m--[0m Check if the system is big endian - little endian
+[36m--[0m Performing Test HAVE_C_WNO_UNUSED_BUT_SET_VARIABLE
+[36m--[0m Performing Test HAVE_C_WNO_UNUSED_BUT_SET_VARIABLE - Failed
+[36m--[0m Performing Test HAVE_C_WNO_SIGN_COMPARE
+[36m--[0m Performing Test HAVE_C_WNO_SIGN_COMPARE - Success
+[36m--[0m Performing Test HAVE_C_WNO_MAYBE_UNINITIALIZED
+[36m--[0m Performing Test HAVE_C_WNO_MAYBE_UNINITIALIZED - Failed
+[36m--[0m Performing Test HAVE_C_WNO_POINTER_TO_INT_CAST
+[36m--[0m Performing Test HAVE_C_WNO_POINTER_TO_INT_CAST - Success
+[36m--[0m Performing Test HAVE_C_WNO_INT_TO_POINTER_CAST
+[36m--[0m Performing Test HAVE_C_WNO_INT_TO_POINTER_CAST - Success
+[36m--[0m Performing Test HAVE_C_WNO_MISLEADING_INDENTATION
+[36m--[0m Performing Test HAVE_C_WNO_MISLEADING_INDENTATION - Failed
+[36m--[0m Performing Test HAVE_CXX_WNO_MISSING_DECLARATIONS
+[36m--[0m Performing Test HAVE_CXX_WNO_MISSING_DECLARATIONS - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_PARAMETER
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_PARAMETER - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_UNDEF
+[36m--[0m Performing Test HAVE_CXX_WNO_UNDEF - Success
+[36m--[0m Found WebP: /usr/local/lib/libwebp.dylib
+[36m--[0m Performing Test HAVE_C_WNO_IMPLICIT_FUNCTION_DECLARATION
+[36m--[0m Performing Test HAVE_C_WNO_IMPLICIT_FUNCTION_DECLARATION - Success
+[36m--[0m Performing Test HAVE_C_WNO_UNINITIALIZED
+[36m--[0m Performing Test HAVE_C_WNO_UNINITIALIZED - Success
+[36m--[0m Performing Test HAVE_C_WNO_UNUSED_BUT_SET_PARAMETER
+[36m--[0m Performing Test HAVE_C_WNO_UNUSED_BUT_SET_PARAMETER - Failed
+[36m--[0m Performing Test HAVE_C_WNO_STRICT_OVERFLOW
+[36m--[0m Performing Test HAVE_C_WNO_STRICT_OVERFLOW - Success
+[36m--[0m Performing Test HAVE_C_WNO_POINTER_COMPARE
+[36m--[0m Performing Test HAVE_C_WNO_POINTER_COMPARE - Failed
+[36m--[0m Performing Test HAVE_C_WNO_ABSOLUTE_VALUE
+[36m--[0m Performing Test HAVE_C_WNO_ABSOLUTE_VALUE - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_SHADOW
+[36m--[0m Performing Test HAVE_CXX_WNO_SHADOW - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_SIGN_COMPARE
+[36m--[0m Performing Test HAVE_CXX_WNO_SIGN_COMPARE - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_UNINITIALIZED
+[36m--[0m Performing Test HAVE_CXX_WNO_UNINITIALIZED - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_SWITCH
+[36m--[0m Performing Test HAVE_CXX_WNO_SWITCH - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_PARENTHESES
+[36m--[0m Performing Test HAVE_CXX_WNO_PARENTHESES - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_ARRAY_BOUNDS
+[36m--[0m Performing Test HAVE_CXX_WNO_ARRAY_BOUNDS - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_EXTRA
+[36m--[0m Performing Test HAVE_CXX_WNO_EXTRA - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_DEPRECATED_DECLARATIONS
+[36m--[0m Performing Test HAVE_CXX_WNO_DEPRECATED_DECLARATIONS - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_MISLEADING_INDENTATION
+[36m--[0m Performing Test HAVE_CXX_WNO_MISLEADING_INDENTATION - Failed
+[36m--[0m Performing Test HAVE_CXX_WNO_DEPRECATED
+[36m--[0m Performing Test HAVE_CXX_WNO_DEPRECATED - Success
+[36m--[0m Checking for module 'gstreamer-base-1.0'
+[36m--[0m   No package 'gstreamer-base-1.0' found
+[36m--[0m Checking for module 'gstreamer-video-1.0'
+[36m--[0m   No package 'gstreamer-video-1.0' found
+[36m--[0m Checking for module 'gstreamer-app-1.0'
+[36m--[0m   No package 'gstreamer-app-1.0' found
+[36m--[0m Checking for module 'gstreamer-riff-1.0'
+[36m--[0m   No package 'gstreamer-riff-1.0' found
+[36m--[0m Checking for module 'gstreamer-pbutils-1.0'
+[36m--[0m   No package 'gstreamer-pbutils-1.0' found
+[36m--[0m Checking for module 'gstreamer-base-0.10'
+[36m--[0m   No package 'gstreamer-base-0.10' found
+[36m--[0m Checking for module 'gstreamer-video-0.10'
+[36m--[0m   No package 'gstreamer-video-0.10' found
+[36m--[0m Checking for module 'gstreamer-app-0.10'
+[36m--[0m   No package 'gstreamer-app-0.10' found
+[36m--[0m Checking for module 'gstreamer-riff-0.10'
+[36m--[0m   No package 'gstreamer-riff-0.10' found
+[36m--[0m Checking for module 'gstreamer-pbutils-0.10'
+[36m--[0m   No package 'gstreamer-pbutils-0.10' found
+[36m--[0m Checking for module 'libdc1394-2'
+[36m--[0m   No package 'libdc1394-2' found
+[36m--[0m Checking for module 'libdc1394'
+[36m--[0m   No package 'libdc1394' found
+[36m--[0m Checking for modules 'libavcodec;libavformat;libavutil;libswscale'
+[36m--[0m   Found libavcodec, version 58.18.100
+[36m--[0m   Found libavformat, version 58.12.100
+[36m--[0m   Found libavutil, version 56.14.100
+[36m--[0m   Found libswscale, version 5.1.100
+[36m--[0m Checking for module 'libavresample'
+[36m--[0m   Found libavresample, version 4.0.0
+[36m--[0m Checking for module 'libgphoto2'
+[36m--[0m   No package 'libgphoto2' found
+[36m--[0m IPPICV: Download: ippicv_2017u3_mac_intel64_general_20170822.tgz
+[36m--[0m found Intel IPP (ICV version): 2017.0.3 [2017.0.3]
+[36m--[0m at: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/3rdparty/ippicv/ippicv_mac
+[36m--[0m found Intel IPP IW sources: 2017.0.3
+[36m--[0m at: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/3rdparty/ippicv/ippiw_mac
+[36m--[0m Could not find OpenBLAS include. Turning OpenBLAS_FOUND off
+[36m--[0m Could not find OpenBLAS lib. Turning OpenBLAS_FOUND off
+[36m--[0m Could NOT find Atlas (missing: Atlas_CBLAS_INCLUDE_DIR Atlas_CLAPACK_INCLUDE_DIR Atlas_BLAS_LIBRARY)
+[36m--[0m Looking for dgemm_
+[36m--[0m Looking for dgemm_ - found
+[36m--[0m Looking for pthread.h
+[36m--[0m Looking for pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Found BLAS: /System/Library/Frameworks/Accelerate.framework
+[36m--[0m Looking for cheev_
+[36m--[0m Looking for cheev_ - found
+[36m--[0m A library with LAPACK API found.
+[36m--[0m LAPACK(LAPACK/Apple): LAPACK_LIBRARIES: /System/Library/Frameworks/Accelerate.framework;/System/Library/Frameworks/Accelerate.framework
+[36m--[0m Looking for Accelerate/Accelerate.h
+[36m--[0m Looking for Accelerate/Accelerate.h - found
+[36m--[0m Looking for Accelerate/Accelerate.h
+[36m--[0m Looking for Accelerate/Accelerate.h - found
+[36m--[0m LAPACK(LAPACK/Apple): Support is enabled.
+[36m--[0m Found Doxygen: /usr/local/bin/doxygen (found version "1.8.14") found components:  doxygen dot
+[36m--[0m Found JNI: /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/libjawt.dylib
+[36m--[0m Could NOT find Pylint (missing: PYLINT_EXECUTABLE)
+[36m--[0m Found Matlab: /Applications/MATLAB_R2015b.app/bin/mex
+[36m--[0m Found VTK 8.1.1 (/usr/local/Cellar/vtk/8.1.1/lib/cmake/vtk-8.1/UseVTK.cmake)
+[36m--[0m Looking for dlerror in dl
+[36m--[0m Looking for dlerror in dl - found
+[36m--[0m Performing Test HAVE_CXX_WNO_MISSING_PROTOTYPES
+[36m--[0m Performing Test HAVE_CXX_WNO_MISSING_PROTOTYPES - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_LOCAL_TYPEDEFS
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_LOCAL_TYPEDEFS - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_SIGN_PROMO
+[36m--[0m Performing Test HAVE_CXX_WNO_SIGN_PROMO - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_TAUTOLOGICAL_UNDEFINED_COMPARE
+[36m--[0m Performing Test HAVE_CXX_WNO_TAUTOLOGICAL_UNDEFINED_COMPARE - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_IGNORED_QUALIFIERS
+[36m--[0m Performing Test HAVE_CXX_WNO_IGNORED_QUALIFIERS - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_FUNCTION
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_FUNCTION - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_CONST_VARIABLE
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_CONST_VARIABLE - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_SHORTEN_64_TO_32
+[36m--[0m Performing Test HAVE_CXX_WNO_SHORTEN_64_TO_32 - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_INCONSISTENT_MISSING_OVERRIDE
+[36m--[0m Performing Test HAVE_CXX_WNO_INCONSISTENT_MISSING_OVERRIDE - Success
+[36m--[0m Caffe:   NO
+[36m--[0m Protobuf:   NO
+[36m--[0m Glog:   NO
+[36m--[0m tiny-dnn: Download: v1.0.0a3.tar.gz
+[36m--[0m Looking for tiny_dnn.h
+[36m--[0m Looking for tiny_dnn.h - found
+[36m--[0m Found tiny-dnn in: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/3rdparty/tinydnn/tiny-dnn-1.0.0a3
+[36m--[0m Performing Test COMPILER_SUPPORTS_CXX11
+[36m--[0m Performing Test COMPILER_SUPPORTS_CXX11 - Success
+[36m--[0m The protocol buffer compiler is not found (PROTOBUF_PROTOC_EXECUTABLE='')
+[36m--[0m Checking for one of the modules 'freetype2'
+[36m--[0m Checking for one of the modules 'harfbuzz'
+[36m--[0m freetype2:   YES
+[36m--[0m harfbuzz:    YES
+[36m--[0m HDF5: Using hdf5 compiler wrapper to determine C configuration
+[36m--[0m Found HDF5: /usr/local/Cellar/hdf5/1.10.2_1/lib/libhdf5.dylib;/usr/local/opt/szip/lib/libsz.dylib;/usr/lib/libz.dylib;/usr/lib/libdl.dylib;/usr/lib/libm.dylib (found version "1.10.2")
+[36m--[0m Performing Test HAVE_CXX_WNO_INVALID_OFFSETOF
+[36m--[0m Performing Test HAVE_CXX_WNO_INVALID_OFFSETOF - Success
+[36m--[0m Python Jinja version: 2.10
+[36m--[0m Module opencv_ovis disabled because OGRE3D was not found
+[36m--[0m No preference for use of exported gflags CMake configuration set, and no hints for include/library directories provided. Defaulting to preferring an installed/exported gflags CMake configuration if available.
+[36m--[0m Found installed version of gflags: /usr/local/lib/cmake/gflags
+[36m--[0m Detected gflags version: 2.2.1
+[36m--[0m Failed to find glog - Could not find glog include directory, set GLOG_INCLUDE_DIR to directory containing glog/logging.h
+[36m--[0m Module opencv_sfm disabled because the following dependencies are not found: Glog/Gflags
+[36m--[0m HDF5: Using hdf5 compiler wrapper to determine C configuration
+[36m--[0m Excluding from source files list: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/imgproc/accum.neon.cpp
+[36m--[0m Performing Test HAVE_CXX_WNO_MAYBE_UNINITIALIZED
+[36m--[0m Performing Test HAVE_CXX_WNO_MAYBE_UNINITIALIZED - Failed
+[36m--[0m Performing Test HAVE_CXX_WNO_ENUM_COMPARE
+[36m--[0m Performing Test HAVE_CXX_WNO_ENUM_COMPARE - Success
+[36m--[0m Torch importer has been enabled. To run the tests you have to install Torch ('th' executable should be available) and generate testdata using opencv_extra/testdata/dnn/generate_torch_models.py script.
+[36m--[0m freetype2:   YES
+[36m--[0m harfbuzz:    YES
+[36m--[0m Performing Test HAVE_OBJCXX_FOBJC_EXCEPTIONS
+[36m--[0m Performing Test HAVE_OBJCXX_FOBJC_EXCEPTIONS - Success
+[36m--[0m Performing Test HAVE_CXX_WNO_OVERLOADED_VIRTUAL
+[36m--[0m Performing Test HAVE_CXX_WNO_OVERLOADED_VIRTUAL - Success
+[36m--[0m Checking for modules 'tesseract;lept'
+[36m--[0m   No package 'tesseract' found
+[36m--[0m   No package 'lept' found
+[36m--[0m Tesseract:   NO
+[36m--[0m xfeatures2d/boostdesc: Download: boostdesc_bgm.i
+[36m--[0m xfeatures2d/boostdesc: Download: boostdesc_bgm_bi.i
+[36m--[0m xfeatures2d/boostdesc: Download: boostdesc_bgm_hd.i
+[36m--[0m xfeatures2d/boostdesc: Download: boostdesc_binboost_064.i
+[36m--[0m xfeatures2d/boostdesc: Download: boostdesc_binboost_128.i
+[36m--[0m xfeatures2d/boostdesc: Download: boostdesc_binboost_256.i
+[36m--[0m xfeatures2d/boostdesc: Download: boostdesc_lbgm.i
+[36m--[0m xfeatures2d/vgg: Download: vgg_generated_48.i
+[36m--[0m xfeatures2d/vgg: Download: vgg_generated_64.i
+[36m--[0m xfeatures2d/vgg: Download: vgg_generated_80.i
+[36m--[0m xfeatures2d/vgg: Download: vgg_generated_120.i
+[36m--[0m data: Download: face_landmark_model.dat
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_PRIVATE_FIELD
+[36m--[0m Performing Test HAVE_CXX_WNO_UNUSED_PRIVATE_FIELD - Success
+--
+[36m--[0m General configuration for OpenCV 3.3.1-dev =====================================
+[36m--[0m   Version control:               0b81bf4-dirty
+--
+[36m--[0m   Extra modules:
+[36m--[0m     Location (extra):            /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib
+[36m--[0m     Version control (extra):     0b81bf4-dirty
+--
+[36m--[0m   Platform:
+[36m--[0m     Timestamp:                   2018-09-12T01:10:23Z
+[36m--[0m     Host:                        Darwin 16.7.0 x86_64
+[36m--[0m     CMake:                       3.11.4
+[36m--[0m     CMake generator:             Unix Makefiles
+[36m--[0m     CMake build tool:            /usr/bin/make
+[36m--[0m     Configuration:               Release
+--
+[36m--[0m   CPU/HW features:
+[36m--[0m     Baseline:                    SSE SSE2 SSE3
+[36m--[0m       requested:                 SSE3
+[36m--[0m     Dispatched code generation:  SSE4_1 SSE4_2 FP16 AVX AVX2
+[36m--[0m       requested:                 SSE4_1 SSE4_2 AVX FP16 AVX2
+[36m--[0m       SSE4_1 (3 files):          + SSSE3 SSE4_1
+[36m--[0m       SSE4_2 (1 files):          + SSSE3 SSE4_1 POPCNT SSE4_2
+[36m--[0m       FP16 (1 files):            + SSSE3 SSE4_1 POPCNT SSE4_2 FP16 AVX
+[36m--[0m       AVX (5 files):             + SSSE3 SSE4_1 POPCNT SSE4_2 AVX
+[36m--[0m       AVX2 (9 files):            + SSSE3 SSE4_1 POPCNT SSE4_2 FP16 FMA3 AVX AVX2
+--
+[36m--[0m   C/C++:
+[36m--[0m     Built as dynamic libs?:      YES
+[36m--[0m     C++ Compiler:                /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++  (ver 9.0.0.9000038)
+[36m--[0m     C++ flags (Release):         -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -Wno-comment -Wno-implicit-fallthrough -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -O3 -DNDEBUG  -DNDEBUG
+[36m--[0m     C++ flags (Debug):           -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -Wno-comment -Wno-implicit-fallthrough -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -g  -O0 -DDEBUG -D_DEBUG
+[36m--[0m     C Compiler:                  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+[36m--[0m     C flags (Release):           -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -Wno-comment -Wno-implicit-fallthrough -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -O3 -DNDEBUG  -DNDEBUG
+[36m--[0m     C flags (Debug):             -fsigned-char -W -Wall -Werror=return-type -Werror=non-virtual-dtor -Werror=address -Werror=sequence-point -Wformat -Werror=format-security -Wmissing-declarations -Wmissing-prototypes -Wstrict-prototypes -Wundef -Winit-self -Wpointer-arith -Wshadow -Wsign-promo -Wuninitialized -Winit-self -Wno-narrowing -Wno-delete-non-virtual-dtor -Wno-unnamed-type-template-args -Wno-comment -Wno-implicit-fallthrough -fdiagnostics-show-option -Wno-long-long -Qunused-arguments -Wno-semicolon-before-method-body -ffunction-sections -fdata-sections  -msse -msse2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -g  -O0 -DDEBUG -D_DEBUG
+[36m--[0m     Linker flags (Release):
+[36m--[0m     Linker flags (Debug):
+[36m--[0m     ccache:                      NO
+[36m--[0m     Precompiled headers:         NO
+[36m--[0m     Extra dependencies:
+[36m--[0m     3rdparty dependencies:
+--
+[36m--[0m   OpenCV modules:
+[36m--[0m     To be built:                 aruco bgsegm bioinspired calib3d ccalib core cvv datasets dnn dpm face features2d flann freetype fuzzy hdf highgui img_hash imgcodecs imgproc line_descriptor ml objdetect optflow phase_unwrapping photo plot python2 python_bindings_generator reg rgbd saliency shape stereo stitching structured_light superres surface_matching text tracking video videoio videostab viz xfeatures2d ximgproc xobjdetect xphoto
+[36m--[0m     Disabled:                    js matlab world
+[36m--[0m     Disabled by dependency:      -
+[36m--[0m     Unavailable:                 cnn_3dobj cudaarithm cudabgsegm cudacodec cudafeatures2d cudafilters cudaimgproc cudalegacy cudaobjdetect cudaoptflow cudastereo cudawarping cudev dnn_modern java ovis python3 sfm ts
+[36m--[0m     Applications:                apps
+[36m--[0m     Documentation:               YES (/usr/local/bin/doxygen 1.8.14)
+[36m--[0m     Non-free algorithms:         NO
+--
+[36m--[0m   GUI:
+[36m--[0m     QT:                          YES (ver 5.11.1)
+[36m--[0m       QT OpenGL support:         NO
+[36m--[0m     Cocoa:                       YES
+[36m--[0m     VTK support:                 YES (ver 8.1.1)
+--
+[36m--[0m   Media I/O:
+[36m--[0m     ZLib:                        build (ver 1.2.11)
+[36m--[0m     JPEG:                        build (ver 90)
+[36m--[0m     WEBP:                        /usr/local/lib/libwebp.dylib (ver encoder: 0x020e)
+[36m--[0m     PNG:                         build (ver 1.6.34)
+[36m--[0m     TIFF:                        build (ver 42 - 4.0.9)
+[36m--[0m     JPEG 2000:                   build (ver 1.900.1)
+[36m--[0m     OpenEXR:                     build (ver 1.7.1)
+--
+[36m--[0m   Video I/O:
+[36m--[0m     DC1394:                      NO
+[36m--[0m     FFMPEG:                      YES
+[36m--[0m       avcodec:                   YES (ver 58.18.100)
+[36m--[0m       avformat:                  YES (ver 58.12.100)
+[36m--[0m       avutil:                    YES (ver 56.14.100)
+[36m--[0m       swscale:                   YES (ver 5.1.100)
+[36m--[0m       avresample:                YES (ver 4.0.0)
+[36m--[0m     GStreamer:                   NO
+[36m--[0m     AVFoundation:                YES
+[36m--[0m     gPhoto2:                     NO
+--
+[36m--[0m   Parallel framework:            GCD
+--
+[36m--[0m   Trace:                         YES (with Intel ITT)
+--
+[36m--[0m   Other third-party libraries:
+[36m--[0m     Intel IPP:                   2017.0.3 [2017.0.3]
+[36m--[0m            at:                   /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/3rdparty/ippicv/ippicv_mac
+[36m--[0m     Intel IPP IW:                sources (2017.0.3)
+[36m--[0m               at:                /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/3rdparty/ippicv/ippiw_mac
+[36m--[0m     Lapack:                      YES (/System/Library/Frameworks/Accelerate.framework /System/Library/Frameworks/Accelerate.framework)
+[36m--[0m     Eigen:                       YES (ver 3.3.5)
+[36m--[0m     Custom HAL:                  NO
+--
+[36m--[0m   NVIDIA CUDA:                   NO
+--
+[36m--[0m   OpenCL:                        YES (no extra features)
+[36m--[0m     Include path:                NO
+[36m--[0m     Link libraries:              -framework OpenCL
+--
+[36m--[0m   Python 2:
+[36m--[0m     Interpreter:                 /usr/local/bin/python2 (ver 2.7.15)
+[36m--[0m     Libraries:                   /usr/local/Cellar/python@@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/libpython2.7.dylib (ver 2.7.15)
+[36m--[0m     numpy:                       /usr/local/lib/python2.7/site-packages/numpy/core/include (ver 1.15.1)
+[36m--[0m     packages path:               lib/python2.7/site-packages
+--
+[36m--[0m   Python (for build):            /usr/local/bin/python2
+--
+[36m--[0m   Java:
+[36m--[0m     ant:                         NO
+[36m--[0m     JNI:                         /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/include /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/include/darwin /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/include
+[36m--[0m     Java wrappers:               NO
+[36m--[0m     Java tests:                  NO
+--
+[36m--[0m   Matlab:                        YES
+[36m--[0m     mex:                         /Applications/MATLAB_R2015b.app/bin/mex
+[36m--[0m     Compiler/generator:          Not working (bindings will not be generated)
+--
+[36m--[0m   Install to:                    /opt/ros/kinetic
+[36m--[0m -----------------------------------------------------------------
+--
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3

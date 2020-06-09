@@ -1,0 +1,52 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rostest.pc
+-- Installing: /opt/ros/kinetic/share/rostest/cmake/rostest-extras.cmake
+-- Installing: /opt/ros/kinetic/share/rostest/cmake/rostestConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rostest/cmake/rostestConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rostest/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rostest
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rostest/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest
+copying src/rostest/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest
+copying src/rostest/rostest_main.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest
+copying src/rostest/rostest_parent.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest
+copying src/rostest/rostestutil.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest
+copying src/rostest/runner.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/scripts-2.7
+copying and adjusting scripts/rostest -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/scripts-2.7/rostest from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rostest
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rostest
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest/rostest_main.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rostest
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest/rostest_parent.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rostest
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest/rostestutil.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rostest
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/rostest/runner.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rostest
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rostest/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rostest/rostest_main.py to rostest_main.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rostest/rostest_parent.py to rostest_parent.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rostest/rostestutil.py to rostestutil.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rostest/runner.py to runner.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/scripts-2.7/rostest -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/rostest to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rostest-1.12.14-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rostest/nodes/hztest
+-- Installing: /opt/ros/kinetic/share/rostest/nodes/paramtest
+-- Installing: /opt/ros/kinetic/share/rostest/nodes/publishtest
+-- Installing: /opt/ros/kinetic/include/rostest
+-- Installing: /opt/ros/kinetic/include/rostest/permuter.h

@@ -1,0 +1,17 @@
+[100%] Built target rqt_gui_cpp
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rqt_gui_cpp.pc
+-- Installing: /opt/ros/kinetic/share/rqt_gui_cpp/cmake/rqt_gui_cppConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_gui_cpp/cmake/rqt_gui_cppConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_gui_cpp/package.xml
+-- Installing: /opt/ros/kinetic/share/rqt_gui_cpp/plugin.xml
+-- Installing: /opt/ros/kinetic/lib/librqt_gui_cpp.dylib
+-- Installing: /opt/ros/kinetic/include/rqt_gui_cpp
+-- Installing: /opt/ros/kinetic/include/rqt_gui_cpp/plugin.h

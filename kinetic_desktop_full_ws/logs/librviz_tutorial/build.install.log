@@ -1,0 +1,16 @@
+[ 20%] [34m[1mAutomatic MOC for target myviz[0m
+[ 20%] Built target myviz_autogen
+[100%] Built target myviz
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/librviz_tutorial.pc
+-- Up-to-date: /opt/ros/kinetic/share/librviz_tutorial/cmake/librviz_tutorialConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/librviz_tutorial/cmake/librviz_tutorialConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/librviz_tutorial/package.xml
+-- Installing: /opt/ros/kinetic/lib/librviz_tutorial/myviz

@@ -1,0 +1,6 @@
+roslint
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roslint/lib/pkgconfig/roslint.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/roslint.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roslint/lib/python2.7/site-packages/roslint/__init__.py /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/python2.7/site-packages/roslint/__init__.py
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roslint/share/roslint/cmake/roslint-extras.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/roslint/cmake/roslint-extras.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roslint/share/roslint/cmake/roslintConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/roslint/cmake/roslintConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roslint/share/roslint/cmake/roslintConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/roslint/cmake/roslintConfig.cmake

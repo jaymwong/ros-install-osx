@@ -1,0 +1,88 @@
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_JointTrajectory
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_MultiDOFJointTrajectory
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_MultiDOFJointTrajectoryPoint
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_JointTrajectoryPoint
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 18%] Built target trajectory_msgs_generate_messages_cpp
+[ 18%] Built target geometry_msgs_generate_messages_eus
+[ 18%] Built target std_msgs_generate_messages_eus
+[ 40%] Built target trajectory_msgs_generate_messages_eus
+[ 40%] Built target geometry_msgs_generate_messages_lisp
+[ 40%] Built target std_msgs_generate_messages_lisp
+[ 59%] Built target trajectory_msgs_generate_messages_lisp
+[ 59%] Built target std_msgs_generate_messages_nodejs
+[ 59%] Built target geometry_msgs_generate_messages_nodejs
+[ 77%] Built target trajectory_msgs_generate_messages_nodejs
+[ 77%] Built target std_msgs_generate_messages_py
+[ 77%] Built target geometry_msgs_generate_messages_py
+[100%] Built target trajectory_msgs_generate_messages_py
+[100%] Built target trajectory_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/msg/JointTrajectory.msg
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/msg/JointTrajectoryPoint.msg
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/msg/MultiDOFJointTrajectory.msg
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.msg
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/cmake/trajectory_msgs-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/trajectory_msgs
+-- Up-to-date: /opt/ros/kinetic/include/trajectory_msgs/JointTrajectory.h
+-- Up-to-date: /opt/ros/kinetic/include/trajectory_msgs/JointTrajectoryPoint.h
+-- Up-to-date: /opt/ros/kinetic/include/trajectory_msgs/MultiDOFJointTrajectory.h
+-- Up-to-date: /opt/ros/kinetic/include/trajectory_msgs/MultiDOFJointTrajectoryPoint.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg/JointTrajectory.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg/JointTrajectoryPoint.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg/MultiDOFJointTrajectory.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package_JointTrajectory.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package_JointTrajectoryPoint.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package_MultiDOFJointTrajectory.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package_MultiDOFJointTrajectoryPoint.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/JointTrajectory.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/JointTrajectoryPoint.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/MultiDOFJointTrajectory.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/trajectory_msgs-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/JointTrajectory.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/JointTrajectoryPoint.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/MultiDOFJointTrajectory.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs/msg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectory.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectory.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectoryPoint.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectoryPoint.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectory.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectory.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectoryPoint.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectoryPoint.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/trajectory_msgs.pc
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/cmake/trajectory_msgs-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/cmake/trajectory_msgsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/cmake/trajectory_msgsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/package.xml
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/rules
+-- Up-to-date: /opt/ros/kinetic/share/trajectory_msgs/rules/JointTrajectoryPoint_Groovy2Hydro_08.10.2013.bmr

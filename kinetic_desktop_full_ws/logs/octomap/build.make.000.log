@@ -1,0 +1,124 @@
+[35m[1mScanning dependencies of target octomath[0m
+[  1%] [32mBuilding CXX object src/math/CMakeFiles/octomath.dir/Vector3.cpp.o[0m
+[35m[1mScanning dependencies of target octomath-static[0m
+[  2%] [32mBuilding CXX object src/math/CMakeFiles/octomath-static.dir/Vector3.cpp.o[0m
+[  4%] [32mBuilding CXX object src/math/CMakeFiles/octomath.dir/Quaternion.cpp.o[0m
+[35m[1mScanning dependencies of target octomap-static[0m
+[  5%] [32mBuilding CXX object src/CMakeFiles/octomap-static.dir/AbstractOcTree.cpp.o[0m
+[  6%] [32mBuilding CXX object src/math/CMakeFiles/octomath-static.dir/Quaternion.cpp.o[0m
+[  9%] [32mBuilding CXX object src/CMakeFiles/octomap-static.dir/AbstractOccupancyOcTree.cpp.o[0m
+[  9%] [32mBuilding CXX object src/math/CMakeFiles/octomath-static.dir/Pose6D.cpp.o[0m
+[ 11%] [32mBuilding CXX object src/math/CMakeFiles/octomath.dir/Pose6D.cpp.o[0m
+[ 12%] [32m[1mLinking CXX static library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/lib/liboctomath.a[0m
+[ 12%] Built target octomath-static
+[ 13%] [32mBuilding CXX object src/CMakeFiles/octomap-static.dir/Pointcloud.cpp.o[0m
+[ 15%] [32mBuilding CXX object src/CMakeFiles/octomap-static.dir/ScanGraph.cpp.o[0m
+[ 16%] [32mBuilding CXX object src/CMakeFiles/octomap-static.dir/CountingOcTree.cpp.o[0m
+[ 18%] [32mBuilding CXX object src/CMakeFiles/octomap-static.dir/OcTree.cpp.o[0m
+[ 19%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/lib/liboctomath.dylib[0m
+[ 19%] Built target octomath
+[ 20%] [32mBuilding CXX object src/CMakeFiles/octomap-static.dir/OcTreeNode.cpp.o[0m
+[35m[1mScanning dependencies of target octomap[0m
+[ 22%] [32mBuilding CXX object src/CMakeFiles/octomap.dir/AbstractOcTree.cpp.o[0m
+[ 23%] [32mBuilding CXX object src/CMakeFiles/octomap-static.dir/OcTreeStamped.cpp.o[0m
+[ 25%] [32mBuilding CXX object src/CMakeFiles/octomap.dir/AbstractOccupancyOcTree.cpp.o[0m
+[ 26%] [32mBuilding CXX object src/CMakeFiles/octomap.dir/Pointcloud.cpp.o[0m
+[ 27%] [32mBuilding CXX object src/CMakeFiles/octomap.dir/ScanGraph.cpp.o[0m
+[ 29%] [32mBuilding CXX object src/CMakeFiles/octomap.dir/CountingOcTree.cpp.o[0m
+[ 30%] [32mBuilding CXX object src/CMakeFiles/octomap-static.dir/ColorOcTree.cpp.o[0m
+[ 31%] [32mBuilding CXX object src/CMakeFiles/octomap.dir/OcTree.cpp.o[0m
+[ 33%] [32mBuilding CXX object src/CMakeFiles/octomap.dir/OcTreeNode.cpp.o[0m
+[ 34%] [32mBuilding CXX object src/CMakeFiles/octomap.dir/OcTreeStamped.cpp.o[0m
+[ 36%] [32mBuilding CXX object src/CMakeFiles/octomap.dir/ColorOcTree.cpp.o[0m
+[ 37%] [32m[1mLinking CXX static library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/lib/liboctomap.a[0m
+[ 37%] Built target octomap-static
+[ 38%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/lib/liboctomap.dylib[0m
+[ 38%] Built target octomap
+[35m[1mScanning dependencies of target octree2pointcloud[0m
+[ 40%] [32mBuilding CXX object src/CMakeFiles/octree2pointcloud.dir/octree2pointcloud.cpp.o[0m
+[ 41%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/octree2pointcloud[0m
+[35m[1mScanning dependencies of target intersection_example[0m
+[ 43%] [32mBuilding CXX object src/CMakeFiles/intersection_example.dir/intersection_example.cpp.o[0m
+[ 43%] Built target octree2pointcloud
+[35m[1mScanning dependencies of target normals_example[0m
+[ 44%] [32mBuilding CXX object src/CMakeFiles/normals_example.dir/normals_example.cpp.o[0m
+[35m[1mScanning dependencies of target simple_example[0m
+[ 45%] [32mBuilding CXX object src/CMakeFiles/simple_example.dir/simple_example.cpp.o[0m
+[35m[1mScanning dependencies of target convert_octree[0m
+[ 47%] [32mBuilding CXX object src/CMakeFiles/convert_octree.dir/convert_octree.cpp.o[0m
+[35m[1mScanning dependencies of target edit_octree[0m
+[ 48%] [32mBuilding CXX object src/CMakeFiles/edit_octree.dir/edit_octree.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/intersection_example[0m
+[ 50%] Built target intersection_example
+[ 51%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/normals_example[0m
+[ 51%] Built target normals_example
+[ 52%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/convert_octree[0m
+[ 52%] Built target convert_octree
+[35m[1mScanning dependencies of target bt2vrml[0m
+[ 54%] [32mBuilding CXX object src/CMakeFiles/bt2vrml.dir/bt2vrml.cpp.o[0m
+[ 55%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/edit_octree[0m
+[ 55%] Built target edit_octree
+[ 56%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/simple_example[0m
+[ 56%] Built target simple_example
+[35m[1mScanning dependencies of target binvox2bt[0m
+[ 58%] [32mBuilding CXX object src/CMakeFiles/binvox2bt.dir/binvox2bt.cpp.o[0m
+[35m[1mScanning dependencies of target log2graph[0m
+[ 59%] [32mBuilding CXX object src/CMakeFiles/log2graph.dir/log2graph.cpp.o[0m
+[ 61%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/bt2vrml[0m
+[ 61%] Built target bt2vrml
+[35m[1mScanning dependencies of target compare_octrees[0m
+[ 62%] [32mBuilding CXX object src/CMakeFiles/compare_octrees.dir/compare_octrees.cpp.o[0m
+[ 63%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/log2graph[0m
+[ 63%] Built target log2graph
+[ 65%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/binvox2bt[0m
+[ 65%] Built target binvox2bt
+[ 66%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/compare_octrees[0m
+[35m[1mScanning dependencies of target eval_octree_accuracy[0m
+[ 68%] [32mBuilding CXX object src/CMakeFiles/eval_octree_accuracy.dir/eval_octree_accuracy.cpp.o[0m
+[ 68%] Built target compare_octrees
+[35m[1mScanning dependencies of target graph2tree[0m
+[ 69%] [32mBuilding CXX object src/CMakeFiles/graph2tree.dir/graph2tree.cpp.o[0m
+[35m[1mScanning dependencies of target test_changedkeys[0m
+[ 70%] [32mBuilding CXX object src/testing/CMakeFiles/test_changedkeys.dir/test_changedkeys.cpp.o[0m
+[ 72%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/eval_octree_accuracy[0m
+[ 72%] Built target eval_octree_accuracy
+[35m[1mScanning dependencies of target test_pruning[0m
+[ 73%] [32mBuilding CXX object src/testing/CMakeFiles/test_pruning.dir/test_pruning.cpp.o[0m
+[35m[1mScanning dependencies of target color_tree_histogram[0m
+[ 75%] [32mBuilding CXX object src/testing/CMakeFiles/color_tree_histogram.dir/color_tree_histogram.cpp.o[0m
+[35m[1mScanning dependencies of target test_color_tree[0m
+[ 76%] [32mBuilding CXX object src/testing/CMakeFiles/test_color_tree.dir/test_color_tree.cpp.o[0m
+[35m[1mScanning dependencies of target unit_tests[0m
+[ 77%] [32mBuilding CXX object src/testing/CMakeFiles/unit_tests.dir/unit_tests.cpp.o[0m
+[ 79%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/graph2tree[0m
+[ 79%] Built target graph2tree
+[ 80%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/test_changedkeys[0m
+[ 80%] Built target test_changedkeys
+[35m[1mScanning dependencies of target test_io[0m
+[ 81%] [32mBuilding CXX object src/testing/CMakeFiles/test_io.dir/test_io.cpp.o[0m
+[35m[1mScanning dependencies of target test_iterators[0m
+[ 83%] [32mBuilding CXX object src/testing/CMakeFiles/test_iterators.dir/test_iterators.cpp.o[0m
+[ 84%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/color_tree_histogram[0m
+[ 86%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/test_pruning[0m
+[ 86%] Built target color_tree_histogram
+[ 86%] Built target test_pruning
+[ 87%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/test_color_tree[0m
+[ 87%] Built target test_color_tree
+[ 88%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/unit_tests[0m
+[35m[1mScanning dependencies of target test_scans[0m
+[35m[1mScanning dependencies of target test_mapcollection[0m
+[ 90%] [32mBuilding CXX object src/testing/CMakeFiles/test_scans.dir/test_scans.cpp.o[0m
+[ 91%] [32mBuilding CXX object src/testing/CMakeFiles/test_mapcollection.dir/test_mapcollection.cpp.o[0m
+[ 91%] Built target unit_tests
+[35m[1mScanning dependencies of target test_raycasting[0m
+[ 93%] [32mBuilding CXX object src/testing/CMakeFiles/test_raycasting.dir/test_raycasting.cpp.o[0m
+[ 94%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/test_mapcollection[0m
+[ 94%] Built target test_mapcollection
+[ 95%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/test_iterators[0m
+[ 95%] Built target test_iterators
+[ 97%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/test_scans[0m
+[ 97%] Built target test_scans
+[ 98%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/test_raycasting[0m
+[ 98%] Built target test_raycasting
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/octomap/octomap/bin/test_io[0m
+[100%] Built target test_io

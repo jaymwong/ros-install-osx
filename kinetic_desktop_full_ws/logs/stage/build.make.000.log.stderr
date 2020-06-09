@@ -1,0 +1,16 @@
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:205:10: [0m[0;1;35mwarning: [0m[1mprivate field 'pool_zone' is not used [-Wunused-private-field][0m
+  Model* pool_zone;
+[0;1;32m         ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:206:19: [0m[0;1;35mwarning: [0m[1mprivate field 'randcount' is not used [-Wunused-private-field][0m
+  int avoidcount, randcount;
+[0;1;32m                  ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:207:7: [0m[0;1;35mwarning: [0m[1mprivate field 'work_get' is not used [-Wunused-private-field][0m
+  int work_get, work_put;
+[0;1;32m      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:207:17: [0m[0;1;35mwarning: [0m[1mprivate field 'work_put' is not used [-Wunused-private-field][0m
+  int work_get, work_put;
+[0;1;32m                ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/examples/ctrl/fasr2.cc:230:16: [0m[0;1;35mwarning: [0m[1mprivate field 'node_interval_countdown' is not used [-Wunused-private-field][0m
+  unsigned int node_interval_countdown;
+[0;1;32m               ^
+[0m5 warnings generated.

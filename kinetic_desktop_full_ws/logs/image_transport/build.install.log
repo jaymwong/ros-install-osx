@@ -1,0 +1,64 @@
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[ 53%] Built target image_transport
+[ 66%] Built target list_transports
+[ 80%] Built target republish
+[100%] Built target image_transport_plugins
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/image_transport.pc
+-- Up-to-date: /opt/ros/kinetic/share/image_transport/cmake/image_transportConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/image_transport/cmake/image_transportConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/image_transport/package.xml
+-- Installing: /opt/ros/kinetic/lib/libimage_transport.dylib
+-- Installing: /opt/ros/kinetic/lib/libimage_transport_plugins.dylib
+-- Up-to-date: /opt/ros/kinetic/include/image_transport
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/camera_common.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/camera_publisher.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/camera_subscriber.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/exception.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/image_transport.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/loader_fwds.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/publisher.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/publisher_plugin.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/raw_publisher.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/raw_subscriber.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/simple_publisher_plugin.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/simple_subscriber_plugin.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/single_subscriber_publisher.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/subscriber.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/subscriber_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/subscriber_plugin.h
+-- Up-to-date: /opt/ros/kinetic/include/image_transport/transport_hints.h
+-- Installing: /opt/ros/kinetic/lib/image_transport/list_transports
+-- Installing: /opt/ros/kinetic/lib/image_transport/republish
+-- Up-to-date: /opt/ros/kinetic/share/image_transport/default_plugins.xml

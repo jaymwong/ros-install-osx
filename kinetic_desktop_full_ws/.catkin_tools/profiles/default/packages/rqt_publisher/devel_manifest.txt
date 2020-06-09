@@ -1,0 +1,5 @@
+rqt_publisher
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rqt_publisher/lib/pkgconfig/rqt_publisher.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/rqt_publisher.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rqt_publisher/lib/python2.7/site-packages/rqt_publisher/__init__.py /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/python2.7/site-packages/rqt_publisher/__init__.py
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rqt_publisher/share/rqt_publisher/cmake/rqt_publisherConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rqt_publisher/cmake/rqt_publisherConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rqt_publisher/share/rqt_publisher/cmake/rqt_publisherConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rqt_publisher/cmake/rqt_publisherConfig.cmake

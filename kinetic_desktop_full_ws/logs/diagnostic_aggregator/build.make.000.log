@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_cpp[0m
+[  0%] Built target diagnostic_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target diagnostic_aggregator[0m
+[  8%] [32mBuilding CXX object CMakeFiles/diagnostic_aggregator.dir/src/status_item.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/diagnostic_aggregator.dir/src/analyzer_group.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/diagnostic_aggregator.dir/src/generic_analyzer.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/diagnostic_aggregator.dir/src/discard_analyzer.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/diagnostic_aggregator.dir/src/ignore_analyzer.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/diagnostic_aggregator.dir/src/aggregator.cpp.o[0m
+[ 58%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_aggregator/lib/libdiagnostic_aggregator.dylib[0m
+[ 58%] Built target diagnostic_aggregator
+[35m[1mScanning dependencies of target analyzer_loader[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/analyzer_loader.dir/test/analyzer_loader.cpp.o[0m
+[35m[1mScanning dependencies of target aggregator_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/analyzer_loader.dir/gtest-1.7.0/gtest-all.cc.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/aggregator_node.dir/src/aggregator_node.cpp.o[0m
+[ 91%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_aggregator/lib/diagnostic_aggregator/aggregator_node[0m
+[ 91%] Built target aggregator_node
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_aggregator/lib/diagnostic_aggregator/analyzer_loader[0m
+[100%] Built target analyzer_loader

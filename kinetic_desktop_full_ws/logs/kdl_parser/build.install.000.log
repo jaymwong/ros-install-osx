@@ -1,0 +1,18 @@
+[ 50%] Built target kdl_parser
+[100%] Built target check_kdl_parser
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/kdl_parser.pc
+-- Installing: /opt/ros/kinetic/share/kdl_parser/cmake/kdl_parserConfig.cmake
+-- Installing: /opt/ros/kinetic/share/kdl_parser/cmake/kdl_parserConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/kdl_parser/package.xml
+-- Installing: /opt/ros/kinetic/lib/libkdl_parser.dylib
+-- Installing: /opt/ros/kinetic/include/kdl_parser
+-- Installing: /opt/ros/kinetic/include/kdl_parser/kdl_parser.hpp
+-- Installing: /opt/ros/kinetic/include/kdl_parser/visibility_control.hpp

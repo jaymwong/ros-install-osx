@@ -1,0 +1,117 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rqt_console.pc
+-- Installing: /opt/ros/kinetic/share/rqt_console/cmake/rqt_consoleConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_console/cmake/rqt_consoleConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_console/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_console
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_console/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+copying src/rqt_console/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+copying src/rqt_console/console.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+copying src/rqt_console/console_settings_dialog.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+copying src/rqt_console/console_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+copying src/rqt_console/message.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+copying src/rqt_console/message_data_model.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+copying src/rqt_console/message_list.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+copying src/rqt_console/message_proxy_model.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+copying src/rqt_console/text_browse_dialog.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/base_filter.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/custom_filter.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/custom_filter_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/filter_collection.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/filter_wrapper_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/list_filter_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/location_filter.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/message_filter.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/node_filter.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/severity_filter.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/text_filter_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/time_filter.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/time_filter_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+copying src/rqt_console/filters/topic_filter.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/scripts-2.7
+copying and adjusting scripts/rqt_console -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/scripts-2.7/rqt_console from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/console.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/console_settings_dialog.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/console_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/base_filter.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/custom_filter.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/custom_filter_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/filter_collection.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/filter_wrapper_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/list_filter_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/location_filter.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/message_filter.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/node_filter.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/severity_filter.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/text_filter_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/time_filter.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/time_filter_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/filters/topic_filter.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/message.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/message_data_model.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/message_list.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/message_proxy_model.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/lib/rqt_console/text_browse_dialog.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/console.py to console.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/console_settings_dialog.py to console_settings_dialog.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/console_widget.py to console_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/base_filter.py to base_filter.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/custom_filter.py to custom_filter.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/custom_filter_widget.py to custom_filter_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/filter_collection.py to filter_collection.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/filter_wrapper_widget.py to filter_wrapper_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/list_filter_widget.py to list_filter_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/location_filter.py to location_filter.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/message_filter.py to message_filter.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/node_filter.py to node_filter.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/severity_filter.py to severity_filter.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/text_filter_widget.py to text_filter_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/time_filter.py to time_filter.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/time_filter_widget.py to time_filter_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/filters/topic_filter.py to topic_filter.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/message.py to message.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/message_data_model.py to message_data_model.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/message_list.py to message_list.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/message_proxy_model.py to message_proxy_model.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console/text_browse_dialog.py to text_browse_dialog.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_console/scripts-2.7/rqt_console -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/rqt_console to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rqt_console-0.4.8-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rqt_console/plugin.xml
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource/console_settings_dialog.ui
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource/console_widget.ui
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource/filters
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource/filters/custom_filter_widget.ui
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource/filters/filter_wrapper_widget.ui
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource/filters/list_filter_widget.ui
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource/filters/text_filter_widget.ui
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource/filters/time_filter_widget.ui
+-- Installing: /opt/ros/kinetic/share/rqt_console/resource/text_browse_dialog.ui
+-- Installing: /opt/ros/kinetic/lib/rqt_console/rqt_console

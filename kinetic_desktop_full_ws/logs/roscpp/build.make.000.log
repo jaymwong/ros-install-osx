@@ -1,0 +1,134 @@
+[35m[1mScanning dependencies of target _roscpp_generate_messages_check_deps_Logger[0m
+[35m[1mScanning dependencies of target _roscpp_generate_messages_check_deps_Empty[0m
+[35m[1mScanning dependencies of target _roscpp_generate_messages_check_deps_SetLoggerLevel[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[35m[1mScanning dependencies of target _roscpp_generate_messages_check_deps_GetLoggers[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target _roscpp_generate_messages_check_deps_SetLoggerLevel
+[  0%] Built target _roscpp_generate_messages_check_deps_Empty
+[  0%] Built target _roscpp_generate_messages_check_deps_GetLoggers
+[  0%] Built target _roscpp_generate_messages_check_deps_Logger
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  8%] [34m[1mGenerating Javascript code from roscpp/SetLoggerLevel.srv[0m
+[  8%] [34m[1mGenerating EusLisp code from roscpp/Logger.msg[0m
+[  5%] [34m[1mGenerating Javascript code from roscpp/Logger.msg[0m
+[  8%] [34m[1mGenerating Python from MSG roscpp/Logger[0m
+[  5%] [34m[1mGenerating EusLisp code from roscpp/SetLoggerLevel.srv[0m
+[  8%] [34m[1mGenerating Javascript code from roscpp/GetLoggers.srv[0m
+[  9%] [34m[1mGenerating Lisp code from roscpp/Logger.msg[0m
+[ 11%] [34m[1mGenerating C++ code from roscpp/Logger.msg[0m
+[ 13%] [34m[1mGenerating Python code from SRV roscpp/SetLoggerLevel[0m
+[ 13%] [34m[1mGenerating Lisp code from roscpp/SetLoggerLevel.srv[0m
+[ 15%] [34m[1mGenerating C++ code from roscpp/SetLoggerLevel.srv[0m
+[ 16%] [34m[1mGenerating Javascript code from roscpp/Empty.srv[0m
+[ 18%] [34m[1mGenerating EusLisp code from roscpp/GetLoggers.srv[0m
+[ 19%] [34m[1mGenerating Lisp code from roscpp/GetLoggers.srv[0m
+[ 20%] [34m[1mGenerating EusLisp code from roscpp/Empty.srv[0m
+[ 22%] [34m[1mGenerating C++ code from roscpp/GetLoggers.srv[0m
+[ 22%] Built target roscpp_generate_messages_nodejs
+[ 23%] [34m[1mGenerating Lisp code from roscpp/Empty.srv[0m
+[ 25%] [34m[1mGenerating Python code from SRV roscpp/GetLoggers[0m
+[ 26%] [34m[1mGenerating EusLisp manifest code for roscpp[0m
+[ 27%] [34m[1mGenerating C++ code from roscpp/Empty.srv[0m
+[ 29%] [34m[1mGenerating Python code from SRV roscpp/Empty[0m
+[ 29%] Built target roscpp_generate_messages_lisp
+[ 30%] [34m[1mGenerating Python msg __init__.py for roscpp[0m
+[ 31%] [34m[1mGenerating Python srv __init__.py for roscpp[0m
+[ 31%] Built target roscpp_generate_messages_py
+[ 31%] Built target roscpp_generate_messages_cpp
+[ 31%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages[0m
+[35m[1mScanning dependencies of target roscpp[0m
+[ 31%] Built target roscpp_generate_messages
+[ 33%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/master.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/network.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/common.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/subscriber.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/publisher_link.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_publication.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/connection.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/single_subscriber_publisher.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/param.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_server.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/wall_timer.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/xmlrpc_manager.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/publisher.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/param.cpp:480:42: [0m[0;1;35mwarning: [0m[1munused parameter 'XmlType' [-Wunused-parameter][0m
+template <class T> bool xml_castable(int XmlType) 
+[0;1;32m                                         ^
+[ 51%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/timer.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/io.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/names.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/topic.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/topic_manager.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/poll_manager.cpp.o[0m
+[0m1 warning generated.
+[ 59%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/publication.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/statistics.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/intraprocess_subscriber_link.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/intraprocess_publisher_link.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/callback_queue.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_server_link.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_client.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/node_handle.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/connection_manager.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/file_log.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport/transport.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport/transport_udp.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport/transport_tcp.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/subscriber_link.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_client_link.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport_publisher_link.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport_subscriber_link.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/transport/transport_tcp.cpp:171:52: [0m[0;1;35mwarning: [0m[1munused parameter 'idle' [-Wunused-parameter][0m
+void TransportTCP::setKeepAlive(bool use, uint32_t idle, uint32_t interval, uint32_t count)
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/transport/transport_tcp.cpp:171:67: [0m[0;1;35mwarning: [0m[1munused parameter 'interval' [-Wunused-parameter][0m
+void TransportTCP::setKeepAlive(bool use, uint32_t idle, uint32_t interval, uint32_t count)
+[0;1;32m                                                                  ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/transport/transport_tcp.cpp:171:86: [0m[0;1;35mwarning: [0m[1munused parameter 'count' [-Wunused-parameter][0m
+void TransportTCP::setKeepAlive(bool use, uint32_t idle, uint32_t interval, uint32_t count)
+[0;1;32m                                                                                     ^
+[ 83%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_manager.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/rosout_appender.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/init.cpp.o[0m
+[0m3 warnings generated.
+[ 87%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/subscription.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/subscription_queue.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/spinner.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/init.cpp:607:12: [0m[0;1;35mwarning: [0m[1munused variable 'end' [-Wunused-variable][0m
+  WallTime end = WallTime::now();
+[0;1;32m           ^
+[ 91%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/internal_timer_manager.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/message_deserializer.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/poll_set.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/this_node.cpp.o[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/steady_timer.cpp.o[0m
+[0m1 warning generated.
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/libroscpp.dylib[0m
+[100%] Built target roscpp

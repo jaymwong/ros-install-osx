@@ -1,0 +1,32 @@
+[ 14%] Built target stereo_image_proc_gencfg
+[ 71%] Built target stereo_image_proc
+[100%] Built target stereoimageproc_exe
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/include/stereo_image_proc/DisparityConfig.h
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_image_proc/__init__.py
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_image_proc/lib/python2.7/site-packages/stereo_image_proc/cfg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_image_proc/lib/python2.7/site-packages/stereo_image_proc/cfg/DisparityConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_image_proc/lib/python2.7/site-packages/stereo_image_proc/cfg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_image_proc/cfg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_image_proc/cfg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_image_proc/cfg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_image_proc/cfg/DisparityConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_image_proc/cfg/DisparityConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/stereo_image_proc.pc
+-- Installing: /opt/ros/kinetic/share/stereo_image_proc/cmake/stereo_image_procConfig.cmake
+-- Installing: /opt/ros/kinetic/share/stereo_image_proc/cmake/stereo_image_procConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/stereo_image_proc/package.xml
+-- Installing: /opt/ros/kinetic/lib/libstereo_image_proc.dylib
+-- Installing: /opt/ros/kinetic/share/stereo_image_proc/nodelet_plugins.xml
+-- Installing: /opt/ros/kinetic/lib/stereo_image_proc/stereo_image_proc
+-- Installing: /opt/ros/kinetic/share/stereo_image_proc//launch
+-- Installing: /opt/ros/kinetic/share/stereo_image_proc//launch/stereo_image_proc.launch
+-- Up-to-date: /opt/ros/kinetic/include/stereo_image_proc
+-- Installing: /opt/ros/kinetic/include/stereo_image_proc/processor.h

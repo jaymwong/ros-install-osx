@@ -1,0 +1,6 @@
+ros_comm/rospy
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy/bin/rosconsole /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/bin/rosconsole
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy/lib/pkgconfig/rospy.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/rospy.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy/lib/python2.7/site-packages/rospy/__init__.py /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/python2.7/site-packages/rospy/__init__.py
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy/share/rospy/cmake/rospyConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rospy/cmake/rospyConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy/share/rospy/cmake/rospyConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rospy/cmake/rospyConfig.cmake

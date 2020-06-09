@@ -1,0 +1,18 @@
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/param.cpp:480:42: [0m[0;1;35mwarning: [0m[1munused parameter 'XmlType' [-Wunused-parameter][0m
+template <class T> bool xml_castable(int XmlType) 
+[0;1;32m                                         ^
+[0m1 warning generated.
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/transport/transport_tcp.cpp:171:52: [0m[0;1;35mwarning: [0m[1munused parameter 'idle' [-Wunused-parameter][0m
+void TransportTCP::setKeepAlive(bool use, uint32_t idle, uint32_t interval, uint32_t count)
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/transport/transport_tcp.cpp:171:67: [0m[0;1;35mwarning: [0m[1munused parameter 'interval' [-Wunused-parameter][0m
+void TransportTCP::setKeepAlive(bool use, uint32_t idle, uint32_t interval, uint32_t count)
+[0;1;32m                                                                  ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/transport/transport_tcp.cpp:171:86: [0m[0;1;35mwarning: [0m[1munused parameter 'count' [-Wunused-parameter][0m
+void TransportTCP::setKeepAlive(bool use, uint32_t idle, uint32_t interval, uint32_t count)
+[0;1;32m                                                                                     ^
+[0m3 warnings generated.
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roscpp/src/libros/init.cpp:607:12: [0m[0;1;35mwarning: [0m[1munused variable 'end' [-Wunused-variable][0m
+  WallTime end = WallTime::now();
+[0;1;32m           ^
+[0m1 warning generated.

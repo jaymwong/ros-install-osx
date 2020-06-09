@@ -1,0 +1,136 @@
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/image_common/camera_calibration_parsers/src/parse_yml.cpp:38:
+In file included from /usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/yaml.h:10:
+[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/parser.h:41:3: [0m[0;1;35mwarning: [0m[1mexplicit conversion functions are a C++11 extension [-Wc++11-extensions][0m
+  explicit operator bool() const;
+[0;1;32m  ^~~~~~~~
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/image_common/camera_calibration_parsers/src/parse_yml.cpp:38:
+In file included from /usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/yaml.h:14:
+[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:100:47: [0m[0;1;31merror: [0m[1ma space is required between consecutive right angle brackets (use '> >')[0m
+    const T&, typename disable_if<is_numeric<T>>::type* = 0) {
+[0;1;32m                                              ^~
+[0m[0;32m                                              > >
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:112:50: [0m[0;1;31merror: [0m[1ma space is required between consecutive right angle brackets (use '> >')[0m
+    const T& key, typename enable_if<is_numeric<T>>::type* = 0) {
+[0;1;32m                                                 ^~
+[0m[0;32m                                                 > >
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:123:11: [0m[0;1;31merror: [0m[1mexception specification of overriding function is more lax than base version[0m
+  virtual ~Exception() YAML_CPP_NOEXCEPT;
+[0;1;32m          ^
+[0m[1m/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/stdexcept:106:13: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+    virtual ~runtime_error() _NOEXCEPT;
+[0;1;32m            ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/image_common/camera_calibration_parsers/src/parse_yml.cpp:38:
+In file included from /usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/yaml.h:14:
+[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:123:23: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~Exception() YAML_CPP_NOEXCEPT;
+[0;1;32m                      ^
+[0m[0;32m                      ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:125:33: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  Exception(const Exception&) = default;
+[0;1;32m                                ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:148:45: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  ParserException(const ParserException&) = default;
+[0;1;32m                                            ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:149:29: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~ParserException() YAML_CPP_NOEXCEPT;
+[0;1;32m                            ^
+[0m[0;32m                            ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:156:61: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  RepresentationException(const RepresentationException&) = default;
+[0;1;32m                                                            ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:157:37: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~RepresentationException() YAML_CPP_NOEXCEPT;
+[0;1;32m                                    ^
+[0m[0;32m                                    ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:165:41: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  InvalidScalar(const InvalidScalar&) = default;
+[0;1;32m                                        ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:166:27: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~InvalidScalar() YAML_CPP_NOEXCEPT;
+[0;1;32m                          ^
+[0m[0;32m                          ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:175:37: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  KeyNotFound(const KeyNotFound&) = default;
+[0;1;32m                                    ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:176:25: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~KeyNotFound() YAML_CPP_NOEXCEPT;
+[0;1;32m                        ^
+[0m[0;32m                        ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:184:30: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~TypedKeyNotFound() YAML_CPP_NOEXCEPT {}
+[0;1;32m                             ^
+[0m[0;32m                             ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:183:35: [0m[0;1;31merror: [0m[1mmember initializer 'key' does not name a non-static data member or base class[0m
+      : KeyNotFound(mark_, key_), key(key_) {}
+[0;1;32m                                  ^~~~~~~~~
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:199:37: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  InvalidNode(const InvalidNode&) = default;
+[0;1;32m                                    ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:200:25: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~InvalidNode() YAML_CPP_NOEXCEPT;
+[0;1;32m                        ^
+[0m[0;32m                        ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:207:41: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  BadConversion(const BadConversion&) = default;
+[0;1;32m                                        ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:208:27: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~BadConversion() YAML_CPP_NOEXCEPT;
+[0;1;32m                          ^
+[0m[0;32m                          ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:221:43: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  BadDereference(const BadDereference&) = default;
+[0;1;32m                                          ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:222:28: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~BadDereference() YAML_CPP_NOEXCEPT;
+[0;1;32m                           ^
+[0m[0;32m                           ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:229:39: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  BadSubscript(const BadSubscript&) = default;
+[0;1;32m                                      ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:230:26: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~BadSubscript() YAML_CPP_NOEXCEPT;
+[0;1;32m                         ^
+[0m[0;32m                         ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:237:37: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  BadPushback(const BadPushback&) = default;
+[0;1;32m                                    ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:238:25: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~BadPushback() YAML_CPP_NOEXCEPT;
+[0;1;32m                        ^
+[0m[0;32m                        ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:245:33: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  BadInsert(const BadInsert&) = default;
+[0;1;32m                                ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:246:23: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~BadInsert() YAML_CPP_NOEXCEPT;
+[0;1;32m                      ^
+[0m[0;32m                      ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:253:47: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  EmitterException(const EmitterException&) = default;
+[0;1;32m                                              ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:254:30: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~EmitterException() YAML_CPP_NOEXCEPT;
+[0;1;32m                             ^
+[0m[0;32m                             ;
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:260:29: [0m[0;1;35mwarning: [0m[1mdefaulted function definitions are a C++11 extension [-Wc++11-extensions][0m
+  BadFile(const BadFile&) = default;
+[0;1;32m                            ^
+[0m[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/exceptions.h:261:21: [0m[0;1;31merror: [0m[1mexpected ';' at end of declaration list[0m
+  virtual ~BadFile() YAML_CPP_NOEXCEPT;
+[0;1;32m                    ^
+[0m[0;32m                    ;
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/image_common/camera_calibration_parsers/src/parse_yml.cpp:38:
+In file included from /usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/yaml.h:17:
+In file included from /usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/node/impl.h:11:
+In file included from /usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/node/iterator.h:13:
+In file included from /usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/node/detail/iterator.h:13:
+[1m/usr/local/Cellar/yaml-cpp/0.6.2/include/yaml-cpp/node/detail/node_iterator.h:40:43: [0m[0;1;31merror: [0m[1ma space is required between consecutive right angle brackets (use '> >')[0m
+typedef std::vector<std::pair<node*, node*>> node_map;
+[0;1;32m                                          ^~
+[0m[0;32m                                          > >
+[0m[0;1;31mfatal error: [0mtoo many errors emitted, stopping now [-ferror-limit=][0m
+14 warnings and 20 errors generated.
+make[2]: *** [CMakeFiles/camera_calibration_parsers.dir/src/parse_yml.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/camera_calibration_parsers.dir/all] Error 2
+make: *** [all] Error 2

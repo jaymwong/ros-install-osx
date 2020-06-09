@@ -1,0 +1,33 @@
+[ 60%] Built target roslz4
+[100%] Built target roslz4_py
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roslz4
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslz4/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslz4 /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roslz4/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslz4 install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslz4/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslz4/lib/roslz4
+copying src/roslz4/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslz4/lib/roslz4
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/roslz4
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslz4/lib/roslz4/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslz4
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslz4/__init__.py to __init__.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/roslz4-1.12.14-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/roslz4.pc
+-- Installing: /opt/ros/kinetic/share/roslz4/cmake/roslz4Config.cmake
+-- Installing: /opt/ros/kinetic/share/roslz4/cmake/roslz4Config-version.cmake
+-- Installing: /opt/ros/kinetic/share/roslz4/package.xml
+-- Installing: /opt/ros/kinetic/lib/libroslz4.dylib
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/roslz4/_roslz4.so
+-- Installing: /opt/ros/kinetic/include/roslz4
+-- Installing: /opt/ros/kinetic/include/roslz4/lz4s.h

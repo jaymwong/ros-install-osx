@@ -1,0 +1,6 @@
+[ 16%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/collada_urdf/lib/collada_urdf/collada_to_urdf[0m
+[ 33%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/collada_urdf/lib/libcollada_urdf.dylib[0m
+[ 50%] Built target collada_to_urdf
+[ 66%] Built target collada_urdf
+[ 83%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/collada_urdf/lib/collada_urdf/urdf_to_collada[0m
+[100%] Built target urdf_to_collada

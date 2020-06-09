@@ -1,0 +1,174 @@
+[  0%] Built target _turtlesim_generate_messages_check_deps_Pose
+[  0%] Built target _turtlesim_generate_messages_check_deps_SetPen
+[  0%] Built target _turtlesim_generate_messages_check_deps_TeleportAbsolute
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _turtlesim_generate_messages_check_deps_Kill
+[  0%] Built target _turtlesim_generate_messages_check_deps_Color
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target _turtlesim_generate_messages_check_deps_TeleportRelative
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _turtlesim_generate_messages_check_deps_Spawn
+[ 14%] Built target turtlesim_generate_messages_cpp
+[ 14%] Built target turtlesim_gencpp
+[ 18%] Built target mimic
+[ 30%] Built target turtlesim_node
+[ 30%] Built target std_srvs_generate_messages_nodejs
+[ 30%] Built target std_msgs_generate_messages_nodejs
+[ 30%] Built target geometry_msgs_generate_messages_nodejs
+[ 44%] Built target turtlesim_generate_messages_nodejs
+[ 44%] Built target std_srvs_generate_messages_lisp
+[ 44%] Built target std_msgs_generate_messages_lisp
+[ 44%] Built target geometry_msgs_generate_messages_lisp
+[ 58%] Built target turtlesim_generate_messages_lisp
+[ 58%] Built target std_srvs_generate_messages_py
+[ 58%] Built target std_msgs_generate_messages_py
+[ 58%] Built target geometry_msgs_generate_messages_py
+[ 76%] Built target turtlesim_generate_messages_py
+[ 76%] Built target geometry_msgs_generate_messages_eus
+[ 76%] Built target std_srvs_generate_messages_eus
+[ 76%] Built target std_msgs_generate_messages_eus
+[ 92%] Built target turtlesim_generate_messages_eus
+[ 92%] Built target turtlesim_generate_messages
+[ 96%] Built target draw_square
+[100%] Built target turtle_teleop_key
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/turtlesim/msg/Color.msg
+-- Installing: /opt/ros/kinetic/share/turtlesim/msg/Pose.msg
+-- Installing: /opt/ros/kinetic/share/turtlesim/srv/Kill.srv
+-- Installing: /opt/ros/kinetic/share/turtlesim/srv/SetPen.srv
+-- Installing: /opt/ros/kinetic/share/turtlesim/srv/Spawn.srv
+-- Installing: /opt/ros/kinetic/share/turtlesim/srv/TeleportAbsolute.srv
+-- Installing: /opt/ros/kinetic/share/turtlesim/srv/TeleportRelative.srv
+-- Installing: /opt/ros/kinetic/share/turtlesim/cmake/turtlesim-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/turtlesim
+-- Installing: /opt/ros/kinetic/include/turtlesim/Color.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/Kill.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/KillRequest.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/KillResponse.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/Pose.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/SetPen.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/SetPenRequest.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/SetPenResponse.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/Spawn.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/SpawnRequest.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/SpawnResponse.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/TeleportAbsolute.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/TeleportAbsoluteRequest.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/TeleportAbsoluteResponse.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/TeleportRelative.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/TeleportRelativeRequest.h
+-- Installing: /opt/ros/kinetic/include/turtlesim/TeleportRelativeResponse.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/msg/Color.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/msg/Pose.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/srv/Kill.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/srv/SetPen.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/srv/Spawn.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/srv/TeleportAbsolute.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtlesim/srv/TeleportRelative.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/msg/_package_Color.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/msg/_package_Pose.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/msg/Color.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/msg/Pose.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/msg/turtlesim-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/_package_Kill.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/_package_SetPen.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/_package_Spawn.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/_package_TeleportAbsolute.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/_package_TeleportRelative.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/Kill.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/SetPen.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/Spawn.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/TeleportAbsolute.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/TeleportRelative.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtlesim/srv/turtlesim-srv.asd
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/msg/Color.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/msg/Pose.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/srv/Kill.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/srv/SetPen.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/srv/Spawn.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/srv/TeleportAbsolute.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtlesim/srv/TeleportRelative.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/msg/_Color.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/msg/_Pose.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/srv/_Kill.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/srv/_SetPen.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/srv/_Spawn.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/srv/_TeleportAbsolute.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/srv/_TeleportRelative.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/python2.7/site-packages/turtlesim/srv/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/msg/_Color.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/msg/_Color.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/msg/_Pose.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/msg/_Pose.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_Kill.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_Kill.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_SetPen.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_SetPen.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_Spawn.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_Spawn.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_TeleportAbsolute.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_TeleportAbsolute.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_TeleportRelative.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtlesim/srv/_TeleportRelative.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/turtlesim.pc
+-- Installing: /opt/ros/kinetic/share/turtlesim/cmake/turtlesim-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/turtlesim/cmake/turtlesimConfig.cmake
+-- Installing: /opt/ros/kinetic/share/turtlesim/cmake/turtlesimConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/turtlesim/package.xml
+-- Installing: /opt/ros/kinetic/lib/turtlesim/turtlesim_node
+-- Installing: /opt/ros/kinetic/lib/turtlesim/turtle_teleop_key
+-- Installing: /opt/ros/kinetic/lib/turtlesim/draw_square
+-- Installing: /opt/ros/kinetic/lib/turtlesim/mimic
+-- Installing: /opt/ros/kinetic/share/turtlesim/images
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/box-turtle.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/diamondback.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/electric.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/fuerte.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/groovy.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/hydro.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/hydro.svg
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/indigo.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/indigo.svg
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/jade.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/kinetic.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/kinetic.svg
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/palette.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/robot-turtle.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/sea-turtle.png
+-- Installing: /opt/ros/kinetic/share/turtlesim/images/turtle.png

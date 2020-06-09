@@ -1,0 +1,1751 @@
+[35m[1mScanning dependencies of target gen-pkgconfig[0m
+[  0%] [34m[1mGenerate opencv-3.3.1-dev.pc[0m
+[  0%] Built target gen-pkgconfig
+[35m[1mScanning dependencies of target zlib[0m
+[  0%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/adler32.c.o[0m
+[  0%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/compress.c.o[0m
+[  0%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/crc32.c.o[0m
+[  0%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/deflate.c.o[0m
+[  1%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/gzclose.c.o[0m
+[  1%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/gzlib.c.o[0m
+[  1%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/gzread.c.o[0m
+[  1%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/gzwrite.c.o[0m
+[35m[1mScanning dependencies of target libjpeg[0m
+[  2%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jaricom.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/inflate.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcapimin.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcapistd.c.o[0m
+[35m[1mScanning dependencies of target libjasper[0m
+[  2%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcarith.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_cm.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jccoefct.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/infback.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jccolor.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_debug.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcdctmgr.c.o[0m
+[35m[1mScanning dependencies of target ippiw[0m
+[  2%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/inftrees.c.o[0m
+[  2%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_getopt.c.o[0m
+[  3%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_core.c.o[0m
+[  3%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jchuff.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_icc.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/inffast.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image.c.o[0m
+[35m[1mScanning dependencies of target ittnotify[0m
+[  4%] [32mBuilding C object 3rdparty/ittnotify/CMakeFiles/ittnotify.dir/src/ittnotify/ittnotify_static.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/trees.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_color_convert_all.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_color_convert_rgbs.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/uncompr.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/zlib/CMakeFiles/zlib.dir/zutil.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_filter_bilateral.c.o[0m
+[  4%] [32mBuilding C object 3rdparty/ittnotify/CMakeFiles/ittnotify.dir/src/ittnotify/jitprofiling.c.o[0m
+[  5%] [32m[1mLinking C static library ../lib/libzlib.a[0m
+[  5%] [32m[1mLinking C static library ../lib/libittnotify.a[0m
+[  5%] Built target zlib
+[  5%] Built target ittnotify
+[  5%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcinit.c.o[0m
+[  5%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_iccdata.c.o[0m
+[  5%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_filter_box.c.o[0m
+[35m[1mScanning dependencies of target libprotobuf[0m
+[  5%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_filter_canny.c.o[0m
+[  5%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcmainct.c.o[0m
+[  5%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcmarker.c.o[0m
+[35m[1mScanning dependencies of target gen_opencv_python_source[0m
+[  5%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_filter_gaussian.c.o[0m
+[  5%] [34m[1mGenerate files for Python bindings and documentation[0m
+[  5%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_image.c.o[0m
+[  5%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_filter_general.c.o[0m
+[  5%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/arena.cc.o[0m
+[  5%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_filter_laplacian.c.o[0m
+[  6%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcmaster.c.o[0m
+[  6%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_filter_morphology.c.o[0m
+[  6%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcomapi.c.o[0m
+[  6%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/arenastring.cc.o[0m
+[  6%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_init.c.o[0m
+[  6%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcparam.c.o[0m
+[  7%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_filter_scharr.c.o[0m
+[  7%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_malloc.c.o[0m
+[  7%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/extension_set.cc.o[0m
+[  7%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_seq.c.o[0m
+[  7%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_filter_sobel.c.o[0m
+[  7%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcprepct.c.o[0m
+[  7%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_op_copy.c.o[0m
+[  7%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_stream.c.o[0m
+[  7%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jcsample.c.o[0m
+[  7%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_op_copy_channel.c.o[0m
+[  7%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_op_copy_make_border.c.o[0m
+[  8%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_util.cc.o[0m
+[  8%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jctrans.c.o[0m
+[  8%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_string.c.o[0m
+[  8%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tmr.c.o[0m
+[  8%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdapimin.c.o[0m
+[  8%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_tvp.c.o[0m
+[  8%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_op_copy_merge.c.o[0m
+[  8%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdapistd.c.o[0m
+[  8%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jas_version.c.o[0m
+[  9%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_cod.c.o[0m
+[  9%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdarith.c.o[0m
+[  9%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/coded_stream.cc.o[0m
+[  9%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_op_copy_split.c.o[0m
+[  9%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_op_scale.c.o[0m
+[  9%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdatadst.c.o[0m
+[  9%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/zero_copy_stream.cc.o[0m
+[  9%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_dec.c.o[0m
+[  9%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdatasrc.c.o[0m
+[  9%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_op_set.c.o[0m
+[ 10%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdcoefct.c.o[0m
+[ 10%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jp2_enc.c.o[0m
+[ 10%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_op_set_channel.c.o[0m
+[ 10%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_bs.c.o[0m
+[ 10%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdcolor.c.o[0m
+[ 10%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/zero_copy_stream_impl_lite.cc.o[0m
+[ 10%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_op_swap_channels.c.o[0m
+[ 10%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_cs.c.o[0m
+[ 10%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jddctmgr.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_transform_mirror.c.o[0m
+[ 11%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/message_lite.cc.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdhuff.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_transform_resize.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_dec.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_transform_rotate.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdinput.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_image_transform_warpaffine.c.o[0m
+[ 11%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/repeated_field.cc.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdmainct.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/ippiw/CMakeFiles/ippiw.dir/src/iw_own.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdmarker.c.o[0m
+[ 11%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/atomicops_internals_x86_gcc.cc.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_enc.c.o[0m
+[ 11%] [32m[1mLinking C static library ../lib/libippiw.a[0m
+[ 11%] Built target ippiw
+[ 11%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdmaster.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_math.c.o[0m
+[35m[1mScanning dependencies of target libtiff[0m
+[ 11%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/bytestream.cc.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mct.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_aux.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdmerge.c.o[0m
+[35m[1mScanning dependencies of target libpng[0m
+[ 11%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_close.c.o[0m
+[ 11%] Built target gen_opencv_python_source
+[ 11%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/common.cc.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdpostct.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqcod.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/png.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_codec.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdsample.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_color.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqdec.c.o[0m
+[35m[1mScanning dependencies of target IlmImf[0m
+[ 11%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jdtrans.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_compress.c.o[0m
+[ 11%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngerror.c.o[0m
+[ 12%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jerror.c.o[0m
+[ 12%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jfdctflt.c.o[0m
+[ 12%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dir.c.o[0m
+[ 12%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/Half/half.cpp.o[0m
+[ 12%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jfdctfst.c.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_mqenc.c.o[0m
+[ 13%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/int128.cc.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jfdctint.c.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngget.c.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_qmfb.c.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirinfo.c.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngmem.c.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngpread.c.o[0m
+[ 13%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/Iex/IexBaseExc.cpp.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirread.c.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngread.c.o[0m
+[ 13%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/once.cc.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jidctflt.c.o[0m
+[ 13%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/Iex/IexThrowErrnoExc.cpp.o[0m
+[ 13%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1cod.c.o[0m
+[ 14%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/status.cc.o[0m
+[ 14%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jidctfst.c.o[0m
+[ 14%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jidctint.c.o[0m
+[ 14%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngrio.c.o[0m
+[ 14%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmThread/IlmThread.cpp.o[0m
+[ 14%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngrtran.c.o[0m
+[ 15%] [34m[1mProcessing OpenCL kernels (core)[0m
+[35m[1mScanning dependencies of target opencv_core[0m
+[ 15%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dirwrite.c.o[0m
+[ 15%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/statusor.cc.o[0m
+[ 15%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmThread/IlmThreadMutex.cpp.o[0m
+[ 15%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmThread/IlmThreadMutexPosix.cpp.o[0m
+[ 15%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1dec.c.o[0m
+[ 15%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/stringpiece.cc.o[0m
+[ 15%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_dumpmode.c.o[0m
+[ 15%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmThread/IlmThreadPool.cpp.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_error.c.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jmemmgr.c.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_extension.c.o[0m
+[ 16%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/algorithm.cpp.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3.c.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngrutil.c.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jmemnobs.c.o[0m
+[ 16%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/stringprintf.cc.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jquant1.c.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t1enc.c.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jquant2.c.o[0m
+[ 16%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/structurally_valid.cc.o[0m
+[ 16%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmThread/IlmThreadPosix.cpp.o[0m
+[ 16%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_fax3sm.c.o[0m
+[ 17%] [32mBuilding C object 3rdparty/libjpeg/CMakeFiles/libjpeg.dir/jutils.c.o[0m
+[ 18%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngset.c.o[0m
+[ 18%] [32m[1mLinking C static library ../lib/liblibjpeg.a[0m
+[ 18%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/strutil.cc.o[0m
+[ 18%] Built target libjpeg
+[ 18%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/alloc.cpp.o[0m
+[ 18%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_flush.c.o[0m
+[ 18%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2cod.c.o[0m
+[ 18%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmThread/IlmThreadSemaphore.cpp.o[0m
+[ 18%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmThread/IlmThreadSemaphorePosix.cpp.o[0m
+[ 18%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_getimage.c.o[0m
+[ 18%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmThread/IlmThreadSemaphorePosixCompat.cpp.o[0m
+[ 18%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngtrans.c.o[0m
+[ 18%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngwio.c.o[0m
+[ 18%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2dec.c.o[0m
+[ 18%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngwrite.c.o[0m
+[ 18%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_t2enc.c.o[0m
+[ 19%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/Imath/ImathColorAlgo.cpp.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngwtran.c.o[0m
+[ 19%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/time.cc.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tagtree.c.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jbig.c.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_tsfb.c.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/pngwutil.c.o[0m
+[ 19%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/Imath/ImathFun.cpp.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libjasper/CMakeFiles/libjasper.dir/jpc_util.c.o[0m
+[ 19%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/arithm.cpp.o[0m
+[ 19%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/Imath/ImathMatrixAlgo.cpp.o[0m
+[ 19%] [32m[1mLinking C static library ../lib/liblibjasper.a[0m
+[ 19%] Built target libjasper
+[ 19%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg_12.c.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/intel/intel_init.c.o[0m
+[ 19%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/array.cpp.o[0m
+[ 19%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/wire_format_lite.cc.o[0m
+[ 19%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/Imath/ImathRandom.cpp.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_jpeg.c.o[0m
+[ 19%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/command_line_parser.cpp.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libpng/CMakeFiles/libpng.dir/intel/filter_sse2_intrinsics.c.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_luv.c.o[0m
+[ 19%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/any.cc.o[0m
+[ 19%] [32m[1mLinking C static library ../lib/liblibpng.a[0m
+[ 19%] Built target libpng
+[ 19%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/conjugate_gradient.cpp.o[0m
+[ 19%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzma.c.o[0m
+[ 19%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/convert.cpp.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_lzw.c.o[0m
+[ 20%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/any.pb.cc.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_next.c.o[0m
+[ 20%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/Imath/ImathVec.cpp.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_ojpeg.c.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_open.c.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_packbits.c.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_pixarlog.c.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_predict.c.o[0m
+[ 20%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfAcesFile.cpp.o[0m
+[ 20%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/api.pb.cc.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_print.c.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_read.c.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_strip.c.o[0m
+[ 20%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfAttribute.cpp.o[0m
+[ 20%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_swab.c.o[0m
+[ 21%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/descriptor.cc.o[0m
+[ 22%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_thunder.c.o[0m
+[ 22%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/copy.cpp.o[0m
+[ 22%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_tile.c.o[0m
+[ 22%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_version.c.o[0m
+[ 22%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_warning.c.o[0m
+[ 22%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_write.c.o[0m
+[ 22%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/descriptor.pb.cc.o[0m
+[ 22%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_zip.c.o[0m
+[ 22%] [32mBuilding CXX object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_stream.cxx.o[0m
+[ 22%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfB44Compressor.cpp.o[0m
+[ 22%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/cuda_gpu_mat.cpp.o[0m
+[ 22%] [32mBuilding C object 3rdparty/libtiff/CMakeFiles/libtiff.dir/tif_unix.c.o[0m
+[ 22%] [32m[1mLinking CXX static library ../lib/liblibtiff.a[0m
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_jbig.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_jpeg_12.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_lzma.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_ojpeg.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_pixarlog.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_jbig.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_jpeg_12.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_lzma.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_ojpeg.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibtiff.a(tif_pixarlog.c.o) has no symbols
+[ 22%] Built target libtiff
+[ 22%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfBoxAttribute.cpp.o[0m
+[ 22%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/descriptor_database.cc.o[0m
+[ 22%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfCRgbaFile.cpp.o[0m
+[ 22%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/duration.pb.cc.o[0m
+[ 22%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfChannelList.cpp.o[0m
+[ 22%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/dynamic_message.cc.o[0m
+[ 23%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfChannelListAttribute.cpp.o[0m
+[ 23%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/cuda_host_mem.cpp.o[0m
+[ 23%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfChromaticities.cpp.o[0m
+[ 23%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/cuda_info.cpp.o[0m
+[ 23%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfChromaticitiesAttribute.cpp.o[0m
+[ 24%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/cuda_stream.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfCompressionAttribute.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfCompressor.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/empty.pb.cc.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfConvert.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/extension_set_heavy.cc.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfDoubleAttribute.cpp.o[0m
+[ 24%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/datastructs.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/field_mask.pb.cc.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfEnvmap.cpp.o[0m
+[ 24%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/directx.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfEnvmapAttribute.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/generated_message_reflection.cc.o[0m
+[ 24%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/downhill_simplex.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfFloatAttribute.cpp.o[0m
+[ 24%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/dxt.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfFrameBuffer.cpp.o[0m
+[ 24%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/gzip_stream.cc.o[0m
+[ 24%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/gl_core_3_1.cpp.o[0m
+[ 25%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfFramesPerSecond.cpp.o[0m
+[ 25%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfHeader.cpp.o[0m
+[ 25%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/printer.cc.o[0m
+[ 25%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/glob.cpp.o[0m
+[ 25%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfHuf.cpp.o[0m
+[ 25%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/hal_internal.cpp.o[0m
+[ 25%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfIO.cpp.o[0m
+[ 25%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/strtod.cc.o[0m
+[ 25%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/kmeans.cpp.o[0m
+[ 26%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/tokenizer.cc.o[0m
+[ 26%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/lapack.cpp.o[0m
+[ 26%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfInputFile.cpp.o[0m
+[ 26%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/io/zero_copy_stream_impl.cc.o[0m
+[ 26%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/lda.cpp.o[0m
+[ 26%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfIntAttribute.cpp.o[0m
+[ 26%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/map_field.cc.o[0m
+[ 27%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/lpsolver.cpp.o[0m
+[ 27%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfKeyCode.cpp.o[0m
+[ 27%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfKeyCodeAttribute.cpp.o[0m
+[ 27%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfLineOrderAttribute.cpp.o[0m
+[ 27%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfLut.cpp.o[0m
+[ 27%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/message.cc.o[0m
+[ 27%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/mathfuncs.cpp.o[0m
+[ 27%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/reflection_ops.cc.o[0m
+[ 27%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfMatrixAttribute.cpp.o[0m
+[ 27%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/mathfuncs_core.dispatch.cpp.o[0m
+[ 27%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfMisc.cpp.o[0m
+[ 27%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/matmul.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfMultiView.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/service.cc.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfOpaqueAttribute.cpp.o[0m
+[ 28%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/matop.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfOutputFile.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/source_context.pb.cc.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfPizCompressor.cpp.o[0m
+[ 28%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/matrix.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/struct.pb.cc.o[0m
+[ 28%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/matrix_decomp.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfPreviewImage.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/mathlimits.cc.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfPreviewImageAttribute.cpp.o[0m
+[ 28%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/merge.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfPxr24Compressor.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfRational.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfRationalAttribute.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/stubs/substitute.cc.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfRgbaFile.cpp.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/text_format.cc.o[0m
+[ 28%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfRgbaYca.cpp.o[0m
+[ 29%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/timestamp.pb.cc.o[0m
+[ 30%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfRleCompressor.cpp.o[0m
+[ 30%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/ocl.cpp.o[0m
+[ 30%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/type.pb.cc.o[0m
+[ 30%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/opencl/runtime/opencl_clamdblas.cpp.o[0m
+[ 30%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfScanLineInputFile.cpp.o[0m
+[ 30%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/unknown_field_set.cc.o[0m
+[ 30%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfStandardAttributes.cpp.o[0m
+[ 30%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/opencl/runtime/opencl_clamdfft.cpp.o[0m
+[ 31%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/opencl/runtime/opencl_core.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/field_comparator.cc.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfStdIO.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/field_mask_util.cc.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfStringAttribute.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/datapiece.cc.o[0m
+[ 31%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/opengl.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfStringVectorAttribute.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/default_value_objectwriter.cc.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfTestFile.cpp.o[0m
+[ 31%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/out.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/field_mask_utility.cc.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfThreading.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfTileDescriptionAttribute.cpp.o[0m
+[ 31%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/ovx.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfTileOffsets.cpp.o[0m
+[ 31%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/parallel.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/json_escaping.cc.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfTiledInputFile.cpp.o[0m
+[ 31%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/json_objectwriter.cc.o[0m
+[ 31%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/parallel_pthreads.cpp.o[0m
+[ 32%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfTiledMisc.cpp.o[0m
+[ 32%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/json_stream_parser.cc.o[0m
+[ 32%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfTiledOutputFile.cpp.o[0m
+[ 32%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/pca.cpp.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/object_writer.cc.o[0m
+[ 33%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/persistence.cpp.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfTiledRgbaFile.cpp.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/proto_writer.cc.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfTimeCode.cpp.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/protostream_objectsource.cc.o[0m
+[ 33%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/rand.cpp.o[0m
+[ 33%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/softfloat.cpp.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfTimeCodeAttribute.cpp.o[0m
+[ 33%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/split.cpp.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfVecAttribute.cpp.o[0m
+[ 33%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/stat.cpp.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/protostream_objectwriter.cc.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfVersion.cpp.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/type_info.cc.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfWav.cpp.o[0m
+[ 33%] [32mBuilding CXX object 3rdparty/openexr/CMakeFiles/IlmImf.dir/IlmImf/ImfZipCompressor.cpp.o[0m
+[ 33%] [32m[1mLinking CXX static library ../lib/libIlmImf.a[0m
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/libIlmImf.a(IlmThread.cpp.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/libIlmImf.a(IlmThreadMutex.cpp.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/libIlmImf.a(IlmThreadSemaphore.cpp.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/libIlmImf.a(IlmThreadSemaphorePosix.cpp.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/libIlmImf.a(IlmThread.cpp.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/libIlmImf.a(IlmThreadMutex.cpp.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/libIlmImf.a(IlmThreadSemaphore.cpp.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/libIlmImf.a(IlmThreadSemaphorePosix.cpp.o) has no symbols
+[ 33%] Built target IlmImf
+[ 33%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/internal/utility.cc.o[0m
+[ 34%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/stat.dispatch.cpp.o[0m
+[ 34%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/json_util.cc.o[0m
+[ 34%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/message_differencer.cc.o[0m
+[ 34%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/stl.cpp.o[0m
+[ 34%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/time_util.cc.o[0m
+[ 34%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/system.cpp.o[0m
+[ 34%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/tables.cpp.o[0m
+[ 34%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/trace.cpp.o[0m
+[ 34%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/util/type_resolver_util.cc.o[0m
+[ 34%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/wire_format.cc.o[0m
+[ 35%] [32mBuilding CXX object 3rdparty/protobuf/CMakeFiles/libprotobuf.dir/src/google/protobuf/wrappers.pb.cc.o[0m
+[ 35%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/types.cpp.o[0m
+[ 35%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/umatrix.cpp.o[0m
+[ 35%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/utils/filesystem.cpp.o[0m
+[ 35%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/va_intel.cpp.o[0m
+[ 35%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/opencl_kernels_core.cpp.o[0m
+[ 35%] [32m[1mLinking CXX static library ../lib/liblibprotobuf.a[0m
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibprotobuf.a(atomicops_internals_x86_gcc.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibprotobuf.a(gzip_stream.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibprotobuf.a(atomicops_internals_x86_gcc.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: ../lib/liblibprotobuf.a(gzip_stream.cc.o) has no symbols
+[ 35%] Built target libprotobuf
+[ 35%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/mathfuncs_core.sse2.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/convert.sse4_1.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/stat.sse4_2.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/convert.fp16.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/mathfuncs_core.avx.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/src/convert.avx2.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/mathfuncs_core.avx2.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/core/CMakeFiles/opencv_core.dir/stat.avx2.cpp.o[0m
+[ 36%] [32m[1mLinking CXX shared library ../../lib/libopencv_core3.dylib[0m
+[ 36%] Built target opencv_core
+[35m[1mScanning dependencies of target opencv_flann[0m
+[35m[1mScanning dependencies of target opencv_ml[0m
+[35m[1mScanning dependencies of target opencv_hdf[0m
+[ 36%] [34m[1mProcessing OpenCL kernels (imgproc)[0m
+[35m[1mScanning dependencies of target opencv_viz[0m
+[ 36%] [32mBuilding CXX object modules/hdf/CMakeFiles/opencv_hdf.dir/src/hdf5.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/flann/CMakeFiles/opencv_flann.dir/src/flann.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/flann/CMakeFiles/opencv_flann.dir/src/miniflann.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_imgproc[0m
+[ 36%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/boost.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/ann_mlp.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/data.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/clouds.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/accum.cpp.o[0m
+[ 36%] [32m[1mLinking CXX shared library ../../lib/libopencv_hdf3.dylib[0m
+[ 36%] Built target opencv_hdf
+[ 36%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/em.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/shapes.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/clouds.cpp:80:13: [0m[0;1;35mwarning: [0m[1m'ImmediateModeRenderingOff' is deprecated [-Wdeprecated-declarations][0m
+    mapper->ImmediateModeRenderingOff();
+[0;1;32m            ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:218:3: [0m[0;1;30mnote: [0m'ImmediateModeRenderingOff' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(void ImmediateModeRenderingOff());
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/clouds.cpp:120:13: [0m[0;1;35mwarning: [0m[1m'ImmediateModeRenderingOff' is deprecated [-Wdeprecated-declarations][0m
+    mapper->ImmediateModeRenderingOff();
+[0;1;32m            ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:218:3: [0m[0;1;30mnote: [0m'ImmediateModeRenderingOff' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(void ImmediateModeRenderingOff());
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/clouds.cpp:146:13: [0m[0;1;35mwarning: [0m[1m'ImmediateModeRenderingOff' is deprecated [-Wdeprecated-declarations][0m
+    mapper->ImmediateModeRenderingOff();
+[0;1;32m            ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:218:3: [0m[0;1;30mnote: [0m'ImmediateModeRenderingOff' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(void ImmediateModeRenderingOff());
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/clouds.cpp:185:13: [0m[0;1;35mwarning: [0m[1m'ImmediateModeRenderingOff' is deprecated [-Wdeprecated-declarations][0m
+    mapper->ImmediateModeRenderingOff();
+[0;1;32m            ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:218:3: [0m[0;1;30mnote: [0m'ImmediateModeRenderingOff' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(void ImmediateModeRenderingOff());
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/clouds.cpp:214:13: [0m[0;1;35mwarning: [0m[1m'ImmediateModeRenderingOff' is deprecated [-Wdeprecated-declarations][0m
+    mapper->ImmediateModeRenderingOff();
+[0;1;32m            ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:218:3: [0m[0;1;30mnote: [0m'ImmediateModeRenderingOff' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(void ImmediateModeRenderingOff());
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/clouds.cpp:419:13: [0m[0;1;35mwarning: [0m[1m'ImmediateModeRenderingOff' is deprecated [-Wdeprecated-declarations][0m
+    mapper->ImmediateModeRenderingOff();
+[0;1;32m            ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:218:3: [0m[0;1;30mnote: [0m'ImmediateModeRenderingOff' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(void ImmediateModeRenderingOff());
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/clouds.cpp:471:13: [0m[0;1;35mwarning: [0m[1m'ImmediateModeRenderingOff' is deprecated [-Wdeprecated-declarations][0m
+    mapper->ImmediateModeRenderingOff();
+[0;1;32m            ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:218:3: [0m[0;1;30mnote: [0m'ImmediateModeRenderingOff' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(void ImmediateModeRenderingOff());
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[ 36%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/accum.dispatch.cpp.o[0m
+[0m7 warnings generated.
+[ 36%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/gbt.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/types.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/viz3d.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/approx.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vizcore.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/blend.cpp.o[0m
+[ 36%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/inner_functions.cpp.o[0m
+[ 37%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/canny.cpp.o[0m
+[ 37%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/kdtree.cpp.o[0m
+[ 37%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vizimpl.cpp.o[0m
+[ 38%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/knearest.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vtk/vtkCloudMatSink.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/clahe.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/lr.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vtk/vtkCloudMatSource.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/color.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/colormap.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/nbayes.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vtk/vtkImageMatSource.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vtk/vtkOBJWriter.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/connectedcomponents.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/rtrees.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/contours.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vtk/vtkTrajectorySource.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/convhull.cpp.o[0m
+[ 39%] [32m[1mLinking CXX shared library ../../lib/libopencv_flann3.dylib[0m
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vtk/vtkVizInteractorStyle.cpp.o[0m
+[ 39%] Built target opencv_flann
+[ 39%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/svm.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vtk/vtkXYZReader.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/corner.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_surface_matching[0m
+[ 39%] [32mBuilding CXX object modules/surface_matching/CMakeFiles/opencv_surface_matching.dir/src/icp.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vtk/vtkXYZWriter.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/surface_matching/CMakeFiles/opencv_surface_matching.dir/src/pose_3d.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/cornersubpix.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/surface_matching/CMakeFiles/opencv_surface_matching.dir/src/ppf_helpers.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/widget.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/svmsgd.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/demosaicing.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/testset.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/surface_matching/CMakeFiles/opencv_surface_matching.dir/src/ppf_match_3d.cpp.o[0m
+[ 39%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/deriv.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/widget.cpp:94:13: [0m[0;1;35mwarning: [0m[1m'ImmediateModeRenderingOff' is deprecated [-Wdeprecated-declarations][0m
+    mapper->ImmediateModeRenderingOff();
+[0;1;32m            ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:218:3: [0m[0;1;30mnote: [0m'ImmediateModeRenderingOff' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(void ImmediateModeRenderingOff());
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/widget.cpp:116:55: [0m[0;1;35mwarning: [0m[1m'SetImmediateModeRendering' is deprecated [-Wdeprecated-declarations][0m
+        case IMMEDIATE_RENDERING: actor->GetMapper()->SetImmediateModeRendering(int(value)); break;
+[0;1;32m                                                      ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:215:3: [0m[0;1;30mnote: [0m'SetImmediateModeRendering' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(void SetImmediateModeRendering(int));
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/modules/viz/src/widget.cpp:194:64: [0m[0;1;35mwarning: [0m[1m'GetImmediateModeRendering' is deprecated [-Wdeprecated-declarations][0m
+        case IMMEDIATE_RENDERING:  value = actor->GetMapper()->GetImmediateModeRendering();  break;
+[0;1;32m                                                               ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkMapper.h:216:3: [0m[0;1;30mnote: [0m'GetImmediateModeRendering' has been explicitly marked deprecated here[0m
+  VTK_LEGACY(int GetImmediateModeRendering());
+[0;1;32m  ^
+[0m[1m/usr/local/Cellar/vtk/8.1.1/include/vtk-8.1/vtkSetGet.h:883:52: [0m[0;1;30mnote: [0mexpanded from macro 'VTK_LEGACY'[0m
+#  define VTK_LEGACY(method) method __attribute__((deprecated))
+[0;1;32m                                                   ^
+[0m3 warnings generated.
+[ 39%] [32mBuilding CXX object modules/viz/CMakeFiles/opencv_viz.dir/src/vtk/vtkCocoaInteractorFix.mm.o[0m
+[ 39%] [32mBuilding CXX object modules/surface_matching/CMakeFiles/opencv_surface_matching.dir/src/t_hash_int.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/distransform.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/ml/CMakeFiles/opencv_ml.dir/src/tree.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/drawing.cpp.o[0m
+[ 40%] [32m[1mLinking CXX shared library ../../lib/libopencv_viz3.dylib[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/emd.cpp.o[0m
+[ 40%] Built target opencv_viz
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/featureselect.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/filter.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/floodfill.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/gabor.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/generalized_hough.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/geometry.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/grabcut.cpp.o[0m
+[ 40%] [32m[1mLinking CXX shared library ../../lib/libopencv_ml3.dylib[0m
+[ 40%] Built target opencv_ml
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/hershey_fonts.cpp.o[0m
+[ 40%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/histogram.cpp.o[0m
+[ 40%] [32m[1mLinking CXX shared library ../../lib/libopencv_surface_matching3.dylib[0m
+[ 40%] Built target opencv_surface_matching
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/hough.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/imgwarp.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/intersection.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/linefit.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/lsd.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/main.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/matchcontours.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/min_enclosing_triangle.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/moments.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/morph.cpp.o[0m
+[ 41%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/phasecorr.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/pyramids.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/resize.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/rotcalipers.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/samplers.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/segmentation.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/shapedescr.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/smooth.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/spatialgradient.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/subdivision2d.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/sumpixels.cpp.o[0m
+[ 42%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/tables.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/templmatch.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/thresh.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/undistort.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/utils.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/opencl_kernels_imgproc.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/accum.sse2.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/imgwarp.sse4_1.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/resize.sse4_1.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/corner.avx.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/accum.avx.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/filter.avx2.cpp.o[0m
+[ 43%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/imgwarp.avx2.cpp.o[0m
+[ 44%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/resize.avx2.cpp.o[0m
+[ 44%] [32mBuilding CXX object modules/imgproc/CMakeFiles/opencv_imgproc.dir/src/undistort.avx2.cpp.o[0m
+[ 44%] [32m[1mLinking CXX shared library ../../lib/libopencv_imgproc3.dylib[0m
+[ 44%] Built target opencv_imgproc
+[ 44%] [34m[1mProcessing OpenCL kernels (objdetect)[0m
+[ 45%] [34m[1mProcessing OpenCL kernels (photo)[0m
+[ 45%] [34m[1mProcessing OpenCL kernels (video)[0m
+[35m[1mScanning dependencies of target opencv_phase_unwrapping[0m
+[35m[1mScanning dependencies of target opencv_plot[0m
+[35m[1mScanning dependencies of target opencv_reg[0m
+[35m[1mScanning dependencies of target opencv_xphoto[0m
+[ 45%] [34m[1mProcessing OpenCL kernels (dnn)[0m
+[35m[1mScanning dependencies of target opencv_photo[0m
+[35m[1mScanning dependencies of target opencv_objdetect[0m
+[35m[1mScanning dependencies of target opencv_video[0m
+[ 45%] [32mBuilding CXX object modules/plot/CMakeFiles/opencv_plot.dir/src/plot.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/xphoto/CMakeFiles/opencv_xphoto.dir/src/bm3d_image_denoising.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_dnn[0m
+[ 46%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/map.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/phase_unwrapping/CMakeFiles/opencv_phase_unwrapping.dir/src/histogramphaseunwrapping.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/cascadedetect.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/src/bgfg_KNN.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/align.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/misc/tensorflow/attr_value.pb.cc.o[0m
+[ 46%] [32mBuilding CXX object modules/xphoto/CMakeFiles/opencv_xphoto.dir/src/dct_image_denoising.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mapaffine.cpp.o[0m
+[ 46%] [32m[1mLinking CXX shared library ../../lib/libopencv_plot3.dylib[0m
+[ 46%] Built target opencv_plot
+[ 46%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/calibrate.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mapper.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/src/bgfg_gaussmix2.cpp.o[0m
+[ 46%] [32m[1mLinking CXX shared library ../../lib/libopencv_phase_unwrapping3.dylib[0m
+[ 46%] [32mBuilding CXX object modules/xphoto/CMakeFiles/opencv_xphoto.dir/src/grayworld_white_balance.cpp.o[0m
+[ 46%] Built target opencv_phase_unwrapping
+[ 46%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/contrast_preserve.cpp.o[0m
+[ 46%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/misc/tensorflow/function.pb.cc.o[0m
+[ 46%] [32mBuilding CXX object modules/xphoto/CMakeFiles/opencv_xphoto.dir/src/inpainting.cpp.o[0m
+[ 47%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mappergradaffine.cpp.o[0m
+[ 47%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/src/camshift.cpp.o[0m
+[ 47%] [32mBuilding CXX object modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/cascadedetect_convert.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_freetype[0m
+[ 47%] [32mBuilding CXX object modules/freetype/CMakeFiles/opencv_freetype.dir/src/freetype.cpp.o[0m
+[ 47%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mappergradeuclid.cpp.o[0m
+[ 47%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/denoise_tvl1.cpp.o[0m
+[ 47%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/src/compat_video.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_fuzzy[0m
+[ 47%] [32mBuilding CXX object modules/fuzzy/CMakeFiles/opencv_fuzzy.dir/src/fuzzy_F0_math.cpp.o[0m
+[ 47%] [32m[1mLinking CXX shared library ../../lib/libopencv_freetype3.dylib[0m
+[ 47%] Built target opencv_freetype
+[ 47%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mappergradproj.cpp.o[0m
+[ 47%] [32mBuilding CXX object modules/xphoto/CMakeFiles/opencv_xphoto.dir/src/learning_based_color_balance.cpp.o[0m
+[ 47%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/misc/tensorflow/graph.pb.cc.o[0m
+[ 48%] [32mBuilding CXX object modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/detection_based_tracker.cpp.o[0m
+[ 48%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/denoising.cpp.o[0m
+[ 49%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/src/ecc.cpp.o[0m
+[ 49%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mappergradshift.cpp.o[0m
+[ 49%] [32mBuilding CXX object modules/fuzzy/CMakeFiles/opencv_fuzzy.dir/src/fuzzy_F1_math.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_img_hash[0m
+[ 49%] [32mBuilding CXX object modules/img_hash/CMakeFiles/opencv_img_hash.dir/src/average_hash.cpp.o[0m
+[ 49%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mappergradsimilar.cpp.o[0m
+[ 49%] [32mBuilding CXX object modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/haar.cpp.o[0m
+[ 49%] [32mBuilding CXX object modules/img_hash/CMakeFiles/opencv_img_hash.dir/src/block_mean_hash.cpp.o[0m
+[ 49%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/misc/tensorflow/op_def.pb.cc.o[0m
+[ 49%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mapperpyramid.cpp.o[0m
+[ 49%] [32mBuilding CXX object modules/img_hash/CMakeFiles/opencv_img_hash.dir/src/color_moment_hash.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/fuzzy/CMakeFiles/opencv_fuzzy.dir/src/fuzzy_image.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/src/kalman.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mapprojec.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/img_hash/CMakeFiles/opencv_img_hash.dir/src/img_hash_base.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/misc/tensorflow/tensor.pb.cc.o[0m
+[ 50%] [32mBuilding CXX object modules/reg/CMakeFiles/opencv_reg.dir/src/mapshift.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/hog.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/img_hash/CMakeFiles/opencv_img_hash.dir/src/marr_hildreth_hash.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/src/lkpyramid.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library ../../lib/libopencv_fuzzy3.dylib[0m
+[ 50%] Built target opencv_fuzzy
+[ 50%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/denoising.cuda.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library ../../lib/libopencv_reg3.dylib[0m
+[ 50%] Built target opencv_reg
+[ 50%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/misc/tensorflow/tensor_shape.pb.cc.o[0m
+[ 50%] [32mBuilding CXX object modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/main.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/img_hash/CMakeFiles/opencv_img_hash.dir/src/phash.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/src/optflowgf.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/misc/tensorflow/types.pb.cc.o[0m
+[ 50%] [32mBuilding CXX object modules/xphoto/CMakeFiles/opencv_xphoto.dir/src/simple_color_balance.cpp.o[0m
+[ 50%] [32mBuilding CXX object modules/img_hash/CMakeFiles/opencv_img_hash.dir/src/radial_variance_hash.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/misc/tensorflow/versions.pb.cc.o[0m
+[ 51%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/hdr_common.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/misc/caffe/opencv-caffe.pb.cc.o[0m
+[ 51%] [32m[1mLinking CXX shared library ../../lib/libopencv_img_hash3.dylib[0m
+[ 51%] Built target opencv_img_hash
+[ 51%] [32mBuilding CXX object modules/objdetect/CMakeFiles/opencv_objdetect.dir/opencl_kernels_objdetect.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/inpaint.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/caffe/caffe_importer.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/objdetect/CMakeFiles/opencv_objdetect.dir/src/haar.avx.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/src/tvl1flow.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/caffe/caffe_io.cpp.o[0m
+[ 51%] [32m[1mLinking CXX shared library ../../lib/libopencv_objdetect3.dylib[0m
+[ 51%] Built target opencv_objdetect
+[ 51%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/caffe/caffe_shrinker.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_imgcodecs[0m
+[ 51%] [32mBuilding CXX object modules/video/CMakeFiles/opencv_video.dir/opencl_kernels_video.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/merge.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/loadsave.cpp.o[0m
+[ 51%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/utils.cpp.o[0m
+[ 52%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_base.cpp.o[0m
+[ 52%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/npr.cpp.o[0m
+[ 52%] [32m[1mLinking CXX shared library ../../lib/libopencv_video3.dylib[0m
+[ 52%] Built target opencv_video
+[ 52%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/darknet/darknet_importer.cpp.o[0m
+[ 52%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_bmp.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_shape[0m
+[ 52%] [32mBuilding CXX object modules/shape/CMakeFiles/opencv_shape.dir/src/aff_trans.cpp.o[0m
+[ 52%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/darknet/darknet_io.cpp.o[0m
+[ 52%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_exr.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/seamless_cloning.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/shape/CMakeFiles/opencv_shape.dir/src/emdL1.cpp.o[0m
+[ 53%] [32m[1mLinking CXX shared library ../../lib/libopencv_xphoto3.dylib[0m
+[ 53%] Built target opencv_xphoto
+[ 53%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/seamless_cloning_impl.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/dnn.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_gdal.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/src/tonemap.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/halide_scheduler.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_gdcm.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/shape/CMakeFiles/opencv_shape.dir/src/haus_dis.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/init.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_hdr.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/photo/CMakeFiles/opencv_photo.dir/opencl_kernels_photo.cpp.o[0m
+[ 53%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/batch_norm_layer.cpp.o[0m
+[ 54%] [32mBuilding CXX object modules/shape/CMakeFiles/opencv_shape.dir/src/hist_cost.cpp.o[0m
+[ 54%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/blank_layer.cpp.o[0m
+[ 54%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_jpeg.cpp.o[0m
+[ 54%] [32m[1mLinking CXX shared library ../../lib/libopencv_photo3.dylib[0m
+[ 54%] [32mBuilding CXX object modules/shape/CMakeFiles/opencv_shape.dir/src/sc_dis.cpp.o[0m
+[ 54%] Built target opencv_photo
+[ 54%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_jpeg2000.cpp.o[0m
+[ 54%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_pam.cpp.o[0m
+[ 54%] [32mBuilding CXX object modules/shape/CMakeFiles/opencv_shape.dir/src/tps_trans.cpp.o[0m
+[ 55%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/concat_layer.cpp.o[0m
+[ 55%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_png.cpp.o[0m
+[ 55%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/convolution_layer.cpp.o[0m
+[ 55%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/crop_layer.cpp.o[0m
+[ 55%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_pxm.cpp.o[0m
+[ 55%] [32m[1mLinking CXX shared library ../../lib/libopencv_shape3.dylib[0m
+[ 55%] Built target opencv_shape
+[ 55%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/detection_output_layer.cpp.o[0m
+[ 55%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_sunras.cpp.o[0m
+[ 55%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/elementwise_layers.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_tiff.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/grfmt_webp.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/bitstrm.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/eltwise_layer.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/flatten_layer.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/rgbe.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/fully_connected_layer.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/layers_common.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/lrn_layer.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/imgcodecs/CMakeFiles/opencv_imgcodecs.dir/src/exif.cpp.o[0m
+[ 56%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/max_unpooling_layer.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/mvn_layer.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/normalize_bbox_layer.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/padding_layer.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/permute_layer.cpp.o[0m
+[ 57%] [32m[1mLinking CXX shared library ../../lib/libopencv_imgcodecs3.dylib[0m
+[ 57%] Built target opencv_imgcodecs
+[ 57%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/pooling_layer.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_videoio[0m
+[35m[1mScanning dependencies of target opencv_xobjdetect[0m
+[ 57%] [32mBuilding CXX object modules/xobjdetect/CMakeFiles/opencv_xobjdetect.dir/src/feature_evaluator.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/xobjdetect/CMakeFiles/opencv_xobjdetect.dir/src/lbpfeatures.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/videoio/CMakeFiles/opencv_videoio.dir/src/cap.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/xobjdetect/CMakeFiles/opencv_xobjdetect.dir/src/waldboost.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/videoio/CMakeFiles/opencv_videoio.dir/src/cap_images.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/xobjdetect/CMakeFiles/opencv_xobjdetect.dir/src/wbdetector.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/videoio/CMakeFiles/opencv_videoio.dir/src/cap_mjpeg_encoder.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/videoio/CMakeFiles/opencv_videoio.dir/src/cap_mjpeg_decoder.cpp.o[0m
+[ 57%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/prior_box_layer.cpp.o[0m
+[ 58%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/recurrent_layers.cpp.o[0m
+[ 58%] [32mBuilding CXX object modules/videoio/CMakeFiles/opencv_videoio.dir/src/cap_ffmpeg.cpp.o[0m
+[ 58%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/region_layer.cpp.o[0m
+[ 58%] [32mBuilding CXX object modules/videoio/CMakeFiles/opencv_videoio.dir/src/cap_avfoundation_mac.mm.o[0m
+[ 58%] [32m[1mLinking CXX shared library ../../lib/libopencv_xobjdetect3.dylib[0m
+[ 58%] Built target opencv_xobjdetect
+[ 58%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/reorg_layer.cpp.o[0m
+[ 58%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/reshape_layer.cpp.o[0m
+[ 58%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/resize_nearest_neighbor_layer.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/scale_layer.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/shift_layer.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/slice_layer.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/softmax_layer.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/layers/split_layer.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/nms.cpp.o[0m
+[ 59%] [32m[1mLinking CXX shared library ../../lib/libopencv_videoio3.dylib[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/ocl4dnn/src/common.cpp.o[0m
+ld: warning: text-based stub file /System/Library/Frameworks//QuartzCore.framework/QuartzCore.tbd and library file /System/Library/Frameworks//QuartzCore.framework/QuartzCore are out of sync. Falling back to library file for linking.
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/ocl4dnn/src/math_functions.cpp.o[0m
+[ 59%] Built target opencv_videoio
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/ocl4dnn/src/ocl4dnn_conv_spatial.cpp.o[0m
+[ 59%] [34m[1mGenerating qrc_window_QT.cpp[0m
+[ 59%] [34m[1mGenerating src/moc_window_QT.cpp[0m
+[35m[1mScanning dependencies of target opencv_highgui[0m
+[ 59%] [32mBuilding CXX object modules/highgui/CMakeFiles/opencv_highgui.dir/src/window.cpp.o[0m
+[ 59%] [34m[1mProcessing OpenCL kernels (superres)[0m
+[ 59%] [32mBuilding CXX object modules/highgui/CMakeFiles/opencv_highgui.dir/src/roiSelector.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_superres[0m
+[ 59%] [32mBuilding CXX object modules/highgui/CMakeFiles/opencv_highgui.dir/src/window_QT.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/highgui/CMakeFiles/opencv_highgui.dir/src/moc_window_QT.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/superres/CMakeFiles/opencv_superres.dir/src/btv_l1.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/highgui/CMakeFiles/opencv_highgui.dir/qrc_window_QT.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/superres/CMakeFiles/opencv_superres.dir/src/btv_l1_cuda.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/ocl4dnn/src/ocl4dnn_inner_product.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/superres/CMakeFiles/opencv_superres.dir/src/frame_source.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/ocl4dnn/src/ocl4dnn_lrn.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/superres/CMakeFiles/opencv_superres.dir/src/input_array_utility.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/ocl4dnn/src/ocl4dnn_pool.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/superres/CMakeFiles/opencv_superres.dir/src/optical_flow.cpp.o[0m
+[ 59%] [32mBuilding CXX object modules/superres/CMakeFiles/opencv_superres.dir/src/super_resolution.cpp.o[0m
+[ 60%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/ocl4dnn/src/ocl4dnn_softmax.cpp.o[0m
+[ 60%] [32mBuilding CXX object modules/superres/CMakeFiles/opencv_superres.dir/opencl_kernels_superres.cpp.o[0m
+[ 60%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/op_halide.cpp.o[0m
+[ 60%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/tensorflow/tf_importer.cpp.o[0m
+[ 60%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/tensorflow/tf_io.cpp.o[0m
+[ 60%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/torch/THDiskFile.cpp.o[0m
+[ 60%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/torch/THFile.cpp.o[0m
+[ 60%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/torch/THGeneral.cpp.o[0m
+[ 60%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/src/torch/torch_importer.cpp.o[0m
+[ 61%] [32m[1mLinking CXX shared library ../../lib/libopencv_superres3.dylib[0m
+[ 61%] Built target opencv_superres
+[ 61%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/opencl_kernels_dnn.cpp.o[0m
+[ 61%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/layers/layers_common.avx.cpp.o[0m
+[ 61%] [32mBuilding CXX object modules/dnn/CMakeFiles/opencv_dnn.dir/layers/layers_common.avx2.cpp.o[0m
+[ 62%] [32m[1mLinking CXX shared library ../../lib/libopencv_highgui3.dylib[0m
+[ 62%] Built target opencv_highgui
+[ 62%] [34m[1mProcessing OpenCL kernels (bioinspired)[0m
+[35m[1mScanning dependencies of target opencv_waldboost_detector[0m
+[35m[1mScanning dependencies of target opencv_dpm[0m
+[ 63%] [34m[1mProcessing OpenCL kernels (features2d)[0m
+[35m[1mScanning dependencies of target opencv_bioinspired[0m
+[35m[1mScanning dependencies of target opencv_features2d[0m
+[ 64%] [32mBuilding CXX object modules/xobjdetect/tools/waldboost_detector/CMakeFiles/opencv_waldboost_detector.dir/waldboost_detector.cpp.o[0m
+[ 64%] [32mBuilding CXX object modules/dpm/CMakeFiles/opencv_dpm.dir/src/dpm_cascade.cpp.o[0m
+[ 64%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/basicretinafilter.cpp.o[0m
+[ 64%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/agast.cpp.o[0m
+[ 64%] [32mBuilding CXX object modules/dpm/CMakeFiles/opencv_dpm.dir/src/dpm_cascade_detector.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/imagelogpolprojection.cpp.o[0m
+[ 65%] [32m[1mLinking CXX executable ../../../../bin/opencv_waldboost_detector[0m
+[ 65%] Built target opencv_waldboost_detector
+[ 65%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/magnoretinafilter.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/agast_score.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_annotation[0m
+[ 65%] [32mBuilding CXX object apps/annotation/CMakeFiles/opencv_annotation.dir/opencv_annotation.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/dpm/CMakeFiles/opencv_dpm.dir/src/dpm_convolution.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_visualisation[0m
+[ 65%] [32mBuilding CXX object apps/visualisation/CMakeFiles/opencv_visualisation.dir/opencv_visualisation.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/parvoretinafilter.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/akaze.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/dpm/CMakeFiles/opencv_dpm.dir/src/dpm_feature.cpp.o[0m
+[ 65%] [32m[1mLinking CXX executable ../../bin/opencv_annotation[0m
+[ 65%] Built target opencv_annotation
+[ 65%] [32mBuilding CXX object modules/dpm/CMakeFiles/opencv_dpm.dir/src/dpm_model.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/retina.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/bagofwords.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/retina_ocl.cpp.o[0m
+[ 65%] [32m[1mLinking CXX executable ../../bin/opencv_visualisation[0m
+[ 65%] Built target opencv_visualisation
+[ 65%] [32mBuilding CXX object modules/dpm/CMakeFiles/opencv_dpm.dir/src/dpm_nms.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/retinacolor.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_version[0m
+[ 65%] [32mBuilding CXX object apps/version/CMakeFiles/opencv_version.dir/opencv_version.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/retinafasttonemapping.cpp.o[0m
+[ 65%] [32m[1mLinking CXX shared library ../../lib/libopencv_dpm3.dylib[0m
+[ 65%] Built target opencv_dpm
+[ 65%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/blobdetector.cpp.o[0m
+[ 65%] [32m[1mLinking CXX executable ../../bin/opencv_version[0m
+[ 65%] Built target opencv_version
+[ 65%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/transientareassegmentationmodule.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/brisk.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/src/retinafilter.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/draw.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/dynamic.cpp.o[0m
+[ 65%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/evaluation.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library ../../lib/libopencv_dnn3.dylib[0m
+[ 66%] [32mBuilding CXX object modules/bioinspired/CMakeFiles/opencv_bioinspired.dir/opencl_kernels_bioinspired.cpp.o[0m
+[ 66%] Built target opencv_dnn
+[ 66%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/fast.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/fast_score.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/feature2d.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/gftt.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/kaze.cpp.o[0m
+[ 67%] [32m[1mLinking CXX shared library ../../lib/libopencv_bioinspired3.dylib[0m
+[ 67%] Built target opencv_bioinspired
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/kaze/AKAZEFeatures.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/kaze/KAZEFeatures.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/kaze/fed.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/kaze/nldiffusion_functions.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/keypoint.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/main.cpp.o[0m
+[ 67%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/matchers.cpp.o[0m
+[ 68%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/mser.cpp.o[0m
+[ 68%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/orb.cpp.o[0m
+[ 68%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/opencl_kernels_features2d.cpp.o[0m
+[ 68%] [32mBuilding CXX object modules/features2d/CMakeFiles/opencv_features2d.dir/src/fast.avx2.cpp.o[0m
+[ 68%] [32m[1mLinking CXX shared library ../../lib/libopencv_features2d3.dylib[0m
+[ 68%] Built target opencv_features2d
+[35m[1mScanning dependencies of target opencv_line_descriptor[0m
+[35m[1mScanning dependencies of target opencv_text[0m
+[35m[1mScanning dependencies of target opencv_cvv_autogen[0m
+[35m[1mScanning dependencies of target opencv_saliency[0m
+[ 69%] [34m[1mProcessing OpenCL kernels (calib3d)[0m
+[ 69%] [34m[1mAutomatic MOC for target opencv_cvv[0m
+[35m[1mScanning dependencies of target opencv_calib3d[0m
+[ 69%] [32mBuilding CXX object modules/text/CMakeFiles/opencv_text.dir/src/erfilter.cpp.o[0m
+[ 69%] [32mBuilding CXX object modules/text/CMakeFiles/opencv_text.dir/src/ocr_beamsearch_decoder.cpp.o[0m
+[ 69%] [32mBuilding CXX object modules/text/CMakeFiles/opencv_text.dir/src/ocr_hmm_decoder.cpp.o[0m
+[ 69%] [32mBuilding CXX object modules/text/CMakeFiles/opencv_text.dir/src/ocr_holistic.cpp.o[0m
+[ 69%] [32mBuilding CXX object modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/src/LSDDetector.cpp.o[0m
+[ 69%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/CmFile.cpp.o[0m
+[ 69%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/ap3p.cpp.o[0m
+[ 69%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/CmShow.cpp.o[0m
+[ 70%] [32mBuilding CXX object modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/src/binary_descriptor.cpp.o[0m
+[ 70%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/calibinit.cpp.o[0m
+[ 70%] Built target opencv_cvv_autogen
+[ 71%] [32mBuilding CXX object modules/text/CMakeFiles/opencv_text.dir/src/ocr_tesseract.cpp.o[0m
+[ 71%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/FilterTIG.cpp.o[0m
+[ 71%] [32mBuilding CXX object modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/src/binary_descriptor_matcher.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_cvv[0m
+[ 71%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/ValStructVec.cpp.o[0m
+[ 71%] [32mBuilding CXX object modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/src/draw.cpp.o[0m
+[ 71%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/calibration.cpp.o[0m
+[ 72%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/controller/view_controller.cpp.o[0m
+[ 72%] [32mBuilding CXX object modules/text/CMakeFiles/opencv_text.dir/src/text_detectorCNN.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/BING/objectnessBING.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/extension_api/api.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/motionSaliency.cpp.o[0m
+[ 73%] [32m[1mLinking CXX shared library ../../lib/libopencv_line_descriptor3.dylib[0m
+[ 73%] Built target opencv_line_descriptor
+[ 73%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/checkchessboard.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/call_window.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/controller/view_controller.cpp:68:1: [0m[0;1;35mwarning: [0m[1mno previous prototype for function 'makeFilterCallTab' [-Wmissing-prototypes][0m
+makeFilterCallTab(cvv::util::Reference<cvv::impl::Call> call)
+[0;1;32m^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/controller/view_controller.cpp:75:1: [0m[0;1;35mwarning: [0m[1mno previous prototype for function 'makeMatchCallTab' [-Wmissing-prototypes][0m
+makeMatchCallTab(cvv::util::Reference<cvv::impl::Call> call)
+[0;1;32m^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/controller/view_controller.cpp:82:1: [0m[0;1;35mwarning: [0m[1mno previous prototype for function 'makeImageCallTab' [-Wmissing-prototypes][0m
+makeImageCallTab(cvv::util::Reference<cvv::impl::Call> call)
+[0;1;32m^
+[ 73%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/circlesgrid.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/motionSaliencyBinWangApr2014.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/image_call_tab.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/compat_ptsetreg.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/objectness.cpp.o[0m
+[ 73%] [32m[1mLinking CXX shared library ../../lib/libopencv_text3.dylib[0m
+[ 73%] Built target opencv_text
+[ 73%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/compat_stereo.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/main_call_window.cpp.o[0m
+[0m3 warnings generated.
+[ 73%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/dls.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/saliency.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/overview_group_subtable.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_datasets[0m
+[ 73%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/staticSaliency.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/ar_hmdb.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/overview_panel.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/ar_sports.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/staticSaliencyFineGrained.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/overview_table.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/dataset.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/overview_table_row.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/epnp.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/fr_adience.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/saliency/CMakeFiles/opencv_saliency.dir/src/staticSaliencySpectralResidual.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/fr_lfw.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/fisheye.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/gr_chalearn.cpp.o[0m
+[ 73%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/five-point.cpp.o[0m
+[ 73%] [32m[1mLinking CXX shared library ../../lib/libopencv_saliency3.dylib[0m
+[ 73%] Built target opencv_saliency
+[ 73%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/rawview_group_subtable.cpp.o[0m
+[ 74%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/gr_skig.cpp.o[0m
+[ 75%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/fundam.cpp.o[0m
+[ 75%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/rawview_table.cpp.o[0m
+[ 75%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/hpe_humaneva.cpp.o[0m
+[ 75%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/hpe_parse.cpp.o[0m
+[ 75%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/homography_decomp.cpp.o[0m
+[ 75%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/levmarq.cpp.o[0m
+[ 75%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/ir_affine.cpp.o[0m
+[ 75%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/gui/rawview_table_row.cpp.o[0m
+[ 75%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/ir_robot.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/call.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/data_controller.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/dmatch.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/is_bsds.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/main.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/filter.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/is_weizmann.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/p3p.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/msm_epfl.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/polynom_solver.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/msm_middlebury.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/filter_call.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/posit.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/or_imagenet.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/final_show.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/or_mnist.cpp.o[0m
+[ 76%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/init.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/or_pascal.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/match_call.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/ptsetreg.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/or_sun.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/quadsubpix.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/pd_caltech.cpp.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/init.cpp:21:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/linematchview.hpp:59:36: [0m[0;1;35mwarning: [0m[1m'getKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/match_view.hpp:59:36: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/init.cpp:21:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/linematchview.hpp:66:15: [0m[0;1;35mwarning: [0m[1m'setMatchSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setMatchSelection(std::vector<cv::DMatch> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/match_view.hpp:67:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setMatchSelection(std::vector<cv::DMatch>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/init.cpp:21:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/linematchview.hpp:71:15: [0m[0;1;35mwarning: [0m[1m'setKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/match_view.hpp:71:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/init.cpp:23:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/translationsmatchview.hpp:63:36: [0m[0;1;35mwarning: [0m[1m'getKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/match_view.hpp:59:36: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/init.cpp:23:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/translationsmatchview.hpp:70:15: [0m[0;1;35mwarning: [0m[1m'setMatchSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setMatchSelection(std::vector<cv::DMatch> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/match_view.hpp:67:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setMatchSelection(std::vector<cv::DMatch>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/init.cpp:23:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/translationsmatchview.hpp:75:15: [0m[0;1;35mwarning: [0m[1m'setKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/match_view.hpp:71:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/init.cpp:24:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/pointmatchview.hpp:61:15: [0m[0;1;35mwarning: [0m[1m'setMatchSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setMatchSelection(std::vector<cv::DMatch> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/impl/../view/match_view.hpp:67:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setMatchSelection(std::vector<cv::DMatch>)
+[0;1;32m                     ^
+[ 77%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/show_image.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/rho.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/pd_inria.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/impl/single_image_call.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/solvepnp.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/accordion.cpp.o[0m
+[ 77%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/slam_kitti.cpp.o[0m
+[ 78%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/collapsable.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/stereobm.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/filter/changed_pixels_widget.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/slam_tumindoor.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/stereosgbm.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/tinyxml2/tinyxml2.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/triangulate.cpp.o[0m
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/filter/changed_pixels_widget.cpp:17:6: [0m[0;1;35mwarning: [0m[1mno previous prototype for function 'changedPixelImage' [-Wmissing-prototypes][0m
+void changedPixelImage(const cv::Mat& mat0, const cv::Mat& mat1, cv::Mat& out)
+[0;1;32m     ^
+[ 79%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/filter/channelreorderfilter.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/src/upnp.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/tr_chars.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/filter/diffFilterWidget.cpp.o[0m
+[0m7 warnings generated.
+[ 79%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/tr_icdar.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/tr_svt.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/calib3d/CMakeFiles/opencv_calib3d.dir/opencl_kernels_calib3d.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/track_alov.cpp.o[0m
+[ 79%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/filter/grayfilterwidget.cpp.o[0m
+1 warning generated.
+[ 80%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/track_vot.cpp.o[0m
+[ 80%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/filter/overlayfilterwidget.cpp.o[0m
+[ 80%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/filter/sobelfilterwidget.cpp.o[0m
+[ 80%] [32m[1mLinking CXX shared library ../../lib/libopencv_calib3d3.dylib[0m
+[ 80%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/histogram.cpp.o[0m
+[ 80%] Built target opencv_calib3d
+[ 80%] [32mBuilding CXX object modules/datasets/CMakeFiles/opencv_datasets.dir/src/util.cpp.o[0m
+[ 80%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/histogramoptpanel.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_ccalib[0m
+[ 80%] [32mBuilding CXX object modules/ccalib/CMakeFiles/opencv_ccalib.dir/src/ccalib.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_rgbd[0m
+[35m[1mScanning dependencies of target opencv_stereo[0m
+[ 80%] [32mBuilding CXX object modules/ccalib/CMakeFiles/opencv_ccalib.dir/src/multicalib.cpp.o[0m
+[ 80%] [32mBuilding CXX object modules/rgbd/CMakeFiles/opencv_rgbd.dir/src/depth_cleaner.cpp.o[0m
+[ 80%] [32m[1mLinking CXX shared library ../../lib/libopencv_datasets3.dylib[0m
+[ 80%] [32mBuilding CXX object modules/stereo/CMakeFiles/opencv_stereo.dir/src/descriptor.cpp.o[0m
+[ 80%] Built target opencv_datasets
+[ 80%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/cvvkeypoint.cpp.o[0m
+[ 80%] [32mBuilding CXX object modules/rgbd/CMakeFiles/opencv_rgbd.dir/src/depth_registration.cpp.o[0m
+[ 80%] [32mBuilding CXX object modules/ccalib/CMakeFiles/opencv_ccalib.dir/src/omnidir.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_structured_light[0m
+[ 80%] [32mBuilding CXX object modules/structured_light/CMakeFiles/opencv_structured_light.dir/src/graycodepattern.cpp.o[0m
+[ 81%] [32mBuilding CXX object modules/rgbd/CMakeFiles/opencv_rgbd.dir/src/depth_to_3d.cpp.o[0m
+[ 81%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/cvvmatch.cpp.o[0m
+[ 81%] [32mBuilding CXX object modules/stereo/CMakeFiles/opencv_stereo.dir/src/stereo_binary_bm.cpp.o[0m
+[ 81%] [34m[1mProcessing OpenCL kernels (tracking)[0m
+[35m[1mScanning dependencies of target opencv_tracking[0m
+[ 81%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/augmented_unscented_kalman.cpp.o[0m
+[ 81%] [32mBuilding CXX object modules/structured_light/CMakeFiles/opencv_structured_light.dir/src/sinusoidalpattern.cpp.o[0m
+[ 81%] [32mBuilding CXX object modules/rgbd/CMakeFiles/opencv_rgbd.dir/src/linemod.cpp.o[0m
+[ 81%] [32mBuilding CXX object modules/ccalib/CMakeFiles/opencv_ccalib.dir/src/randpattern.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/cvvpointmatch.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/feature.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/stereo/CMakeFiles/opencv_stereo.dir/src/stereo_binary_sgbm.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_videostab[0m
+[ 82%] [32m[1mLinking CXX shared library ../../lib/libopencv_structured_light3.dylib[0m
+[ 82%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/deblurring.cpp.o[0m
+[ 82%] Built target opencv_structured_light
+[ 82%] [32mBuilding CXX object modules/rgbd/CMakeFiles/opencv_rgbd.dir/src/normal.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/falsecolorkeypointpen.cpp.o[0m
+[ 82%] [34m[1mProcessing OpenCL kernels (xfeatures2d)[0m
+[35m[1mScanning dependencies of target opencv_xfeatures2d[0m
+[ 82%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/affine_feature2d.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/featureColorName.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/fast_marching.cpp.o[0m
+[ 82%] [32m[1mLinking CXX shared library ../../lib/libopencv_stereo3.dylib[0m
+[ 82%] Built target opencv_stereo
+[ 82%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/boostdesc.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/falsecolormatchpen.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/frame_source.cpp.o[0m
+[ 82%] [34m[1mProcessing OpenCL kernels (ximgproc)[0m
+[35m[1mScanning dependencies of target opencv_ximgproc[0m
+[ 82%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/adaptive_manifold_filter_n.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/keypointintervallselection.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/gtrTracker.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/rgbd/CMakeFiles/opencv_rgbd.dir/src/odometry.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_aruco[0m
+[ 82%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/global_motion.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/aruco/CMakeFiles/opencv_aruco.dir/src/aruco.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/brief.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/gtrUtils.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/keypointmanagement.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/anisodiff.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/mosseTracker.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/inpainting.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/keypointmanagement.cpp:145:13: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+        addSetting(std::move(util::make_unique<KeyPointSettingsSelector>(univers_)));
+[0;1;32m                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/keypointmanagement.cpp:145:13: [0m[0;1;30mnote: [0mremove std::move call here[0m
+        addSetting(std::move(util::make_unique<KeyPointSettingsSelector>(univers_)));
+[0;1;32m                   ^~~~~~~~~~                                                     ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/keypointmanagement.cpp:179:15: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+        addSelection(std::move(util::make_unique<KeyPointSelectionSelector>(univers_)));
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/keypointmanagement.cpp:179:15: [0m[0;1;30mnote: [0mremove std::move call here[0m
+        addSelection(std::move(util::make_unique<KeyPointSelectionSelector>(univers_)));
+[0;1;32m                     ^~~~~~~~~~                                                      ~
+[ 82%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/multiTracker.cpp.o[0m
+[ 82%] [32m[1mLinking CXX shared library ../../lib/libopencv_ccalib3.dylib[0m
+[0m2 warnings generated.
+[ 82%] Built target opencv_ccalib
+[ 82%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/keypointportionselector.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/rgbd/CMakeFiles/opencv_rgbd.dir/src/plane.cpp.o[0m
+[ 82%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/bilateral_texture_filter.cpp.o[0m
+[ 83%] [32mBuilding CXX object modules/aruco/CMakeFiles/opencv_aruco.dir/src/charuco.cpp.o[0m
+[ 83%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/log.cpp.o[0m
+[ 83%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/keypointselectionselector.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/multiTracker_alt.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/daisy.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/brightedges.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/motion_stabilizing.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/onlineBoosting.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/rgbd/CMakeFiles/opencv_rgbd.dir/src/utils.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/deriche_filter.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/keypointsettingsselector.cpp.o[0m
+[ 84%] [32m[1mLinking CXX shared library ../../lib/libopencv_rgbd3.dylib[0m
+[ 84%] Built target opencv_rgbd
+[ 84%] [32mBuilding CXX object modules/aruco/CMakeFiles/opencv_aruco.dir/src/dictionary.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/onlineMIL.cpp.o[0m
+[ 84%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/optical_flow.cpp.o[0m
+[ 85%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/disparity_filters.cpp.o[0m
+[ 85%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/keypointshowsetting.cpp.o[0m
+[ 85%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/ellipticKeyPoint.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/outlier_rejection.cpp.o[0m
+[ 86%] [32m[1mLinking CXX shared library ../../lib/libopencv_aruco3.dylib[0m
+[ 86%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/tldDataset.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/domain_transform.cpp.o[0m
+[ 86%] Built target opencv_aruco
+[ 86%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/fast.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/stabilizer.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_bgsegm[0m
+[ 86%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/tldDetector.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/bgsegm/CMakeFiles/opencv_bgsegm.dir/src/bgfg_gaussmix.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/keypointvaluechooser.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/tldEnsembleClassifier.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/dtfilter_cpu.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/freak.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/bgsegm/CMakeFiles/opencv_bgsegm.dir/src/bgfg_gmg.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/matchintervallselection.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/videostab/CMakeFiles/opencv_videostab.dir/src/wobble_suppression.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/edgeaware_filters_common.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/bgsegm/CMakeFiles/opencv_bgsegm.dir/src/bgfg_gsoc.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_traincascade[0m
+[ 86%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/tldModel.cpp.o[0m
+[ 86%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/HOGfeatures.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/matchmanagement.cpp.o[0m
+[ 86%] [32m[1mLinking CXX shared library ../../lib/libopencv_videostab3.dylib[0m
+[ 86%] Built target opencv_videostab
+[ 86%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/edgeboxes.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/harris_lapace_detector.cpp.o[0m
+[ 86%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/boost.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/tldTracker.cpp.o[0m
+[ 86%] [32mBuilding CXX object modules/bgsegm/CMakeFiles/opencv_bgsegm.dir/src/bgfg_subcnt.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_createsamples[0m
+[ 86%] [32mBuilding CXX object apps/createsamples/CMakeFiles/opencv_createsamples.dir/createsamples.cpp.o[0m
+[ 86%] [32mBuilding CXX object apps/createsamples/CMakeFiles/opencv_createsamples.dir/utility.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/matchmanagement.cpp:140:13: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+        addSetting(std::move(util::make_unique<MatchSettingsSelector>(univers_)));
+[0;1;32m                   ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/matchmanagement.cpp:140:13: [0m[0;1;30mnote: [0mremove std::move call here[0m
+        addSetting(std::move(util::make_unique<MatchSettingsSelector>(univers_)));
+[0;1;32m                   ^~~~~~~~~~                                                  ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/matchmanagement.cpp:175:15: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+        addSelection(std::move(util::make_unique<MatchSelectionSelector>(univers_)));
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/matchmanagement.cpp:175:15: [0m[0;1;30mnote: [0mremove std::move call here[0m
+        addSelection(std::move(util::make_unique<MatchSelectionSelector>(univers_)));
+[0;1;32m                     ^~~~~~~~~~                                                   ~
+[ 86%] [32mBuilding CXX object modules/bgsegm/CMakeFiles/opencv_bgsegm.dir/src/synthetic_seq.cpp.o[0m
+[ 87%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/matchportionselector.cpp.o[0m
+[ 87%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/tldUtils.cpp.o[0m
+[0m2 warnings generated.
+[ 88%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/latch.cpp.o[0m
+[ 88%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/cascadeclassifier.cpp.o[0m
+[ 88%] [32m[1mLinking CXX shared library ../../lib/libopencv_bgsegm3.dylib[0m
+[ 88%] [32m[1mLinking CXX executable ../../bin/opencv_createsamples[0m
+[ 88%] Built target opencv_createsamples
+[ 88%] Built target opencv_bgsegm
+[ 88%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/estimated_covariance.cpp.o[0m
+[ 88%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/tracker.cpp.o[0m
+[ 88%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/matchscene.cpp.o[0m
+[ 88%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/features.cpp.o[0m
+[ 88%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/lucid.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_interactive-calibration[0m
+[ 88%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerBoosting.cpp.o[0m
+[ 88%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/haarfeatures.cpp.o[0m
+[ 88%] [32mBuilding CXX object apps/interactive-calibration/CMakeFiles/opencv_interactive-calibration.dir/calibController.cpp.o[0m
+[ 88%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/fast_hough_transform.cpp.o[0m
+[ 88%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/matchselectionselector.cpp.o[0m
+[ 88%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerBoostingModel.cpp.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/matchscene.cpp:11:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/matchscene.hpp:47:15: [0m[0;1;35mwarning: [0m[1m'contextMenuEvent' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void contextMenuEvent(QContextMenuEvent *event)
+[0;1;32m                     ^
+[0m[1m/usr/local/opt/qt/lib/QtWidgets.framework/Headers/qgraphicsview.h:244:10: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+    void contextMenuEvent(QContextMenuEvent *event) override;
+[0;1;32m         ^
+[0m1 warning generated.
+[ 88%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/msd.cpp.o[0m
+[ 88%] [32mBuilding CXX object apps/interactive-calibration/CMakeFiles/opencv_interactive-calibration.dir/calibPipeline.cpp.o[0m
+[ 88%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/imagestorage.cpp.o[0m
+[ 88%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/matchsettingsselector.cpp.o[0m
+[ 88%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/pct_signatures.cpp.o[0m
+[ 89%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerFeature.cpp.o[0m
+[ 89%] [32mBuilding CXX object apps/interactive-calibration/CMakeFiles/opencv_interactive-calibration.dir/frameProcessor.cpp.o[0m
+[ 89%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/lbpfeatures.cpp.o[0m
+[ 89%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/pct_signatures/grayscale_bitmap.cpp.o[0m
+[ 89%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/matchshowsetting.cpp.o[0m
+[ 89%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerFeatureSet.cpp.o[0m
+[ 89%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/old_ml_boost.cpp.o[0m
+[ 89%] [32mBuilding CXX object apps/interactive-calibration/CMakeFiles/opencv_interactive-calibration.dir/main.cpp.o[0m
+[ 89%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/fast_line_detector.cpp.o[0m
+[ 89%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/rawview_window.cpp.o[0m
+[ 89%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/pct_signatures/pct_clusterizer.cpp.o[0m
+[ 90%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/old_ml_data.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerKCF.cpp.o[0m
+[ 90%] [32mBuilding CXX object apps/interactive-calibration/CMakeFiles/opencv_interactive-calibration.dir/parametersController.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/fgs_filter.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/showinrawviewwidget.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/pct_signatures/pct_sampler.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/fourier_descriptors.cpp.o[0m
+[ 90%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/old_ml_inner_functions.cpp.o[0m
+[ 90%] [32mBuilding CXX object apps/interactive-calibration/CMakeFiles/opencv_interactive-calibration.dir/rotationConverters.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/pct_signatures_sqfd.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable ../../bin/opencv_interactive-calibration[0m
+[ 90%] Built target opencv_interactive-calibration
+[ 90%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/singlecolorkeypointpen.cpp.o[0m
+[ 90%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/old_ml_tree.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerMIL.cpp.o[0m
+[ 90%] [32mBuilding CXX object apps/traincascade/CMakeFiles/opencv_traincascade.dir/traincascade.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/graphsegmentation.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/sift.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerMILModel.cpp.o[0m
+[ 90%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/singlecolormatchpen.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/guided_filter.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/stardetector.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerMedianFlow.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/matchview/zoomableproxyobject.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerModel.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/surf.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerSampler.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/stfl_query_widget.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/joint_bilateral_filter.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/l0_smooth.cpp.o[0m
+[ 91%] [32m[1mLinking CXX executable ../../bin/opencv_traincascade[0m
+[ 91%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerSamplerAlgorithm.cpp.o[0m
+[ 91%] Built target opencv_traincascade
+[ 91%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/lsc.cpp.o[0m
+[ 91%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/surf.cuda.cpp.o[0m
+[ 92%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/stfl_query_widget_lineedit.cpp.o[0m
+[ 92%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/synczoomwidget.cpp.o[0m
+[ 93%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/surf.ocl.cpp.o[0m
+[ 93%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/trackerStateEstimator.cpp.o[0m
+[ 93%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/util.cpp.o[0m
+[ 93%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/niblack_thresholding.cpp.o[0m
+[ 93%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/paillou_filter.cpp.o[0m
+[ 93%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/tracking_utils.cpp.o[0m
+[ 93%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/vgg.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/util.cpp:338:42: [0m[0;1;35mwarning: [0m[1mno previous prototype for function 'errorResult' [-Wmissing-prototypes][0m
+std::pair<ImageConversionResult, QImage> errorResult(ImageConversionResult res,
+[0;1;32m                                         ^
+[ 93%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/zoomableimage.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/src/unscented_kalman.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/peilin.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/tracking/CMakeFiles/opencv_tracking.dir/opencl_kernels_tracking.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/qtutil/zoomableimageoptpanel.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/src/xfeatures2d_init.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/stfl/stringutils.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/ridgedetectionfilter.cpp.o[0m
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/qtutil/zoomableimage.cpp:140:13: [0m[0;1;35mwarning: [0m[1mno previous prototype for function 'printPixel' [-Wmissing-prototypes][0m
+std::string printPixel(const cv::Mat &mat, int i, int j)
+[0;1;32m            ^
+[0m1 warning generated.
+[ 94%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/rolling_guidance_filter.cpp.o[0m
+[ 94%] [32m[1mLinking CXX shared library ../../lib/libopencv_tracking3.dylib[0m
+[ 94%] Built target opencv_tracking
+[ 94%] [32mBuilding CXX object modules/xfeatures2d/CMakeFiles/opencv_xfeatures2d.dir/opencl_kernels_xfeatures2d.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/view/defaultfilterview.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/seeds.cpp.o[0m
+[35m[1mScanning dependencies of target opencv_face[0m
+[ 94%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/view/dual_filter_view.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/bif.cpp.o[0m
+[ 94%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/eigen_faces.cpp.o[0m
+[ 94%] [32m[1mLinking CXX shared library ../../lib/libopencv_xfeatures2d3.dylib[0m
+[ 94%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/view/image_view.cpp.o[0m
+[ 94%] Built target opencv_xfeatures2d
+[ 94%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/face_alignment.cpp.o[0m
+1 warning generated.
+[ 94%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/selectivesearchsegmentation.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/defaultfilterview.cpp:44:7: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                    std::move(
+[0;1;32m                    ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/defaultfilterview.cpp:44:7: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                    std::move(
+[0;1;32m                    ^~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/defaultfilterview.cpp:54:66: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                accor->insert(QString("Histogram: ") + QString::number(count), std::move(util::make_unique<qtutil::HistogramOptPanel>(*histogram)));
+[0;1;32m                                                                               ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/defaultfilterview.cpp:54:66: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                accor->insert(QString("Histogram: ") + QString::number(count), std::move(util::make_unique<qtutil::HistogramOptPanel>(*histogram)));
+[0;1;32m                                                                               ^~~~~~~~~~                                                        ~
+[0m2 warnings generated.
+[ 94%] [34m[1mProcessing OpenCL kernels (stitching)[0m
+[35m[1mScanning dependencies of target opencv_stitching[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/image_view.cpp:36:3: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                std::move(util::make_unique<qtutil::ZoomableOptPanel>(*zoomim,false)));
+[0;1;32m                ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/image_view.cpp:36:3: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                std::move(util::make_unique<qtutil::ZoomableOptPanel>(*zoomim,false)));
+[0;1;32m                ^~~~~~~~~~                                                          ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/image_view.cpp:44:39: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+        accor->insert(QString("Histogram:"), std::move(util::make_unique<qtutil::HistogramOptPanel>(*histogram)));
+[0;1;32m                                             ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/image_view.cpp:44:39: [0m[0;1;30mnote: [0mremove std::move call here[0m
+        accor->insert(QString("Histogram:"), std::move(util::make_unique<qtutil::HistogramOptPanel>(*histogram)));
+[0;1;32m                                             ^~~~~~~~~~                                                        ~
+[ 94%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/autocalib.cpp.o[0m
+[0m2 warnings generated.
+[ 95%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/face_basic.cpp.o[0m
+[ 95%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/slic.cpp.o[0m
+[ 95%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/blenders.cpp.o[0m
+[ 95%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/view/linematchview.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/dual_filter_view.cpp:72:7: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                    std::move(
+[0;1;32m                    ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/dual_filter_view.cpp:72:7: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                    std::move(
+[0;1;32m                    ^~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/dual_filter_view.cpp:102:3: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                std::move(util::make_unique<qtutil::SyncZoomWidget>(syncVec)), true, 1);
+[0;1;32m                ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/dual_filter_view.cpp:102:3: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                std::move(util::make_unique<qtutil::SyncZoomWidget>(syncVec)), true, 1);
+[0;1;32m                ^~~~~~~~~~                                                  ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/dual_filter_view.cpp:133:11: [0m[0;1;35mwarning: [0m[1msuggest braces around initialization of subobject [-Wmissing-braces][0m
+        return { matVec.at(0), matVec.at(1) };
+[0;1;32m                 ^~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m[0;32m                 {                         }
+[ 96%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/camera.cpp.o[0m
+[ 97%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/sparse_match_interpolators.cpp.o[0m
+[ 97%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/facemark.cpp.o[0m
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:7:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/../qtutil/matchview/matchscene.hpp:47:15: [0m[0;1;35mwarning: [0m[1m'contextMenuEvent' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void contextMenuEvent(QContextMenuEvent *event)
+[0;1;32m                     ^
+[0m[1m/usr/local/opt/qt/lib/QtWidgets.framework/Headers/qgraphicsview.h:244:10: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+    void contextMenuEvent(QContextMenuEvent *event) override;
+[0;1;32m         ^
+[0m3 warnings generated.
+[ 97%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/structured_edge_detection.cpp.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:16:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.hpp:59:36: [0m[0;1;35mwarning: [0m[1m'getKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:59:36: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:16:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.hpp:66:15: [0m[0;1;35mwarning: [0m[1m'setMatchSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setMatchSelection(std::vector<cv::DMatch> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:67:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setMatchSelection(std::vector<cv::DMatch>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:16:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.hpp:71:15: [0m[0;1;35mwarning: [0m[1m'setKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:71:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint>)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:69:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(util::make_unique<qtutil::ShowInRawView>(leftKeyPoints,
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:69:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(util::make_unique<qtutil::ShowInRawView>(leftKeyPoints,
+[0;1;32m                      ^~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:76:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(matchscene_ptr->getSyncZoomWidget()));
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:76:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(matchscene_ptr->getSyncZoomWidget()));
+[0;1;32m                      ^~~~~~~~~~                                   ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:78:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(matchscene_ptr->getLeftMatInfoWidget()));
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:78:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(matchscene_ptr->getLeftMatInfoWidget()));
+[0;1;32m                      ^~~~~~~~~~                                      ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:80:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(matchscene_ptr->getRightMatInfoWidget()));
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/linematchview.cpp:80:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(matchscene_ptr->getRightMatInfoWidget()));
+[0;1;32m                      ^~~~~~~~~~                                       ~
+[ 97%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/facemarkAAM.cpp.o[0m
+[ 97%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/exposure_compensate.cpp.o[0m
+[0m8 warnings generated.
+[ 97%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/view/pointmatchview.cpp.o[0m
+[ 97%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/facemarkLBF.cpp.o[0m
+[ 97%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/matchers.cpp.o[0m
+[ 97%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/facerec.cpp.o[0m
+[ 97%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/motion_estimators.cpp.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.cpp:6:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/../qtutil/matchview/matchscene.hpp:47:15: [0m[0;1;35mwarning: [0m[1m'contextMenuEvent' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void contextMenuEvent(QContextMenuEvent *event)
+[0;1;32m                     ^
+[0m[1m/usr/local/opt/qt/lib/QtWidgets.framework/Headers/qgraphicsview.h:244:10: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+    void contextMenuEvent(QContextMenuEvent *event) override;
+[0;1;32m         ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.cpp:12:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.hpp:61:15: [0m[0;1;35mwarning: [0m[1m'setMatchSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setMatchSelection(std::vector<cv::DMatch> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:67:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setMatchSelection(std::vector<cv::DMatch>)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.cpp:49:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(matchscene_ptr->getSyncZoomWidget()));
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.cpp:49:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(matchscene_ptr->getSyncZoomWidget()));
+[0;1;32m                      ^~~~~~~~~~                                   ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.cpp:51:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(matchscene_ptr->getLeftMatInfoWidget()));
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.cpp:51:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(matchscene_ptr->getLeftMatInfoWidget()));
+[0;1;32m                      ^~~~~~~~~~                                      ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.cpp:53:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(matchscene_ptr->getRightMatInfoWidget()));
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.cpp:53:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(matchscene_ptr->getRightMatInfoWidget()));
+[0;1;32m                      ^~~~~~~~~~                                       ~
+[ 97%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/thinning.cpp.o[0m
+[0m5 warnings generated.
+[ 98%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/fisher_faces.cpp.o[0m
+[ 98%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/view/rawview.cpp.o[0m
+[ 98%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/seam_finders.cpp.o[0m
+[ 98%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/src/weighted_median_filter.cpp.o[0m
+[ 98%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/view/singlefilterview.cpp.o[0m
+[ 98%] [32mBuilding CXX object modules/ximgproc/CMakeFiles/opencv_ximgproc.dir/opencl_kernels_ximgproc.cpp.o[0m
+[ 98%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/src/view/translationsmatchview.cpp.o[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/singlefilterview.cpp:47:7: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                    std::move(
+[0;1;32m                    ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/singlefilterview.cpp:47:7: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                    std::move(
+[0;1;32m                    ^~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/singlefilterview.cpp:69:7: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                    std::move(
+[0;1;32m                    ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/singlefilterview.cpp:69:7: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                    std::move(
+[0;1;32m                    ^~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/singlefilterview.cpp:87:3: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                std::move(util::make_unique<qtutil::SyncZoomWidget>(syncVec)), true, 1);
+[0;1;32m                ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/singlefilterview.cpp:87:3: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                std::move(util::make_unique<qtutil::SyncZoomWidget>(syncVec)), true, 1);
+[0;1;32m                ^~~~~~~~~~                                                  ~
+[ 98%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/stitcher.cpp.o[0m
+[ 98%] [32m[1mLinking CXX shared library ../../lib/libopencv_ximgproc3.dylib[0m
+[ 98%] Built target opencv_ximgproc
+[ 98%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/getlandmarks.cpp.o[0m
+[ 98%] [32mBuilding CXX object modules/cvv/CMakeFiles/opencv_cvv.dir/opencv_cvv_autogen/mocs_compilation.cpp.o[0m
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:5:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/../qtutil/matchview/matchscene.hpp:47:15: [0m[0;1;35mwarning: [0m[1m'contextMenuEvent' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void contextMenuEvent(QContextMenuEvent *event)
+[0;1;32m                     ^
+[0m[1m/usr/local/opt/qt/lib/QtWidgets.framework/Headers/qgraphicsview.h:244:10: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+    void contextMenuEvent(QContextMenuEvent *event) override;
+[0;1;32m         ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:11:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.hpp:63:36: [0m[0;1;35mwarning: [0m[1m'getKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:59:36: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:11:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.hpp:70:15: [0m[0;1;35mwarning: [0m[1m'setMatchSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setMatchSelection(std::vector<cv::DMatch> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:67:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setMatchSelection(std::vector<cv::DMatch>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:11:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.hpp:75:15: [0m[0;1;35mwarning: [0m[1m'setKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:71:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint>)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:60:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(util::make_unique<qtutil::ShowInRawView>(leftKeyPoints,
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:60:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(util::make_unique<qtutil::ShowInRawView>(leftKeyPoints,
+[0;1;32m                      ^~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:66:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(matchscene_ptr->getSyncZoomWidget()));
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:66:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(matchscene_ptr->getSyncZoomWidget()));
+[0;1;32m                      ^~~~~~~~~~                                   ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:68:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(matchscene_ptr->getLeftMatInfoWidget()));
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:68:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(matchscene_ptr->getLeftMatInfoWidget()));
+[0;1;32m                      ^~~~~~~~~~                                      ~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:70:9: [0m[0;1;35mwarning: [0m[1mmoving a temporary object prevents copy elision [-Wpessimizing-move][0m
+                      std::move(matchscene_ptr->getRightMatInfoWidget()));
+[0;1;32m                      ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.cpp:70:9: [0m[0;1;30mnote: [0mremove std::move call here[0m
+                      std::move(matchscene_ptr->getRightMatInfoWidget()));
+[0;1;32m                      ^~~~~~~~~~                                       ~
+[0m3 warnings generated.
+[ 98%] [34m[1mProcessing OpenCL kernels (optflow)[0m
+[35m[1mScanning dependencies of target opencv_optflow[0m
+8 warnings generated.
+[ 98%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/timelapsers.cpp.o[0m
+[ 98%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/deepflow.cpp.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/mocs_compilation.cpp:6:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/moc_linematchview.cpp:9:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/linematchview.hpp:59:36: [0m[0;1;35mwarning: [0m[1m'getKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:59:36: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/mocs_compilation.cpp:6:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/moc_linematchview.cpp:9:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/linematchview.hpp:66:15: [0m[0;1;35mwarning: [0m[1m'setMatchSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setMatchSelection(std::vector<cv::DMatch> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:67:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setMatchSelection(std::vector<cv::DMatch>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/mocs_compilation.cpp:6:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/moc_linematchview.cpp:9:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/linematchview.hpp:71:15: [0m[0;1;35mwarning: [0m[1m'setKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:71:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/mocs_compilation.cpp:8:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/moc_pointmatchview.cpp:9:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/pointmatchview.hpp:61:15: [0m[0;1;35mwarning: [0m[1m'setMatchSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setMatchSelection(std::vector<cv::DMatch> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:67:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setMatchSelection(std::vector<cv::DMatch>)
+[0;1;32m                     ^
+[ 98%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/dis_flow.cpp.o[0m
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/mocs_compilation.cpp:11:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/moc_translationsmatchview.cpp:9:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.hpp:63:36: [0m[0;1;35mwarning: [0m[1m'getKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:59:36: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual std::vector<cv::KeyPoint> getKeyPointSelection()
+[0;1;32m                                          ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/mocs_compilation.cpp:11:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/moc_translationsmatchview.cpp:9:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.hpp:70:15: [0m[0;1;35mwarning: [0m[1m'setMatchSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setMatchSelection(std::vector<cv::DMatch> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:67:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setMatchSelection(std::vector<cv::DMatch>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/mocs_compilation.cpp:11:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/moc_translationsmatchview.cpp:9:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/translationsmatchview.hpp:75:15: [0m[0;1;35mwarning: [0m[1m'setKeyPointSelection' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint> selection)
+[0;1;32m                     ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/3JYSCEOBDA/../../../../../../src/opencv3/opencv_contrib/cvv/src/view/match_view.hpp:71:15: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+        virtual void setKeyPointSelection(std::vector<cv::KeyPoint>)
+[0;1;32m                     ^
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/mocs_compilation.cpp:26:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/76EPU3OZ3M/moc_matchscene.cpp:9:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/opencv3/modules/cvv/opencv_cvv_autogen/76EPU3OZ3M/../../../../../../src/opencv3/opencv_contrib/cvv/src/qtutil/matchview/matchscene.hpp:47:15: [0m[0;1;35mwarning: [0m[1m'contextMenuEvent' overrides a member function but is not marked 'override' [-Winconsistent-missing-override][0m
+        virtual void contextMenuEvent(QContextMenuEvent *event)
+[0;1;32m                     ^
+[0m[1m/usr/local/opt/qt/lib/QtWidgets.framework/Headers/qgraphicsview.h:244:10: [0m[0;1;30mnote: [0moverridden virtual function is here[0m
+    void contextMenuEvent(QContextMenuEvent *event) override;
+[0;1;32m         ^
+[ 98%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/interfaces.cpp.o[0m
+[ 98%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/lbph_faces.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/motempl.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/predict_collector.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/util.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/optical_flow_io.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/warpers.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/regtree.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/pcaflow.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/face/CMakeFiles/opencv_face.dir/src/trainFacemark.cpp.o[0m
+[0m8 warnings generated.
+[ 99%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/simpleflow.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/src/warpers_cuda.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/sparse_matching_gpc.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/sparsetodenseflow.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/stitching/CMakeFiles/opencv_stitching.dir/opencl_kernels_stitching.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/src/variational_refinement.cpp.o[0m
+[ 99%] [32mBuilding CXX object modules/optflow/CMakeFiles/opencv_optflow.dir/opencl_kernels_optflow.cpp.o[0m
+[ 99%] [32m[1mLinking CXX shared library ../../lib/libopencv_cvv3.dylib[0m
+[ 99%] Built target opencv_cvv
+[ 99%] [32m[1mLinking CXX shared library ../../lib/libopencv_face3.dylib[0m
+[ 99%] Built target opencv_face
+[100%] [32m[1mLinking CXX shared library ../../lib/libopencv_stitching3.dylib[0m
+[100%] Built target opencv_stitching
+[100%] [32m[1mLinking CXX shared library ../../lib/libopencv_optflow3.dylib[0m
+[100%] Built target opencv_optflow
+[35m[1mScanning dependencies of target opencv_python2[0m
+[100%] [32mBuilding CXX object modules/python2/CMakeFiles/opencv_python2.dir/__/src2/cv2.cpp.o[0m
+[100%] [32m[1mLinking CXX shared module ../../lib/cv2.so[0m
+[100%] Built target opencv_python2

@@ -1,0 +1,38 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[100%] Built target bondcpp
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/bondcpp.pc
+-- Up-to-date: /opt/ros/kinetic/share/bondcpp/cmake/bondcppConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/bondcpp/cmake/bondcppConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/bondcpp/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/bondcpp
+-- Up-to-date: /opt/ros/kinetic/include/bondcpp/bond.h
+-- Up-to-date: /opt/ros/kinetic/include/bondcpp/BondSM_sm.h
+-- Up-to-date: /opt/ros/kinetic/include/bondcpp/timeout.h
+-- Installing: /opt/ros/kinetic/lib/libbondcpp.dylib

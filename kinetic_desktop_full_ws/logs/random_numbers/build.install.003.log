@@ -1,0 +1,17 @@
+[100%] Built target random_numbers
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/random_numbers.pc
+-- Up-to-date: /opt/ros/kinetic/share/random_numbers/cmake/random_numbersConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/random_numbers/cmake/random_numbersConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/random_numbers/package.xml
+-- Up-to-date: /opt/ros/kinetic/lib/librandom_numbers.dylib
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/install_name_tool: for: /opt/ros/kinetic/lib/librandom_numbers.dylib (for architecture x86_64) option "-add_rpath /opt/ros/kinetic/lib" would duplicate path, file already has LC_RPATH for: /opt/ros/kinetic/lib
+-- Up-to-date: /opt/ros/kinetic/include/random_numbers
+-- Up-to-date: /opt/ros/kinetic/include/random_numbers/random_numbers.h

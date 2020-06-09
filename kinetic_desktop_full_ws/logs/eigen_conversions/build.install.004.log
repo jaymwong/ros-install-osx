@@ -1,0 +1,27 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[100%] Built target eigen_conversions
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/eigen_conversions.pc
+-- Up-to-date: /opt/ros/kinetic/share/eigen_conversions/cmake/eigen_conversionsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/eigen_conversions/cmake/eigen_conversionsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/eigen_conversions/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/eigen_conversions
+-- Up-to-date: /opt/ros/kinetic/include/eigen_conversions/eigen_kdl.h
+-- Up-to-date: /opt/ros/kinetic/include/eigen_conversions/eigen_msg.h
+-- Installing: /opt/ros/kinetic/lib/libeigen_conversions.dylib

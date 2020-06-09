@@ -1,0 +1,20 @@
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_JointTrajectory
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_MultiDOFJointTrajectory
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_MultiDOFJointTrajectoryPoint
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_JointTrajectoryPoint
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[ 18%] Built target trajectory_msgs_generate_messages_cpp
+[ 40%] Built target trajectory_msgs_generate_messages_eus
+[ 59%] Built target trajectory_msgs_generate_messages_lisp
+[ 77%] Built target trajectory_msgs_generate_messages_nodejs
+[100%] Built target trajectory_msgs_generate_messages_py
+[100%] Built target trajectory_msgs_generate_messages

@@ -1,0 +1,6 @@
+[ 12%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbag/lib/librosbag.dylib[0m
+[ 50%] Built target rosbag
+[ 62%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbag/lib/rosbag/play[0m
+[ 75%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbag/lib/rosbag/record[0m
+[ 87%] Built target play
+[100%] Built target record

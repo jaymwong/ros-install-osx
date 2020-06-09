@@ -1,0 +1,57 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/executive_smach/smach
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/wizard/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/tbt/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-externals/devel/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/executive_smach/smach/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/concurrence.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/container.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/exceptions.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/iterator.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/log.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/sequence.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/state.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/state_machine.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/user_data.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+copying src/smach/util.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/concurrence.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/container.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/exceptions.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/iterator.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/log.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/sequence.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/state.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/state_machine.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/user_data.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smach/lib/smach/util.py -> /opt/ros/kinetic/lib/python2.7/site-packages/smach
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/concurrence.py to concurrence.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/container.py to container.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/exceptions.py to exceptions.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/iterator.py to iterator.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/log.py to log.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/sequence.py to sequence.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/state.py to state.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/state_machine.py to state_machine.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/user_data.py to user_data.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/smach/util.py to util.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/smach-2.0.1-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/smach.pc
+-- Installing: /opt/ros/kinetic/share/smach/cmake/smachConfig.cmake
+-- Installing: /opt/ros/kinetic/share/smach/cmake/smachConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/smach/package.xml

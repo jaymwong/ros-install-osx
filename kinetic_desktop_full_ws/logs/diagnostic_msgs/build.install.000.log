@@ -1,0 +1,112 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_AddDiagnostics
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_DiagnosticStatus
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_DiagnosticArray
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_KeyValue
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_SelfTest
+[ 17%] Built target diagnostic_msgs_generate_messages_cpp
+[ 17%] Built target std_msgs_generate_messages_py
+[ 42%] Built target diagnostic_msgs_generate_messages_py
+[ 42%] Built target std_msgs_generate_messages_lisp
+[ 60%] Built target diagnostic_msgs_generate_messages_lisp
+[ 60%] Built target std_msgs_generate_messages_eus
+[ 82%] Built target diagnostic_msgs_generate_messages_eus
+[ 82%] Built target std_msgs_generate_messages_nodejs
+[100%] Built target diagnostic_msgs_generate_messages_nodejs
+[100%] Built target diagnostic_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/msg/DiagnosticArray.msg
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/msg/DiagnosticStatus.msg
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/msg/KeyValue.msg
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/srv/AddDiagnostics.srv
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/srv/SelfTest.srv
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/cmake/diagnostic_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs/AddDiagnostics.h
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs/AddDiagnosticsRequest.h
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs/AddDiagnosticsResponse.h
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs/DiagnosticArray.h
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs/DiagnosticStatus.h
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs/KeyValue.h
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs/SelfTest.h
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs/SelfTestRequest.h
+-- Installing: /opt/ros/kinetic/include/diagnostic_msgs/SelfTestResponse.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/msg/DiagnosticArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/msg/DiagnosticStatus.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/msg/KeyValue.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/srv/AddDiagnostics.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/srv/SelfTest.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/_package_DiagnosticArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/_package_DiagnosticStatus.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/_package_KeyValue.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/diagnostic_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/DiagnosticArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/DiagnosticStatus.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/KeyValue.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/_package_AddDiagnostics.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/_package_SelfTest.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/AddDiagnostics.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/diagnostic_msgs-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/SelfTest.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg/DiagnosticArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg/DiagnosticStatus.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg/KeyValue.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/srv/AddDiagnostics.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/srv/SelfTest.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticStatus.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/msg/_KeyValue.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/srv/_AddDiagnostics.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/srv/_SelfTest.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/srv/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticStatus.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticStatus.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_KeyValue.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_KeyValue.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/_AddDiagnostics.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/_AddDiagnostics.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/_SelfTest.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/_SelfTest.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/diagnostic_msgs.pc
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/cmake/diagnostic_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/cmake/diagnostic_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/cmake/diagnostic_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/diagnostic_msgs/package.xml

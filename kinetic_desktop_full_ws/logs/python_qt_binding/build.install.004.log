@@ -1,0 +1,56 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/python_qt_binding.pc
+-- Up-to-date: /opt/ros/kinetic/share/python_qt_binding/cmake/python_qt_binding-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/python_qt_binding/cmake/python_qt_bindingConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/python_qt_binding/cmake/python_qt_bindingConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/python_qt_binding/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/python_qt_binding
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/python_qt_binding/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+running install
+running bdist_egg
+running egg_info
+writing src/python_qt_binding.egg-info/PKG-INFO
+writing top-level names to src/python_qt_binding.egg-info/top_level.txt
+writing dependency_links to src/python_qt_binding.egg-info/dependency_links.txt
+reading manifest file 'src/python_qt_binding.egg-info/SOURCES.txt'
+reading manifest template 'MANIFEST.in'
+writing manifest file 'src/python_qt_binding.egg-info/SOURCES.txt'
+installing library code to /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg
+running install_lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/python_qt_binding
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/lib/python_qt_binding/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/python_qt_binding
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/lib/python_qt_binding/binding_helper.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/python_qt_binding
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/lib/python_qt_binding/QtBindingHelper.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/python_qt_binding
+byte-compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/python_qt_binding/__init__.py to __init__.pyc
+byte-compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/python_qt_binding/binding_helper.py to binding_helper.pyc
+byte-compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/python_qt_binding/QtBindingHelper.py to QtBindingHelper.pyc
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/EGG-INFO
+copying src/python_qt_binding.egg-info/PKG-INFO -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/EGG-INFO
+copying src/python_qt_binding.egg-info/SOURCES.txt -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/EGG-INFO
+copying src/python_qt_binding.egg-info/dependency_links.txt -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/EGG-INFO
+copying src/python_qt_binding.egg-info/top_level.txt -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg/EGG-INFO
+zip_safe flag not set; analyzing archive contents...
+creating 'dist/python_qt_binding-0.3.4-py2.7.egg' and adding '/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg' to it
+removing '/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/python_qt_binding/bdist.macosx-10.12-x86_64/egg' (and everything under it)
+Processing python_qt_binding-0.3.4-py2.7.egg
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/python_qt_binding-0.3.4-py2.7.egg
+Copying python_qt_binding-0.3.4-py2.7.egg to /opt/ros/kinetic/lib/python2.7/site-packages
+python-qt-binding 0.3.4 is already the active version in easy-install.pth
+
+Installed /opt/ros/kinetic/lib/python2.7/site-packages/python_qt_binding-0.3.4-py2.7.egg
+Processing dependencies for python-qt-binding==0.3.4
+Finished processing dependencies for python-qt-binding==0.3.4
+-- Up-to-date: /opt/ros/kinetic/share/python_qt_binding/cmake/shiboken_helper.cmake
+-- Up-to-date: /opt/ros/kinetic/share/python_qt_binding/cmake/sip_configure.py
+-- Up-to-date: /opt/ros/kinetic/share/python_qt_binding/cmake/sip_helper.cmake

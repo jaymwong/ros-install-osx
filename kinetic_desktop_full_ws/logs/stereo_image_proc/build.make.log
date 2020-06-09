@@ -1,0 +1,5 @@
+[ 14%] Built target stereo_image_proc_gencfg
+[ 28%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_image_proc/lib/libstereo_image_proc.dylib[0m
+[ 71%] Built target stereo_image_proc
+[ 85%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_image_proc/lib/stereo_image_proc/stereo_image_proc[0m
+[100%] Built target stereoimageproc_exe

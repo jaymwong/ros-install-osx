@@ -1,0 +1,186 @@
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target _tf_generate_messages_check_deps_tfMessage
+[  0%] Built target _tf_generate_messages_check_deps_FrameGraph
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  5%] Built target tf_generate_messages_nodejs
+[  5%] Built target geometry_msgs_generate_messages_py
+[  5%] Built target sensor_msgs_generate_messages_py
+[  5%] Built target std_msgs_generate_messages_py
+[ 17%] Built target tf_generate_messages_py
+[ 17%] Built target sensor_msgs_generate_messages_cpp
+[ 17%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 17%] Built target rosgraph_msgs_generate_messages_lisp
+[ 17%] Built target actionlib_msgs_generate_messages_cpp
+[ 17%] Built target geometry_msgs_generate_messages_cpp
+[ 17%] Built target std_msgs_generate_messages_cpp
+[ 23%] Built target tf_generate_messages_cpp
+[ 23%] Built target tf2_msgs_generate_messages_py
+[ 23%] Built target tf2_msgs_generate_messages_lisp
+[ 23%] Built target tf2_msgs_generate_messages_eus
+[ 23%] Built target roscpp_generate_messages_lisp
+[ 23%] Built target actionlib_msgs_generate_messages_nodejs
+[ 23%] Built target actionlib_msgs_generate_messages_lisp
+[ 23%] Built target geometry_msgs_generate_messages_eus
+[ 23%] Built target actionlib_generate_messages_py
+[ 23%] Built target geometry_msgs_generate_messages_lisp
+[ 23%] Built target actionlib_msgs_generate_messages_py
+[ 23%] Built target roscpp_generate_messages_eus
+[ 23%] Built target actionlib_generate_messages_lisp
+[ 23%] Built target sensor_msgs_generate_messages_eus
+[ 23%] Built target actionlib_generate_messages_cpp
+[ 23%] Built target actionlib_generate_messages_nodejs
+[ 23%] Built target sensor_msgs_generate_messages_lisp
+[ 23%] Built target rosgraph_msgs_generate_messages_py
+[ 23%] Built target roscpp_generate_messages_py
+[ 23%] Built target roscpp_generate_messages_cpp
+[ 23%] Built target std_msgs_generate_messages_eus
+[ 32%] Built target tf_generate_messages_eus
+[ 32%] Built target std_msgs_generate_messages_lisp
+[ 38%] Built target tf_generate_messages_lisp
+[ 38%] Built target rosgraph_msgs_generate_messages_cpp
+[ 38%] Built target rosgraph_msgs_generate_messages_eus
+[ 38%] Built target actionlib_msgs_generate_messages_eus
+[ 38%] Built target tf2_msgs_generate_messages_nodejs
+[ 38%] Built target actionlib_generate_messages_eus
+[ 52%] Built target tf
+[ 58%] Built target testBroadcaster
+[ 64%] Built target testListener
+[ 70%] Built target tf_monitor
+[ 76%] Built target transform_listener_unittest
+[ 82%] Built target tf_echo
+[ 88%] Built target tf_empty_listener
+[ 94%] Built target tf_change_notifier
+[100%] Built target static_transform_publisher
+[100%] Built target tf_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/geometry/tf
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/geometry/tf/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf
+copying src/tf/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf
+copying src/tf/broadcaster.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf
+copying src/tf/listener.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf
+copying src/tf/tfwtf.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf
+copying src/tf/transformations.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/scripts-2.7
+copying scripts/groovy_compatibility/tf_remap -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/scripts-2.7
+copying scripts/groovy_compatibility/view_frames -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/scripts-2.7
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/tf
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf/broadcaster.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf/listener.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf/tfwtf.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/lib/tf/transformations.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf/broadcaster.py to broadcaster.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf/listener.py to listener.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf/tfwtf.py to tfwtf.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf/transformations.py to transformations.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/scripts-2.7/tf_remap -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf/scripts-2.7/view_frames -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/tf_remap to 775
+changing mode of /opt/ros/kinetic/bin/view_frames to 775
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/tf-1.11.9-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/tf/msg/tfMessage.msg
+-- Installing: /opt/ros/kinetic/share/tf/srv/FrameGraph.srv
+-- Installing: /opt/ros/kinetic/share/tf/cmake/tf-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/tf
+-- Installing: /opt/ros/kinetic/include/tf/FrameGraph.h
+-- Installing: /opt/ros/kinetic/include/tf/FrameGraphRequest.h
+-- Installing: /opt/ros/kinetic/include/tf/FrameGraphResponse.h
+-- Installing: /opt/ros/kinetic/include/tf/tfMessage.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf/msg/tfMessage.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf/srv/FrameGraph.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/msg/_package_tfMessage.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/msg/tf-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/msg/tfMessage.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/srv/_package_FrameGraph.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/srv/FrameGraph.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf/srv/tf-srv.asd
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf/msg/tfMessage.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf/srv/FrameGraph.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf/lib/python2.7/site-packages/tf ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf/lib/python2.7/site-packages/tf/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf/lib/python2.7/site-packages/tf/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf/lib/python2.7/site-packages/tf/msg/__init__.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf/lib/python2.7/site-packages/tf/msg/_tfMessage.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf/lib/python2.7/site-packages/tf/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf/lib/python2.7/site-packages/tf/srv/_FrameGraph.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf/lib/python2.7/site-packages/tf/srv/__init__.py ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/tf
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/msg/_tfMessage.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/msg/_tfMessage.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/srv/_FrameGraph.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/srv/_FrameGraph.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/tf
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/tf/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/tf/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/tf.pc
+-- Installing: /opt/ros/kinetic/share/tf/cmake/tf-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/tf/cmake/tfConfig.cmake
+-- Installing: /opt/ros/kinetic/share/tf/cmake/tfConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/tf/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/tf
+-- Installing: /opt/ros/kinetic/include/tf/exceptions.h
+-- Installing: /opt/ros/kinetic/include/tf/LinearMath
+-- Installing: /opt/ros/kinetic/include/tf/LinearMath/Matrix3x3.h
+-- Installing: /opt/ros/kinetic/include/tf/LinearMath/MinMax.h
+-- Installing: /opt/ros/kinetic/include/tf/LinearMath/QuadWord.h
+-- Installing: /opt/ros/kinetic/include/tf/LinearMath/Quaternion.h
+-- Installing: /opt/ros/kinetic/include/tf/LinearMath/Scalar.h
+-- Installing: /opt/ros/kinetic/include/tf/LinearMath/Transform.h
+-- Installing: /opt/ros/kinetic/include/tf/LinearMath/Vector3.h
+-- Installing: /opt/ros/kinetic/include/tf/message_filter.h
+-- Installing: /opt/ros/kinetic/include/tf/tf.h
+-- Installing: /opt/ros/kinetic/include/tf/time_cache.h
+-- Installing: /opt/ros/kinetic/include/tf/transform_broadcaster.h
+-- Installing: /opt/ros/kinetic/include/tf/transform_datatypes.h
+-- Installing: /opt/ros/kinetic/include/tf/transform_listener.h
+-- Installing: /opt/ros/kinetic/lib/libtf.dylib
+-- Installing: /opt/ros/kinetic/lib/tf/tf_echo
+-- Installing: /opt/ros/kinetic/lib/tf/tf_empty_listener
+-- Installing: /opt/ros/kinetic/lib/tf/tf_change_notifier
+-- Installing: /opt/ros/kinetic/lib/tf/tf_monitor
+-- Installing: /opt/ros/kinetic/lib/tf/static_transform_publisher
+-- Installing: /opt/ros/kinetic/lib/tf/bullet_migration_sed.py
+-- Installing: /opt/ros/kinetic/lib/tf/tf_remap
+-- Installing: /opt/ros/kinetic/lib/tf/view_frames

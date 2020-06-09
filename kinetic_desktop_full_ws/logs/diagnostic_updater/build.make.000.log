@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target example[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/example.dir/src/example.cpp.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/diagnostics/diagnostic_updater/src/example.cpp:37:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/diagnostics/diagnostic_updater/include/diagnostic_updater/publisher.h:41:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/diagnostics/diagnostic_updater/include/diagnostic_updater/update_functions.h:193:13: [0m[0;1;35mwarning: [0m[1m'finite' is deprecated: first deprecated in macOS 10.9 [-Wdeprecated-declarations][0m
+        if (finite(*params_.max_freq_))
+[0;1;32m            ^
+[0m[1m/usr/include/math.h:757:12: [0m[0;1;30mnote: [0m'finite' has been explicitly marked deprecated here[0m
+extern int finite(double) __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_0, __MAC_10_9, __IPHONE_NA, __IPHONE_NA);
+[0;1;32m           ^
+[0m1 warning generated.
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_updater/lib/diagnostic_updater/example[0m
+[100%] Built target example

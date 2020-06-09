@@ -1,0 +1,6 @@
+ros/rosboost_cfg
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosboost_cfg/bin/rosboost-cfg /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/bin/rosboost-cfg
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosboost_cfg/lib/pkgconfig/rosboost_cfg.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/rosboost_cfg.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosboost_cfg/lib/python2.7/site-packages/rosboost_cfg/__init__.py /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/python2.7/site-packages/rosboost_cfg/__init__.py
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosboost_cfg/share/rosboost_cfg/cmake/rosboost_cfgConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rosboost_cfg/cmake/rosboost_cfgConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosboost_cfg/share/rosboost_cfg/cmake/rosboost_cfgConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/rosboost_cfg/cmake/rosboost_cfgConfig.cmake

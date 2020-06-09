@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target rostime[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/rostime.dir/src/duration.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rostime.dir/src/rate.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/rostime.dir/src/time.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rostime/lib/librostime.dylib[0m
+[100%] Built target rostime

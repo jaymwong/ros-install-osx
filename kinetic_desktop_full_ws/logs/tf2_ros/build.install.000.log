@@ -1,0 +1,96 @@
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[ 63%] Built target tf2_ros
+[ 81%] Built target tf2_ros_buffer_server
+[100%] Built target tf2_ros_static_transform_publisher
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/geometry2/tf2_ros
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/geometry2/tf2_ros/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros
+copying src/tf2_ros/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros
+copying src/tf2_ros/buffer.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros
+copying src/tf2_ros/buffer_client.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros
+copying src/tf2_ros/buffer_interface.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros
+copying src/tf2_ros/static_transform_broadcaster.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros
+copying src/tf2_ros/transform_broadcaster.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros
+copying src/tf2_ros/transform_listener.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros/buffer.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros/buffer_client.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros/buffer_interface.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros/static_transform_broadcaster.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros/transform_broadcaster.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/tf2_ros/lib/tf2_ros/transform_listener.py -> /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros/buffer.py to buffer.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros/buffer_client.py to buffer_client.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros/buffer_interface.py to buffer_interface.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros/static_transform_broadcaster.py to static_transform_broadcaster.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros/transform_broadcaster.py to transform_broadcaster.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros/transform_listener.py to transform_listener.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/tf2_ros-0.6.2-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/tf2_ros.pc
+-- Installing: /opt/ros/kinetic/share/tf2_ros/cmake/tf2_rosConfig.cmake
+-- Installing: /opt/ros/kinetic/share/tf2_ros/cmake/tf2_rosConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/tf2_ros/package.xml
+-- Installing: /opt/ros/kinetic/lib/libtf2_ros.dylib
+-- Installing: /opt/ros/kinetic/lib/tf2_ros/buffer_server
+-- Installing: /opt/ros/kinetic/lib/tf2_ros/static_transform_publisher
+-- Installing: /opt/ros/kinetic/include/tf2_ros
+-- Installing: /opt/ros/kinetic/include/tf2_ros/buffer.h
+-- Installing: /opt/ros/kinetic/include/tf2_ros/buffer_client.h
+-- Installing: /opt/ros/kinetic/include/tf2_ros/buffer_interface.h
+-- Installing: /opt/ros/kinetic/include/tf2_ros/buffer_server.h
+-- Installing: /opt/ros/kinetic/include/tf2_ros/message_filter.h
+-- Installing: /opt/ros/kinetic/include/tf2_ros/static_transform_broadcaster.h
+-- Installing: /opt/ros/kinetic/include/tf2_ros/transform_broadcaster.h
+-- Installing: /opt/ros/kinetic/include/tf2_ros/transform_listener.h

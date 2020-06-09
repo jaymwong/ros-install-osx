@@ -1,0 +1,96 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target _laser_assembler_generate_messages_check_deps_AssembleScans[0m
+[35m[1mScanning dependencies of target _laser_assembler_generate_messages_check_deps_AssembleScans2[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target _laser_assembler_generate_messages_check_deps_AssembleScans
+[  0%] Built target _laser_assembler_generate_messages_check_deps_AssembleScans2
+[35m[1mScanning dependencies of target laser_assembler_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target laser_assembler_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target laser_assembler_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target laser_assembler_generate_messages_py[0m
+[35m[1mScanning dependencies of target laser_assembler_generate_messages_eus[0m
+[ 26%] [34m[1mGenerating EusLisp code from laser_assembler/AssembleScans.srv[0m
+[ 16%] [34m[1mGenerating Lisp code from laser_assembler/AssembleScans.srv[0m
+[ 26%] [34m[1mGenerating Python code from SRV laser_assembler/AssembleScans[0m
+[ 26%] [34m[1mGenerating Python code from SRV laser_assembler/AssembleScans2[0m
+[ 16%] [34m[1mGenerating EusLisp code from laser_assembler/AssembleScans2.srv[0m
+[ 26%] [34m[1mGenerating C++ code from laser_assembler/AssembleScans.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from laser_assembler/AssembleScans2.srv[0m
+[ 26%] [34m[1mGenerating Javascript code from laser_assembler/AssembleScans.srv[0m
+[ 33%] [34m[1mGenerating Lisp code from laser_assembler/AssembleScans2.srv[0m
+[ 33%] [34m[1mGenerating C++ code from laser_assembler/AssembleScans2.srv[0m
+[ 33%] Built target laser_assembler_generate_messages_nodejs
+[ 36%] [34m[1mGenerating EusLisp manifest code for laser_assembler[0m
+[ 40%] [34m[1mGenerating Python srv __init__.py for laser_assembler[0m
+[ 40%] Built target laser_assembler_generate_messages_lisp
+[ 40%] Built target laser_assembler_generate_messages_py
+[ 40%] Built target laser_assembler_generate_messages_cpp
+[35m[1mScanning dependencies of target laser_assembler_gencpp[0m
+[ 40%] Built target laser_assembler_gencpp
+[35m[1mScanning dependencies of target periodic_snapshotter[0m
+[35m[1mScanning dependencies of target dummy_scan_producer[0m
+[35m[1mScanning dependencies of target point_cloud2_assembler[0m
+[35m[1mScanning dependencies of target point_cloud_assembler_srv[0m
+[35m[1mScanning dependencies of target laser_scan_assembler[0m
+[35m[1mScanning dependencies of target merge_clouds[0m
+[35m[1mScanning dependencies of target laser_scan_assembler_srv[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/periodic_snapshotter.dir/examples/periodic_snapshotter.cpp.o[0m
+[ 43%] Built target laser_assembler_generate_messages_eus
+[35m[1mScanning dependencies of target test_assembler[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/point_cloud2_assembler.dir/src/point_cloud2_assembler.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/dummy_scan_producer.dir/test/dummy_scan_producer.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/point_cloud_assembler_srv.dir/src/point_cloud_assembler_srv.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/merge_clouds.dir/src/merge_clouds.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/laser_scan_assembler.dir/src/laser_scan_assembler.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/laser_scan_assembler_srv.dir/src/laser_scan_assembler_srv.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/test_assembler.dir/test/test_assembler.cpp.o[0m
+[ 70%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/periodic_snapshotter[0m
+[ 70%] Built target periodic_snapshotter
+[35m[1mScanning dependencies of target point_cloud_assembler[0m
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/laser_assembler/test/test_assembler.cpp:120:39: [0m[0;1;31merror: [0m[1mno matching conversion for functional-style cast from 'float' to 'boost::posix_time::milliseconds' (aka 'subsecond_duration<boost::posix_time::time_duration, 1000>')[0m
+    cloud_condition_.timed_wait(lock, boost::posix_time::milliseconds(1000.0f));
+[0;1;32m                                      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m[1m/usr/local/include/boost/date_time/time_duration.hpp:270:30: [0m[0;1;30mnote: [0mcandidate constructor (the implicit copy constructor) not viable: no known conversion from 'float' to 'const boost::date_time::subsecond_duration<boost::posix_time::time_duration, 1000>' for 1st argument[0m
+  class BOOST_SYMBOL_VISIBLE subsecond_duration : public base_duration
+[0;1;32m                             ^
+[0m[1m/usr/local/include/boost/date_time/time_duration.hpp:286:59: [0m[0;1;30mnote: [0mcandidate template ignored: disabled by 'enable_if' [with T = float][0m
+                                typename boost::enable_if<boost::is_integral<T>, void>::type* = 0) :
+[0;1;32m                                                          ^
+[ 73%] [32mBuilding CXX object CMakeFiles/point_cloud_assembler.dir/src/point_cloud_assembler.cpp.o[0m
+[0m1 error generated.
+make[2]: *** [CMakeFiles/test_assembler.dir/test/test_assembler.cpp.o] Error 1
+make[1]: *** [CMakeFiles/test_assembler.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 76%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/dummy_scan_producer[0m
+[ 76%] Built target dummy_scan_producer
+[ 80%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/merge_clouds[0m
+[ 80%] Built target merge_clouds
+[ 83%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/point_cloud_assembler_srv[0m
+[ 83%] Built target point_cloud_assembler_srv
+[ 86%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/point_cloud2_assembler[0m
+[ 86%] Built target point_cloud2_assembler
+[ 90%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/point_cloud_assembler[0m
+[ 90%] Built target point_cloud_assembler
+[ 93%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/laser_scan_assembler_srv[0m
+[ 93%] Built target laser_scan_assembler_srv
+[ 96%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/laser_scan_assembler[0m
+[ 96%] Built target laser_scan_assembler
+make: *** [all] Error 2

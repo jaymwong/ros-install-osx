@@ -1,0 +1,5 @@
+[ 26%] Built target image_proc_gencfg
+[ 33%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_proc/lib/libimage_proc.dylib[0m
+[ 86%] Built target image_proc
+[ 93%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_proc/lib/image_proc/image_proc[0m
+[100%] Built target image_proc_exe

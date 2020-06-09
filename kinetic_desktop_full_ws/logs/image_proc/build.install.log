@@ -1,0 +1,40 @@
+[ 26%] Built target image_proc_gencfg
+[ 86%] Built target image_proc
+[100%] Built target image_proc_exe
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/include/image_proc/CropDecimateConfig.h
+-- Up-to-date: /opt/ros/kinetic/include/image_proc/DebayerConfig.h
+-- Up-to-date: /opt/ros/kinetic/include/image_proc/RectifyConfig.h
+-- Up-to-date: /opt/ros/kinetic/include/image_proc/ResizeConfig.h
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/__init__.py
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_proc/lib/python2.7/site-packages/image_proc/cfg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/CropDecimateConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/CropDecimateConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/DebayerConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/DebayerConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/RectifyConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/RectifyConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/ResizeConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/image_proc/cfg/ResizeConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/image_proc.pc
+-- Up-to-date: /opt/ros/kinetic/share/image_proc/cmake/image_procConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/image_proc/cmake/image_procConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/image_proc/package.xml
+-- Installing: /opt/ros/kinetic/lib/libimage_proc.dylib
+-- Up-to-date: /opt/ros/kinetic/include/image_proc
+-- Up-to-date: /opt/ros/kinetic/include/image_proc/advertisement_checker.h
+-- Up-to-date: /opt/ros/kinetic/include/image_proc/processor.h
+-- Up-to-date: /opt/ros/kinetic/share/image_proc/nodelet_plugins.xml
+-- Installing: /opt/ros/kinetic/lib/image_proc/image_proc
+-- Up-to-date: /opt/ros/kinetic/share/image_proc//launch
+-- Up-to-date: /opt/ros/kinetic/share/image_proc//launch/image_proc.launch

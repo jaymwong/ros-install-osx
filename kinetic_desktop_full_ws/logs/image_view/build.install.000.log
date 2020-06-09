@@ -1,0 +1,39 @@
+[ 11%] Built target disparity_view
+[ 17%] Built target image_view_gencfg
+[ 29%] Built target image_view_exe
+[ 52%] Built target image_view
+[ 64%] Built target extract_images
+[ 76%] Built target video_recorder
+[ 88%] Built target image_saver
+[100%] Built target stereo_view
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/include/image_view/ImageViewConfig.h
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_view/__init__.py
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_view/lib/python2.7/site-packages/image_view/cfg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_view/lib/python2.7/site-packages/image_view/cfg/ImageViewConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_view/lib/python2.7/site-packages/image_view/cfg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_view/cfg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_view/cfg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_view/cfg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_view/cfg/ImageViewConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_view/cfg/ImageViewConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/image_view.pc
+-- Installing: /opt/ros/kinetic/share/image_view/cmake/image_viewConfig.cmake
+-- Installing: /opt/ros/kinetic/share/image_view/cmake/image_viewConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/image_view/package.xml
+-- Installing: /opt/ros/kinetic/lib/image_view/extract_images
+-- Installing: /opt/ros/kinetic/lib/image_view/image_saver
+-- Installing: /opt/ros/kinetic/lib/image_view/video_recorder
+-- Installing: /opt/ros/kinetic/lib/libimage_view.dylib
+-- Installing: /opt/ros/kinetic/lib/image_view/disparity_view
+-- Installing: /opt/ros/kinetic/lib/image_view/image_view
+-- Installing: /opt/ros/kinetic/lib/image_view/stereo_view
+-- Installing: /opt/ros/kinetic/share/image_view/nodelet_plugins.xml
+-- Installing: /opt/ros/kinetic/lib/image_view/extract_images_sync

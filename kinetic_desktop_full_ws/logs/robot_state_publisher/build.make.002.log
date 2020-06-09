@@ -1,0 +1,8 @@
+[ 11%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/robot_state_publisher/lib/librobot_state_publisher_solver.dylib[0m
+[ 33%] Built target robot_state_publisher_solver
+[ 44%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/robot_state_publisher/lib/robot_state_publisher/state_publisher[0m
+[ 55%] Built target state_publisher
+[ 66%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/robot_state_publisher/lib/libjoint_state_listener.dylib[0m
+[ 77%] Built target joint_state_listener
+[ 88%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/robot_state_publisher/lib/robot_state_publisher/robot_state_publisher[0m
+[100%] Built target robot_state_publisher

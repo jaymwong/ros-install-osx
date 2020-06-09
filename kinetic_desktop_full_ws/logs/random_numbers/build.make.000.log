@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target random_numbers[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/random_numbers.dir/src/random_numbers.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/random_numbers/lib/librandom_numbers.dylib[0m
+[100%] Built target random_numbers

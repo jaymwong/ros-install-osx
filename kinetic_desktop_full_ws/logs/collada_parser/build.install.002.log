@@ -1,0 +1,20 @@
+[ 50%] Built target collada_parser
+[100%] Built target collada_parser_plugin
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/collada_parser.pc
+-- Up-to-date: /opt/ros/kinetic/share/collada_parser/cmake/collada_parserConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/collada_parser/cmake/collada_parserConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/collada_parser/package.xml
+-- Installing: /opt/ros/kinetic/lib/libcollada_parser.dylib
+-- Installing: /opt/ros/kinetic/lib/libcollada_parser_plugin.dylib
+-- Up-to-date: /opt/ros/kinetic/include/collada_parser
+-- Up-to-date: /opt/ros/kinetic/include/collada_parser/collada_parser.h
+-- Up-to-date: /opt/ros/kinetic/include/collada_parser/collada_parser_plugin.h
+-- Up-to-date: /opt/ros/kinetic/share/collada_parser/collada_parser_plugin_description.xml

@@ -1,0 +1,35 @@
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _laser_assembler_generate_messages_check_deps_AssembleScans
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _laser_assembler_generate_messages_check_deps_AssembleScans2
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  7%] Built target laser_assembler_generate_messages_cpp
+[ 14%] Built target laser_assembler_generate_messages_lisp
+[ 21%] Built target laser_assembler_generate_messages_nodejs
+[ 32%] Built target laser_assembler_generate_messages_eus
+[ 42%] Built target laser_assembler_generate_messages_py
+[ 42%] Built target laser_assembler_gencpp
+[ 42%] Built target laser_assembler_generate_messages
+[ 46%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/periodic_snapshotter[0m
+[ 50%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/dummy_scan_producer[0m
+[ 53%] Built target periodic_snapshotter
+[ 57%] Built target dummy_scan_producer
+[ 60%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/point_cloud2_assembler[0m
+[ 64%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/point_cloud_assembler_srv[0m
+[ 67%] Built target point_cloud2_assembler
+[ 71%] Built target point_cloud_assembler_srv
+[ 75%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/merge_clouds[0m
+[ 78%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/laser_scan_assembler[0m
+[ 82%] Built target merge_clouds
+[ 85%] Built target laser_scan_assembler
+[ 89%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/point_cloud_assembler[0m
+[ 92%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/laser_assembler/lib/laser_assembler/laser_scan_assembler_srv[0m
+[ 96%] Built target point_cloud_assembler
+[100%] Built target laser_scan_assembler_srv

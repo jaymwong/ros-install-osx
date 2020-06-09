@@ -1,0 +1,17 @@
+[35m[1mScanning dependencies of target collada_parser[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/collada_parser.dir/src/collada_parser.cpp.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/collada_urdf/collada_parser/src/collada_parser.cpp:56:
+[1m/usr/local/include/collada-dom2.4/dae/daeStandardURIResolver.h:9:9: [0m[0;1;35mwarning: [0m[1m'__DAE_STANDARD_URI_RESOLVER__' is used as a header guard here, followed by #define of a different macro [-Wheader-guard][0m
+#ifndef __DAE_STANDARD_URI_RESOLVER__
+[0;1;32m        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m[1m/usr/local/include/collada-dom2.4/dae/daeStandardURIResolver.h:10:9: [0m[0;1;30mnote: [0m'__DAE_STANDARD_URI_RESOVLER__' is defined here; did you mean '__DAE_STANDARD_URI_RESOLVER__'?[0m
+#define __DAE_STANDARD_URI_RESOVLER__
+[0;1;32m        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m[0;32m        __DAE_STANDARD_URI_RESOLVER__
+[0m1 warning generated.
+[ 50%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/collada_parser/lib/libcollada_parser.dylib[0m
+[ 50%] Built target collada_parser
+[35m[1mScanning dependencies of target collada_parser_plugin[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/collada_parser_plugin.dir/src/collada_parser_plugin.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/collada_parser/lib/libcollada_parser_plugin.dylib[0m
+[100%] Built target collada_parser_plugin

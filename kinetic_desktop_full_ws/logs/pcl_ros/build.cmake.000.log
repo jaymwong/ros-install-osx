@@ -1,0 +1,153 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is AppleClang 9.0.0.9000038
+[36m--[0m The CXX compiler identification is AppleClang 9.0.0.9000038
+[36m--[0m Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+[36m--[0m Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+[36m--[0m Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Looking for pthread.h
+[36m--[0m Looking for pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Boost version: 1.67.0
+[36m--[0m Found the following Boost libraries:
+[36m--[0m   system
+[36m--[0m   filesystem
+[36m--[0m   thread
+[36m--[0m   chrono
+[36m--[0m   date_time
+[36m--[0m   atomic
+[36m--[0m Checking for module 'eigen3'
+[36m--[0m   Found eigen3, version 3.3.5
+[36m--[0m Found eigen: /usr/local/Cellar/eigen/3.3.5/include/eigen3
+[36m--[0m Boost version: 1.67.0
+[36m--[0m Found the following Boost libraries:
+[36m--[0m   system
+[36m--[0m   filesystem
+[36m--[0m   thread
+[36m--[0m   date_time
+[36m--[0m   iostreams
+[36m--[0m   serialization
+[36m--[0m   chrono
+[36m--[0m   atomic
+[36m--[0m   regex
+[36m--[0m Checking for module 'libopenni'
+[36m--[0m   No package 'libopenni' found
+[36m--[0m Could NOT find openni (missing: OPENNI_LIBRARY OPENNI_INCLUDE_DIRS)
+** WARNING ** io features related to openni will be disabled
+[36m--[0m Checking for module 'libopenni2'
+[36m--[0m   No package 'libopenni2' found
+[36m--[0m Could NOT find OpenNI2 (missing: OPENNI2_LIBRARY OPENNI2_INCLUDE_DIRS)
+** WARNING ** io features related to openni2 will be disabled
+[36m--[0m Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR)
+** WARNING ** io features related to ensenso will be disabled
+[36m--[0m Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR)
+** WARNING ** io features related to davidSDK will be disabled
+[36m--[0m Could NOT find DSSDK (missing: _DSSDK_LIBRARIES)
+** WARNING ** io features related to dssdk will be disabled
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+[36m--[0m Found libusb-1.0: /usr/local/include
+** WARNING ** io features related to libusb-1.0 will be disabled
+[36m--[0m Checking for module 'flann'
+[36m--[0m   Found flann, version 1.9.1
+[36m--[0m Found Flann: /usr/local/Cellar/flann/1.9.1_4/lib/libflann_cpp_s.a
+[36m--[0m Checking for module 'libopenni'
+[36m--[0m   No package 'libopenni' found
+[36m--[0m Could NOT find openni (missing: OPENNI_LIBRARY OPENNI_INCLUDE_DIRS)
+** WARNING ** visualization features related to openni will be disabled
+[36m--[0m Checking for module 'libopenni2'
+[36m--[0m   No package 'libopenni2' found
+[36m--[0m Could NOT find OpenNI2 (missing: OPENNI2_LIBRARY OPENNI2_INCLUDE_DIRS)
+** WARNING ** visualization features related to openni2 will be disabled
+[36m--[0m Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR)
+** WARNING ** visualization features related to ensenso will be disabled
+[36m--[0m Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR)
+** WARNING ** visualization features related to davidSDK will be disabled
+[36m--[0m Could NOT find DSSDK (missing: _DSSDK_LIBRARIES)
+** WARNING ** visualization features related to dssdk will be disabled
+[36m--[0m Could NOT find RSSDK (missing: _RSSDK_LIBRARIES)
+** WARNING ** visualization features related to rssdk will be disabled
+[36m--[0m Found qhull: /usr/local/lib/libqhull_p.dylib
+[36m--[0m Checking for module 'libopenni'
+[36m--[0m   No package 'libopenni' found
+[36m--[0m Could NOT find openni (missing: OPENNI_LIBRARY OPENNI_INCLUDE_DIRS)
+** WARNING ** apps features related to openni will be disabled
+[36m--[0m Found OpenGL: /System/Library/Frameworks/OpenGL.framework
+[36m--[0m Found Glew: /usr/local/lib/libGLEW.dylib
+[36m--[0m looking for PCL_COMMON
+[36m--[0m Found PCL_COMMON: /usr/local/lib/libpcl_common.dylib
+[36m--[0m looking for PCL_OCTREE
+[36m--[0m Found PCL_OCTREE: /usr/local/lib/libpcl_octree.dylib
+[36m--[0m looking for PCL_IO
+[36m--[0m Found PCL_IO: /usr/local/lib/libpcl_io.dylib
+[36m--[0m looking for PCL_KDTREE
+[36m--[0m Found PCL_KDTREE: /usr/local/lib/libpcl_kdtree.dylib
+[36m--[0m looking for PCL_SEARCH
+[36m--[0m Found PCL_SEARCH: /usr/local/lib/libpcl_search.dylib
+[36m--[0m looking for PCL_SAMPLE_CONSENSUS
+[36m--[0m Found PCL_SAMPLE_CONSENSUS: /usr/local/lib/libpcl_sample_consensus.dylib
+[36m--[0m looking for PCL_FILTERS
+[36m--[0m Found PCL_FILTERS: /usr/local/lib/libpcl_filters.dylib
+[36m--[0m looking for PCL_2D
+[36m--[0m Found PCL_2D: /usr/local/include/pcl-1.8
+[36m--[0m looking for PCL_GEOMETRY
+[36m--[0m Found PCL_GEOMETRY: /usr/local/include/pcl-1.8
+[36m--[0m looking for PCL_FEATURES
+[36m--[0m Found PCL_FEATURES: /usr/local/lib/libpcl_features.dylib
+[36m--[0m looking for PCL_ML
+[36m--[0m Found PCL_ML: /usr/local/lib/libpcl_ml.dylib
+[36m--[0m looking for PCL_SEGMENTATION
+[36m--[0m Found PCL_SEGMENTATION: /usr/local/lib/libpcl_segmentation.dylib
+[36m--[0m looking for PCL_VISUALIZATION
+[36m--[0m Found PCL_VISUALIZATION: /usr/local/lib/libpcl_visualization.dylib
+[36m--[0m looking for PCL_SURFACE
+[36m--[0m Found PCL_SURFACE: /usr/local/lib/libpcl_surface.dylib
+[36m--[0m looking for PCL_REGISTRATION
+[36m--[0m Found PCL_REGISTRATION: /usr/local/lib/libpcl_registration.dylib
+[36m--[0m looking for PCL_KEYPOINTS
+[36m--[0m Found PCL_KEYPOINTS: /usr/local/lib/libpcl_keypoints.dylib
+[36m--[0m looking for PCL_TRACKING
+[36m--[0m Found PCL_TRACKING: /usr/local/lib/libpcl_tracking.dylib
+[36m--[0m looking for PCL_RECOGNITION
+[36m--[0m Found PCL_RECOGNITION: /usr/local/lib/libpcl_recognition.dylib
+[36m--[0m looking for PCL_STEREO
+[36m--[0m Found PCL_STEREO: /usr/local/lib/libpcl_stereo.dylib
+[36m--[0m looking for PCL_APPS
+[36m--[0m Found PCL_APPS: /usr/local/lib/libpcl_apps.dylib
+[36m--[0m looking for PCL_OUTOFCORE
+[36m--[0m Found PCL_OUTOFCORE: /usr/local/lib/libpcl_outofcore.dylib
+[36m--[0m looking for PCL_PEOPLE
+[36m--[0m Found PCL_PEOPLE: /usr/local/lib/libpcl_people.dylib
+[36m--[0m looking for PCL_SIMULATION
+[36m--[0m Found PCL_SIMULATION: /usr/local/lib/libpcl_simulation.dylib
+[36m--[0m Found PCL: /usr/local/lib/libboost_system-mt.dylib;/usr/local/lib/libboost_filesystem-mt.dylib;/usr/local/lib/libboost_thread-mt.dylib;/usr/local/lib/libboost_date_time-mt.dylib;/usr/local/lib/libboost_iostreams-mt.dylib;/usr/local/lib/libboost_serialization-mt.dylib;/usr/local/lib/libboost_chrono-mt.dylib;/usr/local/lib/libboost_atomic-mt.dylib;/usr/local/lib/libboost_regex-mt.dylib;optimized;/usr/local/lib/libpcl_common.dylib;debug;/usr/local/lib/libpcl_common.dylib;optimized;/usr/local/lib/libpcl_octree.dylib;debug;/usr/local/lib/libpcl_octree.dylib;vtksys;vtkCommonCore;vtkCommonMath;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkCommonDataModel;vtkCommonColor;vtkCommonExecutionModel;vtkCommonComputationalGeometry;vtkFiltersCore;vtkFiltersGeneral;vtkImagingCore;vtkImagingFourier;vtkalglib;vtkFiltersStatistics;vtkFiltersExtraction;vtkInfovisCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingCore;/usr/lib/libz.dylib;vtkfreetype;vtkRenderingFreeType;vtkRenderingContext2D;vtkChartsCore;vtkDICOMParser;vtklz4;vtkIOCore;vtkIOLegacy;/usr/lib/libexpat.dylib;vtkIOXMLParser;vtkDomainsChemistry;vtkglew;vtkRenderingOpenGL2;vtkDomainsChemistryOpenGL2;vtkIOXML;vtkParallelCore;vtkFiltersAMR;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkImagingSources;vtkFiltersHybrid;vtkFiltersHyperTree;vtkImagingGeneral;vtkFiltersImaging;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelImaging;vtkFiltersPoints;vtkFiltersProgrammable;/usr/local/opt/python@@2/Frameworks/Python.framework/Versions/2.7/Python;vtkWrappingTools;vtkWrappingPythonCore;vtkFiltersPython;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersTopology;verdict;vtkFiltersVerdict;vtkmetaio;/usr/local/lib/libjpeg.dylib;/usr/local/lib/libpng.dylib;/usr/local/lib/libtiff.dylib;vtkIOImage;vtkImagingHybrid;vtkInfovisLayout;vtkInteractionStyle;vtkImagingColor;vtkRenderingAnnotation;vtkRenderingVolume;vtkInteractionWidgets;vtkViewsCore;vtkproj4;vtkGeovisCore;/usr/local/lib/libhdf5.dylib;/usr/local/lib/libsz.dylib;/usr/lib/libdl.dylib;/usr/lib/libm.dylib;/usr/local/lib/libhdf5_hl.dylib;vtkIOAMR;vtkIOEnSight;/usr/local/lib/libnetcdf.dylib;vtkexoIIc;vtkIOExodus;vtkgl2ps;vtkRenderingGL2PSOpenGL2;vtklibharu;vtkIOExport;vtkIOExportOpenGL2;vtkIOGeometry;vtkIOImport;/usr/lib/libxml2.dylib;vtkIOInfovis;vtkIOLSDyna;vtkIOMINC;vtkoggtheora;vtkIOMovie;vtknetcdfcpp;vtkIONetCDF;vtkIOPLY;vtkjsoncpp;vtkIOParallel;vtkIOParallelXML;vtksqlite;vtkIOSQL;vtkIOTecplotTable;vtkIOVideo;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInfovisBoostGraphAlgorithms;vtkInteractionImage;vtkRenderingContextOpenGL2;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLOD;vtkRenderingLabel;vtkRenderingVolumeOpenGL2;vtkViewsContext2D;vtkViewsInfovis;optimized;/usr/local/lib/libpcl_io.dylib;debug;/usr/local/lib/libpcl_io.dylib;optimized;/usr/local/Cellar/flann/1.9.1_4/lib/libflann_cpp_s.a;debug;/usr/local/Cellar/flann/1.9.1_4/lib/libflann_cpp_s.a;optimized;/usr/local/lib/libpcl_kdtree.dylib;debug;/usr/local/lib/libpcl_kdtree.dylib;optimized;/usr/local/lib/libpcl_search.dylib;debug;/usr/local/lib/libpcl_search.dylib;optimized;/usr/local/lib/libpcl_sample_consensus.dylib;debug;/usr/local/lib/libpcl_sample_consensus.dylib;optimized;/usr/local/lib/libpcl_filters.dylib;debug;/usr/local/lib/libpcl_filters.dylib;optimized;/usr/local/lib/libpcl_features.dylib;debug;/usr/local/lib/libpcl_features.dylib;optimized;/usr/local/lib/libpcl_ml.dylib;debug;/usr/local/lib/libpcl_ml.dylib;optimized;/usr/local/lib/libpcl_segmentation.dylib;debug;/usr/local/lib/libpcl_segmentation.dylib;optimized;/usr/local/lib/libpcl_visualization.dylib;debug;/usr/local/lib/libpcl_visualization.dylib;optimized;/usr/local/lib/libqhull_p.dylib;debug;/usr/local/lib/libqhull_p.dylib;optimized;/usr/local/lib/libpcl_surface.dylib;debug;/usr/local/lib/libpcl_surface.dylib;optimized;/usr/local/lib/libpcl_registration.dylib;debug;/usr/local/lib/libpcl_registration.dylib;optimized;/usr/local/lib/libpcl_keypoints.dylib;debug;/usr/local/lib/libpcl_keypoints.dylib;optimized;/usr/local/lib/libpcl_tracking.dylib;debug;/usr/local/lib/libpcl_tracking.dylib;optimized;/usr/local/lib/libpcl_recognition.dylib;debug;/usr/local/lib/libpcl_recognition.dylib;optimized;/usr/local/lib/libpcl_stereo.dylib;debug;/usr/local/lib/libpcl_stereo.dylib;optimized;/usr/local/lib/libpcl_apps.dylib;debug;/usr/local/lib/libpcl_apps.dylib;optimized;/usr/local/lib/libpcl_outofcore.dylib;debug;/usr/local/lib/libpcl_outofcore.dylib;optimized;/usr/local/lib/libpcl_people.dylib;debug;/usr/local/lib/libpcl_people.dylib;/System/Library/Frameworks/OpenGL.framework;/usr/local/lib/libGLEW.dylib;optimized;/usr/local/lib/libpcl_simulation.dylib;debug;/usr/local/lib/libpcl_simulation.dylib;/usr/local/lib/libboost_system-mt.dylib;/usr/local/lib/libboost_filesystem-mt.dylib;/usr/local/lib/libboost_thread-mt.dylib;/usr/local/lib/libboost_date_time-mt.dylib;/usr/local/lib/libboost_iostreams-mt.dylib;/usr/local/lib/libboost_serialization-mt.dylib;/usr/local/lib/libboost_chrono-mt.dylib;/usr/local/lib/libboost_atomic-mt.dylib;/usr/local/lib/libboost_regex-mt.dylib;optimized;/usr/local/lib/libqhull_p.dylib;debug;/usr/local/lib/libqhull_p.dylib;optimized;/usr/local/Cellar/flann/1.9.1_4/lib/libflann_cpp_s.a;debug;/usr/local/Cellar/flann/1.9.1_4/lib/libflann_cpp_s.a;vtksys;vtkCommonCore;vtkCommonMath;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkCommonDataModel;vtkCommonColor;vtkCommonExecutionModel;vtkCommonComputationalGeometry;vtkFiltersCore;vtkFiltersGeneral;vtkImagingCore;vtkImagingFourier;vtkalglib;vtkFiltersStatistics;vtkFiltersExtraction;vtkInfovisCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingCore;/usr/lib/libz.dylib;vtkfreetype;vtkRenderingFreeType;vtkRenderingContext2D;vtkChartsCore;vtkDICOMParser;vtklz4;vtkIOCore;vtkIOLegacy;/usr/lib/libexpat.dylib;vtkIOXMLParser;vtkDomainsChemistry;vtkglew;vtkRenderingOpenGL2;vtkDomainsChemistryOpenGL2;vtkIOXML;vtkParallelCore;vtkFiltersAMR;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkImagingSources;vtkFiltersHybrid;vtkFiltersHyperTree;vtkImagingGeneral;vtkFiltersImaging;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelImaging;vtkFiltersPoints;vtkFiltersProgrammable;/usr/local/opt/python@@2/Frameworks/Python.framework/Versions/2.7/Python;vtkWrappingTools;vtkWrappingPythonCore;vtkFiltersPython;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersTopology;verdict;vtkFiltersVerdict;vtkmetaio;/usr/local/lib/libjpeg.dylib;/usr/local/lib/libpng.dylib;/usr/local/lib/libtiff.dylib;vtkIOImage;vtkImagingHybrid;vtkInfovisLayout;vtkInteractionStyle;vtkImagingColor;vtkRenderingAnnotation;vtkRenderingVolume;vtkInteractionWidgets;vtkViewsCore;vtkproj4;vtkGeovisCore;/usr/local/lib/libhdf5.dylib;/usr/local/lib/libsz.dylib;/usr/lib/libdl.dylib;/usr/lib/libm.dylib;/usr/local/lib/libhdf5_hl.dylib;vtkIOAMR;vtkIOEnSight;/usr/local/lib/libnetcdf.dylib;vtkexoIIc;vtkIOExodus;vtkgl2ps;vtkRenderingGL2PSOpenGL2;vtklibharu;vtkIOExport;vtkIOExportOpenGL2;vtkIOGeometry;vtkIOImport;/usr/lib/libxml2.dylib;vtkIOInfovis;vtkIOLSDyna;vtkIOMINC;vtkoggtheora;vtkIOMovie;vtknetcdfcpp;vtkIONetCDF;vtkIOPLY;vtkjsoncpp;vtkIOParallel;vtkIOParallelXML;vtksqlite;vtkIOSQL;vtkIOTecplotTable;vtkIOVideo;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInfovisBoostGraphAlgorithms;vtkInteractionImage;vtkRenderingContextOpenGL2;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLOD;vtkRenderingLabel;vtkRenderingVolumeOpenGL2;vtkViewsContext2D;vtkViewsInfovis
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros
+[36m--[0m Using CMAKE_PREFIX_PATH: /opt/ros/kinetic;/usr/local/opt/qt
+[36m--[0m This workspace overlays: /opt/ros/kinetic
+[36m--[0m Found PythonInterp: /usr/local/bin/python2 (found version "2.7.15")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/local/bin/python2
+[36m--[0m Using default Python package layout
+[36m--[0m Found PY_em: /usr/local/lib/python2.7/site-packages/em.pyc
+[36m--[0m Using empy: /usr/local/lib/python2.7/site-packages/em.pyc
+[36m--[0m Using CATKIN_ENABLE_TESTING: 1
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/pcl_ros/test_results
+[36m--[0m Found gtest: gtests will be built
+[36m--[0m nosetests not found, Python tests can not be run (try installing package 'python-nose')
+[36m--[0m catkin 0.7.14
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[36m--[0m Checking to see if CXX compiler accepts flag -Wl,--version-script,"/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/pcl_ros/class_loader_hide_library_symbols__pcl_ros_io.script"
+[36m--[0m Checking to see if CXX compiler accepts flag -Wl,--version-script,"/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/pcl_ros/class_loader_hide_library_symbols__pcl_ros_io.script" - no
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/pcl_ros

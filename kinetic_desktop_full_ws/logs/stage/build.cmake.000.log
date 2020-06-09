@@ -1,0 +1,60 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is AppleClang 9.0.0.9000038
+[36m--[0m The CXX compiler identification is AppleClang 9.0.0.9000038
+[36m--[0m Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+[36m--[0m Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+[36m--[0m Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Stage version 4.1.1
+[36m--[0m Operating system is Apple MacOS X
+[36m--[0m Installing Libraries to /opt/ros/kinetic/lib
+[36m--[0m Installing Plugins to /opt/ros/kinetic/lib/Stage-4.1
+[36m--[0m Build type RELEASE
+[36m--[0m Checking for libtool
+[36m--[0m Checking for required libraries...
+[36m--[0m Found JPEG: /usr/local/lib/libjpeg.dylib
+[36m--[0m Found ZLIB: /usr/lib/libz.dylib (found version "1.2.8")
+[36m--[0m Found PNG: /usr/local/lib/libpng.dylib (found version "1.6.35")
+[36m--[0m Found OpenGL: /System/Library/Frameworks/OpenGL.framework
+[36m--[0m Looking for XOpenDisplay in /usr/X11R6/lib/libX11.dylib;/usr/X11R6/lib/libXext.dylib
+[36m--[0m Looking for XOpenDisplay in /usr/X11R6/lib/libX11.dylib;/usr/X11R6/lib/libXext.dylib - found
+[36m--[0m Looking for gethostbyname
+[36m--[0m Looking for gethostbyname - found
+[36m--[0m Looking for connect
+[36m--[0m Looking for connect - found
+[36m--[0m Looking for remove
+[36m--[0m Looking for remove - found
+[36m--[0m Looking for shmat
+[36m--[0m Looking for shmat - found
+[36m--[0m Looking for IceConnectionNumber in ICE
+[36m--[0m Looking for IceConnectionNumber in ICE - found
+[36m--[0m Found X11: /usr/X11R6/lib/libX11.dylib
+[36m--[0m Found FLTK: /usr/local/lib/libfltk_images.dylib;/usr/local/lib/libfltk_forms.dylib;/usr/local/lib/libfltk_gl.dylib;/System/Library/Frameworks/OpenGL.framework;/usr/local/lib/libfltk.dylib
+[36m--[0m Checking for optional libraries...
+[36m--[0m Found PkgConfig: /usr/local/bin/pkg-config (found version "0.29.2")
+[36m--[0m Checking for one of the modules 'playercore>=2.1.0'
+[36m--[0m   * Player not detected. If Player is installed but not detected, check your PKG_CONFIG_PATH.
+[36m--[0m Installation path CMAKE_INSTALL_PREFIX=/opt/ros/kinetic
+[36m--[0m Configuring libstage
+[36m--[0m Configuring done
+[36m--[0m Generating done
+CMake Warning (dev):
+  Policy CMP0042 is not set: MACOSX_RPATH is enabled by default.  Run "cmake
+  --help-policy CMP0042" for policy details.  Use the cmake_policy command to
+  set the policy and suppress this warning.
+
+  MACOSX_RPATH is not specified for the following targets:
+
+   stage
+
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+[36m--[0m Build files have been written to: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/stage

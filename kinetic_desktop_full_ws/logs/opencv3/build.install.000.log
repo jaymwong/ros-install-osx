@@ -1,0 +1,623 @@
+[  0%] Built target gen-pkgconfig
+[  2%] Built target zlib
+[  7%] Built target libjpeg
+[ 10%] Built target libtiff
+[ 13%] Built target libjasper
+[ 14%] Built target libpng
+[ 20%] Built target IlmImf
+[ 23%] Built target ippiw
+[ 23%] Built target ittnotify
+[ 30%] Built target libprotobuf
+[ 36%] Built target opencv_core
+[ 36%] Built target opencv_flann
+[ 36%] Built target opencv_hdf
+[ 42%] Built target opencv_imgproc
+[ 43%] Built target opencv_ml
+[ 44%] Built target opencv_objdetect
+[ 44%] Built target opencv_phase_unwrapping
+[ 46%] Built target opencv_photo
+[ 46%] Built target opencv_plot
+[ 47%] Built target opencv_reg
+[ 47%] Built target opencv_surface_matching
+[ 48%] Built target opencv_video
+[ 49%] Built target opencv_viz
+[ 50%] Built target opencv_xphoto
+[ 56%] Built target opencv_dnn
+[ 56%] Built target opencv_freetype
+[ 57%] Built target opencv_fuzzy
+[ 57%] Built target opencv_img_hash
+[ 59%] Built target opencv_imgcodecs
+[ 60%] Built target opencv_shape
+[ 61%] Built target opencv_videoio
+[ 61%] Built target opencv_xobjdetect
+[ 62%] Built target opencv_highgui
+[ 63%] Built target opencv_waldboost_detector
+[ 64%] Built target opencv_superres
+[ 65%] Built target opencv_bioinspired
+[ 65%] Built target opencv_dpm
+[ 68%] Built target opencv_features2d
+[ 69%] Built target opencv_line_descriptor
+[ 70%] Built target opencv_saliency
+[ 71%] Built target opencv_text
+[ 74%] Built target opencv_calib3d
+[ 74%] Built target opencv_ccalib
+[ 74%] [34m[1mAutomatic MOC for target opencv_cvv[0m
+[ 74%] Built target opencv_cvv_autogen
+[ 81%] Built target opencv_cvv
+[ 84%] Built target opencv_datasets
+[ 85%] Built target opencv_rgbd
+[ 85%] Built target opencv_stereo
+[ 85%] Built target opencv_structured_light
+[ 88%] Built target opencv_tracking
+[ 89%] Built target opencv_videostab
+[ 91%] Built target opencv_xfeatures2d
+[ 94%] Built target opencv_ximgproc
+[ 95%] Built target opencv_aruco
+[ 95%] Built target opencv_bgsegm
+[ 96%] Built target opencv_face
+[ 97%] Built target opencv_optflow
+[ 99%] Built target opencv_stitching
+[ 99%] Built target gen_opencv_python_source
+[ 99%] Built target opencv_python2
+[100%] Built target opencv_traincascade
+[100%] Built target opencv_createsamples
+[100%] Built target opencv_annotation
+[100%] Built target opencv_visualisation
+[100%] Built target opencv_interactive-calibration
+[100%] Built target opencv_version
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvconfig.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/opencv_modules.hpp
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/opencv-3.3.1-dev.pc
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVModules.cmake
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVModules-release.cmake
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVConfig.cmake
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/valgrind.supp
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/valgrind_3rdparty.supp
+-- Installing: /opt/ros/kinetic/share/opencv3/package.xml
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cv.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cv.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cvaux.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cvaux.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cvwimage.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cxcore.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cxcore.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cxeigen.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cxmisc.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/highgui.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/ml.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/opencv.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_core3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_core3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_core3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/block.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/border_interpolate.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/color.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/common.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/datamov_utils.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/dynamic_smem.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/emulation.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/filters.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/funcattrib.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/functional.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/limits.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/reduce.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/saturate_cast.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/scan.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/simd_functions.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/transform.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/type_traits.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/utility.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/vec_distance.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/vec_math.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/vec_traits.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/warp.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/warp_reduce.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/warp_shuffle.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/color_detail.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/reduce.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/reduce_key_val.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/transform_detail.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/type_traits_detail.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/vec_distance_detail.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/affine.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/base.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/bufferpool.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/core.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda.inl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda_stream_accessor.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda_types.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cvstd.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cvstd.inl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/directx.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/eigen.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/fast_math.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ippasync.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/mat.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/mat.inl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/matx.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/neon_utils.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ocl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ocl_genbase.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/opengl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/operations.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/optim.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ovx.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/persistence.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ptr.inl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/saturate.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/softfloat.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/sse_utils.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/traits.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/types.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/utility.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/va_intel.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/version.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/vsx_utils.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/wimage.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/core_c.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cv_cpu_dispatch.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cv_cpu_helper.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cvdef.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/types_c.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/hal.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin_cpp.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin_neon.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin_sse.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin_vsx.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/interface.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/utils/filesystem.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/utils/logger.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/utils/trace.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_flann3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_flann3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_flann3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/flann.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/flann_base.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/miniflann.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/all_indices.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/allocator.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/any.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/autotuned_index.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/composite_index.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/config.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/defines.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/dist.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/dummy.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/dynamic_bitset.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/general.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/ground_truth.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/hdf5.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/heap.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/hierarchical_clustering_index.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/index_testing.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/kdtree_index.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/kdtree_single_index.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/kmeans_index.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/linear_index.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/logger.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/lsh_index.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/lsh_table.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/matrix.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/nn_index.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/object_factory.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/params.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/random.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/result_set.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/sampling.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/saving.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/simplex_downhill.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/timer.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_hdf3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_hdf3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_hdf3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/hdf.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/hdf/hdf5.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_imgproc3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_imgproc3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_imgproc3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/imgproc.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/imgproc_c.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/types_c.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/hal/hal.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/hal/interface.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/detail/distortion_model.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_ml3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_ml3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_ml3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ml.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ml/ml.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_objdetect3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_objdetect3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_objdetect3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/objdetect.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/objdetect/detection_based_tracker.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/objdetect/objdetect.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/objdetect/objdetect_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_phase_unwrapping3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_phase_unwrapping3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_phase_unwrapping3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/phase_unwrapping.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/phase_unwrapping/histogramphaseunwrapping.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/phase_unwrapping/phase_unwrapping.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_photo3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_photo3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_photo3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/photo.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/photo/cuda.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/photo/photo.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/photo/photo_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_plot3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_plot3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_plot3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/plot.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_reg3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_reg3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_reg3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/map.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapaffine.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapper.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradaffine.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradeuclid.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradproj.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradshift.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradsimilar.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapperpyramid.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapprojec.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapshift.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_surface_matching3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_surface_matching3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_surface_matching3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/icp.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/pose_3d.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/ppf_helpers.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/ppf_match_3d.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/t_hash_int.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_video3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_video3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_video3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video/background_segm.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video/tracking.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video/video.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video/tracking_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_viz3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_viz3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_viz3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/types.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/viz3d.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/vizcore.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/widget_accessor.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/widgets.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_xphoto3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_xphoto3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_xphoto3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto/bm3d_image_denoising.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto/dct_image_denoising.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto/inpainting.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto/white_balance.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_dnn3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_dnn3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_dnn3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/all_layers.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/dict.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/dnn.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/dnn.inl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/layer.details.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/layer.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/shape_utils.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_freetype3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_freetype3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_freetype3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/freetype.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_fuzzy3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_fuzzy3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_fuzzy3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy/fuzzy_F0_math.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy/fuzzy_F1_math.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy/fuzzy_image.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy/types.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_img_hash3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_img_hash3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_img_hash3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/average_hash.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/block_mean_hash.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/color_moment_hash.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/img_hash_base.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/marr_hildreth_hash.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/phash.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/radial_variance_hash.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_imgcodecs3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_imgcodecs3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_imgcodecs3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgcodecs.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgcodecs/imgcodecs.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgcodecs/imgcodecs_c.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgcodecs/ios.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_shape3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_shape3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_shape3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/emdL1.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/hist_cost.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/shape.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/shape_distance.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/shape_transformer.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_videoio3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_videoio3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_videoio3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videoio.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videoio/videoio.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videoio/cap_ios.h
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videoio/videoio_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_xobjdetect3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_xobjdetect3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_xobjdetect3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xobjdetect.hpp
+-- Installing: /opt/ros/kinetic/bin/opencv_waldboost_detector
+-- Installing: /opt/ros/kinetic/lib/libopencv_highgui3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_highgui3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_highgui3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/highgui.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/highgui/highgui.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/highgui/highgui_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_superres3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_superres3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_superres3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/superres.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/superres/optical_flow.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_bioinspired3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_bioinspired3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_bioinspired3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired/bioinspired.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired/retina.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired/retinafasttonemapping.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired/transientareassegmentationmodule.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_dpm3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_dpm3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_dpm3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dpm.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_features2d3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_features2d3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_features2d3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/features2d.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/features2d/features2d.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_line_descriptor3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_line_descriptor3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_line_descriptor3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/line_descriptor.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/line_descriptor/descriptor.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_saliency3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_saliency3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_saliency3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/saliency.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/saliency/saliencyBaseClasses.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/saliency/saliencySpecializedClasses.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_text3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_text3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_text3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/text.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/text/erfilter.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/text/ocr.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/text/textDetector.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_calib3d3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_calib3d3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_calib3d3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/calib3d.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/calib3d/calib3d.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/calib3d/calib3d_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_ccalib3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_ccalib3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_ccalib3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ccalib.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ccalib/multicalib.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ccalib/omnidir.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ccalib/randpattern.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_cvv3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_cvv3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_cvv3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/call_meta_data.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/cvv.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/debug_mode.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/dmatch.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/filter.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/final_show.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/show_image.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_datasets3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_datasets3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_datasets3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/ar_hmdb.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/ar_sports.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/dataset.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/fr_adience.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/fr_lfw.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/gr_chalearn.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/gr_skig.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/hpe_humaneva.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/hpe_parse.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/ir_affine.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/ir_robot.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/is_bsds.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/is_weizmann.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/msm_epfl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/msm_middlebury.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/or_imagenet.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/or_mnist.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/or_pascal.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/or_sun.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/pd_caltech.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/pd_inria.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/slam_kitti.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/slam_tumindoor.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/tr_chars.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/tr_icdar.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/tr_svt.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/track_alov.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/track_vot.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/util.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_rgbd3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_rgbd3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_rgbd3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/rgbd.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/rgbd/linemod.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_stereo3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_stereo3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_stereo3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stereo.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stereo/descriptor.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stereo/matching.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stereo/stereo.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_structured_light3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_structured_light3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_structured_light3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/structured_light.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/structured_light/graycodepattern.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/structured_light/sinusoidalpattern.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/structured_light/structured_light.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_tracking3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_tracking3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_tracking3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/feature.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/kalman_filters.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/onlineBoosting.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/onlineMIL.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/tldDataset.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/tracker.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/tracking.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_videostab3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_videostab3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_videostab3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/deblurring.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/fast_marching.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/fast_marching_inl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/frame_source.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/global_motion.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/inpainting.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/log.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/motion_core.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/motion_stabilizing.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/optical_flow.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/outlier_rejection.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/ring_buffer.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/stabilizer.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/wobble_suppression.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_xfeatures2d3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_xfeatures2d3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_xfeatures2d3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d/cuda.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d/nonfree.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_ximgproc3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_ximgproc3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_ximgproc3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/brightedges.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/deriche_filter.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/disparity_filter.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/edge_filter.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/edgeboxes.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/estimated_covariance.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/fast_hough_transform.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/fast_line_detector.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/fourier_descriptors.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/lsc.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/paillou_filter.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/peilin.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/ridgefilter.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/seeds.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/segmentation.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/slic.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/sparse_match_interpolator.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/structured_edge_detection.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/weighted_median_filter.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_aruco3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_aruco3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_aruco3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/aruco.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/aruco/charuco.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/aruco/dictionary.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_bgsegm3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_bgsegm3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_bgsegm3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bgsegm.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_face3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_face3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_face3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/bif.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/face_alignment.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/facemark.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/facemarkAAM.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/facemarkLBF.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/facerec.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/predict_collector.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_optflow3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_optflow3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_optflow3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/optflow.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/optflow/motempl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/optflow/pcaflow.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/optflow/sparse_matching_gpc.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_stitching3.3.3.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_stitching3.3.3.dylib
+-- Installing: /opt/ros/kinetic/lib/libopencv_stitching3.dylib
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/warpers.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/autocalib.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/blenders.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/camera.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/exposure_compensate.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/matchers.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/motion_estimators.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/seam_finders.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/timelapsers.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/util.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/util_inl.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/warpers.hpp
+-- Installing: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/warpers_inl.hpp
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/cv2.so
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_eye.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_eye_tree_eyeglasses.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalcatface.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalcatface_extended.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalface_alt.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalface_alt2.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalface_alt_tree.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalface_default.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_fullbody.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_lefteye_2splits.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_licence_plate_rus_16stages.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_lowerbody.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_profileface.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_righteye_2splits.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_russian_plate_number.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_smile.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_upperbody.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_frontalcatface.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_frontalface.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_frontalface_improved.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_profileface.xml
+-- Installing: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_silverware.xml
+-- Installing: /opt/ros/kinetic/bin/opencv_traincascade
+-- Installing: /opt/ros/kinetic/bin/opencv_createsamples
+-- Installing: /opt/ros/kinetic/bin/opencv_annotation
+-- Installing: /opt/ros/kinetic/bin/opencv_visualisation
+-- Installing: /opt/ros/kinetic/bin/opencv_interactive-calibration
+-- Installing: /opt/ros/kinetic/bin/opencv_version

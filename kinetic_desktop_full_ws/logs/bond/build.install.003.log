@@ -1,0 +1,63 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _bond_generate_messages_check_deps_Status
+[  0%] Built target _bond_generate_messages_check_deps_Constants
+[ 16%] Built target bond_generate_messages_cpp
+[ 16%] Built target std_msgs_generate_messages_lisp
+[ 33%] Built target bond_generate_messages_lisp
+[ 33%] Built target std_msgs_generate_messages_eus
+[ 58%] Built target bond_generate_messages_eus
+[ 58%] Built target std_msgs_generate_messages_py
+[ 83%] Built target bond_generate_messages_py
+[ 83%] Built target std_msgs_generate_messages_nodejs
+[100%] Built target bond_generate_messages_nodejs
+[100%] Built target bond_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/bond/msg/Constants.msg
+-- Up-to-date: /opt/ros/kinetic/share/bond/msg/Status.msg
+-- Up-to-date: /opt/ros/kinetic/share/bond/cmake/bond-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/bond
+-- Up-to-date: /opt/ros/kinetic/include/bond/Constants.h
+-- Up-to-date: /opt/ros/kinetic/include/bond/Status.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/bond
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/bond/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/bond/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/bond/msg/Constants.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/bond/msg/Status.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/bond
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/bond/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/bond/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/bond/msg/_package_Constants.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/bond/msg/_package_Status.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/bond/msg/bond-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/bond/msg/Constants.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/bond/msg/Status.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/bond
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/bond/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/bond/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/bond/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/bond/msg/Constants.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/bond/msg/Status.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/bond/lib/python2.7/site-packages/bond ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/bond/lib/python2.7/site-packages/bond/msg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond/msg/_Constants.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond/msg/_Constants.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond/msg/_Status.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/bond/msg/_Status.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/bond.pc
+-- Up-to-date: /opt/ros/kinetic/share/bond/cmake/bond-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/bond/cmake/bondConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/bond/cmake/bondConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/bond/package.xml

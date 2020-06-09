@@ -1,0 +1,33 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxList
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxSelect
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxAdd
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxList
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxAdd
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxDelete
+[  0%] Built target _topic_tools_generate_messages_check_deps_MuxSelect
+[  0%] Built target _topic_tools_generate_messages_check_deps_DemuxDelete
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 14%] Built target topic_tools_generate_messages_nodejs
+[ 29%] Built target topic_tools_generate_messages_py
+[ 45%] Built target topic_tools_generate_messages_cpp
+[ 59%] Built target topic_tools_generate_messages_eus
+[ 73%] Built target topic_tools_generate_messages_lisp
+[ 73%] Built target topic_tools_generate_messages
+[ 75%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/topic_tools/lib/libtopic_tools.dylib[0m
+[ 78%] Built target topic_tools
+[ 82%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/topic_tools/lib/topic_tools/relay[0m
+[ 82%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/topic_tools/lib/topic_tools/drop[0m
+[ 85%] Built target relay
+[ 85%] Built target drop
+[ 87%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/topic_tools/lib/topic_tools/mux[0m
+[ 89%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/topic_tools/lib/topic_tools/demux[0m
+[ 91%] Built target mux
+[ 92%] Built target demux
+[ 94%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/topic_tools/lib/topic_tools/throttle[0m
+[ 96%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/topic_tools/lib/topic_tools/switch_mux[0m
+[ 98%] Built target throttle
+[100%] Built target switch_mux

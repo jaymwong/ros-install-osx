@@ -1,0 +1,14 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _smach_msgs_generate_messages_check_deps_SmachContainerInitialStatusCmd
+[  0%] Built target _smach_msgs_generate_messages_check_deps_SmachContainerStatus
+[  0%] Built target _smach_msgs_generate_messages_check_deps_SmachContainerStructure
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 23%] Built target smach_msgs_generate_messages_py
+[ 41%] Built target smach_msgs_generate_messages_cpp
+[ 64%] Built target smach_msgs_generate_messages_eus
+[ 82%] Built target smach_msgs_generate_messages_lisp
+[100%] Built target smach_msgs_generate_messages_nodejs
+[100%] Built target smach_msgs_generate_messages

@@ -1,0 +1,31 @@
+[  0%] Built target diagnostic_msgs_generate_messages_cpp
+[ 58%] Built target diagnostic_aggregator
+[ 83%] Built target analyzer_loader
+[100%] Built target aggregator_node
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/diagnostic_aggregator.pc
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_aggregator/cmake/diagnostic_aggregatorConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_aggregator/cmake/diagnostic_aggregatorConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_aggregator/package.xml
+-- Up-to-date: /opt/ros/kinetic/lib/diagnostic_aggregator/add_analyzers
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator/aggregator.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator/analyzer.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator/analyzer_group.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator/discard_analyzer.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator/generic_analyzer.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator/generic_analyzer_base.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator/ignore_analyzer.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator/other_analyzer.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_aggregator/status_item.h
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_aggregator/analyzer_plugins.xml
+-- Installing: /opt/ros/kinetic/lib/libdiagnostic_aggregator.dylib
+-- Installing: /opt/ros/kinetic/lib/diagnostic_aggregator/aggregator_node
+-- Installing: /opt/ros/kinetic/lib/diagnostic_aggregator/analyzer_loader

@@ -1,0 +1,31 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rostest.pc
+-- Up-to-date: /opt/ros/kinetic/share/rostest/cmake/rostest-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rostest/cmake/rostestConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rostest/cmake/rostestConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rostest/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rostest
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rostest/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostest install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+running build_scripts
+running install
+running install_lib
+running install_scripts
+changing mode of /opt/ros/kinetic/bin/rostest to 755
+running install_egg_info
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/rostest-1.12.14-py2.7.egg-info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rostest-1.12.14-py2.7.egg-info
+-- Up-to-date: /opt/ros/kinetic/share/rostest/nodes/hztest
+-- Up-to-date: /opt/ros/kinetic/share/rostest/nodes/paramtest
+-- Up-to-date: /opt/ros/kinetic/share/rostest/nodes/publishtest
+-- Up-to-date: /opt/ros/kinetic/include/rostest
+-- Up-to-date: /opt/ros/kinetic/include/rostest/permuter.h

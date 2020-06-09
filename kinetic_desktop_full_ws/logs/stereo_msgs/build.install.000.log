@@ -1,0 +1,62 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _stereo_msgs_generate_messages_check_deps_DisparityImage
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[ 14%] Built target stereo_msgs_generate_messages_nodejs
+[ 14%] Built target sensor_msgs_generate_messages_lisp
+[ 14%] Built target std_msgs_generate_messages_lisp
+[ 28%] Built target stereo_msgs_generate_messages_lisp
+[ 28%] Built target std_msgs_generate_messages_cpp
+[ 28%] Built target sensor_msgs_generate_messages_cpp
+[ 42%] Built target stereo_msgs_generate_messages_cpp
+[ 42%] Built target sensor_msgs_generate_messages_eus
+[ 42%] Built target std_msgs_generate_messages_eus
+[ 71%] Built target stereo_msgs_generate_messages_eus
+[ 71%] Built target std_msgs_generate_messages_py
+[ 71%] Built target sensor_msgs_generate_messages_py
+[100%] Built target stereo_msgs_generate_messages_py
+[100%] Built target stereo_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/stereo_msgs/msg/DisparityImage.msg
+-- Installing: /opt/ros/kinetic/share/stereo_msgs/cmake/stereo_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/stereo_msgs
+-- Installing: /opt/ros/kinetic/include/stereo_msgs/DisparityImage.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/stereo_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/stereo_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/stereo_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/stereo_msgs/msg/DisparityImage.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg/_package_DisparityImage.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg/DisparityImage.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg/stereo_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs/msg/DisparityImage.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_msgs/lib/python2.7/site-packages/stereo_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_msgs/lib/python2.7/site-packages/stereo_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_msgs/lib/python2.7/site-packages/stereo_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_msgs/lib/python2.7/site-packages/stereo_msgs/msg/_DisparityImage.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_msgs/lib/python2.7/site-packages/stereo_msgs/msg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg/_DisparityImage.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg/_DisparityImage.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/stereo_msgs.pc
+-- Installing: /opt/ros/kinetic/share/stereo_msgs/cmake/stereo_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/stereo_msgs/cmake/stereo_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/stereo_msgs/cmake/stereo_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/stereo_msgs/package.xml

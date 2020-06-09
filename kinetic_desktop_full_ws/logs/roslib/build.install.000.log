@@ -1,0 +1,90 @@
+[100%] Built target roslib
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/roslib.pc
+-- Installing: /opt/ros/kinetic/share/roslib/cmake/roslib-extras.cmake
+-- Installing: /opt/ros/kinetic/share/roslib/cmake/roslibConfig.cmake
+-- Installing: /opt/ros/kinetic/share/roslib/cmake/roslibConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/roslib/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros/roslib
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros/roslib/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/ros
+copying src/ros/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/ros
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/exceptions.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/gentools.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/launcher.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/manifest.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/manifestlib.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/message.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/msgs.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/names.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/network.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/packages.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/resources.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/rosenv.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/rospack.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/scriptutil.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/srvs.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/stack_manifest.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+copying src/roslib/stacks.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/ros/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/ros
+creating /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/exceptions.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/gentools.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/launcher.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/manifest.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/manifestlib.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/message.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/msgs.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/names.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/network.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/packages.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/resources.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/rosenv.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/rospack.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/scriptutil.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/srvs.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/stack_manifest.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslib/lib/roslib/stacks.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslib
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/ros/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/exceptions.py to exceptions.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/gentools.py to gentools.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/launcher.py to launcher.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/manifest.py to manifest.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/manifestlib.py to manifestlib.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/message.py to message.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/msgs.py to msgs.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/names.py to names.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/network.py to network.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/packages.py to packages.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/resources.py to resources.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/rosenv.py to rosenv.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/rospack.py to rospack.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/scriptutil.py to scriptutil.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/srvs.py to srvs.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/stack_manifest.py to stack_manifest.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslib/stacks.py to stacks.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/roslib-1.14.4-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/libroslib.dylib
+-- Up-to-date: /opt/ros/kinetic/include
+-- Up-to-date: /opt/ros/kinetic/include/ros
+-- Installing: /opt/ros/kinetic/include/ros/package.h
+-- Installing: /opt/ros/kinetic/lib/roslib/gendeps

@@ -1,0 +1,24 @@
+[100%] Built target cpp_common
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/cpp_common.pc
+-- Installing: /opt/ros/kinetic/share/cpp_common/cmake/cpp_commonConfig.cmake
+-- Installing: /opt/ros/kinetic/share/cpp_common/cmake/cpp_commonConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/cpp_common/package.xml
+-- Installing: /opt/ros/kinetic/lib/libcpp_common.dylib
+-- Installing: /opt/ros/kinetic/include
+-- Installing: /opt/ros/kinetic/include/ros
+-- Installing: /opt/ros/kinetic/include/ros/cpp_common_decl.h
+-- Installing: /opt/ros/kinetic/include/ros/datatypes.h
+-- Installing: /opt/ros/kinetic/include/ros/debug.h
+-- Installing: /opt/ros/kinetic/include/ros/exception.h
+-- Installing: /opt/ros/kinetic/include/ros/header.h
+-- Installing: /opt/ros/kinetic/include/ros/macros.h
+-- Installing: /opt/ros/kinetic/include/ros/platform.h
+-- Installing: /opt/ros/kinetic/include/ros/types.h

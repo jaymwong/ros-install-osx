@@ -1,0 +1,623 @@
+[  0%] Built target gen-pkgconfig
+[  2%] Built target zlib
+[  7%] Built target libjpeg
+[ 10%] Built target libtiff
+[ 13%] Built target libjasper
+[ 14%] Built target libpng
+[ 20%] Built target IlmImf
+[ 23%] Built target ippiw
+[ 23%] Built target ittnotify
+[ 30%] Built target libprotobuf
+[ 36%] Built target opencv_core
+[ 36%] Built target opencv_flann
+[ 36%] Built target opencv_hdf
+[ 42%] Built target opencv_imgproc
+[ 43%] Built target opencv_ml
+[ 44%] Built target opencv_objdetect
+[ 44%] Built target opencv_phase_unwrapping
+[ 46%] Built target opencv_photo
+[ 46%] Built target opencv_plot
+[ 47%] Built target opencv_reg
+[ 47%] Built target opencv_surface_matching
+[ 48%] Built target opencv_video
+[ 49%] Built target opencv_viz
+[ 50%] Built target opencv_xphoto
+[ 56%] Built target opencv_dnn
+[ 56%] Built target opencv_freetype
+[ 57%] Built target opencv_fuzzy
+[ 57%] Built target opencv_img_hash
+[ 59%] Built target opencv_imgcodecs
+[ 60%] Built target opencv_shape
+[ 61%] Built target opencv_videoio
+[ 61%] Built target opencv_xobjdetect
+[ 62%] Built target opencv_highgui
+[ 63%] Built target opencv_waldboost_detector
+[ 64%] Built target opencv_superres
+[ 65%] Built target opencv_bioinspired
+[ 65%] Built target opencv_dpm
+[ 68%] Built target opencv_features2d
+[ 69%] Built target opencv_line_descriptor
+[ 70%] Built target opencv_saliency
+[ 71%] Built target opencv_text
+[ 74%] Built target opencv_calib3d
+[ 74%] Built target opencv_ccalib
+[ 74%] [34m[1mAutomatic MOC for target opencv_cvv[0m
+[ 74%] Built target opencv_cvv_autogen
+[ 81%] Built target opencv_cvv
+[ 84%] Built target opencv_datasets
+[ 85%] Built target opencv_rgbd
+[ 85%] Built target opencv_stereo
+[ 85%] Built target opencv_structured_light
+[ 88%] Built target opencv_tracking
+[ 89%] Built target opencv_videostab
+[ 91%] Built target opencv_xfeatures2d
+[ 94%] Built target opencv_ximgproc
+[ 95%] Built target opencv_aruco
+[ 95%] Built target opencv_bgsegm
+[ 96%] Built target opencv_face
+[ 97%] Built target opencv_optflow
+[ 99%] Built target opencv_stitching
+[ 99%] Built target gen_opencv_python_source
+[ 99%] Built target opencv_python2
+[100%] Built target opencv_traincascade
+[100%] Built target opencv_createsamples
+[100%] Built target opencv_annotation
+[100%] Built target opencv_visualisation
+[100%] Built target opencv_interactive-calibration
+[100%] Built target opencv_version
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvconfig.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/opencv_modules.hpp
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/opencv-3.3.1-dev.pc
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVModules.cmake
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVModules-release.cmake
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/OpenCVConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/valgrind.supp
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/valgrind_3rdparty.supp
+-- Up-to-date: /opt/ros/kinetic/share/opencv3/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cv.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cv.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cvaux.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cvaux.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cvwimage.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cxcore.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cxcore.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cxeigen.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/cxmisc.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/highgui.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv/ml.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/opencv.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_core3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_core3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_core3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/block.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/border_interpolate.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/color.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/common.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/datamov_utils.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/dynamic_smem.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/emulation.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/filters.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/funcattrib.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/functional.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/limits.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/reduce.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/saturate_cast.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/scan.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/simd_functions.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/transform.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/type_traits.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/utility.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/vec_distance.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/vec_math.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/vec_traits.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/warp.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/warp_reduce.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/warp_shuffle.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/color_detail.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/reduce.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/reduce_key_val.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/transform_detail.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/type_traits_detail.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda/detail/vec_distance_detail.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/affine.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/base.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/bufferpool.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/core.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda.inl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda_stream_accessor.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cuda_types.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cvstd.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cvstd.inl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/directx.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/eigen.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/fast_math.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ippasync.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/mat.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/mat.inl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/matx.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/neon_utils.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ocl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ocl_genbase.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/opengl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/operations.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/optim.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ovx.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/persistence.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/ptr.inl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/saturate.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/softfloat.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/sse_utils.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/traits.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/types.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/utility.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/va_intel.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/version.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/vsx_utils.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/wimage.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/core_c.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cv_cpu_dispatch.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cv_cpu_helper.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/cvdef.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/types_c.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/hal.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin_cpp.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin_neon.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin_sse.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/intrin_vsx.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/hal/interface.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/utils/filesystem.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/utils/logger.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/utils/trace.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_flann3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_flann3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_flann3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/flann.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/flann_base.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/miniflann.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/all_indices.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/allocator.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/any.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/autotuned_index.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/composite_index.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/config.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/defines.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/dist.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/dummy.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/dynamic_bitset.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/general.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/ground_truth.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/hdf5.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/heap.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/hierarchical_clustering_index.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/index_testing.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/kdtree_index.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/kdtree_single_index.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/kmeans_index.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/linear_index.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/logger.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/lsh_index.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/lsh_table.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/matrix.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/nn_index.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/object_factory.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/params.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/random.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/result_set.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/sampling.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/saving.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/simplex_downhill.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/flann/timer.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_hdf3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_hdf3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_hdf3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/hdf.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/hdf/hdf5.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_imgproc3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_imgproc3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_imgproc3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/imgproc.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/imgproc_c.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/types_c.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/hal/hal.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/hal/interface.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgproc/detail/distortion_model.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_ml3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_ml3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_ml3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ml.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ml/ml.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_objdetect3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_objdetect3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_objdetect3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/objdetect.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/objdetect/detection_based_tracker.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/objdetect/objdetect.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/objdetect/objdetect_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_phase_unwrapping3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_phase_unwrapping3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_phase_unwrapping3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/phase_unwrapping.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/phase_unwrapping/histogramphaseunwrapping.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/phase_unwrapping/phase_unwrapping.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_photo3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_photo3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_photo3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/photo.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/photo/cuda.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/photo/photo.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/photo/photo_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_plot3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_plot3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_plot3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/plot.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_reg3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_reg3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_reg3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/map.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapaffine.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapper.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradaffine.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradeuclid.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradproj.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradshift.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mappergradsimilar.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapperpyramid.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapprojec.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/reg/mapshift.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_surface_matching3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_surface_matching3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_surface_matching3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/icp.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/pose_3d.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/ppf_helpers.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/ppf_match_3d.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/surface_matching/t_hash_int.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_video3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_video3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_video3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video/background_segm.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video/tracking.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video/video.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/video/tracking_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_viz3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_viz3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_viz3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/types.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/viz3d.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/vizcore.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/widget_accessor.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/viz/widgets.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_xphoto3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_xphoto3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_xphoto3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto/bm3d_image_denoising.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto/dct_image_denoising.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto/inpainting.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xphoto/white_balance.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_dnn3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_dnn3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_dnn3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/all_layers.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/dict.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/dnn.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/dnn.inl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/layer.details.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/layer.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dnn/shape_utils.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_freetype3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_freetype3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_freetype3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/freetype.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_fuzzy3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_fuzzy3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_fuzzy3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy/fuzzy_F0_math.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy/fuzzy_F1_math.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy/fuzzy_image.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/fuzzy/types.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_img_hash3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_img_hash3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_img_hash3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/average_hash.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/block_mean_hash.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/color_moment_hash.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/img_hash_base.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/marr_hildreth_hash.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/phash.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/img_hash/radial_variance_hash.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_imgcodecs3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_imgcodecs3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_imgcodecs3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgcodecs.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgcodecs/imgcodecs.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgcodecs/imgcodecs_c.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/imgcodecs/ios.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_shape3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_shape3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_shape3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/emdL1.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/hist_cost.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/shape.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/shape_distance.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/shape/shape_transformer.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_videoio3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_videoio3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_videoio3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videoio.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videoio/videoio.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videoio/cap_ios.h
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videoio/videoio_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_xobjdetect3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_xobjdetect3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_xobjdetect3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xobjdetect.hpp
+-- Installing: /opt/ros/kinetic/bin/opencv_waldboost_detector
+-- Installing: /opt/ros/kinetic/lib/libopencv_highgui3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_highgui3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_highgui3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/highgui.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/highgui/highgui.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/highgui/highgui_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_superres3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_superres3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_superres3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/superres.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/superres/optical_flow.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_bioinspired3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_bioinspired3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_bioinspired3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired/bioinspired.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired/retina.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired/retinafasttonemapping.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bioinspired/transientareassegmentationmodule.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_dpm3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_dpm3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_dpm3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/dpm.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_features2d3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_features2d3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_features2d3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/features2d.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/features2d/features2d.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_line_descriptor3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_line_descriptor3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_line_descriptor3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/line_descriptor.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/line_descriptor/descriptor.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_saliency3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_saliency3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_saliency3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/saliency.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/saliency/saliencyBaseClasses.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/saliency/saliencySpecializedClasses.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_text3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_text3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_text3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/text.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/text/erfilter.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/text/ocr.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/text/textDetector.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_calib3d3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_calib3d3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_calib3d3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/calib3d.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/calib3d/calib3d.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/calib3d/calib3d_c.h
+-- Installing: /opt/ros/kinetic/lib/libopencv_ccalib3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_ccalib3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_ccalib3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ccalib.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ccalib/multicalib.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ccalib/omnidir.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ccalib/randpattern.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_cvv3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_cvv3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_cvv3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/call_meta_data.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/cvv.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/debug_mode.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/dmatch.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/filter.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/final_show.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/cvv/show_image.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_datasets3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_datasets3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_datasets3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/ar_hmdb.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/ar_sports.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/dataset.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/fr_adience.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/fr_lfw.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/gr_chalearn.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/gr_skig.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/hpe_humaneva.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/hpe_parse.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/ir_affine.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/ir_robot.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/is_bsds.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/is_weizmann.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/msm_epfl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/msm_middlebury.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/or_imagenet.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/or_mnist.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/or_pascal.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/or_sun.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/pd_caltech.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/pd_inria.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/slam_kitti.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/slam_tumindoor.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/tr_chars.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/tr_icdar.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/tr_svt.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/track_alov.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/track_vot.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/datasets/util.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_rgbd3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_rgbd3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_rgbd3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/rgbd.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/rgbd/linemod.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_stereo3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_stereo3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_stereo3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stereo.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stereo/descriptor.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stereo/matching.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stereo/stereo.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_structured_light3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_structured_light3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_structured_light3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/structured_light.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/structured_light/graycodepattern.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/structured_light/sinusoidalpattern.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/structured_light/structured_light.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_tracking3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_tracking3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_tracking3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/feature.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/kalman_filters.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/onlineBoosting.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/onlineMIL.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/tldDataset.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/tracker.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/tracking/tracking.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_videostab3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_videostab3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_videostab3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/deblurring.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/fast_marching.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/fast_marching_inl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/frame_source.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/global_motion.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/inpainting.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/log.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/motion_core.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/motion_stabilizing.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/optical_flow.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/outlier_rejection.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/ring_buffer.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/stabilizer.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/videostab/wobble_suppression.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_xfeatures2d3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_xfeatures2d3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_xfeatures2d3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d/cuda.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/xfeatures2d/nonfree.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_ximgproc3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_ximgproc3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_ximgproc3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/brightedges.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/deriche_filter.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/disparity_filter.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/edge_filter.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/edgeboxes.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/estimated_covariance.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/fast_hough_transform.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/fast_line_detector.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/fourier_descriptors.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/lsc.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/paillou_filter.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/peilin.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/ridgefilter.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/seeds.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/segmentation.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/slic.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/sparse_match_interpolator.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/structured_edge_detection.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/ximgproc/weighted_median_filter.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_aruco3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_aruco3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_aruco3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/aruco.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/aruco/charuco.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/aruco/dictionary.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_bgsegm3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_bgsegm3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_bgsegm3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/bgsegm.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_face3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_face3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_face3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/bif.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/face_alignment.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/facemark.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/facemarkAAM.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/facemarkLBF.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/facerec.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/face/predict_collector.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_optflow3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_optflow3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_optflow3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/optflow.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/optflow/motempl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/optflow/pcaflow.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/optflow/sparse_matching_gpc.hpp
+-- Installing: /opt/ros/kinetic/lib/libopencv_stitching3.3.3.1.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_stitching3.3.3.dylib
+-- Up-to-date: /opt/ros/kinetic/lib/libopencv_stitching3.dylib
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/warpers.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/autocalib.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/blenders.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/camera.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/exposure_compensate.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/matchers.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/motion_estimators.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/seam_finders.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/timelapsers.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/util.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/util_inl.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/warpers.hpp
+-- Up-to-date: /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/stitching/detail/warpers_inl.hpp
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/cv2.so
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_eye.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_eye_tree_eyeglasses.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalcatface.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalcatface_extended.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalface_alt.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalface_alt2.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalface_alt_tree.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_frontalface_default.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_fullbody.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_lefteye_2splits.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_licence_plate_rus_16stages.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_lowerbody.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_profileface.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_righteye_2splits.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_russian_plate_number.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_smile.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/haarcascades/haarcascade_upperbody.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_frontalcatface.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_frontalface.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_frontalface_improved.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_profileface.xml
+-- Up-to-date: /opt/ros/kinetic/share/OpenCV-3.3.1-dev/lbpcascades/lbpcascade_silverware.xml
+-- Installing: /opt/ros/kinetic/bin/opencv_traincascade
+-- Installing: /opt/ros/kinetic/bin/opencv_createsamples
+-- Installing: /opt/ros/kinetic/bin/opencv_annotation
+-- Installing: /opt/ros/kinetic/bin/opencv_visualisation
+-- Installing: /opt/ros/kinetic/bin/opencv_interactive-calibration
+-- Installing: /opt/ros/kinetic/bin/opencv_version

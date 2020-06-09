@@ -1,0 +1,11 @@
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/include/compressed_depth_image_transport/CompressedDepthPublisherConfig.h
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/libcompressed_depth_image_transport.dylib
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/compressed_depth_image_transport.pc
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/python2.7/site-packages/compressed_depth_image_transport/__init__.py
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/python2.7/site-packages/compressed_depth_image_transport/cfg/__init__.py
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/python2.7/site-packages/compressed_depth_image_transport/cfg/CompressedDepthPublisherConfig.py
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/compressed_depth_image_transport/cmake/compressed_depth_image_transportConfig-version.cmake
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/compressed_depth_image_transport/cmake/compressed_depth_image_transportConfig.cmake
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/compressed_depth_image_transport/docs/CompressedDepthPublisherConfig-usage.dox
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/compressed_depth_image_transport/docs/CompressedDepthPublisherConfig.dox
+Symlinking /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/compressed_depth_image_transport/docs/CompressedDepthPublisherConfig.wikidoc

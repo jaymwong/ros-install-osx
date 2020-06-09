@@ -1,0 +1,24 @@
+[ 20%] Built target selftest_rostest
+[ 33%] Built target run_selftest
+[ 46%] Built target selftest_example
+[ 60%] Built target no_id_selftest
+[ 73%] Built target error_selftest
+[ 86%] Built target exception_selftest
+[100%] Built target nominal_selftest
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/self_test.pc
+-- Up-to-date: /opt/ros/kinetic/share/self_test/cmake/self_testConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/self_test/cmake/self_testConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/self_test/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/self_test
+-- Up-to-date: /opt/ros/kinetic/include/self_test/self_test.h
+-- Installing: /opt/ros/kinetic/bin/run_selftest
+-- Installing: /opt/ros/kinetic/bin/selftest_example
+-- Installing: /opt/ros/kinetic/bin/selftest_rostest

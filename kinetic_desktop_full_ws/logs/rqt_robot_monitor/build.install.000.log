@@ -1,0 +1,63 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rqt_robot_monitor.pc
+-- Installing: /opt/ros/kinetic/share/rqt_robot_monitor/cmake/rqt_robot_monitorConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_robot_monitor/cmake/rqt_robot_monitorConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_robot_monitor/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_robot_monitor
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_robot_monitor/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/inspector_window.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/robot_monitor.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/robot_monitor_bag_plugin.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/robot_monitor_plugin.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/status_item.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/status_snapshot.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/timeline.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/timeline_pane.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/timeline_view.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+copying src/rqt_robot_monitor/util_robot_monitor.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/inspector_window.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/robot_monitor.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/robot_monitor_bag_plugin.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/robot_monitor_plugin.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/status_item.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/status_snapshot.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/timeline.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/timeline_pane.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/timeline_view.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_monitor/lib/rqt_robot_monitor/util_robot_monitor.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/inspector_window.py to inspector_window.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/robot_monitor.py to robot_monitor.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/robot_monitor_bag_plugin.py to robot_monitor_bag_plugin.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/robot_monitor_plugin.py to robot_monitor_plugin.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/status_item.py to status_item.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/status_snapshot.py to status_snapshot.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/timeline.py to timeline.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/timeline_pane.py to timeline_pane.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/timeline_view.py to timeline_view.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor/util_robot_monitor.py to util_robot_monitor.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_monitor-0.5.8-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rqt_robot_monitor/bag_plugin.xml
+-- Installing: /opt/ros/kinetic/share/rqt_robot_monitor/plugin.xml
+-- Installing: /opt/ros/kinetic/share/rqt_robot_monitor/resource
+-- Installing: /opt/ros/kinetic/share/rqt_robot_monitor/resource/robotmonitor_mainwidget.ui
+-- Installing: /opt/ros/kinetic/share/rqt_robot_monitor/resource/timelinepane.ui
+-- Installing: /opt/ros/kinetic/lib/rqt_robot_monitor/rqt_robot_monitor

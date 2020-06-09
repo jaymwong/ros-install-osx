@@ -1,0 +1,92 @@
+[  0%] Built target _pcl_msgs_generate_messages_check_deps_PointIndices
+[  0%] Built target _pcl_msgs_generate_messages_check_deps_PolygonMesh
+[  0%] Built target _pcl_msgs_generate_messages_check_deps_Vertices
+[  0%] Built target _pcl_msgs_generate_messages_check_deps_ModelCoefficients
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 18%] Built target pcl_msgs_generate_messages_cpp
+[ 18%] Built target sensor_msgs_generate_messages_nodejs
+[ 18%] Built target std_msgs_generate_messages_nodejs
+[ 36%] Built target pcl_msgs_generate_messages_nodejs
+[ 36%] Built target std_msgs_generate_messages_lisp
+[ 36%] Built target sensor_msgs_generate_messages_lisp
+[ 54%] Built target pcl_msgs_generate_messages_lisp
+[ 54%] Built target std_msgs_generate_messages_py
+[ 54%] Built target sensor_msgs_generate_messages_py
+[ 77%] Built target pcl_msgs_generate_messages_py
+[ 77%] Built target std_msgs_generate_messages_eus
+[ 77%] Built target sensor_msgs_generate_messages_eus
+[100%] Built target pcl_msgs_generate_messages_eus
+[100%] Built target pcl_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/pcl_msgs/msg/ModelCoefficients.msg
+-- Installing: /opt/ros/kinetic/share/pcl_msgs/msg/PointIndices.msg
+-- Installing: /opt/ros/kinetic/share/pcl_msgs/msg/PolygonMesh.msg
+-- Installing: /opt/ros/kinetic/share/pcl_msgs/msg/Vertices.msg
+-- Installing: /opt/ros/kinetic/share/pcl_msgs/cmake/pcl_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/pcl_msgs
+-- Installing: /opt/ros/kinetic/include/pcl_msgs/ModelCoefficients.h
+-- Installing: /opt/ros/kinetic/include/pcl_msgs/PointIndices.h
+-- Installing: /opt/ros/kinetic/include/pcl_msgs/PolygonMesh.h
+-- Installing: /opt/ros/kinetic/include/pcl_msgs/Vertices.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/pcl_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/pcl_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/pcl_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/pcl_msgs/msg/ModelCoefficients.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/pcl_msgs/msg/PointIndices.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/pcl_msgs/msg/PolygonMesh.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/pcl_msgs/msg/Vertices.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/_package_ModelCoefficients.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/_package_PointIndices.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/_package_PolygonMesh.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/_package_Vertices.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/ModelCoefficients.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/pcl_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/PointIndices.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/PolygonMesh.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/pcl_msgs/msg/Vertices.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/pcl_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/pcl_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/pcl_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/pcl_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/pcl_msgs/msg/ModelCoefficients.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/pcl_msgs/msg/PointIndices.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/pcl_msgs/msg/PolygonMesh.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/pcl_msgs/msg/Vertices.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_msgs/lib/python2.7/site-packages/pcl_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_msgs/lib/python2.7/site-packages/pcl_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_msgs/lib/python2.7/site-packages/pcl_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_msgs/lib/python2.7/site-packages/pcl_msgs/msg/_ModelCoefficients.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_msgs/lib/python2.7/site-packages/pcl_msgs/msg/_PointIndices.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_msgs/lib/python2.7/site-packages/pcl_msgs/msg/_PolygonMesh.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_msgs/lib/python2.7/site-packages/pcl_msgs/msg/_Vertices.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_msgs/lib/python2.7/site-packages/pcl_msgs/msg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/_ModelCoefficients.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/_ModelCoefficients.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/_PointIndices.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/_PointIndices.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/_PolygonMesh.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/_PolygonMesh.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/_Vertices.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_msgs/msg/_Vertices.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/pcl_msgs.pc
+-- Installing: /opt/ros/kinetic/share/pcl_msgs/cmake/pcl_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/pcl_msgs/cmake/pcl_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/pcl_msgs/cmake/pcl_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/pcl_msgs/package.xml

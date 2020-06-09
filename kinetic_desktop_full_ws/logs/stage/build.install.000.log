@@ -1,0 +1,118 @@
+[ 56%] Built target stage
+[ 60%] Built target stagebinary
+[ 63%] Built target fasr
+[ 67%] Built target pioneer_flocking
+[ 70%] Built target dynamic
+[ 74%] Built target lasernoise
+[ 79%] Built target fasr2
+[ 82%] Built target rasterize
+[ 86%] Built target wander
+[ 89%] Built target source
+[ 93%] Built target sink
+[ 96%] Built target expand_pioneer
+[100%] Built target expand_swarm
+[36mInstall the project...[0m
+-- Install configuration: "RELEASE"
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/stage.pc
+-- Installing: /opt/ros/kinetic/share/stage/package.xml
+-- Installing: /opt/ros/kinetic/lib/cmake/Stage/stage-config.cmake
+-- Installing: /opt/ros/kinetic/lib/cmake/Stage/stage-config-version.cmake
+-- Installing: /opt/ros/kinetic/bin/stage
+-- Installing: /opt/ros/kinetic/lib/libstage.4.1.1.dylib
+-- Installing: /opt/ros/kinetic/lib/libstage.dylib
+-- Installing: /opt/ros/kinetic/include/Stage-4.1/stage.hh
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/fasr.so
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/sink.so
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/source.so
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/wander.so
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/pioneer_flocking.so
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/rasterize.so
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/lasernoise.so
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/dynamic.so
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/fasr2.so
+-- Installing: /opt/ros/kinetic/share/stage/assets/blue.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/death.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/green.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/logo.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/mains.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/mainspower.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/question_mark.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/red.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/stagelogo.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/stall.png
+-- Installing: /opt/ros/kinetic/share/stage/assets/rgb.txt
+-- Installing: /opt/ros/kinetic/share/stage/rgb.txt
+-- Installing: /opt/ros/kinetic/share/stage/worlds/amcl-sonar.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/autolab.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/everything.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/lsp_test.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/mbicp.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/nd.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/simple.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/test.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/uoa_robotics_lab.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/vfh.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wavefront-remote.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wavefront.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi.cfg
+-- Installing: /opt/ros/kinetic/share/stage/worlds/SFU.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/autolab.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/everything.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/fasr.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/fasr2.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/fasr_plan.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/large.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/lsp_test.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/mbicp.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/pioneer_flocking.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/pioneer_walle.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/sensor_noise_module_demo.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/simple.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/uoa_robotics_lab.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/beacons.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/chatterbox.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/hokuyo.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/irobot.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/map.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/objects.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/pantilt.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/pioneer.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/sick.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/ubot.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/uoa_robotics_lab_models.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/walle.inc
+-- Installing: /opt/ros/kinetic/share/stage/worlds/cfggen.sh
+-- Installing: /opt/ros/kinetic/share/stage/worlds/test.sh
+-- Installing: /opt/ros/kinetic/share/stage/worlds/worldgen.sh
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/expand_swarm.so
+-- Installing: /opt/ros/kinetic/lib/Stage-4.1/expand_pioneer.so
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/889_05.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/SFU_1200x615.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/SRI-AIC-kwing.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/autolab.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/cave.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/cave_compact.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/frieburg.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/ghost.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/hospital.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/hospital_section.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/human_outline.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/mbicp.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/rink.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/sal2.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/simple_rooms.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/space_invader.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/submarine.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/submarine_small.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/table.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/bitmaps/uoa_robotics_lab.png
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi/commando.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi/hosp_wifi.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi/hosp_wifi_5.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi/wifi.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi/wifi_itu.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi/wifi_logdistance.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi/wifi_ray.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi/wifi_simple.world
+-- Installing: /opt/ros/kinetic/share/stage/worlds/wifi/map.inc

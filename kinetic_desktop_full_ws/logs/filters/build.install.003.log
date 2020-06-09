@@ -1,0 +1,32 @@
+[ 20%] Built target params
+[ 40%] Built target median
+[ 60%] Built target transfer_function
+[ 80%] Built target increment
+[100%] Built target mean
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/filters.pc
+-- Up-to-date: /opt/ros/kinetic/share/filters/cmake/filtersConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/filters/cmake/filtersConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/filters/package.xml
+-- Installing: /opt/ros/kinetic/lib/libmean.dylib
+-- Installing: /opt/ros/kinetic/lib/libparams.dylib
+-- Installing: /opt/ros/kinetic/lib/libincrement.dylib
+-- Installing: /opt/ros/kinetic/lib/libmedian.dylib
+-- Installing: /opt/ros/kinetic/lib/libtransfer_function.dylib
+-- Up-to-date: /opt/ros/kinetic/include/filters
+-- Up-to-date: /opt/ros/kinetic/include/filters/filter_base.h
+-- Up-to-date: /opt/ros/kinetic/include/filters/filter_chain.h
+-- Up-to-date: /opt/ros/kinetic/include/filters/increment.h
+-- Up-to-date: /opt/ros/kinetic/include/filters/mean.h
+-- Up-to-date: /opt/ros/kinetic/include/filters/median.h
+-- Up-to-date: /opt/ros/kinetic/include/filters/param_test.h
+-- Up-to-date: /opt/ros/kinetic/include/filters/realtime_circular_buffer.h
+-- Up-to-date: /opt/ros/kinetic/include/filters/transfer_function.h
+-- Up-to-date: /opt/ros/kinetic/share/filters/default_plugins.xml

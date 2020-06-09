@@ -1,0 +1,54 @@
+[  0%] Built target _test_bond_generate_messages_check_deps_TestBond
+[ 14%] Built target test_bond_generate_messages_nodejs
+[ 42%] Built target test_bond_generate_messages_py
+[ 71%] Built target test_bond_generate_messages_eus
+[ 85%] Built target test_bond_generate_messages_lisp
+[100%] Built target test_bond_generate_messages_cpp
+[100%] Built target test_bond_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/test_bond/srv/TestBond.srv
+-- Installing: /opt/ros/kinetic/share/test_bond/cmake/test_bond-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/test_bond
+-- Installing: /opt/ros/kinetic/include/test_bond/TestBond.h
+-- Installing: /opt/ros/kinetic/include/test_bond/TestBondRequest.h
+-- Installing: /opt/ros/kinetic/include/test_bond/TestBondResponse.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/test_bond
+-- Installing: /opt/ros/kinetic/share/roseus/ros/test_bond/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/test_bond/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/test_bond/srv/TestBond.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/test_bond
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv/_package_TestBond.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv/test_bond-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv/TestBond.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/test_bond
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/test_bond/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/test_bond/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/test_bond/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/test_bond/srv/TestBond.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/test_bond/lib/python2.7/site-packages/test_bond ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/test_bond/lib/python2.7/site-packages/test_bond/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/test_bond/lib/python2.7/site-packages/test_bond/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/test_bond/lib/python2.7/site-packages/test_bond/srv/_TestBond.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/test_bond/lib/python2.7/site-packages/test_bond/srv/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv/_TestBond.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv/_TestBond.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/test_bond.pc
+-- Installing: /opt/ros/kinetic/share/test_bond/cmake/test_bond-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/test_bond/cmake/test_bondConfig.cmake
+-- Installing: /opt/ros/kinetic/share/test_bond/cmake/test_bondConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/test_bond/package.xml

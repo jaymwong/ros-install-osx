@@ -1,0 +1,42 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rosmsg.pc
+-- Installing: /opt/ros/kinetic/share/rosmsg/cmake/rosmsgConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rosmsg/cmake/rosmsgConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rosmsg/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rosmsg
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rosmsg/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/lib/rosmsg
+copying src/rosmsg/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/lib/rosmsg
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7
+copying and adjusting scripts/rosmsg -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7
+copying and adjusting scripts/rosmsg-proto -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7
+copying and adjusting scripts/rossrv -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7/rosmsg from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7/rosmsg-proto from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7/rossrv from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/lib/rosmsg/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmsg
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmsg/__init__.py to __init__.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7/rosmsg -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7/rosmsg-proto -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmsg/scripts-2.7/rossrv -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/rosmsg to 755
+changing mode of /opt/ros/kinetic/bin/rosmsg-proto to 755
+changing mode of /opt/ros/kinetic/bin/rossrv to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rosmsg-1.12.14-py2.7.egg-info

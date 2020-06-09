@@ -1,0 +1,51 @@
+[  0%] Built target _test_bond_generate_messages_check_deps_TestBond
+[ 14%] Built target test_bond_generate_messages_nodejs
+[ 42%] Built target test_bond_generate_messages_py
+[ 71%] Built target test_bond_generate_messages_eus
+[ 85%] Built target test_bond_generate_messages_lisp
+[100%] Built target test_bond_generate_messages_cpp
+[100%] Built target test_bond_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/test_bond/srv/TestBond.srv
+-- Up-to-date: /opt/ros/kinetic/share/test_bond/cmake/test_bond-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/test_bond
+-- Up-to-date: /opt/ros/kinetic/include/test_bond/TestBond.h
+-- Up-to-date: /opt/ros/kinetic/include/test_bond/TestBondRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/test_bond/TestBondResponse.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/test_bond
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/test_bond/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/test_bond/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/test_bond/srv/TestBond.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/test_bond
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv/_package_TestBond.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv/test_bond-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/test_bond/srv/TestBond.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/test_bond
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/test_bond/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/test_bond/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/test_bond/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/test_bond/srv/TestBond.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/test_bond/lib/python2.7/site-packages/test_bond ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/test_bond/lib/python2.7/site-packages/test_bond/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv/_TestBond.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/test_bond/srv/_TestBond.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/test_bond.pc
+-- Up-to-date: /opt/ros/kinetic/share/test_bond/cmake/test_bond-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/test_bond/cmake/test_bondConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/test_bond/cmake/test_bondConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/test_bond/package.xml

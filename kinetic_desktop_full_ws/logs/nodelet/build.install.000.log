@@ -1,0 +1,96 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletLoad
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletUnload
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletList
+[ 12%] Built target nodelet_generate_messages_lisp
+[ 12%] Built target std_msgs_generate_messages_py
+[ 29%] Built target nodelet_generate_messages_py
+[ 29%] Built target std_msgs_generate_messages_nodejs
+[ 41%] Built target nodelet_generate_messages_nodejs
+[ 41%] Built target std_msgs_generate_messages_eus
+[ 58%] Built target nodelet_generate_messages_eus
+[ 58%] Built target std_msgs_generate_messages_cpp
+[ 70%] Built target nodelet_generate_messages_cpp
+[ 70%] Built target nodelet_generate_messages
+[ 91%] Built target nodeletlib
+[100%] Built target nodelet
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/nodelet/srv/NodeletList.srv
+-- Installing: /opt/ros/kinetic/share/nodelet/srv/NodeletLoad.srv
+-- Installing: /opt/ros/kinetic/share/nodelet/srv/NodeletUnload.srv
+-- Installing: /opt/ros/kinetic/share/nodelet/cmake/nodelet-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/nodelet
+-- Installing: /opt/ros/kinetic/include/nodelet/NodeletList.h
+-- Installing: /opt/ros/kinetic/include/nodelet/NodeletListRequest.h
+-- Installing: /opt/ros/kinetic/include/nodelet/NodeletListResponse.h
+-- Installing: /opt/ros/kinetic/include/nodelet/NodeletLoad.h
+-- Installing: /opt/ros/kinetic/include/nodelet/NodeletLoadRequest.h
+-- Installing: /opt/ros/kinetic/include/nodelet/NodeletLoadResponse.h
+-- Installing: /opt/ros/kinetic/include/nodelet/NodeletUnload.h
+-- Installing: /opt/ros/kinetic/include/nodelet/NodeletUnloadRequest.h
+-- Installing: /opt/ros/kinetic/include/nodelet/NodeletUnloadResponse.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/nodelet
+-- Installing: /opt/ros/kinetic/share/roseus/ros/nodelet/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/nodelet/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/nodelet/srv/NodeletList.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/nodelet/srv/NodeletLoad.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/nodelet/srv/NodeletUnload.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/_package_NodeletList.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/_package_NodeletLoad.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/_package_NodeletUnload.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/nodelet-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/NodeletList.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/NodeletLoad.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/NodeletUnload.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/nodelet
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/nodelet/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv/NodeletList.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv/NodeletLoad.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv/NodeletUnload.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/python2.7/site-packages/nodelet ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/python2.7/site-packages/nodelet/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/python2.7/site-packages/nodelet/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/python2.7/site-packages/nodelet/srv/_NodeletList.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/python2.7/site-packages/nodelet/srv/_NodeletLoad.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/python2.7/site-packages/nodelet/srv/_NodeletUnload.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/python2.7/site-packages/nodelet/srv/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletList.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletList.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletLoad.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletLoad.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletUnload.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletUnload.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/nodelet.pc
+-- Installing: /opt/ros/kinetic/share/nodelet/cmake/nodelet-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/nodelet/cmake/nodeletConfig.cmake
+-- Installing: /opt/ros/kinetic/share/nodelet/cmake/nodeletConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/nodelet/package.xml
+-- Installing: /opt/ros/kinetic/lib/nodelet/declared_nodelets
+-- Installing: /opt/ros/kinetic/lib/nodelet/list_nodelets
+-- Up-to-date: /opt/ros/kinetic/include/nodelet
+-- Installing: /opt/ros/kinetic/include/nodelet/detail
+-- Installing: /opt/ros/kinetic/include/nodelet/detail/callback_queue.h
+-- Installing: /opt/ros/kinetic/include/nodelet/detail/callback_queue_manager.h
+-- Installing: /opt/ros/kinetic/include/nodelet/exception.h
+-- Installing: /opt/ros/kinetic/include/nodelet/loader.h
+-- Installing: /opt/ros/kinetic/include/nodelet/nodelet.h
+-- Installing: /opt/ros/kinetic/lib/libnodeletlib.dylib
+-- Installing: /opt/ros/kinetic/lib/nodelet/nodelet

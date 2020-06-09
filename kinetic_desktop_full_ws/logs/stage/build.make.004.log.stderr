@@ -1,0 +1,14 @@
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/libstage/canvas.cc:25:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/libstage/region.hh:24:36: [0m[0;1;35mwarning: [0m[1mshifting a negative signed value is undefined [-Wshift-negative-value][0m
+  const int32_t CELLMASK( ~((~0x00)<< RBITS ));
+[0;1;32m                            ~~~~~~~^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/libstage/region.hh:25:38: [0m[0;1;35mwarning: [0m[1mshifting a negative signed value is undefined [-Wshift-negative-value][0m
+  const int32_t REGIONMASK( ~((~0x00)<< SRBITS ));
+[0;1;32m                              ~~~~~~~^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/libstage/canvas.cc:361:3: [0m[0;1;35mwarning: [0m[1m'gluUnProject' is deprecated: first deprecated in macOS 10.9 - "Use GLKMathUnproject" [-Wdeprecated-declarations][0m
+  gluUnProject( px, w()-py, pz, modelview, projection, viewport, wx,wy,wz );    
+[0;1;32m  ^
+[0m[1m/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:297:14: [0m[0;1;30mnote: [0m'gluUnProject' has been explicitly marked deprecated here[0m
+extern GLint gluUnProject (GLdouble winX, GLdouble winY, GLdouble winZ, const GLdouble *model, const GLdouble *proj, const GLint *view, GLdouble* objX, GLdouble* objY, GLdouble* objZ) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMathUnproject");
+[0;1;32m             ^
+[0m3 warnings generated.

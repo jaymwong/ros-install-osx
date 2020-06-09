@@ -1,0 +1,122 @@
+[  0%] Built target _rospy_tutorials_generate_messages_check_deps_Floats
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _rospy_tutorials_generate_messages_check_deps_HeaderString
+[  0%] Built target _rospy_tutorials_generate_messages_check_deps_BadTwoInts
+[  0%] Built target _rospy_tutorials_generate_messages_check_deps_AddTwoInts
+[ 26%] Built target rospy_tutorials_generate_messages_py
+[ 26%] Built target std_msgs_generate_messages_lisp
+[ 43%] Built target rospy_tutorials_generate_messages_lisp
+[ 43%] Built target std_msgs_generate_messages_eus
+[ 65%] Built target rospy_tutorials_generate_messages_eus
+[ 65%] Built target std_msgs_generate_messages_nodejs
+[ 82%] Built target rospy_tutorials_generate_messages_nodejs
+[ 82%] Built target std_msgs_generate_messages_cpp
+[100%] Built target rospy_tutorials_generate_messages_cpp
+[100%] Built target rospy_tutorials_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/msg/Floats.msg
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/msg/HeaderString.msg
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/srv/AddTwoInts.srv
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/srv/BadTwoInts.srv
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/cmake/rospy_tutorials-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/rospy_tutorials
+-- Up-to-date: /opt/ros/kinetic/include/rospy_tutorials/AddTwoInts.h
+-- Up-to-date: /opt/ros/kinetic/include/rospy_tutorials/AddTwoIntsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rospy_tutorials/AddTwoIntsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rospy_tutorials/BadTwoInts.h
+-- Up-to-date: /opt/ros/kinetic/include/rospy_tutorials/BadTwoIntsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rospy_tutorials/BadTwoIntsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rospy_tutorials/Floats.h
+-- Up-to-date: /opt/ros/kinetic/include/rospy_tutorials/HeaderString.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/msg/Floats.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/msg/HeaderString.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/srv/AddTwoInts.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rospy_tutorials/srv/BadTwoInts.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/_package_Floats.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/_package_HeaderString.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/Floats.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/HeaderString.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/msg/rospy_tutorials-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/_package_AddTwoInts.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/_package_BadTwoInts.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/AddTwoInts.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/BadTwoInts.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rospy_tutorials/srv/rospy_tutorials-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/msg/Floats.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/msg/HeaderString.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/srv/AddTwoInts.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rospy_tutorials/srv/BadTwoInts.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/msg ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospy_tutorials/lib/python2.7/site-packages/rospy_tutorials/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/_Floats.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/_Floats.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/_HeaderString.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/msg/_HeaderString.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/_AddTwoInts.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/_AddTwoInts.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/_BadTwoInts.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rospy_tutorials/srv/_BadTwoInts.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rospy_tutorials.pc
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/cmake/rospy_tutorials-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/cmake/rospy_tutorialsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/cmake/rospy_tutorialsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/package.xml
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/listener
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/listener.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/talker
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/talker.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/README
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/001_talker_listener/talker_listener.launch
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/002_headers/listener_header.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/002_headers/talker_header.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/002_headers/headers.launch
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/003_listener_with_user_data/listener_with_user_data.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/003_listener_with_user_data/listener_with_user_data.launch
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/004_listener_subscribe_notify/listener_subscribe_notify.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/004_listener_subscribe_notify/listener_subscribe_notify.launch
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/005_add_two_ints/add_two_ints_client
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/005_add_two_ints/add_two_ints_server
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/006_parameters/param_talker.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/006_parameters/param_talker.launch
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/client_connection_header.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/listener_connection_header.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/server_connection_header.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/talker_connection_header.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/connection_header.launch
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/007_connection_header/README
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/008_on_shutdown/publish_on_shutdown.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/008_on_shutdown/on_shutdown.launch
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/009_advanced_publish/advanced_publish.py
+-- Up-to-date: /opt/ros/kinetic/share/rospy_tutorials/009_advanced_publish/advanced_publish.launch

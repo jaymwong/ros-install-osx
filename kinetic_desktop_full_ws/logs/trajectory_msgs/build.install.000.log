@@ -1,0 +1,94 @@
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_JointTrajectory
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_MultiDOFJointTrajectory
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_MultiDOFJointTrajectoryPoint
+[  0%] Built target _trajectory_msgs_generate_messages_check_deps_JointTrajectoryPoint
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 18%] Built target trajectory_msgs_generate_messages_cpp
+[ 18%] Built target geometry_msgs_generate_messages_eus
+[ 18%] Built target std_msgs_generate_messages_eus
+[ 40%] Built target trajectory_msgs_generate_messages_eus
+[ 40%] Built target geometry_msgs_generate_messages_lisp
+[ 40%] Built target std_msgs_generate_messages_lisp
+[ 59%] Built target trajectory_msgs_generate_messages_lisp
+[ 59%] Built target std_msgs_generate_messages_nodejs
+[ 59%] Built target geometry_msgs_generate_messages_nodejs
+[ 77%] Built target trajectory_msgs_generate_messages_nodejs
+[ 77%] Built target std_msgs_generate_messages_py
+[ 77%] Built target geometry_msgs_generate_messages_py
+[100%] Built target trajectory_msgs_generate_messages_py
+[100%] Built target trajectory_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/msg/JointTrajectory.msg
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/msg/JointTrajectoryPoint.msg
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/msg/MultiDOFJointTrajectory.msg
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.msg
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/cmake/trajectory_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/trajectory_msgs
+-- Installing: /opt/ros/kinetic/include/trajectory_msgs/JointTrajectory.h
+-- Installing: /opt/ros/kinetic/include/trajectory_msgs/JointTrajectoryPoint.h
+-- Installing: /opt/ros/kinetic/include/trajectory_msgs/MultiDOFJointTrajectory.h
+-- Installing: /opt/ros/kinetic/include/trajectory_msgs/MultiDOFJointTrajectoryPoint.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg/JointTrajectory.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg/JointTrajectoryPoint.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg/MultiDOFJointTrajectory.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package_JointTrajectory.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package_JointTrajectoryPoint.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package_MultiDOFJointTrajectory.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/_package_MultiDOFJointTrajectoryPoint.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/JointTrajectory.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/JointTrajectoryPoint.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/MultiDOFJointTrajectory.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/trajectory_msgs/msg/trajectory_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/JointTrajectory.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/JointTrajectoryPoint.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/MultiDOFJointTrajectory.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectory.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectoryPoint.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectory.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectoryPoint.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/trajectory_msgs/lib/python2.7/site-packages/trajectory_msgs/msg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectory.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectory.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectoryPoint.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_JointTrajectoryPoint.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectory.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectory.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectoryPoint.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/trajectory_msgs/msg/_MultiDOFJointTrajectoryPoint.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/trajectory_msgs.pc
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/cmake/trajectory_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/cmake/trajectory_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/cmake/trajectory_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/package.xml
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/rules
+-- Installing: /opt/ros/kinetic/share/trajectory_msgs/rules/JointTrajectoryPoint_Groovy2Hydro_08.10.2013.bmr

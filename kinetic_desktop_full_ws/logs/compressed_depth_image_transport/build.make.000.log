@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target compressed_depth_image_transport_gencfg[0m
+[ 16%] [34m[1mGenerating dynamic reconfigure files from cfg/CompressedDepthPublisher.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_depth_image_transport/include/compressed_depth_image_transport/CompressedDepthPublisherConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_depth_image_transport/lib/python2.7/site-packages/compressed_depth_image_transport/cfg/CompressedDepthPublisherConfig.py[0m
+Generating reconfiguration files for CompressedDepthPublisher in compressed_depth_image_transport
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_depth_image_transport/include/compressed_depth_image_transport/CompressedDepthPublisherConfig.h
+[ 16%] Built target compressed_depth_image_transport_gencfg
+[35m[1mScanning dependencies of target compressed_depth_image_transport[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/compressed_depth_image_transport.dir/src/compressed_depth_publisher.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/compressed_depth_image_transport.dir/src/compressed_depth_subscriber.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/compressed_depth_image_transport.dir/src/manifest.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/compressed_depth_image_transport.dir/src/codec.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_depth_image_transport/lib/libcompressed_depth_image_transport.dylib[0m
+[100%] Built target compressed_depth_image_transport

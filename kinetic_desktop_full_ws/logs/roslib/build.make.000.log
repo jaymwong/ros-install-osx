@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target roslib[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/roslib.dir/src/package.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roslib/lib/libroslib.dylib[0m
+[100%] Built target roslib

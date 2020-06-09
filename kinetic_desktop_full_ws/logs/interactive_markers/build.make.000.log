@@ -1,0 +1,280 @@
+[35m[1mScanning dependencies of target interactive_markers[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/interactive_markers.dir/src/interactive_marker_server.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/interactive_markers.dir/src/tools.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/interactive_markers.dir/src/menu_handler.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/interactive_markers.dir/src/interactive_marker_client.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/interactive_markers.dir/src/single_client.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/interactive_markers.dir/src/message_context.cpp.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/interactive_marker_client.cpp:32:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/include/interactive_markers/detail/../interactive_marker_client.h:50:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/include/interactive_markers/detail/state_machine.h:74:61: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type 'int64_t' (aka 'long long') [-Wformat][0m
+    ROS_DEBUG( "Setting state of %s to %lu", name_.c_str(), (int64_t)state );
+[0;1;32m                                       ~~~                  ^~~~~~~~~~~~~~
+[0m[0;32m                                       %lld
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/interactive_marker_client.cpp:128:11: [0m[0;1;30mnote: [0min instantiation of member function 'interactive_markers::StateMachine<interactive_markers::InteractiveMarkerClient::StateT>::operator=' requested here[0m
+    state_=IDLE;
+[0;1;32m          ^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:68:58: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type '_seq_num_type' (aka 'unsigned long long') [-Wformat][0m
+  DBG_MSG( "%s: received init #%lu", server_id_.c_str(), msg->seq_num );
+[0;1;32m                               ~~~                       ^~~~~~~~~~~~
+[0m[0;32m                               %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:75:75: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type '_seq_num_type' (aka 'unsigned long long') [-Wformat][0m
+      DBG_MSG( "Init queue too large. Erasing init message with id %lu.", init_queue_.begin()->msg->seq_num );
+[0;1;32m                                                                   ~~~    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m[0;32m                                                                   %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:99:66: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type '_seq_num_type' (aka 'unsigned long long') [-Wformat][0m
+    DBG_MSG( "%s: received keep-alive #%lu", server_id_.c_str(), msg->seq_num );
+[0;1;32m                                       ~~~                       ^~~~~~~~~~~~
+[0m[0;32m                                       %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:112:62: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type '_seq_num_type' (aka 'unsigned long long') [-Wformat][0m
+    DBG_MSG( "%s: received update #%lu", server_id_.c_str(), msg->seq_num );
+[0;1;32m                                   ~~~                       ^~~~~~~~~~~~
+[0m[0;32m                                   %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:128:79: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type '_seq_num_type' (aka 'unsigned long long') [-Wformat][0m
+      DBG_MSG( "Update queue too large. Erasing update message with id %lu.", update_queue_.begin()->msg->seq_num );
+[0;1;32m                                                                       ~~~    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m[0;32m                                                                       %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:215:108: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type 'uint64_t' (aka 'unsigned long long') [-Wformat][0m
+      DBG_MSG( "Init message with seq_id=%lu is ready & in line with updates. Switching to receive mode.", init_seq_num );
+[0;1;32m                                         ~~~                                                               ^~~~~~~~~~~~
+[0m[0;32m                                         %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:218:53: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type '_seq_num_type' (aka 'unsigned long long') [-Wformat][0m
+        DBG_MSG( "Omitting update with seq_id=%lu", update_queue_.back().msg->seq_num );
+[0;1;32m                                              ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m[0;32m                                              %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:302:41: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type '_seq_num_type' (aka 'unsigned long long') [-Wformat][0m
+    DBG_MSG("Pushing out update #%lu.", update_queue_.back().msg->seq_num );
+[0;1;32m                                 ~~~    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m[0;32m                                 %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/message_context.cpp:224:59: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type '_seq_num_type' (aka 'unsigned long long') [-Wformat][0m
+    DBG_MSG( "Update message with seq_num=%lu is ready.", msg->seq_num );
+[0;1;32m                                          ~~~             ^~~~~~~~~~~~
+[0m[0;32m                                          %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/message_context.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/message_context.cpp:234:57: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type '_seq_num_type' (aka 'unsigned long long') [-Wformat][0m
+    DBG_MSG( "Init message with seq_num=%lu is ready.", msg->seq_num );
+[0;1;32m                                        ~~~             ^~~~~~~~~~~~
+[0m[0;32m                                        %llu
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/message_context.cpp:37:35: [0m[0;1;30mnote: [0mexpanded from macro 'DBG_MSG'[0m
+#define DBG_MSG( ... ) ROS_DEBUG( __VA_ARGS__ );
+[0;1;32m                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0mIn file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:32:
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/include/interactive_markers/detail/single_client.h:55:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/include/interactive_markers/detail/../detail/state_machine.h:74:61: [0m[0;1;35mwarning: [0m[1mformat specifies type 'unsigned long' but the argument has type 'int64_t' (aka 'long long') [-Wformat][0m
+    ROS_DEBUG( "Setting state of %s to %lu", name_.c_str(), (int64_t)state );
+[0;1;32m                                       ~~~                  ^~~~~~~~~~~~~~
+[0m[0;32m                                       %lld
+[0m[1m/opt/ros/kinetic/include/rosconsole/macros_generated.h:58:88: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_DEBUG'[0m
+#define ROS_DEBUG(...) ROS_LOG(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[0;1;32m                                                                                       ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:561:67: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG'[0m
+#define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+[0;1;32m                                                                  ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:379:36: [0m[0;1;30mnote: [0mexpanded from macro 'ROS_LOG_COND'[0m
+      ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+[0;1;32m                                   ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:349:49: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION'[0m
+    ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER(0, __VA_ARGS__)
+[0;1;32m                                                ^~~~~~~~~~~
+[0m[1m/opt/ros/kinetic/include/ros/console.h:346:165: [0m[0;1;30mnote: [0mexpanded from macro 'ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER'[0m
+    ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+[0;1;32m                                                                                                                                                                    ^~~~~~~~~~~
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/interactive_markers/src/single_client.cpp:167:14: [0m[0;1;30mnote: [0min instantiation of member function 'interactive_markers::StateMachine<interactive_markers::SingleClient::StateT>::operator=' requested here[0m
+      state_ = INIT;
+[0;1;32m             ^
+[0m1 warning generated.
+9 warnings generated.
+2 warnings generated.
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/interactive_markers/lib/libinteractive_markers.dylib[0m
+[100%] Built target interactive_markers

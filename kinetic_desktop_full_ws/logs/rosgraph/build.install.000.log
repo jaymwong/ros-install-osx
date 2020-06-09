@@ -1,0 +1,66 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rosgraph.pc
+-- Installing: /opt/ros/kinetic/share/rosgraph/cmake/rosgraphConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rosgraph/cmake/rosgraphConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rosgraph/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rosgraph
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/wizard/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/tbt/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-externals/devel/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rosgraph/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph
+copying src/rosgraph/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph
+copying src/rosgraph/masterapi.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph
+copying src/rosgraph/names.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph
+copying src/rosgraph/network.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph
+copying src/rosgraph/rosenv.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph
+copying src/rosgraph/rosgraph_main.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph
+copying src/rosgraph/roslogging.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph
+copying src/rosgraph/xmlrpc.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/impl
+copying src/rosgraph/impl/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/impl
+copying src/rosgraph/impl/graph.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/impl
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/scripts-2.7
+copying and adjusting scripts/rosgraph -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/scripts-2.7/rosgraph from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/impl/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/impl/graph.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/impl
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/masterapi.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/names.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/network.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/rosenv.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/rosgraph_main.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/roslogging.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/lib/rosgraph/xmlrpc.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/impl/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/impl/graph.py to graph.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/masterapi.py to masterapi.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/names.py to names.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/network.py to network.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/rosenv.py to rosenv.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/rosgraph_main.py to rosgraph_main.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/roslogging.py to roslogging.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph/xmlrpc.py to xmlrpc.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosgraph/scripts-2.7/rosgraph -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/rosgraph to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph-1.12.14-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/etc/ros/python_logging.conf
+-- Installing: /opt/ros/kinetic/share/rosgraph/conf/python_logging.conf
+-- Installing: /opt/ros/kinetic/lib/rosgraph/rosgraph

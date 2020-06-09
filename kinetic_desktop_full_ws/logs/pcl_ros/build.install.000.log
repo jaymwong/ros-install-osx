@@ -1,0 +1,242 @@
+Checking md5sum on /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/perception_pcl/pcl_ros/samples/data/table_scene_lms400.pcd
+[  0%] Built target table_scene_lms400.pcd
+[  0%] Built target download_extra_data
+[  0%] Built target download
+[  3%] Built target pointcloud_to_pcd
+[  6%] Built target convert_pointcloud_to_image
+[  6%] Built target topic_tools_generate_messages_cpp
+[  6%] Built target tf2_msgs_generate_messages_lisp
+[  6%] Built target tf2_msgs_generate_messages_eus
+[  6%] Built target tf2_msgs_generate_messages_cpp
+[  6%] Built target actionlib_msgs_generate_messages_eus
+[  6%] Built target actionlib_msgs_generate_messages_nodejs
+[  6%] Built target actionlib_msgs_generate_messages_lisp
+[  6%] Built target actionlib_msgs_generate_messages_cpp
+[  6%] Built target actionlib_generate_messages_nodejs
+[  6%] Built target std_msgs_generate_messages_eus
+[  6%] Built target actionlib_generate_messages_eus
+[  6%] Built target tf_generate_messages_cpp
+[  6%] Built target topic_tools_generate_messages_py
+[  6%] Built target topic_tools_generate_messages_eus
+[  6%] Built target std_srvs_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_cpp
+[  6%] Built target std_srvs_generate_messages_cpp
+[  6%] Built target tf2_msgs_generate_messages_nodejs
+[  6%] Built target geometry_msgs_generate_messages_py
+[  6%] Built target tf_generate_messages_py
+[  6%] Built target pcl_msgs_generate_messages_lisp
+[  6%] Built target topic_tools_generate_messages_nodejs
+[  6%] Built target sensor_msgs_generate_messages_nodejs
+[  6%] Built target sensor_msgs_generate_messages_lisp
+[  6%] Built target dynamic_reconfigure_generate_messages_lisp
+[  6%] Built target pcl_msgs_generate_messages_nodejs
+[  6%] Built target nodelet_topic_tools_gencfg
+[  6%] Built target sensor_msgs_generate_messages_cpp
+[  6%] Built target rosgraph_msgs_generate_messages_nodejs
+[  6%] Built target tf_generate_messages_lisp
+[  6%] Built target rosgraph_msgs_generate_messages_cpp
+[  6%] Built target std_msgs_generate_messages_nodejs
+[  6%] Built target std_srvs_generate_messages_lisp
+[  6%] Built target rosgraph_msgs_generate_messages_eus
+[  6%] Built target std_srvs_generate_messages_eus
+[  6%] Built target roscpp_generate_messages_py
+[  6%] Built target actionlib_msgs_generate_messages_py
+[  6%] Built target dynamic_reconfigure_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_lisp
+[  6%] Built target sensor_msgs_generate_messages_py
+[  6%] Built target topic_tools_generate_messages_lisp
+[  6%] Built target roscpp_generate_messages_nodejs
+[  6%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  6%] Built target roscpp_generate_messages_lisp
+[  6%] Built target nodelet_generate_messages_py
+[  6%] Built target pcl_msgs_generate_messages_eus
+[  6%] Built target roscpp_generate_messages_cpp
+[  6%] Built target tf_generate_messages_nodejs
+[  6%] Built target bond_generate_messages_py
+[  6%] Built target nodelet_generate_messages_eus
+[  6%] Built target tf2_msgs_generate_messages_py
+[  6%] Built target pcl_msgs_generate_messages_cpp
+[  6%] Built target nodelet_generate_messages_nodejs
+[  6%] Built target bond_generate_messages_nodejs
+[  6%] Built target tf_generate_messages_eus
+[  6%] Built target bond_generate_messages_cpp
+[  6%] Built target bond_generate_messages_eus
+[  6%] Built target actionlib_generate_messages_lisp
+[  6%] Built target roscpp_generate_messages_eus
+[  6%] Built target nodelet_generate_messages_cpp
+[  6%] Built target pcl_msgs_generate_messages_py
+[  6%] Built target std_msgs_generate_messages_lisp
+[  6%] Built target std_msgs_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_nodejs
+[  6%] Built target rosgraph_msgs_generate_messages_lisp
+[  6%] Built target bond_generate_messages_lisp
+[  6%] Built target dynamic_reconfigure_gencfg
+[  6%] Built target std_srvs_generate_messages_nodejs
+[  6%] Built target std_msgs_generate_messages_cpp
+[  6%] Built target sensor_msgs_generate_messages_eus
+[  6%] Built target actionlib_generate_messages_py
+[  6%] Built target geometry_msgs_generate_messages_eus
+[  6%] Built target actionlib_generate_messages_cpp
+[  6%] Built target nodelet_generate_messages_lisp
+[  6%] Built target rosgraph_msgs_generate_messages_py
+[  6%] Built target dynamic_reconfigure_generate_messages_eus
+[  6%] Built target dynamic_reconfigure_generate_messages_cpp
+[  9%] Built target pcl_ros_tf
+[ 19%] Built target pcl_ros_io
+[ 39%] Built target pcl_ros_gencfg
+[ 49%] Built target pcl_ros_segmentation
+[ 52%] Built target pcd_to_pointcloud
+[ 73%] Built target pcl_ros_features
+[ 76%] Built target bag_to_pcd
+[ 79%] Built target convert_pcd_to_image
+[ 93%] Built target pcl_ros_filters
+[100%] Built target pcl_ros_surface
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/include/pcl_ros/EuclideanClusterExtractionConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/ExtractIndicesConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/ExtractPolygonalPrismDataConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/FeatureConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/FilterConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/MLSConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/SACSegmentationConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/SACSegmentationFromNormalsConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/SegmentDifferencesConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/StatisticalOutlierRemovalConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/RadiusOutlierRemovalConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/VoxelGridConfig.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/CropBoxConfig.h
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/__init__.py
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/CropBoxConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/EuclideanClusterExtractionConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/ExtractIndicesConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/ExtractPolygonalPrismDataConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/FeatureConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/FilterConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/MLSConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/RadiusOutlierRemovalConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/SACSegmentationConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/SACSegmentationFromNormalsConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/SegmentDifferencesConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/StatisticalOutlierRemovalConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/VoxelGridConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/CropBoxConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/CropBoxConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/EuclideanClusterExtractionConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/EuclideanClusterExtractionConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/ExtractIndicesConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/ExtractIndicesConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/ExtractPolygonalPrismDataConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/ExtractPolygonalPrismDataConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/FeatureConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/FeatureConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/FilterConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/FilterConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/MLSConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/MLSConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/RadiusOutlierRemovalConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/RadiusOutlierRemovalConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/SACSegmentationConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/SACSegmentationConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/SACSegmentationFromNormalsConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/SACSegmentationFromNormalsConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/SegmentDifferencesConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/SegmentDifferencesConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/StatisticalOutlierRemovalConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/StatisticalOutlierRemovalConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/VoxelGridConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/pcl_ros/cfg/VoxelGridConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/pcl_ros.pc
+-- Installing: /opt/ros/kinetic/share/pcl_ros/cmake/pcl_rosConfig.cmake
+-- Installing: /opt/ros/kinetic/share/pcl_ros/cmake/pcl_rosConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/pcl_ros/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/pcl_ros
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/boundary.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/feature.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/fpfh.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/fpfh_omp.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/moment_invariants.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/normal_3d.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/normal_3d_omp.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/normal_3d_tbb.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/pfh.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/principal_curvatures.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/shot.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/shot_omp.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/features/vfh.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/filters
+-- Installing: /opt/ros/kinetic/include/pcl_ros/filters/crop_box.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/filters/extract_indices.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/filters/filter.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/filters/passthrough.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/filters/project_inliers.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/filters/radius_outlier_removal.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/filters/statistical_outlier_removal.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/filters/voxel_grid.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/impl
+-- Installing: /opt/ros/kinetic/include/pcl_ros/impl/transforms.hpp
+-- Installing: /opt/ros/kinetic/include/pcl_ros/io
+-- Installing: /opt/ros/kinetic/include/pcl_ros/io/bag_io.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/io/concatenate_data.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/io/concatenate_fields.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/io/pcd_io.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/pcl_nodelet.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/point_cloud.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/publisher.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/segmentation
+-- Installing: /opt/ros/kinetic/include/pcl_ros/segmentation/extract_clusters.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/segmentation/extract_polygonal_prism_data.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/segmentation/sac_segmentation.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/segmentation/segment_differences.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/surface
+-- Installing: /opt/ros/kinetic/include/pcl_ros/surface/convex_hull.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/surface/moving_least_squares.h
+-- Installing: /opt/ros/kinetic/include/pcl_ros/transforms.h
+-- Installing: /opt/ros/kinetic/lib/libpcl_ros_tf.dylib
+-- Installing: /opt/ros/kinetic/lib/libpcl_ros_io.dylib
+-- Installing: /opt/ros/kinetic/lib/libpcl_ros_features.dylib
+-- Installing: /opt/ros/kinetic/lib/libpcl_ros_filters.dylib
+-- Installing: /opt/ros/kinetic/lib/libpcl_ros_surface.dylib
+-- Installing: /opt/ros/kinetic/lib/libpcl_ros_segmentation.dylib
+-- Installing: /opt/ros/kinetic/lib/pcl_ros/pcd_to_pointcloud
+-- Installing: /opt/ros/kinetic/lib/pcl_ros/pointcloud_to_pcd
+-- Installing: /opt/ros/kinetic/lib/pcl_ros/bag_to_pcd
+-- Installing: /opt/ros/kinetic/lib/pcl_ros/convert_pcd_to_image
+-- Installing: /opt/ros/kinetic/lib/pcl_ros/convert_pointcloud_to_image
+-- Installing: /opt/ros/kinetic/share/pcl_ros/plugins
+-- Installing: /opt/ros/kinetic/share/pcl_ros/plugins/nodelet
+-- Installing: /opt/ros/kinetic/share/pcl_ros/plugins/nodelet/libpcl_ros_features.xml
+-- Installing: /opt/ros/kinetic/share/pcl_ros/plugins/nodelet/libpcl_ros_filters.xml
+-- Installing: /opt/ros/kinetic/share/pcl_ros/plugins/nodelet/libpcl_ros_io.xml
+-- Installing: /opt/ros/kinetic/share/pcl_ros/plugins/nodelet/libpcl_ros_segmentation.xml
+-- Installing: /opt/ros/kinetic/share/pcl_ros/plugins/nodelet/libpcl_ros_surface.xml
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/data
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/data/table_scene_lms400.pcd
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/features
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/features/sample_normal_3d.launch
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/filters
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/filters/config
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/filters/config/statistical_outlier_removal.rviz
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/filters/config/voxel_grid.rviz
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/filters/sample_statistical_outlier_removal.launch
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/filters/sample_voxel_grid.launch
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/io
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/io/sample_concatenate_data.launch
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/segmentation
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/segmentation/sample_extract_clusters.launch
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/surface
+-- Installing: /opt/ros/kinetic/share/pcl_ros/samples/pcl_ros/surface/sample_convex_hull.launch

@@ -1,0 +1,16 @@
+[100%] Built target random_numbers
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/random_numbers.pc
+-- Installing: /opt/ros/kinetic/share/random_numbers/cmake/random_numbersConfig.cmake
+-- Installing: /opt/ros/kinetic/share/random_numbers/cmake/random_numbersConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/random_numbers/package.xml
+-- Installing: /opt/ros/kinetic/lib/librandom_numbers.dylib
+-- Installing: /opt/ros/kinetic/include/random_numbers
+-- Installing: /opt/ros/kinetic/include/random_numbers/random_numbers.h

@@ -1,0 +1,42 @@
+[35m[1mScanning dependencies of target stage[0m
+[  1%] [32mBuilding CXX object libstage/CMakeFiles/stage.dir/canvas.o[0m
+In file included from /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/libstage/canvas.cc:25:
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/libstage/region.hh:24:36: [0m[0;1;35mwarning: [0m[1mshifting a negative signed value is undefined [-Wshift-negative-value][0m
+  const int32_t CELLMASK( ~((~0x00)<< RBITS ));
+[0;1;32m                            ~~~~~~~^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/libstage/region.hh:25:38: [0m[0;1;35mwarning: [0m[1mshifting a negative signed value is undefined [-Wshift-negative-value][0m
+  const int32_t REGIONMASK( ~((~0x00)<< SRBITS ));
+[0;1;32m                              ~~~~~~~^
+[0m[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/stage/libstage/canvas.cc:361:3: [0m[0;1;35mwarning: [0m[1m'gluUnProject' is deprecated: first deprecated in macOS 10.9 - "Use GLKMathUnproject" [-Wdeprecated-declarations][0m
+  gluUnProject( px, w()-py, pz, modelview, projection, viewport, wx,wy,wz );    
+[0;1;32m  ^
+[0m[1m/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:297:14: [0m[0;1;30mnote: [0m'gluUnProject' has been explicitly marked deprecated here[0m
+extern GLint gluUnProject (GLdouble winX, GLdouble winY, GLdouble winZ, const GLdouble *model, const GLdouble *proj, const GLint *view, GLdouble* objX, GLdouble* objY, GLdouble* objZ) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMathUnproject");
+[0;1;32m             ^
+[0m3 warnings generated.
+[  3%] [32m[1mLinking CXX shared library libstage.dylib[0m
+[ 56%] Built target stage
+[ 58%] [32m[1mLinking CXX executable stage[0m
+[ 60%] Built target stagebinary
+[ 62%] [32m[1mLinking CXX shared module fasr.so[0m
+[ 63%] Built target fasr
+[ 65%] [32m[1mLinking CXX shared module pioneer_flocking.so[0m
+[ 67%] Built target pioneer_flocking
+[ 68%] [32m[1mLinking CXX shared module dynamic.so[0m
+[ 70%] Built target dynamic
+[ 72%] [32m[1mLinking CXX shared module lasernoise.so[0m
+[ 74%] Built target lasernoise
+[ 75%] [32m[1mLinking CXX shared module fasr2.so[0m
+[ 79%] Built target fasr2
+[ 81%] [32m[1mLinking CXX shared module rasterize.so[0m
+[ 82%] Built target rasterize
+[ 84%] [32m[1mLinking CXX shared module wander.so[0m
+[ 86%] [32m[1mLinking CXX shared module source.so[0m
+[ 87%] Built target wander
+[ 89%] Built target source
+[ 91%] [32m[1mLinking CXX shared module sink.so[0m
+[ 93%] [32m[1mLinking CXX shared module expand_pioneer.so[0m
+[ 94%] [32m[1mLinking CXX shared module expand_swarm.so[0m
+[ 96%] Built target sink
+[ 98%] Built target expand_pioneer
+[100%] Built target expand_swarm

@@ -1,0 +1,37 @@
+[  0%] Built target _turtlesim_generate_messages_check_deps_Pose
+[  0%] Built target _turtlesim_generate_messages_check_deps_SetPen
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _turtlesim_generate_messages_check_deps_TeleportAbsolute
+[  0%] Built target _turtlesim_generate_messages_check_deps_Kill
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target _turtlesim_generate_messages_check_deps_Color
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _turtlesim_generate_messages_check_deps_TeleportRelative
+[  0%] Built target _turtlesim_generate_messages_check_deps_Spawn
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[ 14%] Built target turtlesim_generate_messages_cpp
+[ 28%] Built target turtlesim_generate_messages_nodejs
+[ 42%] Built target turtlesim_generate_messages_lisp
+[ 60%] Built target turtlesim_generate_messages_py
+[ 76%] Built target turtlesim_generate_messages_eus
+[ 76%] Built target turtlesim_gencpp
+[ 76%] Built target turtlesim_generate_messages
+[ 78%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/turtlesim/draw_square[0m
+[ 80%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/turtlesim/turtle_teleop_key[0m
+[ 82%] Built target draw_square
+[ 84%] Built target turtle_teleop_key
+[ 86%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/turtlesim/mimic[0m
+[ 88%] Built target mimic
+[ 90%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/turtlesim/turtlesim_node[0m
+[100%] Built target turtlesim_node

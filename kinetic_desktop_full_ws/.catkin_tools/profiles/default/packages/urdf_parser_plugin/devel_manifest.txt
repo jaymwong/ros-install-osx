@@ -1,0 +1,4 @@
+urdf/urdf_parser_plugin
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf_parser_plugin/lib/pkgconfig/urdf_parser_plugin.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/urdf_parser_plugin.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf_parser_plugin/share/urdf_parser_plugin/cmake/urdf_parser_pluginConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/urdf_parser_plugin/cmake/urdf_parser_pluginConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf_parser_plugin/share/urdf_parser_plugin/cmake/urdf_parser_pluginConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/urdf_parser_plugin/cmake/urdf_parser_pluginConfig.cmake

@@ -1,0 +1,15 @@
+[35m[1mScanning dependencies of target rospack[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/rospack.dir/src/rospack.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/rospack.dir/src/rospack_backcompat.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/rospack.dir/src/rospack_cmdline.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/rospack.dir/src/utils.cpp.o[0m
+[ 55%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospack/lib/librospack.dylib[0m
+[ 55%] Built target rospack
+[35m[1mScanning dependencies of target rosstackexe[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/rosstackexe.dir/src/rosstack_main.cpp.o[0m
+[35m[1mScanning dependencies of target rospackexe[0m
+[ 77%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospack/bin/rosstack[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/rospackexe.dir/src/rospack_main.cpp.o[0m
+[ 88%] Built target rosstackexe
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rospack/bin/rospack[0m
+[100%] Built target rospackexe

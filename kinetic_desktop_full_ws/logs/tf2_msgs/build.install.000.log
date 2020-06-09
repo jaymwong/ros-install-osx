@@ -1,0 +1,171 @@
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_FrameGraph
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformGoal
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformActionGoal
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformFeedback
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformAction
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformActionResult
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformResult
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_TF2Error
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_TFMessage
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformActionFeedback
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 18%] Built target tf2_msgs_generate_messages_cpp
+[ 18%] Built target actionlib_msgs_generate_messages_py
+[ 18%] Built target std_msgs_generate_messages_py
+[ 18%] Built target geometry_msgs_generate_messages_py
+[ 41%] Built target tf2_msgs_generate_messages_py
+[ 41%] Built target actionlib_msgs_generate_messages_lisp
+[ 41%] Built target geometry_msgs_generate_messages_lisp
+[ 41%] Built target std_msgs_generate_messages_lisp
+[ 60%] Built target tf2_msgs_generate_messages_lisp
+[ 60%] Built target geometry_msgs_generate_messages_eus
+[ 60%] Built target actionlib_msgs_generate_messages_eus
+[ 60%] Built target std_msgs_generate_messages_eus
+[ 81%] Built target tf2_msgs_generate_messages_eus
+[ 81%] Built target std_msgs_generate_messages_nodejs
+[ 81%] Built target actionlib_msgs_generate_messages_nodejs
+[ 81%] Built target geometry_msgs_generate_messages_nodejs
+[100%] Built target tf2_msgs_generate_messages_nodejs
+[100%] Built target tf2_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/msg/TF2Error.msg
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/msg/TFMessage.msg
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/srv/FrameGraph.srv
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/action/LookupTransform.action
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/msg/LookupTransformAction.msg
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/msg/LookupTransformActionGoal.msg
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/msg/LookupTransformActionResult.msg
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/msg/LookupTransformActionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/msg/LookupTransformGoal.msg
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/msg/LookupTransformResult.msg
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/msg/LookupTransformFeedback.msg
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/cmake/tf2_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/tf2_msgs
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/FrameGraph.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/FrameGraphRequest.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/FrameGraphResponse.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/LookupTransformAction.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/LookupTransformActionFeedback.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/LookupTransformActionGoal.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/LookupTransformActionResult.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/LookupTransformFeedback.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/LookupTransformGoal.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/LookupTransformResult.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/TF2Error.h
+-- Installing: /opt/ros/kinetic/include/tf2_msgs/TFMessage.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg/LookupTransformAction.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg/LookupTransformActionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg/LookupTransformActionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg/LookupTransformActionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg/LookupTransformFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg/LookupTransformGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg/LookupTransformResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg/TF2Error.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/msg/TFMessage.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/tf2_msgs/srv/FrameGraph.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package_LookupTransformAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package_LookupTransformActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package_LookupTransformActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package_LookupTransformActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package_LookupTransformFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package_LookupTransformGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package_LookupTransformResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package_TF2Error.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/_package_TFMessage.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/LookupTransformAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/LookupTransformActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/LookupTransformActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/LookupTransformActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/LookupTransformFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/LookupTransformGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/LookupTransformResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/tf2_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/TF2Error.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/msg/TFMessage.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/srv/_package_FrameGraph.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/srv/FrameGraph.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/tf2_msgs/srv/tf2_msgs-srv.asd
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/LookupTransformAction.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/LookupTransformActionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/LookupTransformActionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/LookupTransformActionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/LookupTransformFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/LookupTransformGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/LookupTransformResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/TF2Error.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/msg/TFMessage.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/tf2_msgs/srv/FrameGraph.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformAction.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformActionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformActionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformActionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/_TF2Error.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/_TFMessage.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/srv/_FrameGraph.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/tf2_msgs/lib/python2.7/site-packages/tf2_msgs/srv/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformAction.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformAction.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformActionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformActionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformActionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformActionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformActionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformActionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_LookupTransformResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_TF2Error.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_TF2Error.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_TFMessage.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/msg/_TFMessage.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/srv/_FrameGraph.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/tf2_msgs/srv/_FrameGraph.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/tf2_msgs.pc
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/cmake/tf2_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/cmake/tf2_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/cmake/tf2_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/tf2_msgs/package.xml

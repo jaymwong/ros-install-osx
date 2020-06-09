@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target rosbag_storage[0m
+[  8%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/bag.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/bag_player.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/buffer.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/bz2_stream.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/lz4_stream.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/chunked_file.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/message_instance.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/query.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/stream.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/view.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/rosbag_storage.dir/src/uncompressed_stream.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbag_storage/lib/librosbag_storage.dylib[0m
+[100%] Built target rosbag_storage

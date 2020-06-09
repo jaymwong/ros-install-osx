@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target nodelet_math[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/nodelet_math.dir/src/plus.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet_tutorial_math/lib/libnodelet_math.dylib[0m
+[100%] Built target nodelet_math

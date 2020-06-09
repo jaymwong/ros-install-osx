@@ -1,0 +1,25 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rosclean.pc
+-- Up-to-date: /opt/ros/kinetic/share/rosclean/cmake/roscleanConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosclean/cmake/roscleanConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosclean/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros/rosclean
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosclean/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosclean /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros/rosclean/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosclean install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+running build_scripts
+running install
+running install_lib
+running install_scripts
+changing mode of /opt/ros/kinetic/bin/rosclean to 755
+running install_egg_info
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/rosclean-1.14.4-py2.7.egg-info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rosclean-1.14.4-py2.7.egg-info

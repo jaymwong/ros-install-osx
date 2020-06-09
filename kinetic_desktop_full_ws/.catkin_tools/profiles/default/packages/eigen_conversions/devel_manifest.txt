@@ -1,0 +1,5 @@
+geometry/eigen_conversions
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/eigen_conversions/lib/libeigen_conversions.dylib /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/libeigen_conversions.dylib
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/eigen_conversions/lib/pkgconfig/eigen_conversions.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/eigen_conversions.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/eigen_conversions/share/eigen_conversions/cmake/eigen_conversionsConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/eigen_conversions/cmake/eigen_conversionsConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/eigen_conversions/share/eigen_conversions/cmake/eigen_conversionsConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/eigen_conversions/cmake/eigen_conversionsConfig.cmake

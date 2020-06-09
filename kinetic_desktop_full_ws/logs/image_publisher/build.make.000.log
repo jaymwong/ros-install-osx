@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target image_publisher_gencfg[0m
+[ 20%] [34m[1mGenerating dynamic reconfigure files from cfg/ImagePublisher.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_publisher/include/image_publisher/ImagePublisherConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_publisher/lib/python2.7/site-packages/image_publisher/cfg/ImagePublisherConfig.py[0m
+Generating reconfiguration files for ImagePublisher in image_publisher
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_publisher/include/image_publisher/ImagePublisherConfig.h
+[ 20%] Built target image_publisher_gencfg
+[35m[1mScanning dependencies of target image_publisher_exe[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/image_publisher_exe.dir/src/node/image_publisher.cpp.o[0m
+[ 60%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_publisher/lib/image_publisher/image_publisher[0m
+[ 60%] Built target image_publisher_exe
+[35m[1mScanning dependencies of target image_publisher[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/image_publisher.dir/src/nodelet/image_publisher_nodelet.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_publisher/lib/libimage_publisher.dylib[0m
+[100%] Built target image_publisher

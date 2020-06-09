@@ -1,0 +1,14 @@
+[  7%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/interactive_marker_tutorials/lib/interactive_marker_tutorials/point_cloud[0m
+[ 14%] Built target point_cloud
+[ 21%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/interactive_marker_tutorials/lib/interactive_marker_tutorials/menu[0m
+[ 28%] Built target menu
+[ 35%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/interactive_marker_tutorials/lib/interactive_marker_tutorials/cube[0m
+[ 42%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/interactive_marker_tutorials/lib/interactive_marker_tutorials/pong[0m
+[ 50%] Built target cube
+[ 57%] Built target pong
+[ 64%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/interactive_marker_tutorials/lib/interactive_marker_tutorials/selection[0m
+[ 71%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/interactive_marker_tutorials/lib/interactive_marker_tutorials/basic_controls[0m
+[ 78%] Built target selection
+[ 85%] Built target basic_controls
+[ 92%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/interactive_marker_tutorials/lib/interactive_marker_tutorials/simple_marker[0m
+[100%] Built target simple_marker

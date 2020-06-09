@@ -1,0 +1,23 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _roscpp_generate_messages_check_deps_Logger
+[  0%] Built target _roscpp_generate_messages_check_deps_Empty
+[  0%] Built target _roscpp_generate_messages_check_deps_GetLoggers
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target _roscpp_generate_messages_check_deps_SetLoggerLevel
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  8%] Built target roscpp_generate_messages_py
+[ 13%] Built target roscpp_generate_messages_nodejs
+[ 19%] Built target roscpp_generate_messages_lisp
+[ 26%] Built target roscpp_generate_messages_eus
+[ 31%] Built target roscpp_generate_messages_cpp
+[ 31%] Built target roscpp_generate_messages
+[ 33%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/libroscpp.dylib[0m
+[100%] Built target roscpp

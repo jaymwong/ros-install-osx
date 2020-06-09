@@ -1,0 +1,4 @@
+[ 25%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosconsole_bridge/lib/librosconsole_bridge.dylib[0m
+[ 50%] Built target rosconsole_bridge
+[ 75%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosconsole_bridge/lib/rosconsole_bridge/cleanup[0m
+[100%] Built target cleanup

@@ -1,0 +1,180 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _roscpp_generate_messages_check_deps_Logger
+[  0%] Built target _roscpp_generate_messages_check_deps_Empty
+[  0%] Built target _roscpp_generate_messages_check_deps_GetLoggers
+[  0%] Built target _roscpp_generate_messages_check_deps_SetLoggerLevel
+[  8%] Built target roscpp_generate_messages_py
+[ 13%] Built target roscpp_generate_messages_nodejs
+[ 19%] Built target roscpp_generate_messages_lisp
+[ 26%] Built target roscpp_generate_messages_eus
+[ 26%] Built target _catkin_empty_exported_target
+[ 26%] Built target std_msgs_generate_messages_lisp
+[ 31%] Built target roscpp_generate_messages_cpp
+[ 31%] Built target std_msgs_generate_messages_py
+[ 31%] Built target std_msgs_generate_messages_eus
+[ 31%] Built target rosgraph_msgs_generate_messages_py
+[ 31%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 31%] Built target std_msgs_generate_messages_cpp
+[ 31%] Built target rosgraph_msgs_generate_messages_lisp
+[ 31%] Built target rosgraph_msgs_generate_messages_eus
+[ 31%] Built target rosgraph_msgs_generate_messages_cpp
+[100%] Built target roscpp
+[100%] Built target roscpp_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/msg/Logger.msg
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/srv/Empty.srv
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/srv/GetLoggers.srv
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/srv/SetLoggerLevel.srv
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/cmake/roscpp-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/roscpp
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/Empty.h
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/EmptyRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/EmptyResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/GetLoggers.h
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/GetLoggersRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/GetLoggersResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/Logger.h
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/SetLoggerLevel.h
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/SetLoggerLevelRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/roscpp/SetLoggerLevelResponse.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/roscpp
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/roscpp/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/roscpp/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/roscpp/msg/Logger.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/roscpp/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/roscpp/srv/Empty.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/roscpp/srv/GetLoggers.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/roscpp/srv/SetLoggerLevel.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg/_package_Logger.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg/Logger.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/msg/roscpp-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/_package_Empty.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/_package_GetLoggers.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/_package_SetLoggerLevel.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/Empty.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/GetLoggers.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/roscpp-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/roscpp/srv/SetLoggerLevel.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp/msg/Logger.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv/Empty.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv/GetLoggers.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/roscpp/srv/SetLoggerLevel.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/msg ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp/lib/python2.7/site-packages/roscpp/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg/_Logger.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/msg/_Logger.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_Empty.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_Empty.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_GetLoggers.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_GetLoggers.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_SetLoggerLevel.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/roscpp/srv/_SetLoggerLevel.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/roscpp.pc
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/cmake/roscpp-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/cmake/roscppConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/cmake/roscppConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/package.xml
+-- Installing: /opt/ros/kinetic/lib/libroscpp.dylib
+-- Up-to-date: /opt/ros/kinetic/include
+-- Up-to-date: /opt/ros/kinetic/include/boost_161_condition_variable.h
+-- Up-to-date: /opt/ros/kinetic/include/boost_161_pthread_condition_variable.h
+-- Up-to-date: /opt/ros/kinetic/include/boost_161_pthread_condition_variable_fwd.h
+-- Up-to-date: /opt/ros/kinetic/include/ros
+-- Up-to-date: /opt/ros/kinetic/include/ros/advertise_options.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/advertise_service_options.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/callback_queue.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/callback_queue_interface.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/connection.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/connection_manager.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/exceptions.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/file_log.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/forwards.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/init.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/internal_timer_manager.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/intraprocess_publisher_link.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/intraprocess_subscriber_link.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/io.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/master.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/message.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/message_deserializer.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/names.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/network.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/node_handle.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/param.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/parameter_adapter.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/poll_manager.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/poll_set.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/publication.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/publisher.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/publisher_link.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/ros.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/rosout_appender.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/service.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/service_callback_helper.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/service_client.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/service_client_link.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/service_client_options.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/service_manager.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/service_publication.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/service_server.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/service_server_link.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/single_subscriber_publisher.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/spinner.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/statistics.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/steady_timer.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/steady_timer_options.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/subscribe_options.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/subscriber.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/subscriber_link.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/subscription.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/subscription_callback_helper.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/subscription_queue.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/this_node.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/timer.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/timer_manager.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/timer_options.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/topic.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/topic_manager.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/transport
+-- Up-to-date: /opt/ros/kinetic/include/ros/transport/transport.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/transport/transport_tcp.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/transport/transport_udp.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/transport_hints.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/transport_publisher_link.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/transport_subscriber_link.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/wall_timer.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/wall_timer_options.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/xmlrpc_manager.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/common.h
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/rosbuild/roscpp.cmake
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/rosbuild/scripts/genmsg_cpp.py
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/rosbuild/scripts/gensrv_cpp.py
+-- Up-to-date: /opt/ros/kinetic/share/roscpp/rosbuild/scripts/msg_gen.py

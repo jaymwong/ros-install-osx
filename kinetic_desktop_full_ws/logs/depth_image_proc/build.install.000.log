@@ -1,0 +1,18 @@
+[100%] Built target depth_image_proc
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/depth_image_proc.pc
+-- Installing: /opt/ros/kinetic/share/depth_image_proc/cmake/depth_image_procConfig.cmake
+-- Installing: /opt/ros/kinetic/share/depth_image_proc/cmake/depth_image_procConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/depth_image_proc/package.xml
+-- Installing: /opt/ros/kinetic/include/depth_image_proc
+-- Installing: /opt/ros/kinetic/include/depth_image_proc/depth_conversions.h
+-- Installing: /opt/ros/kinetic/include/depth_image_proc/depth_traits.h
+-- Installing: /opt/ros/kinetic/lib/libdepth_image_proc.dylib
+-- Installing: /opt/ros/kinetic/share/depth_image_proc/nodelet_plugins.xml

@@ -1,0 +1,16 @@
+[ 50%] Built target basic_shapes
+[100%] Built target points_and_lines
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/visualization_marker_tutorials.pc
+-- Up-to-date: /opt/ros/kinetic/share/visualization_marker_tutorials/cmake/visualization_marker_tutorialsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/visualization_marker_tutorials/cmake/visualization_marker_tutorialsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/visualization_marker_tutorials/package.xml
+-- Installing: /opt/ros/kinetic/lib/visualization_marker_tutorials/basic_shapes
+-- Installing: /opt/ros/kinetic/lib/visualization_marker_tutorials/points_and_lines

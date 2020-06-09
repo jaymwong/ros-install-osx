@@ -1,0 +1,34 @@
+[ 33%] Built target compressed_image_transport_gencfg
+[100%] Built target compressed_image_transport
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/include/compressed_image_transport/CompressedPublisherConfig.h
+-- Installing: /opt/ros/kinetic/include/compressed_image_transport/CompressedSubscriberConfig.h
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/compressed_image_transport/__init__.py
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/lib/python2.7/site-packages/compressed_image_transport/cfg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/lib/python2.7/site-packages/compressed_image_transport/cfg/CompressedPublisherConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/lib/python2.7/site-packages/compressed_image_transport/cfg/CompressedSubscriberConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/lib/python2.7/site-packages/compressed_image_transport/cfg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/compressed_image_transport/cfg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/compressed_image_transport/cfg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/compressed_image_transport/cfg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/compressed_image_transport/cfg/CompressedPublisherConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/compressed_image_transport/cfg/CompressedPublisherConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/compressed_image_transport/cfg/CompressedSubscriberConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/compressed_image_transport/cfg/CompressedSubscriberConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/compressed_image_transport.pc
+-- Installing: /opt/ros/kinetic/share/compressed_image_transport/cmake/compressed_image_transportConfig.cmake
+-- Installing: /opt/ros/kinetic/share/compressed_image_transport/cmake/compressed_image_transportConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/compressed_image_transport/package.xml
+-- Installing: /opt/ros/kinetic/lib/libcompressed_image_transport.dylib
+-- Up-to-date: /opt/ros/kinetic/include/compressed_image_transport
+-- Installing: /opt/ros/kinetic/include/compressed_image_transport/compressed_publisher.h
+-- Installing: /opt/ros/kinetic/include/compressed_image_transport/compressed_subscriber.h
+-- Installing: /opt/ros/kinetic/include/compressed_image_transport/compression_common.h
+-- Installing: /opt/ros/kinetic/share/compressed_image_transport/compressed_plugins.xml

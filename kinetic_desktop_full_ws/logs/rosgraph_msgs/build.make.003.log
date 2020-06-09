@@ -1,0 +1,14 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _rosgraph_msgs_generate_messages_check_deps_TopicStatistics
+[  0%] Built target _rosgraph_msgs_generate_messages_check_deps_Log
+[  0%] Built target _rosgraph_msgs_generate_messages_check_deps_Clock
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[ 23%] Built target rosgraph_msgs_generate_messages_eus
+[ 47%] Built target rosgraph_msgs_generate_messages_py
+[ 64%] Built target rosgraph_msgs_generate_messages_cpp
+[ 82%] Built target rosgraph_msgs_generate_messages_nodejs
+[100%] Built target rosgraph_msgs_generate_messages_lisp
+[100%] Built target rosgraph_msgs_generate_messages

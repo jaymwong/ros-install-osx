@@ -1,0 +1,25 @@
+[ 12%] [34m[1mAutomatic MOC for target rviz_plugin_tutorials[0m
+[ 12%] Built target rviz_plugin_tutorials_autogen
+[100%] Built target rviz_plugin_tutorials
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rviz_plugin_tutorials.pc
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/cmake/rviz_plugin_tutorialsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/cmake/rviz_plugin_tutorialsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/package.xml
+-- Installing: /opt/ros/kinetic/lib/librviz_plugin_tutorials.dylib
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/plugin_description.xml
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/media
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/media/flag.dae
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/icons
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/icons/classes
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/icons/classes/Imu.png
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/icons/classes/PlantFlag.png
+-- Up-to-date: /opt/ros/kinetic/share/rviz_plugin_tutorials/icons/classes/Teleop.png
+-- Up-to-date: /opt/ros/kinetic/lib/rviz_plugin_tutorials/send_test_msgs.py

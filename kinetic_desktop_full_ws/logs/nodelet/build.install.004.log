@@ -1,0 +1,91 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletLoad
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletUnload
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletList
+[ 12%] Built target nodelet_generate_messages_lisp
+[ 12%] Built target std_msgs_generate_messages_py
+[ 29%] Built target nodelet_generate_messages_py
+[ 29%] Built target std_msgs_generate_messages_nodejs
+[ 41%] Built target nodelet_generate_messages_nodejs
+[ 41%] Built target std_msgs_generate_messages_eus
+[ 58%] Built target nodelet_generate_messages_eus
+[ 58%] Built target std_msgs_generate_messages_cpp
+[ 70%] Built target nodelet_generate_messages_cpp
+[ 70%] Built target nodelet_generate_messages
+[ 91%] Built target nodeletlib
+[100%] Built target nodelet
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/nodelet/srv/NodeletList.srv
+-- Up-to-date: /opt/ros/kinetic/share/nodelet/srv/NodeletLoad.srv
+-- Up-to-date: /opt/ros/kinetic/share/nodelet/srv/NodeletUnload.srv
+-- Up-to-date: /opt/ros/kinetic/share/nodelet/cmake/nodelet-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/nodelet
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/NodeletList.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/NodeletListRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/NodeletListResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/NodeletLoad.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/NodeletLoadRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/NodeletLoadResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/NodeletUnload.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/NodeletUnloadRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/NodeletUnloadResponse.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/nodelet
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/nodelet/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/nodelet/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/nodelet/srv/NodeletList.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/nodelet/srv/NodeletLoad.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/nodelet/srv/NodeletUnload.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/_package_NodeletList.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/_package_NodeletLoad.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/_package_NodeletUnload.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/nodelet-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/NodeletList.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/NodeletLoad.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/nodelet/srv/NodeletUnload.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/nodelet
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/nodelet/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv/NodeletList.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv/NodeletLoad.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/nodelet/srv/NodeletUnload.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/python2.7/site-packages/nodelet ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/python2.7/site-packages/nodelet/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletList.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletList.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletLoad.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletLoad.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletUnload.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/nodelet/srv/_NodeletUnload.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/nodelet.pc
+-- Up-to-date: /opt/ros/kinetic/share/nodelet/cmake/nodelet-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/nodelet/cmake/nodeletConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/nodelet/cmake/nodeletConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/nodelet/package.xml
+-- Up-to-date: /opt/ros/kinetic/lib/nodelet/declared_nodelets
+-- Up-to-date: /opt/ros/kinetic/lib/nodelet/list_nodelets
+-- Up-to-date: /opt/ros/kinetic/include/nodelet
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/detail
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/detail/callback_queue.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/detail/callback_queue_manager.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/exception.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/loader.h
+-- Up-to-date: /opt/ros/kinetic/include/nodelet/nodelet.h
+-- Installing: /opt/ros/kinetic/lib/libnodeletlib.dylib
+-- Installing: /opt/ros/kinetic/lib/nodelet/nodelet

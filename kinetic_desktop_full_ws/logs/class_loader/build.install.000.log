@@ -1,0 +1,31 @@
+[100%] Built target class_loader
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/class_loader.pc
+-- Installing: /opt/ros/kinetic/share/class_loader/cmake/class_loader-extras.cmake
+-- Installing: /opt/ros/kinetic/share/class_loader/cmake/class_loaderConfig.cmake
+-- Installing: /opt/ros/kinetic/share/class_loader/cmake/class_loaderConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/class_loader/package.xml
+-- Installing: /opt/ros/kinetic/lib/libclass_loader.dylib
+-- Installing: /opt/ros/kinetic/include/class_loader
+-- Installing: /opt/ros/kinetic/include/class_loader/class_loader.h
+-- Installing: /opt/ros/kinetic/include/class_loader/class_loader.hpp
+-- Installing: /opt/ros/kinetic/include/class_loader/class_loader_core.h
+-- Installing: /opt/ros/kinetic/include/class_loader/class_loader_core.hpp
+-- Installing: /opt/ros/kinetic/include/class_loader/class_loader_exceptions.h
+-- Installing: /opt/ros/kinetic/include/class_loader/class_loader_register_macro.h
+-- Installing: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.h
+-- Installing: /opt/ros/kinetic/include/class_loader/console_bridge_compatibility.hpp
+-- Installing: /opt/ros/kinetic/include/class_loader/exceptions.hpp
+-- Installing: /opt/ros/kinetic/include/class_loader/meta_object.h
+-- Installing: /opt/ros/kinetic/include/class_loader/meta_object.hpp
+-- Installing: /opt/ros/kinetic/include/class_loader/multi_library_class_loader.h
+-- Installing: /opt/ros/kinetic/include/class_loader/multi_library_class_loader.hpp
+-- Installing: /opt/ros/kinetic/include/class_loader/register_macro.hpp
+-- Installing: /opt/ros/kinetic/lib/class_loader/class_loader_headers_update.py

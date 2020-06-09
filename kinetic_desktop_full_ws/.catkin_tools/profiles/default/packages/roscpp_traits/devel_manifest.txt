@@ -1,0 +1,4 @@
+roscpp_core/roscpp_traits
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp_traits/lib/pkgconfig/roscpp_traits.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/roscpp_traits.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp_traits/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/roscpp_traits/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake

@@ -1,0 +1,158 @@
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_Velocity
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeActionResult
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeGoal
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeActionGoal
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeFeedback
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeResult
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeActionFeedback
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeAction
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[ 19%] Built target turtle_actionlib_generate_messages_eus
+[ 19%] Built target actionlib_msgs_generate_messages_nodejs
+[ 19%] Built target std_msgs_generate_messages_nodejs
+[ 36%] Built target turtle_actionlib_generate_messages_nodejs
+[ 36%] Built target std_msgs_generate_messages_cpp
+[ 36%] Built target actionlib_msgs_generate_messages_cpp
+[ 54%] Built target turtle_actionlib_generate_messages_cpp
+[ 54%] Built target actionlib_msgs_generate_messages_lisp
+[ 54%] Built target std_srvs_generate_messages_lisp
+[ 54%] Built target roscpp_generate_messages_py
+[ 54%] Built target std_srvs_generate_messages_eus
+[ 54%] Built target std_srvs_generate_messages_py
+[ 54%] Built target std_srvs_generate_messages_cpp
+[ 54%] Built target geometry_msgs_generate_messages_nodejs
+[ 54%] Built target actionlib_msgs_generate_messages_py
+[ 54%] Built target geometry_msgs_generate_messages_lisp
+[ 54%] Built target turtlesim_generate_messages_eus
+[ 54%] Built target turtlesim_generate_messages_cpp
+[ 54%] Built target rosgraph_msgs_generate_messages_py
+[ 54%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 54%] Built target turtlesim_generate_messages_py
+[ 54%] Built target rosgraph_msgs_generate_messages_eus
+[ 54%] Built target roscpp_generate_messages_nodejs
+[ 54%] Built target geometry_msgs_generate_messages_cpp
+[ 54%] Built target roscpp_generate_messages_lisp
+[ 54%] Built target actionlib_generate_messages_lisp
+[ 54%] Built target roscpp_generate_messages_eus
+[ 54%] Built target std_msgs_generate_messages_py
+[ 73%] Built target turtle_actionlib_generate_messages_py
+[ 73%] Built target roscpp_generate_messages_cpp
+[ 73%] Built target _catkin_empty_exported_target
+[ 73%] Built target std_msgs_generate_messages_lisp
+[ 73%] Built target actionlib_generate_messages_nodejs
+[ 91%] Built target turtle_actionlib_generate_messages_lisp
+[ 91%] Built target turtlesim_generate_messages_lisp
+[ 91%] Built target actionlib_generate_messages_cpp
+[ 91%] Built target geometry_msgs_generate_messages_eus
+[ 91%] Built target actionlib_generate_messages_py
+[ 91%] Built target std_srvs_generate_messages_nodejs
+[ 91%] Built target turtlesim_generate_messages_nodejs
+[ 91%] Built target rosgraph_msgs_generate_messages_cpp
+[ 91%] Built target actionlib_generate_messages_eus
+[ 91%] Built target geometry_msgs_generate_messages_py
+[ 95%] Built target shape_client
+[100%] Built target shape_server
+[100%] Built target turtle_actionlib_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/msg/Velocity.msg
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/action/Shape.action
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeAction.msg
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeActionGoal.msg
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeActionResult.msg
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeActionFeedback.msg
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeGoal.msg
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeResult.msg
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeFeedback.msg
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/cmake/turtle_actionlib-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/turtle_actionlib
+-- Up-to-date: /opt/ros/kinetic/include/turtle_actionlib/ShapeAction.h
+-- Up-to-date: /opt/ros/kinetic/include/turtle_actionlib/ShapeActionFeedback.h
+-- Up-to-date: /opt/ros/kinetic/include/turtle_actionlib/ShapeActionGoal.h
+-- Up-to-date: /opt/ros/kinetic/include/turtle_actionlib/ShapeActionResult.h
+-- Up-to-date: /opt/ros/kinetic/include/turtle_actionlib/ShapeFeedback.h
+-- Up-to-date: /opt/ros/kinetic/include/turtle_actionlib/ShapeGoal.h
+-- Up-to-date: /opt/ros/kinetic/include/turtle_actionlib/ShapeResult.h
+-- Up-to-date: /opt/ros/kinetic/include/turtle_actionlib/Velocity.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeAction.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeActionFeedback.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeActionGoal.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeActionResult.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeFeedback.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeGoal.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeResult.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/Velocity.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeAction.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeActionFeedback.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeActionGoal.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeActionResult.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeFeedback.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeGoal.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeResult.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_Velocity.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeAction.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeActionFeedback.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeActionGoal.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeActionResult.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeFeedback.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeGoal.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeResult.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/turtle_actionlib-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/Velocity.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeAction.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeActionFeedback.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeActionGoal.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeActionResult.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeFeedback.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeGoal.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeResult.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/Velocity.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeAction.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeAction.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionFeedback.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionFeedback.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionGoal.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionGoal.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionResult.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionResult.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeFeedback.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeFeedback.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeGoal.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeGoal.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeResult.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeResult.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_Velocity.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_Velocity.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/turtle_actionlib.pc
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/cmake/turtle_actionlib-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/cmake/turtle_actionlibConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/cmake/turtle_actionlibConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/turtle_actionlib/package.xml
+-- Installing: /opt/ros/kinetic/lib/turtle_actionlib/shape_server
+-- Installing: /opt/ros/kinetic/lib/turtle_actionlib/shape_client

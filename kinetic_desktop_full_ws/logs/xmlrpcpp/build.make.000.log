@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target xmlrpcpp[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/xmlrpcpp.dir/src/XmlRpcClient.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/xmlrpcpp.dir/src/XmlRpcServerMethod.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/xmlrpcpp.dir/src/XmlRpcDispatch.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/xmlrpcpp.dir/src/XmlRpcServer.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/xmlrpcpp.dir/src/XmlRpcServerConnection.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/xmlrpcpp.dir/src/XmlRpcSocket.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/xmlrpcpp.dir/src/XmlRpcSource.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/xmlrpcpp.dir/src/XmlRpcUtil.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/xmlrpcpp.dir/src/XmlRpcValue.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/xmlrpcpp/lib/libxmlrpcpp.dylib[0m
+[100%] Built target xmlrpcpp

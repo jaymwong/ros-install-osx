@@ -1,0 +1,7 @@
+[  0%] Built target _test_bond_generate_messages_check_deps_TestBond
+[ 14%] Built target test_bond_generate_messages_nodejs
+[ 42%] Built target test_bond_generate_messages_py
+[ 71%] Built target test_bond_generate_messages_eus
+[ 85%] Built target test_bond_generate_messages_lisp
+[100%] Built target test_bond_generate_messages_cpp
+[100%] Built target test_bond_generate_messages

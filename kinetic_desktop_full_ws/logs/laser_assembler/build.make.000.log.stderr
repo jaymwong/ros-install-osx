@@ -1,0 +1,14 @@
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/laser_assembler/test/test_assembler.cpp:120:39: [0m[0;1;31merror: [0m[1mno matching conversion for functional-style cast from 'float' to 'boost::posix_time::milliseconds' (aka 'subsecond_duration<boost::posix_time::time_duration, 1000>')[0m
+    cloud_condition_.timed_wait(lock, boost::posix_time::milliseconds(1000.0f));
+[0;1;32m                                      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[0m[1m/usr/local/include/boost/date_time/time_duration.hpp:270:30: [0m[0;1;30mnote: [0mcandidate constructor (the implicit copy constructor) not viable: no known conversion from 'float' to 'const boost::date_time::subsecond_duration<boost::posix_time::time_duration, 1000>' for 1st argument[0m
+  class BOOST_SYMBOL_VISIBLE subsecond_duration : public base_duration
+[0;1;32m                             ^
+[0m[1m/usr/local/include/boost/date_time/time_duration.hpp:286:59: [0m[0;1;30mnote: [0mcandidate template ignored: disabled by 'enable_if' [with T = float][0m
+                                typename boost::enable_if<boost::is_integral<T>, void>::type* = 0) :
+[0;1;32m                                                          ^
+[0m1 error generated.
+make[2]: *** [CMakeFiles/test_assembler.dir/test/test_assembler.cpp.o] Error 1
+make[1]: *** [CMakeFiles/test_assembler.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

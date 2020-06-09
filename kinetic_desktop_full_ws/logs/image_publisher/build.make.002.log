@@ -1,0 +1,5 @@
+[ 20%] Built target image_publisher_gencfg
+[ 40%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_publisher/lib/image_publisher/image_publisher[0m
+[ 60%] Built target image_publisher_exe
+[ 80%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_publisher/lib/libimage_publisher.dylib[0m
+[100%] Built target image_publisher

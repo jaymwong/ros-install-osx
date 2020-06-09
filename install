@@ -30,6 +30,10 @@ ROS_INSTALL_DIR=${ROS_INSTALL_DIR:-/opt/ros/${ROS_DISTRO}}
 do_install()
 {
   #sudo chown -R jaymingwong:admin /usr/local/*
+
+  export ROS_DISTRO="kinetic"
+  ROS_DISTRO="kinetic"
+  echo ${ROS_DISTRO}
   set -e
 
   # Homebrew
@@ -91,7 +95,7 @@ do_install()
   brew tap osrf/simulation
 
   # Homebrew science gives us vtk and PCL, among other things.
-  brew tap homebrew/science
+  # brew tap homebrew/science
 
   # ROS infrastructure tools
   brew install libyaml || true
@@ -110,7 +114,7 @@ do_install()
   popd
 
   # Get homebrew's opencv3 from a bottle so that we don't have to build it.
-  brew install opencv3
+  # brew install opencv3
 
   # Mock out python and pip so that we get the brewed versions when rosdep and other programs call them.
   # Mock out pip so that we get the brewed pip2 when rosdep calls it to make an installation.
@@ -141,7 +145,7 @@ do_install()
   pushd src
     # Avoid downloading opencv3; we already installed it from homebrew.
     wstool merge file://$(pwd)/../${WS}.rosinstall
-    wstool remove opencv3
+    # wstool remove opencv3
     wstool update -j8
 
     # See: https://github.com/ros/catkin/pull/784
@@ -164,7 +168,7 @@ do_install()
     fi
 
     # Package dependencies.
-    rosdep install --from-paths . --ignore-src --rosdistro ${ROS_DISTRO} -y --as-root pip:yes --skip-keys "gazebo"
+    rosdep install --from-paths . --ignore-src --rosdistro ${ROS_DISTRO} -y --as-root pip:yes --skip-keys "gazebo" --skip-keys "google-mock"
   popd
 
   # Clean out or create the install directory.

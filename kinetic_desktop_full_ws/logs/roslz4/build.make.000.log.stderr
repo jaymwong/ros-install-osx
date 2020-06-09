@@ -1,0 +1,10 @@
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roslz4/src/lz4s.c:184:24: [0m[0;1;35mwarning: [0m[1m'LZ4_compress_limitedOutput' is deprecated: use LZ4_compress_default() instead [-Wdeprecated-declarations][0m
+  uint32_t comp_size = LZ4_compress_limitedOutput(state->buffer,
+[0;1;32m                       ^
+[0m[1m/usr/local/include/lz4.h:574:1: [0m[0;1;30mnote: [0m'LZ4_compress_limitedOutput' has been explicitly marked deprecated here[0m
+LZ4_DEPRECATED("use LZ4_compress_default() instead") LZ4LIB_API int LZ4_compress_limitedOutput (const char* source, char* dest, int sourceSize, int maxOutputSize);
+[0;1;32m^
+[0m[1m/usr/local/include/lz4.h:561:52: [0m[0;1;30mnote: [0mexpanded from macro 'LZ4_DEPRECATED'[0m
+#    define LZ4_DEPRECATED(message) __attribute__((deprecated(message)))
+[0;1;32m                                                   ^
+[0m1 warning generated.

@@ -1,0 +1,337 @@
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Twist
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_PoseWithCovarianceStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Point32
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Pose2D
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_TwistWithCovariance
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Quaternion
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_InertiaStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Vector3Stamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Wrench
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Transform
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Accel
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_PointStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_AccelWithCovariance
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Polygon
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Inertia
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_PolygonStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_TwistWithCovarianceStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Vector3
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_WrenchStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_PoseStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_PoseWithCovariance
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_QuaternionStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_TwistStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Point
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_AccelStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_AccelWithCovarianceStamped
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_Pose
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_PoseArray
+[  0%] Built target _geometry_msgs_generate_messages_check_deps_TransformStamped
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 20%] Built target geometry_msgs_generate_messages_nodejs
+[ 20%] Built target std_msgs_generate_messages_py
+[ 41%] Built target geometry_msgs_generate_messages_py
+[ 41%] Built target std_msgs_generate_messages_lisp
+[ 60%] Built target geometry_msgs_generate_messages_lisp
+[ 60%] Built target std_msgs_generate_messages_eus
+[ 81%] Built target geometry_msgs_generate_messages_eus
+[ 81%] Built target std_msgs_generate_messages_cpp
+[100%] Built target geometry_msgs_generate_messages_cpp
+[100%] Built target geometry_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Accel.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/AccelStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/AccelWithCovariance.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/AccelWithCovarianceStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Inertia.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/InertiaStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Point.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Point32.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/PointStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Polygon.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/PolygonStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Pose2D.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Pose.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/PoseArray.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/PoseStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/PoseWithCovariance.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/PoseWithCovarianceStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Quaternion.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/QuaternionStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Transform.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/TransformStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Twist.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/TwistStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/TwistWithCovariance.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/TwistWithCovarianceStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Vector3.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Vector3Stamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/Wrench.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/msg/WrenchStamped.msg
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/cmake/geometry_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/geometry_msgs
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Accel.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/AccelStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/AccelWithCovariance.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/AccelWithCovarianceStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Inertia.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/InertiaStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Point.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Point32.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/PointStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Polygon.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/PolygonStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Pose.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Pose2D.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/PoseArray.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/PoseStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/PoseWithCovariance.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/PoseWithCovarianceStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Quaternion.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/QuaternionStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Transform.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/TransformStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Twist.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/TwistStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/TwistWithCovariance.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/TwistWithCovarianceStamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Vector3.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Vector3Stamped.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/Wrench.h
+-- Installing: /opt/ros/kinetic/include/geometry_msgs/WrenchStamped.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Accel.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/AccelStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/AccelWithCovariance.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/AccelWithCovarianceStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Inertia.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/InertiaStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Point.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Point32.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/PointStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Polygon.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/PolygonStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Pose.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Pose2D.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/PoseArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/PoseStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/PoseWithCovariance.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/PoseWithCovarianceStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Quaternion.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/QuaternionStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Transform.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/TransformStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Twist.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/TwistStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/TwistWithCovariance.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/TwistWithCovarianceStamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Vector3.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Vector3Stamped.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/Wrench.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/geometry_msgs/msg/WrenchStamped.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Accel.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_AccelStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_AccelWithCovariance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_AccelWithCovarianceStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Inertia.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_InertiaStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Point.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Point32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_PointStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Polygon.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_PolygonStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Pose.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Pose2D.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_PoseArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_PoseStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_PoseWithCovariance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_PoseWithCovarianceStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Quaternion.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_QuaternionStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Transform.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_TransformStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Twist.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_TwistStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_TwistWithCovariance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_TwistWithCovarianceStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Vector3.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Vector3Stamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_Wrench.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/_package_WrenchStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Accel.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/AccelStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/AccelWithCovariance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/AccelWithCovarianceStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/geometry_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Inertia.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/InertiaStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Point.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Point32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/PointStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Polygon.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/PolygonStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Pose.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Pose2D.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/PoseArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/PoseStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/PoseWithCovariance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/PoseWithCovarianceStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Quaternion.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/QuaternionStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Transform.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/TransformStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Twist.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/TwistStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/TwistWithCovariance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/TwistWithCovarianceStamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Vector3.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Vector3Stamped.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/Wrench.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/geometry_msgs/msg/WrenchStamped.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Accel.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/AccelStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/AccelWithCovariance.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/AccelWithCovarianceStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Inertia.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/InertiaStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Point.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Point32.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/PointStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Polygon.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/PolygonStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Pose.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Pose2D.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/PoseArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/PoseStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/PoseWithCovariance.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/PoseWithCovarianceStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Quaternion.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/QuaternionStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Transform.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/TransformStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Twist.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/TwistStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/TwistWithCovariance.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/TwistWithCovarianceStamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Vector3.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Vector3Stamped.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/Wrench.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/geometry_msgs/msg/WrenchStamped.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Accel.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_AccelStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_AccelWithCovariance.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_AccelWithCovarianceStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Inertia.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_InertiaStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Point.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Point32.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_PointStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Polygon.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_PolygonStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Pose.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Pose2D.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_PoseArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_PoseStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_PoseWithCovariance.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_PoseWithCovarianceStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Quaternion.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_QuaternionStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Transform.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_TransformStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Twist.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_TwistStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_TwistWithCovariance.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_TwistWithCovarianceStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Vector3.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Vector3Stamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_Wrench.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/_WrenchStamped.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/geometry_msgs/lib/python2.7/site-packages/geometry_msgs/msg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Accel.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Accel.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_AccelStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_AccelStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_AccelWithCovariance.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_AccelWithCovariance.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_AccelWithCovarianceStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_AccelWithCovarianceStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Inertia.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Inertia.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_InertiaStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_InertiaStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Point.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Point.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Point32.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Point32.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PointStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PointStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Polygon.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Polygon.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PolygonStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PolygonStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Pose.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Pose.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Pose2D.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Pose2D.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PoseArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PoseArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PoseStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PoseStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PoseWithCovariance.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PoseWithCovariance.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PoseWithCovarianceStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_PoseWithCovarianceStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Quaternion.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Quaternion.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_QuaternionStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_QuaternionStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Transform.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Transform.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_TransformStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_TransformStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Twist.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Twist.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_TwistStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_TwistStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_TwistWithCovariance.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_TwistWithCovariance.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_TwistWithCovarianceStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_TwistWithCovarianceStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Vector3.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Vector3.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Vector3Stamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Vector3Stamped.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Wrench.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_Wrench.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_WrenchStamped.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/geometry_msgs/msg/_WrenchStamped.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/geometry_msgs.pc
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/cmake/geometry_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/geometry_msgs/package.xml

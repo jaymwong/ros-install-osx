@@ -1,0 +1,22 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/mk.pc
+-- Installing: /opt/ros/kinetic/share/mk/cmake/mkConfig.cmake
+-- Installing: /opt/ros/kinetic/share/mk/cmake/mkConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/mk/package.xml
+-- Installing: /opt/ros/kinetic/share/mk/buildtest.mk
+-- Installing: /opt/ros/kinetic/share/mk/bzr_checkout.mk
+-- Installing: /opt/ros/kinetic/share/mk/cmake.mk
+-- Installing: /opt/ros/kinetic/share/mk/cmake_stack.mk
+-- Installing: /opt/ros/kinetic/share/mk/download_unpack_build.mk
+-- Installing: /opt/ros/kinetic/share/mk/eclipse.awk
+-- Installing: /opt/ros/kinetic/share/mk/git_checkout.mk
+-- Installing: /opt/ros/kinetic/share/mk/hg_checkout.mk
+-- Installing: /opt/ros/kinetic/share/mk/make_pydev_project.py
+-- Installing: /opt/ros/kinetic/share/mk/svn_checkout.mk

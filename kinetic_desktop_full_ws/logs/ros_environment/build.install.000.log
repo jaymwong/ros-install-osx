@@ -1,0 +1,16 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/ros_environment.pc
+-- Installing: /opt/ros/kinetic/share/ros_environment/cmake/ros_environmentConfig.cmake
+-- Installing: /opt/ros/kinetic/share/ros_environment/cmake/ros_environmentConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/ros_environment/package.xml
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/1.ros_distro.sh
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/1.ros_etc_dir.sh
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/1.ros_package_path.sh
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/1.ros_version.sh

@@ -1,0 +1,52 @@
+[  0%] Built target gen-pkgconfig
+[  2%] Built target zlib
+[  7%] Built target libjpeg
+[ 10%] Built target libtiff
+[ 13%] Built target libjasper
+[ 14%] Built target libpng
+[ 20%] Built target IlmImf
+[ 23%] Built target ippiw
+[ 23%] Built target ittnotify
+[ 30%] Built target libprotobuf
+[ 36%] Built target opencv_core
+[ 36%] Built target gen_opencv_python_source
+[ 36%] Built target opencv_flann
+[ 36%] [32m[1mLinking CXX shared library ../../lib/libopencv_hdf3.dylib[0m
+[ 36%] Built target opencv_hdf
+[ 42%] Built target opencv_imgproc
+[ 43%] Built target opencv_ml
+[ 43%] Built target opencv_surface_matching
+[ 44%] Built target opencv_xphoto
+[35m[1mScanning dependencies of target opencv_freetype[0m
+[ 44%] [32mBuilding CXX object modules/freetype/CMakeFiles/opencv_freetype.dir/src/freetype.cpp.o[0m
+[ 50%] Built target opencv_dnn
+[ 50%] [32m[1mLinking CXX shared library ../../lib/libopencv_viz3.dylib[0m
+[ 51%] Built target opencv_fuzzy
+[ 51%] Built target opencv_img_hash
+[ 52%] Built target opencv_viz
+[ 53%] Built target opencv_objdetect
+[ 53%] Built target opencv_phase_unwrapping
+[ 55%] Built target opencv_photo
+[ 57%] Built target opencv_imgcodecs
+[ 57%] Built target opencv_plot
+[ 58%] Built target opencv_reg
+[ 59%] Built target opencv_video
+[ 60%] Built target opencv_videoio
+[ 60%] Built target opencv_xobjdetect
+[ 61%] Built target opencv_shape
+[ 62%] Built target opencv_highgui
+[ 64%] Built target opencv_waldboost_detector
+[ 64%] Built target opencv_superres
+[ 64%] Built target opencv_dpm
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/freetype/src/freetype.cpp:56:10: [0m[0;1;31mfatal error: [0m[1m'hb.h' file not found[0m
+#include <hb.h>
+[0;1;32m         ^~~~~~
+[0m1 error generated.
+[ 65%] Built target opencv_bioinspired
+make[2]: *** [modules/freetype/CMakeFiles/opencv_freetype.dir/src/freetype.cpp.o] Error 1
+make[1]: *** [modules/freetype/CMakeFiles/opencv_freetype.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 65%] Built target opencv_annotation
+[ 65%] Built target opencv_visualisation
+[ 68%] Built target opencv_features2d
+make: *** [all] Error 2

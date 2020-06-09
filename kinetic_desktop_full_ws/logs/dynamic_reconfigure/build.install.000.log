@@ -1,0 +1,254 @@
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_ConfigDescription
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_BoolParameter
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_ParamDescription
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_StrParameter
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_GroupState
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_SensorLevels
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_Reconfigure
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_Group
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_DoubleParameter
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_Config
+[  0%] Built target _dynamic_reconfigure_generate_messages_check_deps_IntParameter
+[  0%] Built target std_msgs_generate_messages_eus
+[ 19%] Built target dynamic_reconfigure_generate_messages_eus
+[ 19%] Built target std_msgs_generate_messages_nodejs
+[ 37%] Built target dynamic_reconfigure_generate_messages_nodejs
+[ 37%] Built target std_msgs_generate_messages_lisp
+[ 55%] Built target dynamic_reconfigure_generate_messages_lisp
+[ 55%] Built target std_msgs_generate_messages_py
+[ 77%] Built target dynamic_reconfigure_generate_messages_py
+[ 77%] Built target std_msgs_generate_messages_cpp
+[ 95%] Built target dynamic_reconfigure_generate_messages_cpp
+[ 95%] Built target dynamic_reconfigure_generate_messages
+[ 98%] Built target dynamic_reconfigure_config_init_mutex
+[100%] Built target dynamic_reconfigure_gencfg
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/dynamic_reconfigure
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/dynamic_reconfigure/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure
+copying src/dynamic_reconfigure/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure
+copying src/dynamic_reconfigure/client.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure
+copying src/dynamic_reconfigure/encoding.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure
+copying src/dynamic_reconfigure/parameter_generator.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure
+copying src/dynamic_reconfigure/parameter_generator_catkin.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure
+copying src/dynamic_reconfigure/server.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure/client.py -> /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure/encoding.py -> /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure/parameter_generator.py -> /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure/parameter_generator_catkin.py -> /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/dynamic_reconfigure/lib/dynamic_reconfigure/server.py -> /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/client.py to client.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/encoding.py to encoding.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/parameter_generator.py to parameter_generator.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/parameter_generator_catkin.py to parameter_generator_catkin.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/server.py to server.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure-1.5.49-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/BoolParameter.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/Config.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/Group.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/IntParameter.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/SensorLevels.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/ConfigDescription.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/DoubleParameter.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/GroupState.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/ParamDescription.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/msg/StrParameter.msg
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/srv/Reconfigure.srv
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigure-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/BoolParameter.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/Config.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/ConfigDescription.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/DoubleParameter.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/Group.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/GroupState.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/IntParameter.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/ParamDescription.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/Reconfigure.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/ReconfigureRequest.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/ReconfigureResponse.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/SensorLevels.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/StrParameter.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/TestConfig.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/BoolParameter.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/Config.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/ConfigDescription.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/DoubleParameter.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/Group.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/GroupState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/IntParameter.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/ParamDescription.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/SensorLevels.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/msg/StrParameter.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/dynamic_reconfigure/srv/Reconfigure.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_BoolParameter.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_Config.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_ConfigDescription.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_DoubleParameter.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_Group.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_GroupState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_IntParameter.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_ParamDescription.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_SensorLevels.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/_package_StrParameter.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/BoolParameter.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/Config.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/ConfigDescription.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/DoubleParameter.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/dynamic_reconfigure-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/Group.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/GroupState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/IntParameter.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/ParamDescription.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/SensorLevels.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/msg/StrParameter.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/srv/_package_Reconfigure.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/srv/dynamic_reconfigure-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/dynamic_reconfigure/srv/Reconfigure.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/BoolParameter.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/Config.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/ConfigDescription.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/DoubleParameter.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/Group.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/GroupState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/IntParameter.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/ParamDescription.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/SensorLevels.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/msg/StrParameter.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/dynamic_reconfigure/srv/Reconfigure.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/cfg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/cfg/TestConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/cfg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_BoolParameter.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_Config.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_ConfigDescription.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_DoubleParameter.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_Group.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_GroupState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_IntParameter.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_ParamDescription.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_SensorLevels.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/_StrParameter.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/srv/_Reconfigure.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/srv/__init__.py ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg/TestConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg/TestConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_BoolParameter.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_BoolParameter.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_Config.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_Config.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_ConfigDescription.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_ConfigDescription.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_DoubleParameter.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_DoubleParameter.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_Group.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_Group.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_GroupState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_GroupState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_IntParameter.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_IntParameter.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_ParamDescription.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_ParamDescription.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_SensorLevels.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_SensorLevels.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_StrParameter.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/_StrParameter.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/srv/_Reconfigure.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/srv/_Reconfigure.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/include/dynamic_reconfigure/TestConfig.h
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/dynamic_reconfigure/lib/python2.7/site-packages/dynamic_reconfigure/cfg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg/TestConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/dynamic_reconfigure/cfg/TestConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/dynamic_reconfigure.pc
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigure-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigure-extras.cmake
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigureConfig.cmake
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigureConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/dynamic_reconfigure
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/client.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/config_init_mutex.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/config_tools.h
+-- Installing: /opt/ros/kinetic/include/dynamic_reconfigure/server.h
+-- Installing: /opt/ros/kinetic/lib/libdynamic_reconfigure_config_init_mutex.dylib
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/cmake
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/cfgbuild.cmake
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigure
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigure/__init__.py
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigure/parameter_generator.py
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigure-extras.cmake.em
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/dynamic_reconfigure-macros.cmake
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/gendeps
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/cmake/setup_custom_pythonpath.sh.in
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/BoolParameter.msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/Config.msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/ConfigDescription.msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/DoubleParameter.msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/Group.msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/GroupState.msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/IntParameter.msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/ParamDescription.msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/SensorLevels.msg
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/msg/StrParameter.msg
+-- Installing: /opt/ros/kinetic/lib/dynamic_reconfigure/dynparam
+-- Installing: /opt/ros/kinetic/lib/dynamic_reconfigure/reconfigure_gui
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/srv
+-- Up-to-date: /opt/ros/kinetic/share/dynamic_reconfigure/srv/Reconfigure.srv
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/templates
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/templates/ConfigType.h.template
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/templates/ConfigType.py.template
+-- Installing: /opt/ros/kinetic/share/dynamic_reconfigure/templates/GroupClass.h.template

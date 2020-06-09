@@ -1,0 +1,20 @@
+CMake Warning (dev) at /usr/local/Cellar/cmake/3.11.4/share/cmake/Modules/FindBoost.cmake:954 (if):
+  Policy CMP0054 is not set: Only interpret if() arguments as variables or
+  keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  Quoted variables like "chrono" will no longer be dereferenced when the
+  policy is set to NEW.  Since the policy is not set the OLD behavior will be
+  used.
+[36mCall Stack (most recent call first):[0m
+  /usr/local/Cellar/cmake/3.11.4/share/cmake/Modules/FindBoost.cmake:1618 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/Cellar/ogre1.9/1.9-20160714-108ab0bcc69603dba32c0ffd4bbbc39051f421c9_6/share/OGRE/cmake/modules/FindOGRE.cmake:322 (find_package)
+  /usr/local/lib/cmake/gazebo/gazebo-config.cmake:162 (find_package)
+  /opt/ros/kinetic/share/gazebo_dev/cmake/gazebo_dev-extras.cmake:2 (find_package)
+  /opt/ros/kinetic/share/gazebo_dev/cmake/gazebo_devConfig.cmake:197 (include)
+
+  /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:107 (find_package)
+  CMakeLists.txt:4 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

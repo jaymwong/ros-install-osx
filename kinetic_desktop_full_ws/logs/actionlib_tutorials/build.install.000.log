@@ -1,0 +1,223 @@
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_AveragingActionFeedback
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_FibonacciFeedback
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_FibonacciResult
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_AveragingGoal
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_AveragingActionResult
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_AveragingAction
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_FibonacciActionGoal
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_AveragingActionGoal
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_FibonacciGoal
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_AveragingResult
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_FibonacciActionResult
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_FibonacciAction
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_FibonacciActionFeedback
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target _actionlib_tutorials_generate_messages_check_deps_AveragingFeedback
+[ 17%] Built target actionlib_tutorials_generate_messages_py
+[ 17%] Built target std_msgs_generate_messages_nodejs
+[ 17%] Built target actionlib_msgs_generate_messages_nodejs
+[ 34%] Built target actionlib_tutorials_generate_messages_nodejs
+[ 34%] Built target std_msgs_generate_messages_lisp
+[ 34%] Built target actionlib_msgs_generate_messages_lisp
+[ 51%] Built target actionlib_tutorials_generate_messages_lisp
+[ 51%] Built target actionlib_msgs_generate_messages_eus
+[ 51%] Built target std_msgs_generate_messages_eus
+[ 69%] Built target actionlib_tutorials_generate_messages_eus
+[ 69%] Built target rosgraph_msgs_generate_messages_py
+[ 69%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 69%] Built target actionlib_generate_messages_py
+[ 69%] Built target actionlib_msgs_generate_messages_cpp
+[ 69%] Built target std_msgs_generate_messages_cpp
+[ 85%] Built target actionlib_tutorials_generate_messages_cpp
+[ 85%] Built target rosgraph_msgs_generate_messages_eus
+[ 85%] Built target roscpp_generate_messages_py
+[ 85%] Built target roscpp_generate_messages_nodejs
+[ 85%] Built target roscpp_generate_messages_lisp
+[ 85%] Built target actionlib_generate_messages_lisp
+[ 85%] Built target roscpp_generate_messages_eus
+[ 85%] Built target roscpp_generate_messages_cpp
+[ 85%] Built target _catkin_empty_exported_target
+[ 85%] Built target actionlib_generate_messages_nodejs
+[ 85%] Built target actionlib_generate_messages_cpp
+[ 85%] Built target rosgraph_msgs_generate_messages_cpp
+[ 85%] Built target actionlib_generate_messages_eus
+[ 85%] Built target rosgraph_msgs_generate_messages_lisp
+[ 88%] Built target fibonacci_class_client
+[ 90%] Built target fibonacci_client
+[ 92%] Built target averaging_server
+[ 95%] Built target fibonacci_callback_client
+[ 97%] Built target averaging_client
+[100%] Built target fibonacci_server
+[100%] Built target actionlib_tutorials_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/action/Fibonacci.action
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/action/Averaging.action
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/FibonacciAction.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/FibonacciActionGoal.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/FibonacciActionResult.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/FibonacciActionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/FibonacciGoal.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/FibonacciResult.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/FibonacciFeedback.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/AveragingAction.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/AveragingActionGoal.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/AveragingActionResult.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/AveragingActionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/AveragingGoal.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/AveragingResult.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/msg/AveragingFeedback.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/cmake/actionlib_tutorials-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/AveragingAction.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/AveragingActionFeedback.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/AveragingActionGoal.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/AveragingActionResult.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/AveragingFeedback.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/AveragingGoal.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/AveragingResult.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/FibonacciAction.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/FibonacciActionFeedback.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/FibonacciActionGoal.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/FibonacciActionResult.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/FibonacciFeedback.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/FibonacciGoal.h
+-- Installing: /opt/ros/kinetic/include/actionlib_tutorials/FibonacciResult.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/AveragingAction.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/AveragingActionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/AveragingActionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/AveragingActionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/AveragingFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/AveragingGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/AveragingResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/FibonacciAction.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/FibonacciActionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/FibonacciActionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/FibonacciActionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/FibonacciFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/FibonacciGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_tutorials/msg/FibonacciResult.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_AveragingAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_AveragingActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_AveragingActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_AveragingActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_AveragingFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_AveragingGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_AveragingResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_FibonacciAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_FibonacciActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_FibonacciActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_FibonacciActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_FibonacciFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_FibonacciGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/_package_FibonacciResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/actionlib_tutorials-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/AveragingAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/AveragingActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/AveragingActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/AveragingActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/AveragingFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/AveragingGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/AveragingResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/FibonacciAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/FibonacciActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/FibonacciActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/FibonacciActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/FibonacciFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/FibonacciGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_tutorials/msg/FibonacciResult.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/AveragingAction.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/AveragingActionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/AveragingActionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/AveragingActionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/AveragingFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/AveragingGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/AveragingResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/FibonacciAction.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/FibonacciActionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/FibonacciActionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/FibonacciActionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/FibonacciFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/FibonacciGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_tutorials/msg/FibonacciResult.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingAction.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingActionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingActionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingActionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciAction.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciActionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciActionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciActionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_tutorials/lib/python2.7/site-packages/actionlib_tutorials/msg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingAction.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingAction.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingActionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingActionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingActionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingActionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingActionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingActionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_AveragingResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciAction.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciAction.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciActionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciActionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciActionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciActionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciActionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciActionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_tutorials/msg/_FibonacciResult.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/actionlib_tutorials.pc
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/cmake/actionlib_tutorials-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/cmake/actionlib_tutorialsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/cmake/actionlib_tutorialsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/actionlib_tutorials/package.xml
+-- Installing: /opt/ros/kinetic/lib/actionlib_tutorials/fibonacci_client.py
+-- Installing: /opt/ros/kinetic/lib/actionlib_tutorials/fibonacci_server.py
+-- Installing: /opt/ros/kinetic/lib/actionlib_tutorials/gen_numbers.py
+-- Installing: /opt/ros/kinetic/lib/actionlib_tutorials/averaging_server
+-- Installing: /opt/ros/kinetic/lib/actionlib_tutorials/averaging_client
+-- Installing: /opt/ros/kinetic/lib/actionlib_tutorials/fibonacci_server
+-- Installing: /opt/ros/kinetic/lib/actionlib_tutorials/fibonacci_client

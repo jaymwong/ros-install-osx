@@ -1,0 +1,20 @@
+[ 33%] Built target collada_to_urdf
+[ 66%] Built target collada_urdf
+[100%] Built target urdf_to_collada
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/collada_urdf.pc
+-- Installing: /opt/ros/kinetic/share/collada_urdf/cmake/collada_urdfConfig.cmake
+-- Installing: /opt/ros/kinetic/share/collada_urdf/cmake/collada_urdfConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/collada_urdf/package.xml
+-- Installing: /opt/ros/kinetic/lib/libcollada_urdf.dylib
+-- Installing: /opt/ros/kinetic/lib/collada_urdf/urdf_to_collada
+-- Installing: /opt/ros/kinetic/lib/collada_urdf/collada_to_urdf
+-- Installing: /opt/ros/kinetic/include/collada_urdf
+-- Installing: /opt/ros/kinetic/include/collada_urdf/collada_urdf.h

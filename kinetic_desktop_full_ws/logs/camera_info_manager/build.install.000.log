@@ -1,0 +1,17 @@
+[ 50%] Built target camera_info_manager
+[100%] Built target unit_test
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/camera_info_manager.pc
+-- Installing: /opt/ros/kinetic/share/camera_info_manager/cmake/camera_info_managerConfig.cmake
+-- Installing: /opt/ros/kinetic/share/camera_info_manager/cmake/camera_info_managerConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/camera_info_manager/package.xml
+-- Installing: /opt/ros/kinetic/lib/libcamera_info_manager.dylib
+-- Installing: /opt/ros/kinetic/include/camera_info_manager
+-- Installing: /opt/ros/kinetic/include/camera_info_manager/camera_info_manager.h

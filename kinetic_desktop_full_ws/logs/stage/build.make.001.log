@@ -1,0 +1,13 @@
+[ 56%] Built target stage
+[ 60%] Built target stagebinary
+[ 63%] Built target fasr
+[ 67%] Built target pioneer_flocking
+[ 70%] Built target dynamic
+[ 74%] Built target lasernoise
+[ 79%] Built target fasr2
+[ 82%] Built target rasterize
+[ 86%] Built target wander
+[ 89%] Built target source
+[ 93%] Built target sink
+[ 96%] Built target expand_pioneer
+[100%] Built target expand_swarm

@@ -1,0 +1,85 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _theora_image_transport_generate_messages_check_deps_Packet
+[  6%] Built target theora_image_transport_generate_messages_cpp
+[  6%] Built target theora_image_transport_gencpp
+[ 20%] Built target ogg_saver
+[ 33%] Built target theora_image_transport_gencfg
+[ 60%] Built target theora_image_transport
+[ 60%] Built target std_msgs_generate_messages_nodejs
+[ 66%] Built target theora_image_transport_generate_messages_nodejs
+[ 66%] Built target std_msgs_generate_messages_py
+[ 80%] Built target theora_image_transport_generate_messages_py
+[ 80%] Built target std_msgs_generate_messages_lisp
+[ 86%] Built target theora_image_transport_generate_messages_lisp
+[ 86%] Built target std_msgs_generate_messages_eus
+[100%] Built target theora_image_transport_generate_messages_eus
+[100%] Built target theora_image_transport_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/theora_image_transport/msg/Packet.msg
+-- Up-to-date: /opt/ros/kinetic/share/theora_image_transport/cmake/theora_image_transport-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/theora_image_transport
+-- Up-to-date: /opt/ros/kinetic/include/theora_image_transport/Packet.h
+-- Up-to-date: /opt/ros/kinetic/include/theora_image_transport/TheoraPublisherConfig.h
+-- Up-to-date: /opt/ros/kinetic/include/theora_image_transport/TheoraSubscriberConfig.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/theora_image_transport
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/theora_image_transport/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/theora_image_transport/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/theora_image_transport/msg/Packet.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/theora_image_transport
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/theora_image_transport/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/theora_image_transport/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/theora_image_transport/msg/_package_Packet.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/theora_image_transport/msg/Packet.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/theora_image_transport/msg/theora_image_transport-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/theora_image_transport
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/theora_image_transport/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/theora_image_transport/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/theora_image_transport/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/theora_image_transport/msg/Packet.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/theora_image_transport/lib/python2.7/site-packages/theora_image_transport ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/theora_image_transport/lib/python2.7/site-packages/theora_image_transport/cfg ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/theora_image_transport/lib/python2.7/site-packages/theora_image_transport/msg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/TheoraPublisherConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/TheoraPublisherConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/TheoraSubscriberConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/TheoraSubscriberConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/msg/_Packet.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/msg/_Packet.pyc
+-- Up-to-date: /opt/ros/kinetic/include/theora_image_transport/TheoraPublisherConfig.h
+-- Up-to-date: /opt/ros/kinetic/include/theora_image_transport/TheoraSubscriberConfig.h
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/__init__.py
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/theora_image_transport/lib/python2.7/site-packages/theora_image_transport/cfg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/TheoraPublisherConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/TheoraPublisherConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/TheoraSubscriberConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/theora_image_transport/cfg/TheoraSubscriberConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/theora_image_transport.pc
+-- Up-to-date: /opt/ros/kinetic/share/theora_image_transport/cmake/theora_image_transport-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/theora_image_transport/cmake/theora_image_transportConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/theora_image_transport/cmake/theora_image_transportConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/theora_image_transport/package.xml
+-- Installing: /opt/ros/kinetic/lib/libtheora_image_transport.dylib
+-- Installing: /opt/ros/kinetic/lib/theora_image_transport/ogg_saver
+-- Up-to-date: /opt/ros/kinetic/include/theora_image_transport
+-- Up-to-date: /opt/ros/kinetic/include/theora_image_transport/theora_publisher.h
+-- Up-to-date: /opt/ros/kinetic/include/theora_image_transport/theora_subscriber.h
+-- Up-to-date: /opt/ros/kinetic/share/theora_image_transport/theora_plugins.xml

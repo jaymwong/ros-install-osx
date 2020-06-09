@@ -1,0 +1,335 @@
+[  0%] Built target _rosapi_generate_messages_check_deps_SetParam
+[  0%] Built target _rosapi_generate_messages_check_deps_GetActionServers
+[  0%] Built target _rosapi_generate_messages_check_deps_Nodes
+[  0%] Built target _rosapi_generate_messages_check_deps_TopicType
+[  0%] Built target _rosapi_generate_messages_check_deps_GetParam
+[  0%] Built target _rosapi_generate_messages_check_deps_SearchParam
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceResponseDetails
+[  0%] Built target _rosapi_generate_messages_check_deps_GetTime
+[  0%] Built target _rosapi_generate_messages_check_deps_Services
+[  0%] Built target _rosapi_generate_messages_check_deps_HasParam
+[  0%] Built target _rosapi_generate_messages_check_deps_Topics
+[  0%] Built target _rosapi_generate_messages_check_deps_TopicsForType
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceHost
+[  0%] Built target _rosapi_generate_messages_check_deps_MessageDetails
+[  0%] Built target _rosapi_generate_messages_check_deps_Subscribers
+[  0%] Built target _rosapi_generate_messages_check_deps_GetParamNames
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceRequestDetails
+[  0%] Built target _rosapi_generate_messages_check_deps_ServicesForType
+[  0%] Built target _rosapi_generate_messages_check_deps_DeleteParam
+[  0%] Built target _rosapi_generate_messages_check_deps_Publishers
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceNode
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceType
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceProviders
+[  0%] Built target _rosapi_generate_messages_check_deps_TypeDef
+[  0%] Built target _rosapi_generate_messages_check_deps_NodeDetails
+[ 19%] Built target rosapi_generate_messages_nodejs
+[ 39%] Built target rosapi_generate_messages_lisp
+[ 59%] Built target rosapi_generate_messages_eus
+[ 81%] Built target rosapi_generate_messages_py
+[100%] Built target rosapi_generate_messages_cpp
+[100%] Built target rosapi_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rosbridge_suite/rosapi
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rosbridge_suite/rosapi/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/rosapi-0.10.2-py2.7.egg-info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rosapi-0.10.2-py2.7.egg-info
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/msg/TypeDef.msg
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/DeleteParam.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/GetActionServers.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/GetParam.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/GetParamNames.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/GetTime.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/HasParam.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/MessageDetails.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/Nodes.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/NodeDetails.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/Publishers.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/SearchParam.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/ServiceHost.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/ServiceNode.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/ServiceProviders.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/ServiceRequestDetails.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/ServiceResponseDetails.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/Services.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/ServicesForType.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/ServiceType.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/SetParam.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/Subscribers.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/Topics.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/TopicsForType.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/srv/TopicType.srv
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/cmake/rosapi-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/rosapi
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/DeleteParam.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/DeleteParamRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/DeleteParamResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetActionServers.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetActionServersRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetActionServersResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetParam.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetParamNames.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetParamNamesRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetParamNamesResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetParamRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetParamResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetTime.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetTimeRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/GetTimeResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/HasParam.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/HasParamRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/HasParamResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/MessageDetails.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/MessageDetailsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/MessageDetailsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/NodeDetails.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/NodeDetailsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/NodeDetailsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/Nodes.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/NodesRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/NodesResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/Publishers.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/PublishersRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/PublishersResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/SearchParam.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/SearchParamRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/SearchParamResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceHost.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceHostRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceHostResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceNode.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceNodeRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceNodeResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceProviders.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceProvidersRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceProvidersResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceRequestDetails.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceRequestDetailsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceRequestDetailsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceResponseDetails.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceResponseDetailsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceResponseDetailsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/Services.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServicesForType.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServicesForTypeRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServicesForTypeResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServicesRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServicesResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceType.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceTypeRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/ServiceTypeResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/SetParam.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/SetParamRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/SetParamResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/Subscribers.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/SubscribersRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/SubscribersResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/Topics.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/TopicsForType.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/TopicsForTypeRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/TopicsForTypeResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/TopicsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/TopicsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/TopicType.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/TopicTypeRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/TopicTypeResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosapi/TypeDef.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/msg/TypeDef.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/DeleteParam.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/GetActionServers.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/GetParam.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/GetParamNames.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/GetTime.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/HasParam.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/MessageDetails.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/NodeDetails.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Nodes.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Publishers.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/SearchParam.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceHost.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceNode.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceProviders.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceRequestDetails.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceResponseDetails.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Services.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServicesForType.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceType.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/SetParam.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Subscribers.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Topics.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/TopicsForType.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/TopicType.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg/_package_TypeDef.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg/rosapi-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg/TypeDef.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_DeleteParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_GetActionServers.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_GetParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_GetParamNames.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_GetTime.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_HasParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_MessageDetails.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_NodeDetails.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Nodes.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Publishers.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_SearchParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceHost.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceNode.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceProviders.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceRequestDetails.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceResponseDetails.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Services.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServicesForType.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceType.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_SetParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Subscribers.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Topics.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_TopicsForType.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_TopicType.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/DeleteParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/GetActionServers.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/GetParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/GetParamNames.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/GetTime.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/HasParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/MessageDetails.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/NodeDetails.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Nodes.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Publishers.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/rosapi-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/SearchParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceHost.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceNode.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceProviders.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceRequestDetails.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceResponseDetails.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Services.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServicesForType.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceType.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/SetParam.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Subscribers.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Topics.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/TopicsForType.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/TopicType.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/msg/TypeDef.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/DeleteParam.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/GetActionServers.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/GetParam.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/GetParamNames.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/GetTime.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/HasParam.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/MessageDetails.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/NodeDetails.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Nodes.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Publishers.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/SearchParam.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceHost.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceNode.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceProviders.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceRequestDetails.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceResponseDetails.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Services.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServicesForType.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceType.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/SetParam.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Subscribers.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Topics.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/TopicsForType.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/TopicType.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/msg ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg/_TypeDef.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg/_TypeDef.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_DeleteParam.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_DeleteParam.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetActionServers.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetActionServers.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetParam.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetParam.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetParamNames.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetParamNames.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetTime.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetTime.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_HasParam.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_HasParam.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_MessageDetails.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_MessageDetails.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_NodeDetails.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_NodeDetails.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Nodes.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Nodes.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Publishers.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Publishers.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_SearchParam.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_SearchParam.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceHost.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceHost.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceNode.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceNode.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceProviders.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceProviders.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceRequestDetails.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceRequestDetails.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceResponseDetails.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceResponseDetails.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Services.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Services.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServicesForType.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServicesForType.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceType.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceType.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_SetParam.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_SetParam.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Subscribers.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Subscribers.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Topics.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Topics.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_TopicsForType.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_TopicsForType.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_TopicType.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_TopicType.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rosapi.pc
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/cmake/rosapi-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/cmake/rosapiConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/cmake/rosapiConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosapi/package.xml
+-- Up-to-date: /opt/ros/kinetic/lib/rosapi/rosapi_node

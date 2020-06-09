@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target rosconsole_backend_interface[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/rosconsole_backend_interface.dir/src/rosconsole/rosconsole_backend.cpp.o[0m
+[ 33%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosconsole/lib/librosconsole_backend_interface.dylib[0m
+[ 33%] Built target rosconsole_backend_interface
+[35m[1mScanning dependencies of target rosconsole_log4cxx[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rosconsole_log4cxx.dir/src/rosconsole/impl/rosconsole_log4cxx.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosconsole/lib/librosconsole_log4cxx.dylib[0m
+[ 66%] Built target rosconsole_log4cxx
+[35m[1mScanning dependencies of target rosconsole[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/rosconsole.dir/src/rosconsole/rosconsole.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosconsole/lib/librosconsole.dylib[0m
+[100%] Built target rosconsole

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target resource_retriever[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/resource_retriever.dir/src/retriever.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/resource_retriever/lib/libresource_retriever.dylib[0m
+[100%] Built target resource_retriever

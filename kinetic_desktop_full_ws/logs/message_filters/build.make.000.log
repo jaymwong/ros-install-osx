@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target message_filters[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/message_filters.dir/src/connection.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/message_filters/lib/libmessage_filters.dylib[0m
+[100%] Built target message_filters

@@ -1,0 +1,51 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/qt_dotgraph.pc
+-- Installing: /opt/ros/kinetic/share/qt_dotgraph/cmake/qt_dotgraphConfig.cmake
+-- Installing: /opt/ros/kinetic/share/qt_dotgraph/cmake/qt_dotgraphConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/qt_dotgraph/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/qt_gui_core/qt_dotgraph
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/qt_gui_core/qt_dotgraph/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+copying src/qt_dotgraph/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+copying src/qt_dotgraph/colors.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+copying src/qt_dotgraph/dot_shapes.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+copying src/qt_dotgraph/dot_to_qt.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+copying src/qt_dotgraph/edge_item.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+copying src/qt_dotgraph/graph_item.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+copying src/qt_dotgraph/node_item.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+copying src/qt_dotgraph/pydotfactory.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+copying src/qt_dotgraph/pygraphvizfactory.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph/colors.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph/dot_shapes.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph/dot_to_qt.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph/edge_item.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph/graph_item.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph/node_item.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph/pydotfactory.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/qt_dotgraph/lib/qt_dotgraph/pygraphvizfactory.py -> /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph/colors.py to colors.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph/dot_shapes.py to dot_shapes.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph/dot_to_qt.py to dot_to_qt.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph/edge_item.py to edge_item.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph/graph_item.py to graph_item.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph/node_item.py to node_item.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph/pydotfactory.py to pydotfactory.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph/pygraphvizfactory.py to pygraphvizfactory.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/qt_dotgraph-0.3.11-py2.7.egg-info

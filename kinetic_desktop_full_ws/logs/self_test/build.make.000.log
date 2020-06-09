@@ -1,0 +1,29 @@
+[35m[1mScanning dependencies of target selftest_rostest[0m
+[35m[1mScanning dependencies of target no_id_selftest[0m
+[35m[1mScanning dependencies of target error_selftest[0m
+[35m[1mScanning dependencies of target selftest_example[0m
+[35m[1mScanning dependencies of target run_selftest[0m
+[  6%] [32mBuilding CXX object CMakeFiles/selftest_rostest.dir/src/selftest_rostest.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/run_selftest.dir/src/run_selftest.cpp.o[0m
+[ 20%] [32mBuilding CXX object test/CMakeFiles/no_id_selftest.dir/no_id_selftest.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/selftest_example.dir/src/selftest_example.cpp.o[0m
+[ 33%] [32mBuilding CXX object test/CMakeFiles/error_selftest.dir/error_selftest.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/selftest_rostest.dir/gtest-1.7.0/gtest-all.cc.o[0m
+[35m[1mScanning dependencies of target exception_selftest[0m
+[ 46%] [32mBuilding CXX object test/CMakeFiles/exception_selftest.dir/exception_selftest.cpp.o[0m
+[ 53%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/self_test/lib/self_test/run_selftest[0m
+[ 53%] Built target run_selftest
+[35m[1mScanning dependencies of target nominal_selftest[0m
+[ 60%] [32mBuilding CXX object test/CMakeFiles/nominal_selftest.dir/nominal_selftest.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/self_test/lib/self_test/no_id_selftest[0m
+[ 73%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/self_test/lib/self_test/error_selftest[0m
+[ 73%] Built target no_id_selftest
+[ 80%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/self_test/lib/self_test/selftest_example[0m
+[ 80%] Built target error_selftest
+[ 80%] Built target selftest_example
+[ 86%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/self_test/lib/self_test/exception_selftest[0m
+[ 86%] Built target exception_selftest
+[ 93%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/self_test/lib/self_test/selftest_rostest[0m
+[ 93%] Built target selftest_rostest
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/self_test/lib/self_test/nominal_selftest[0m
+[100%] Built target nominal_selftest

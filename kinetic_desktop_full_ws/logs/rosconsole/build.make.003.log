@@ -1,0 +1,4 @@
+[ 33%] Built target rosconsole_backend_interface
+[ 66%] Built target rosconsole_log4cxx
+[ 83%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosconsole/lib/librosconsole.dylib[0m
+[100%] Built target rosconsole

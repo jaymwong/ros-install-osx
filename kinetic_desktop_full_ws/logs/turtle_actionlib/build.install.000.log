@@ -1,0 +1,168 @@
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_Velocity
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeActionResult
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeGoal
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeActionGoal
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeFeedback
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeResult
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeActionFeedback
+[  0%] Built target _turtle_actionlib_generate_messages_check_deps_ShapeAction
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[ 19%] Built target turtle_actionlib_generate_messages_eus
+[ 19%] Built target actionlib_msgs_generate_messages_nodejs
+[ 19%] Built target std_msgs_generate_messages_nodejs
+[ 36%] Built target turtle_actionlib_generate_messages_nodejs
+[ 36%] Built target std_msgs_generate_messages_cpp
+[ 36%] Built target actionlib_msgs_generate_messages_cpp
+[ 54%] Built target turtle_actionlib_generate_messages_cpp
+[ 54%] Built target actionlib_msgs_generate_messages_lisp
+[ 54%] Built target std_srvs_generate_messages_lisp
+[ 54%] Built target roscpp_generate_messages_py
+[ 54%] Built target std_srvs_generate_messages_eus
+[ 54%] Built target std_srvs_generate_messages_py
+[ 54%] Built target std_srvs_generate_messages_cpp
+[ 54%] Built target geometry_msgs_generate_messages_nodejs
+[ 54%] Built target actionlib_msgs_generate_messages_py
+[ 54%] Built target geometry_msgs_generate_messages_lisp
+[ 54%] Built target turtlesim_generate_messages_eus
+[ 54%] Built target turtlesim_generate_messages_cpp
+[ 54%] Built target rosgraph_msgs_generate_messages_py
+[ 54%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 54%] Built target turtlesim_generate_messages_py
+[ 54%] Built target rosgraph_msgs_generate_messages_eus
+[ 54%] Built target roscpp_generate_messages_nodejs
+[ 54%] Built target geometry_msgs_generate_messages_cpp
+[ 54%] Built target roscpp_generate_messages_lisp
+[ 54%] Built target actionlib_generate_messages_lisp
+[ 54%] Built target roscpp_generate_messages_eus
+[ 54%] Built target std_msgs_generate_messages_py
+[ 73%] Built target turtle_actionlib_generate_messages_py
+[ 73%] Built target roscpp_generate_messages_cpp
+[ 73%] Built target _catkin_empty_exported_target
+[ 73%] Built target std_msgs_generate_messages_lisp
+[ 73%] Built target actionlib_generate_messages_nodejs
+[ 91%] Built target turtle_actionlib_generate_messages_lisp
+[ 91%] Built target turtlesim_generate_messages_lisp
+[ 91%] Built target actionlib_generate_messages_cpp
+[ 91%] Built target geometry_msgs_generate_messages_eus
+[ 91%] Built target actionlib_generate_messages_py
+[ 91%] Built target std_srvs_generate_messages_nodejs
+[ 91%] Built target turtlesim_generate_messages_nodejs
+[ 91%] Built target rosgraph_msgs_generate_messages_cpp
+[ 91%] Built target actionlib_generate_messages_eus
+[ 91%] Built target geometry_msgs_generate_messages_py
+[ 95%] Built target shape_client
+[100%] Built target shape_server
+[100%] Built target turtle_actionlib_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/msg/Velocity.msg
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/action/Shape.action
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeAction.msg
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeActionGoal.msg
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeActionResult.msg
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeActionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeGoal.msg
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeResult.msg
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/msg/ShapeFeedback.msg
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/cmake/turtle_actionlib-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/turtle_actionlib
+-- Installing: /opt/ros/kinetic/include/turtle_actionlib/ShapeAction.h
+-- Installing: /opt/ros/kinetic/include/turtle_actionlib/ShapeActionFeedback.h
+-- Installing: /opt/ros/kinetic/include/turtle_actionlib/ShapeActionGoal.h
+-- Installing: /opt/ros/kinetic/include/turtle_actionlib/ShapeActionResult.h
+-- Installing: /opt/ros/kinetic/include/turtle_actionlib/ShapeFeedback.h
+-- Installing: /opt/ros/kinetic/include/turtle_actionlib/ShapeGoal.h
+-- Installing: /opt/ros/kinetic/include/turtle_actionlib/ShapeResult.h
+-- Installing: /opt/ros/kinetic/include/turtle_actionlib/Velocity.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeAction.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeActionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeActionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeActionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/ShapeResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/turtle_actionlib/msg/Velocity.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_ShapeResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/_package_Velocity.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/ShapeResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/turtle_actionlib-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/turtle_actionlib/msg/Velocity.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeAction.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeActionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeActionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeActionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/ShapeResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/turtle_actionlib/msg/Velocity.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeAction.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg/_Velocity.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtle_actionlib/lib/python2.7/site-packages/turtle_actionlib/msg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeAction.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeAction.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeActionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_ShapeResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_Velocity.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/turtle_actionlib/msg/_Velocity.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/turtle_actionlib.pc
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/cmake/turtle_actionlib-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/cmake/turtle_actionlibConfig.cmake
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/cmake/turtle_actionlibConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/turtle_actionlib/package.xml
+-- Installing: /opt/ros/kinetic/lib/turtle_actionlib/shape_server
+-- Installing: /opt/ros/kinetic/lib/turtle_actionlib/shape_client

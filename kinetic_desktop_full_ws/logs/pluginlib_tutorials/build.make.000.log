@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target pluginlib_tutorials[0m
+[35m[1mScanning dependencies of target polygon_loader[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/pluginlib_tutorials.dir/src/polygon_plugins.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/polygon_loader.dir/src/polygon_loader.cpp.o[0m
+[ 75%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pluginlib_tutorials/lib/libpluginlib_tutorials.dylib[0m
+[ 75%] Built target pluginlib_tutorials
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pluginlib_tutorials/lib/pluginlib_tutorials/polygon_loader[0m
+[100%] Built target polygon_loader

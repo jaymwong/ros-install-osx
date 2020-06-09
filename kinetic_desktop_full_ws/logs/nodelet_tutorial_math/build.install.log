@@ -1,0 +1,17 @@
+[100%] Built target nodelet_math
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/nodelet_tutorial_math.pc
+-- Up-to-date: /opt/ros/kinetic/share/nodelet_tutorial_math/cmake/nodelet_tutorial_mathConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/nodelet_tutorial_math/cmake/nodelet_tutorial_mathConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/nodelet_tutorial_math/package.xml
+-- Installing: /opt/ros/kinetic/lib/libnodelet_math.dylib
+-- Up-to-date: /opt/ros/kinetic/share/nodelet_tutorial_math/nodelet_math.xml
+-- Up-to-date: /opt/ros/kinetic/share/nodelet_tutorial_math/plus.launch
+-- Up-to-date: /opt/ros/kinetic/share/nodelet_tutorial_math/plus_default.yaml

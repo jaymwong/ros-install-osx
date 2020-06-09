@@ -1,0 +1,18 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletLoad
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletUnload
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletList
+[ 25%] Built target nodelet_generate_messages_nodejs
+[ 25%] Built target nodelet_generate_messages_lisp
+[ 41%] Built target nodelet_generate_messages_py
+[ 66%] Built target nodelet_generate_messages_cpp
+[ 70%] Built target nodelet_generate_messages_eus
+[ 70%] Built target nodelet_generate_messages
+[ 75%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/libnodeletlib.dylib[0m
+[ 91%] Built target nodeletlib
+[ 95%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/nodelet/nodelet[0m
+[100%] Built target nodelet

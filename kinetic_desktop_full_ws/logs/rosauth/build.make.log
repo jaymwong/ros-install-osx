@@ -1,0 +1,31 @@
+[35m[1mScanning dependencies of target _rosauth_generate_messages_check_deps_Authentication[0m
+[  0%] Built target _rosauth_generate_messages_check_deps_Authentication
+[35m[1mScanning dependencies of target rosauth_generate_messages_cpp[0m
+[  9%] [34m[1mGenerating C++ code from rosauth/Authentication.srv[0m
+[35m[1mScanning dependencies of target rosauth_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosauth_generate_messages_lisp[0m
+[ 18%] [34m[1mGenerating Python code from SRV rosauth/Authentication[0m
+[ 27%] [34m[1mGenerating Lisp code from rosauth/Authentication.srv[0m
+[ 27%] Built target rosauth_generate_messages_lisp
+[35m[1mScanning dependencies of target rosauth_generate_messages_nodejs[0m
+[ 36%] [34m[1mGenerating Javascript code from rosauth/Authentication.srv[0m
+[ 45%] [34m[1mGenerating Python srv __init__.py for rosauth[0m
+[ 45%] Built target rosauth_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosauth_generate_messages_eus[0m
+[ 54%] [34m[1mGenerating EusLisp code from rosauth/Authentication.srv[0m
+[ 54%] Built target rosauth_generate_messages_py
+[ 63%] [34m[1mGenerating EusLisp manifest code for rosauth[0m
+[ 63%] Built target rosauth_generate_messages_cpp
+[35m[1mScanning dependencies of target rosauth_gencpp[0m
+[ 63%] Built target rosauth_gencpp
+[35m[1mScanning dependencies of target ros_mac_authentication_test[0m
+[35m[1mScanning dependencies of target ros_mac_authentication[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/ros_mac_authentication.dir/src/ros_mac_authentication.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/ros_mac_authentication_test.dir/test/ros_mac_authentication_test.cpp.o[0m
+[ 81%] Built target rosauth_generate_messages_eus
+[35m[1mScanning dependencies of target rosauth_generate_messages[0m
+[ 81%] Built target rosauth_generate_messages
+[ 90%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosauth/lib/rosauth/ros_mac_authentication_test[0m
+[ 90%] Built target ros_mac_authentication_test
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosauth/lib/rosauth/ros_mac_authentication[0m
+[100%] Built target ros_mac_authentication

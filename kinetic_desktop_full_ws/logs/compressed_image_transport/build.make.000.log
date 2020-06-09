@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target compressed_image_transport_gencfg[0m
+[ 16%] [34m[1mGenerating dynamic reconfigure files from cfg/CompressedPublisher.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/include/compressed_image_transport/CompressedPublisherConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/lib/python2.7/site-packages/compressed_image_transport/cfg/CompressedPublisherConfig.py[0m
+Generating reconfiguration files for CompressedPublisher in compressed_image_transport
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/include/compressed_image_transport/CompressedPublisherConfig.h
+[ 33%] [34m[1mGenerating dynamic reconfigure files from cfg/CompressedSubscriber.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/include/compressed_image_transport/CompressedSubscriberConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/lib/python2.7/site-packages/compressed_image_transport/cfg/CompressedSubscriberConfig.py[0m
+Generating reconfiguration files for CompressedSubscriber in compressed_image_transport
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/include/compressed_image_transport/CompressedSubscriberConfig.h
+[ 33%] Built target compressed_image_transport_gencfg
+[35m[1mScanning dependencies of target compressed_image_transport[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/compressed_image_transport.dir/src/compressed_publisher.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/compressed_image_transport.dir/src/compressed_subscriber.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/compressed_image_transport.dir/src/manifest.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/compressed_image_transport/lib/libcompressed_image_transport.dylib[0m
+[100%] Built target compressed_image_transport

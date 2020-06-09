@@ -1,0 +1,116 @@
+[35m[1mScanning dependencies of target _turtlesim_generate_messages_check_deps_Color[0m
+[35m[1mScanning dependencies of target _turtlesim_generate_messages_check_deps_TeleportRelative[0m
+[35m[1mScanning dependencies of target _turtlesim_generate_messages_check_deps_TeleportAbsolute[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target _turtlesim_generate_messages_check_deps_SetPen[0m
+[35m[1mScanning dependencies of target _turtlesim_generate_messages_check_deps_Pose[0m
+[35m[1mScanning dependencies of target _turtlesim_generate_messages_check_deps_Kill[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _turtlesim_generate_messages_check_deps_Spawn[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target _turtlesim_generate_messages_check_deps_SetPen
+[  0%] Built target _turtlesim_generate_messages_check_deps_Kill
+[  0%] Built target _turtlesim_generate_messages_check_deps_TeleportAbsolute
+[  0%] Built target _turtlesim_generate_messages_check_deps_TeleportRelative
+[  0%] Built target _turtlesim_generate_messages_check_deps_Pose
+[  0%] Built target _turtlesim_generate_messages_check_deps_Color
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target _turtlesim_generate_messages_check_deps_Spawn
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target turtlesim_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target turtlesim_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target turtlesim_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target turtlesim_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_eus
+[  2%] Built target geometry_msgs_generate_messages_eus
+[  2%] [34m[1mGenerating Lisp code from turtlesim/Color.msg[0m
+[  4%] [34m[1mGenerating Javascript code from turtlesim/Color.msg[0m
+[  6%] [34m[1mGenerating C++ code from turtlesim/Color.msg[0m
+[  8%] [34m[1mGenerating Lisp code from turtlesim/Pose.msg[0m
+[ 10%] [34m[1mGenerating Python from MSG turtlesim/Color[0m
+[ 14%] [34m[1mGenerating C++ code from turtlesim/Pose.msg[0m
+[ 14%] [34m[1mGenerating Javascript code from turtlesim/Pose.msg[0m
+[35m[1mScanning dependencies of target turtlesim_generate_messages_eus[0m
+[ 16%] [34m[1mGenerating EusLisp code from turtlesim/Color.msg[0m
+[ 18%] [34m[1mGenerating Lisp code from turtlesim/Kill.srv[0m
+[ 22%] [34m[1mGenerating Python from MSG turtlesim/Pose[0m
+[ 22%] [34m[1mGenerating C++ code from turtlesim/Kill.srv[0m
+[ 24%] [34m[1mGenerating Javascript code from turtlesim/Kill.srv[0m
+[ 26%] [34m[1mGenerating EusLisp code from turtlesim/Pose.msg[0m
+[ 28%] [34m[1mGenerating Python code from SRV turtlesim/Kill[0m
+[ 30%] [34m[1mGenerating Lisp code from turtlesim/SetPen.srv[0m
+[ 32%] [34m[1mGenerating Javascript code from turtlesim/SetPen.srv[0m
+[ 34%] [34m[1mGenerating C++ code from turtlesim/SetPen.srv[0m
+[ 38%] [34m[1mGenerating Lisp code from turtlesim/TeleportAbsolute.srv[0m
+[ 38%] [34m[1mGenerating EusLisp code from turtlesim/Kill.srv[0m
+[ 42%] [34m[1mGenerating EusLisp code from turtlesim/SetPen.srv[0m
+[ 42%] [34m[1mGenerating Lisp code from turtlesim/TeleportRelative.srv[0m
+[ 44%] [34m[1mGenerating Javascript code from turtlesim/TeleportAbsolute.srv[0m
+[ 46%] [34m[1mGenerating Python code from SRV turtlesim/SetPen[0m
+[ 48%] [34m[1mGenerating C++ code from turtlesim/TeleportAbsolute.srv[0m
+[ 52%] [34m[1mGenerating Lisp code from turtlesim/Spawn.srv[0m
+[ 52%] [34m[1mGenerating Javascript code from turtlesim/TeleportRelative.srv[0m
+[ 54%] [34m[1mGenerating EusLisp code from turtlesim/TeleportAbsolute.srv[0m
+[ 56%] [34m[1mGenerating Python code from SRV turtlesim/TeleportAbsolute[0m
+[ 58%] [34m[1mGenerating C++ code from turtlesim/TeleportRelative.srv[0m
+[ 60%] [34m[1mGenerating Javascript code from turtlesim/Spawn.srv[0m
+[ 60%] Built target turtlesim_generate_messages_lisp
+[ 62%] [34m[1mGenerating EusLisp code from turtlesim/TeleportRelative.srv[0m
+[ 64%] [34m[1mGenerating Python code from SRV turtlesim/TeleportRelative[0m
+[ 66%] [34m[1mGenerating C++ code from turtlesim/Spawn.srv[0m
+[ 66%] Built target turtlesim_generate_messages_nodejs
+[ 68%] [34m[1mGenerating EusLisp code from turtlesim/Spawn.srv[0m
+[ 70%] [34m[1mGenerating Python code from SRV turtlesim/Spawn[0m
+[ 72%] [34m[1mGenerating EusLisp manifest code for turtlesim[0m
+[ 74%] [34m[1mGenerating Python msg __init__.py for turtlesim[0m
+[ 76%] [34m[1mGenerating Python srv __init__.py for turtlesim[0m
+[ 76%] Built target turtlesim_generate_messages_py
+[ 76%] Built target turtlesim_generate_messages_cpp
+[35m[1mScanning dependencies of target turtlesim_gencpp[0m
+[ 76%] Built target turtlesim_gencpp
+[ 78%] [34m[1mGenerating include/turtlesim/moc_turtle_frame.cpp[0m
+[35m[1mScanning dependencies of target turtle_teleop_key[0m
+[35m[1mScanning dependencies of target mimic[0m
+[35m[1mScanning dependencies of target draw_square[0m
+[35m[1mScanning dependencies of target turtlesim_node[0m
+[ 78%] Built target turtlesim_generate_messages_eus
+[35m[1mScanning dependencies of target turtlesim_generate_messages[0m
+[ 78%] Built target turtlesim_generate_messages
+[ 80%] [32mBuilding CXX object CMakeFiles/mimic.dir/tutorials/mimic.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/draw_square.dir/tutorials/draw_square.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/turtle_teleop_key.dir/tutorials/teleop_turtle_key.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/turtlesim_node.dir/src/turtle_frame.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/turtlesim_node.dir/include/turtlesim/moc_turtle_frame.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/turtlesim_node.dir/src/turtle.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/turtlesim_node.dir/src/turtlesim.cpp.o[0m
+[ 94%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/turtlesim/turtle_teleop_key[0m
+[ 94%] Built target turtle_teleop_key
+[ 96%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/turtlesim/mimic[0m
+[ 96%] Built target mimic
+[ 98%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/turtlesim/draw_square[0m
+[ 98%] Built target draw_square
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/turtlesim/lib/turtlesim/turtlesim_node[0m
+[100%] Built target turtlesim_node

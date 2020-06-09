@@ -1,0 +1,134 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rqt_robot_dashboard.pc
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/cmake/rqt_robot_dashboardConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/cmake/rqt_robot_dashboardConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_robot_dashboard
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_robot_dashboard/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/battery_dash_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/console_dash_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/dashboard.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/icon_tool_button.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/menu_dash_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/monitor_dash_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/nav_view_dash_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/util.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+copying src/rqt_robot_dashboard/widgets.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/battery_dash_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/console_dash_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/dashboard.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/icon_tool_button.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/menu_dash_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/monitor_dash_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/nav_view_dash_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/util.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_robot_dashboard/lib/rqt_robot_dashboard/widgets.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/battery_dash_widget.py to battery_dash_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/console_dash_widget.py to console_dash_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/dashboard.py to dashboard.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/icon_tool_button.py to icon_tool_button.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/menu_dash_widget.py to menu_dash_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/monitor_dash_widget.py to monitor_dash_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/nav_view_dash_widget.py to nav_view_dash_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/util.py to util.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard/widgets.py to widgets.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rqt_robot_dashboard-0.5.7-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/bg-green.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/bg-grey.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/bg-light_grey.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/bg-lt-grey.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/bg-orange.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/bg-red.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/bg-yellow.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-0.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-100-green.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-100.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-20.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-40.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-60-green.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-60.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-80-green.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-80.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-charge-0.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-charge-100-green.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-charge-100.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-charge-20.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-charge-40.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-charge-60-green.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-charge-60.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-charge-80-green.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-battery-charge-80.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-breaker.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-breaker1.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-breaker2.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-breaker3.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-console.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-diagnostics.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-led.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-missing-icon.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-motors.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-navigation.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-runstop-off.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-runstop-on.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-sensor.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-steering-wheel.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-wireless-runstop-off.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-wireless-runstop-on.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ic-wrench.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-0.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-100.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-20.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-40.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-60.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-80.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-charge-0.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-charge-100.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-charge-20.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-charge-40.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-charge-60.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/battery-charge-80.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/check-overlay.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/console-click.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/console.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/diagnostics-click.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/diagnostics.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/err-overlay.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/mode-click.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/mode.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/nav-click.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/nav.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/play-overlay.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/stale-overlay.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/stop-overlay.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/nonsvg/warn-overlay.png
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-check-badge.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-click.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-err-badge.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-play-badge.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-shine.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-stale-badge.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-stale-battery.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-stale_overlay.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-stop-badge.svg
+-- Installing: /opt/ros/kinetic/share/rqt_robot_dashboard/images/ol-warn-badge.svg

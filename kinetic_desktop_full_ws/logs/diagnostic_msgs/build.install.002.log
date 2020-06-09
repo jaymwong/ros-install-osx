@@ -1,0 +1,104 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_AddDiagnostics
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_DiagnosticStatus
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_DiagnosticArray
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_KeyValue
+[  0%] Built target _diagnostic_msgs_generate_messages_check_deps_SelfTest
+[ 17%] Built target diagnostic_msgs_generate_messages_cpp
+[ 17%] Built target std_msgs_generate_messages_py
+[ 42%] Built target diagnostic_msgs_generate_messages_py
+[ 42%] Built target std_msgs_generate_messages_lisp
+[ 60%] Built target diagnostic_msgs_generate_messages_lisp
+[ 60%] Built target std_msgs_generate_messages_eus
+[ 82%] Built target diagnostic_msgs_generate_messages_eus
+[ 82%] Built target std_msgs_generate_messages_nodejs
+[100%] Built target diagnostic_msgs_generate_messages_nodejs
+[100%] Built target diagnostic_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/msg/DiagnosticArray.msg
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/msg/DiagnosticStatus.msg
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/msg/KeyValue.msg
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/srv/AddDiagnostics.srv
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/srv/SelfTest.srv
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/cmake/diagnostic_msgs-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs/AddDiagnostics.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs/AddDiagnosticsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs/AddDiagnosticsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs/DiagnosticArray.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs/DiagnosticStatus.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs/KeyValue.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs/SelfTest.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs/SelfTestRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/diagnostic_msgs/SelfTestResponse.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/msg/DiagnosticArray.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/msg/DiagnosticStatus.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/msg/KeyValue.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/srv/AddDiagnostics.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/diagnostic_msgs/srv/SelfTest.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/_package_DiagnosticArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/_package_DiagnosticStatus.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/_package_KeyValue.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/diagnostic_msgs-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/DiagnosticArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/DiagnosticStatus.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/msg/KeyValue.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/_package_AddDiagnostics.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/_package_SelfTest.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/AddDiagnostics.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/diagnostic_msgs-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/diagnostic_msgs/srv/SelfTest.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg/DiagnosticArray.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg/DiagnosticStatus.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/msg/KeyValue.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/srv/AddDiagnostics.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/diagnostic_msgs/srv/SelfTest.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/msg ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_msgs/lib/python2.7/site-packages/diagnostic_msgs/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticArray.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticArray.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticStatus.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_DiagnosticStatus.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_KeyValue.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/msg/_KeyValue.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/_AddDiagnostics.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/_AddDiagnostics.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/_SelfTest.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_msgs/srv/_SelfTest.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/diagnostic_msgs.pc
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/cmake/diagnostic_msgs-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/cmake/diagnostic_msgsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/cmake/diagnostic_msgsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/diagnostic_msgs/package.xml

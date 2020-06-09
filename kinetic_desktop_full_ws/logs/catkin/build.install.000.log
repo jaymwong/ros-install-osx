@@ -1,0 +1,184 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/05.catkin_make.bash
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/05.catkin_make_isolated.bash
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/catkin.pc
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkinConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/package.xml
+-- Installing: /opt/ros/kinetic/share/catkin/LICENSE
+-- Up-to-date: /opt/ros/kinetic/share/catkin/cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/all.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/assert.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/atomic_configure_file.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_add_env_hooks.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_destinations.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_download.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_generate_environment.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_install_python.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_libraries.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_metapackage.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_package_xml.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_python_setup.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_symlink_install.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/catkin_workspace.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/custom_install.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/debug_message.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/em
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/em/order_packages.cmake.em
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/em/pkg.pc.em
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/em_expand.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/empy.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/env-hooks
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/env-hooks/05.catkin_make.bash
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/env-hooks/05.catkin_make_isolated.bash
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/find_program_required.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/interrogate_setup_dot_py.py
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/legacy.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/list_append_deduplicate.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/list_append_unique.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/list_insert_in_workspace_order.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/order_paths.py
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/parse_package_xml.py
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/platform
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/platform/lsb.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/platform/ubuntu.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/platform/windows.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/python.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/safe_execute_process.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/shell.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/stamp.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/string_starts_with.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/symlink_install
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/symlink_install/catkin_install_logic.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/symlink_install/catkin_symlink_install.cmake.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/symlink_install/catkin_symlink_install_append_install_code.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/symlink_install/catkin_symlink_install_directory.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/symlink_install/catkin_symlink_install_files.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/symlink_install/catkin_symlink_install_programs.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/symlink_install/catkin_symlink_install_targets.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/symlink_install/install.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/__init__.py.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/_setup_util.py.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/cfg-extras.context.py.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/Doxyfile.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/env-hook.context.py.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/env.bat.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/env.sh.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/generate_cached_setup.py.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/order_packages.context.py.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/pkg.context.pc.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig-version.cmake.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig.cmake.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/python_distutils_install.bat.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/python_distutils_install.sh.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/relay.py.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/rosinstall.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/safe_execute_install.cmake.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/script.bash.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/script.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/script.py.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/script.sh.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/setup.bash.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/setup.bat.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/setup.sh.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/templates/setup.zsh.in
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/test
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/test/catkin_download_test_data.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/test/download_checkmd5.py
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/test/gtest.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/test/nosetests.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/test/run_tests.py
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/test/tests.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/tools
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/tools/bz2.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/tools/doxygen.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/tools/libraries.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/tools/rt.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/tools/threads.cmake
+-- Installing: /opt/ros/kinetic/share/catkin/cmake/toplevel.cmake
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/catkin
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/wizard/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/tbt/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-externals/devel/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/catkin/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/builder.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/cmake.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/environment_cache.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/find_in_workspaces.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/init_workspace.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/package_version.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/terminal_color.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/test_results.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/tidy_xml.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/workspace.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+copying python/catkin/workspace_vcs.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7
+copying and adjusting bin/catkin_find -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7
+copying and adjusting bin/catkin_init_workspace -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7
+copying and adjusting bin/catkin_make -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7
+copying and adjusting bin/catkin_make_isolated -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7
+copying and adjusting bin/catkin_test_results -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7
+copying and adjusting bin/catkin_topological_order -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_find from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_init_workspace from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_make from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_make_isolated from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_test_results from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_topological_order from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/builder.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/cmake.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/environment_cache.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/find_in_workspaces.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/init_workspace.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/package_version.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/terminal_color.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/test_results.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/tidy_xml.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/workspace.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/lib/catkin/workspace_vcs.py -> /opt/ros/kinetic/lib/python2.7/site-packages/catkin
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/builder.py to builder.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/cmake.py to cmake.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/environment_cache.py to environment_cache.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/find_in_workspaces.py to find_in_workspaces.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/init_workspace.py to init_workspace.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/package_version.py to package_version.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/terminal_color.py to terminal_color.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/test_results.py to test_results.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/tidy_xml.py to tidy_xml.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/workspace.py to workspace.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/catkin/workspace_vcs.py to workspace_vcs.pyc
+running install_scripts
+creating /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_find -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_init_workspace -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_make -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_make_isolated -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_test_results -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/catkin/scripts-2.7/catkin_topological_order -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/catkin_find to 755
+changing mode of /opt/ros/kinetic/bin/catkin_init_workspace to 755
+changing mode of /opt/ros/kinetic/bin/catkin_make to 755
+changing mode of /opt/ros/kinetic/bin/catkin_make_isolated to 755
+changing mode of /opt/ros/kinetic/bin/catkin_test_results to 755
+changing mode of /opt/ros/kinetic/bin/catkin_topological_order to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/catkin-0.7.14-py2.7.egg-info

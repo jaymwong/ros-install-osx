@@ -1,0 +1,72 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _rosgraph_msgs_generate_messages_check_deps_TopicStatistics
+[  0%] Built target _rosgraph_msgs_generate_messages_check_deps_Log
+[  0%] Built target _rosgraph_msgs_generate_messages_check_deps_Clock
+[ 23%] Built target rosgraph_msgs_generate_messages_eus
+[ 23%] Built target std_msgs_generate_messages_py
+[ 47%] Built target rosgraph_msgs_generate_messages_py
+[ 47%] Built target std_msgs_generate_messages_cpp
+[ 64%] Built target rosgraph_msgs_generate_messages_cpp
+[ 64%] Built target std_msgs_generate_messages_nodejs
+[ 82%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 82%] Built target std_msgs_generate_messages_lisp
+[100%] Built target rosgraph_msgs_generate_messages_lisp
+[100%] Built target rosgraph_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/rosgraph_msgs/msg/Clock.msg
+-- Up-to-date: /opt/ros/kinetic/share/rosgraph_msgs/msg/Log.msg
+-- Up-to-date: /opt/ros/kinetic/share/rosgraph_msgs/msg/TopicStatistics.msg
+-- Up-to-date: /opt/ros/kinetic/share/rosgraph_msgs/cmake/rosgraph_msgs-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/rosgraph_msgs
+-- Up-to-date: /opt/ros/kinetic/include/rosgraph_msgs/Clock.h
+-- Up-to-date: /opt/ros/kinetic/include/rosgraph_msgs/Log.h
+-- Up-to-date: /opt/ros/kinetic/include/rosgraph_msgs/TopicStatistics.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosgraph_msgs
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosgraph_msgs/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosgraph_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosgraph_msgs/msg/Clock.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosgraph_msgs/msg/Log.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosgraph_msgs/msg/TopicStatistics.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs/msg/_package_Clock.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs/msg/_package_Log.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs/msg/_package_TopicStatistics.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs/msg/Clock.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs/msg/Log.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs/msg/rosgraph_msgs-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosgraph_msgs/msg/TopicStatistics.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosgraph_msgs
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosgraph_msgs/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosgraph_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosgraph_msgs/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosgraph_msgs/msg/Clock.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosgraph_msgs/msg/Log.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosgraph_msgs/msg/TopicStatistics.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosgraph_msgs/lib/python2.7/site-packages/rosgraph_msgs ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosgraph_msgs/lib/python2.7/site-packages/rosgraph_msgs/msg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/msg/_Clock.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/msg/_Clock.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/msg/_Log.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/msg/_Log.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/msg/_TopicStatistics.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosgraph_msgs/msg/_TopicStatistics.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rosgraph_msgs.pc
+-- Up-to-date: /opt/ros/kinetic/share/rosgraph_msgs/cmake/rosgraph_msgs-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosgraph_msgs/cmake/rosgraph_msgsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosgraph_msgs/cmake/rosgraph_msgsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosgraph_msgs/package.xml

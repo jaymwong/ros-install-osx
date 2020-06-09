@@ -1,0 +1,15 @@
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smclib
+[36m--[0m Using CMAKE_PREFIX_PATH: /opt/ros/kinetic;/usr/local/opt/qt
+[36m--[0m This workspace overlays: /opt/ros/kinetic
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/local/bin/python2
+[36m--[0m Using default Python package layout
+[36m--[0m Using empy: /usr/local/lib/python2.7/site-packages/em.pyc
+[36m--[0m Using CATKIN_ENABLE_TESTING: 1
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smclib/test_results
+[36m--[0m Found gtest: gtests will be built
+[36m--[0m nosetests not found, Python tests can not be run (try installing package 'python-nose')
+[36m--[0m catkin 0.7.14
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/smclib

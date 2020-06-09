@@ -1,0 +1,23 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rosbuild.pc
+-- Installing: /opt/ros/kinetic/share/rosbuild/cmake/rosbuildConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rosbuild/cmake/rosbuildConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rosbuild/package.xml
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/10.rosbuild.sh
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/FindPkgConfig.cmake
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/private.cmake
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/ProcessorCount.cmake
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/public.cmake
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/rosbuild.cmake
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/rosconfig.cmake
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/rostoolchain.cmake
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/tests/count_cores.py
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/bin/check_same_directories.py
+-- Installing: /opt/ros/kinetic/share/ros/core/rosbuild/bin/download_checkmd5.py

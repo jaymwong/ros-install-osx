@@ -1,0 +1,30 @@
+[ 14%] Built target point_cloud
+[ 28%] Built target menu
+[ 42%] Built target cube
+[ 57%] Built target pong
+[ 71%] Built target selection
+[ 85%] Built target basic_controls
+[100%] Built target simple_marker
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/interactive_marker_tutorials.pc
+-- Up-to-date: /opt/ros/kinetic/share/interactive_marker_tutorials/cmake/interactive_marker_tutorialsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/interactive_marker_tutorials/cmake/interactive_marker_tutorialsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/interactive_marker_tutorials/package.xml
+-- Up-to-date: /opt/ros/kinetic/lib/interactive_marker_tutorials/basic_controls.py
+-- Up-to-date: /opt/ros/kinetic/lib/interactive_marker_tutorials/cube.py
+-- Up-to-date: /opt/ros/kinetic/lib/interactive_marker_tutorials/menu.py
+-- Up-to-date: /opt/ros/kinetic/lib/interactive_marker_tutorials/simple_marker.py
+-- Installing: /opt/ros/kinetic/lib/interactive_marker_tutorials/simple_marker
+-- Installing: /opt/ros/kinetic/lib/interactive_marker_tutorials/basic_controls
+-- Installing: /opt/ros/kinetic/lib/interactive_marker_tutorials/selection
+-- Installing: /opt/ros/kinetic/lib/interactive_marker_tutorials/pong
+-- Installing: /opt/ros/kinetic/lib/interactive_marker_tutorials/cube
+-- Installing: /opt/ros/kinetic/lib/interactive_marker_tutorials/menu
+-- Installing: /opt/ros/kinetic/lib/interactive_marker_tutorials/point_cloud

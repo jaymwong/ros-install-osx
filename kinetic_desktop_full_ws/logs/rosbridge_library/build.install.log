@@ -1,0 +1,243 @@
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestEmpty
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestTimeArray
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestMultipleResponseFields
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestUInt8FixedSizeArray16
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_SendBytes
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestHeaderArray
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestNestedService
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_AddTwoInts
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestRequestAndResponse
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestMultipleRequestFields
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestArrayRequest
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestResponseOnly
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestUInt8
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_Num
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestHeader
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestHeaderTwo
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestDurationArray
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestRequestOnly
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _rosbridge_library_generate_messages_check_deps_TestChar
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 19%] Built target rosbridge_library_generate_messages_nodejs
+[ 19%] Built target geometry_msgs_generate_messages_py
+[ 19%] Built target std_msgs_generate_messages_py
+[ 40%] Built target rosbridge_library_generate_messages_py
+[ 40%] Built target geometry_msgs_generate_messages_cpp
+[ 40%] Built target std_msgs_generate_messages_cpp
+[ 60%] Built target rosbridge_library_generate_messages_cpp
+[ 60%] Built target geometry_msgs_generate_messages_lisp
+[ 60%] Built target std_msgs_generate_messages_lisp
+[ 79%] Built target rosbridge_library_generate_messages_lisp
+[ 79%] Built target geometry_msgs_generate_messages_eus
+[ 79%] Built target std_msgs_generate_messages_eus
+[100%] Built target rosbridge_library_generate_messages_eus
+[100%] Built target rosbridge_library_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rosbridge_suite/rosbridge_library
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rosbridge_suite/rosbridge_library/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosbridge_library install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library-0.10.2-py2.7.egg-info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library-0.10.2-py2.7.egg-info
+-- Up-to-date: /opt/ros/kinetic/share/rosbridge_library/cmake/rosbridge_library-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/AddTwoInts.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/AddTwoIntsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/AddTwoIntsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/Num.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/SendBytes.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/SendBytesRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/SendBytesResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestArrayRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestArrayRequestRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestArrayRequestResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestChar.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestDurationArray.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestEmpty.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestEmptyRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestEmptyResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestHeader.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestHeaderArray.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestHeaderTwo.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestMultipleRequestFields.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestMultipleRequestFieldsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestMultipleRequestFieldsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestMultipleResponseFields.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestMultipleResponseFieldsRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestMultipleResponseFieldsResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestNestedService.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestNestedServiceRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestNestedServiceResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestRequestAndResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestRequestAndResponseRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestRequestAndResponseResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestRequestOnly.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestRequestOnlyRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestRequestOnlyResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestResponseOnly.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestResponseOnlyRequest.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestResponseOnlyResponse.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestTimeArray.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestUInt8.h
+-- Up-to-date: /opt/ros/kinetic/include/rosbridge_library/TestUInt8FixedSizeArray16.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/Num.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestChar.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestDurationArray.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestHeader.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestHeaderArray.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestHeaderTwo.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestTimeArray.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestUInt8.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/msg/TestUInt8FixedSizeArray16.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/AddTwoInts.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/SendBytes.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestArrayRequest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestEmpty.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestMultipleRequestFields.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestMultipleResponseFields.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestNestedService.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestRequestAndResponse.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestRequestOnly.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/rosbridge_library/srv/TestResponseOnly.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_Num.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestChar.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestDurationArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestHeader.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestHeaderArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestHeaderTwo.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestTimeArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestUInt8.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/_package_TestUInt8FixedSizeArray16.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/Num.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/rosbridge_library-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestChar.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestDurationArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestHeader.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestHeaderArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestHeaderTwo.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestTimeArray.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestUInt8.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/msg/TestUInt8FixedSizeArray16.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_AddTwoInts.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_SendBytes.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestArrayRequest.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestEmpty.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestMultipleRequestFields.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestMultipleResponseFields.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestNestedService.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestRequestAndResponse.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestRequestOnly.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/_package_TestResponseOnly.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/AddTwoInts.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/rosbridge_library-srv.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/SendBytes.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestArrayRequest.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestEmpty.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestMultipleRequestFields.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestMultipleResponseFields.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestNestedService.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestRequestAndResponse.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestRequestOnly.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/rosbridge_library/srv/TestResponseOnly.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/Num.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestChar.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestDurationArray.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestHeader.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestHeaderArray.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestHeaderTwo.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestTimeArray.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestUInt8.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/msg/TestUInt8FixedSizeArray16.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/AddTwoInts.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/SendBytes.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestArrayRequest.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestEmpty.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestMultipleRequestFields.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestMultipleResponseFields.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestNestedService.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestRequestAndResponse.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestRequestOnly.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/rosbridge_library/srv/TestResponseOnly.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/msg ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbridge_library/lib/python2.7/site-packages/rosbridge_library/srv ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_Num.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_Num.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestChar.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestChar.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestDurationArray.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestDurationArray.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeader.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeader.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderArray.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderArray.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderTwo.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestHeaderTwo.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestTimeArray.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestTimeArray.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8FixedSizeArray16.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/_TestUInt8FixedSizeArray16.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_AddTwoInts.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_AddTwoInts.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_SendBytes.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_SendBytes.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestArrayRequest.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestArrayRequest.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestEmpty.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestEmpty.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleRequestFields.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleRequestFields.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleResponseFields.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestMultipleResponseFields.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestNestedService.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestNestedService.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestAndResponse.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestAndResponse.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestOnly.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestRequestOnly.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestResponseOnly.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/_TestResponseOnly.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosbridge_library/srv/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rosbridge_library.pc
+-- Up-to-date: /opt/ros/kinetic/share/rosbridge_library/cmake/rosbridge_library-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosbridge_library/cmake/rosbridge_libraryConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosbridge_library/cmake/rosbridge_libraryConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosbridge_library/package.xml

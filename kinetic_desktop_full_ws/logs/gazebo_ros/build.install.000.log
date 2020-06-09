@@ -1,0 +1,128 @@
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[ 20%] Built target gazebo_ros_gencfg
+[ 20%] Built target trajectory_msgs_generate_messages_cpp
+[ 20%] Built target gazebo_msgs_generate_messages_lisp
+[ 20%] Built target gazebo_msgs_generate_messages_eus
+[ 20%] Built target dynamic_reconfigure_generate_messages_eus
+[ 20%] Built target dynamic_reconfigure_generate_messages_cpp
+[ 20%] Built target tf2_msgs_generate_messages_py
+[ 20%] Built target dynamic_reconfigure_gencfg
+[ 20%] Built target actionlib_generate_messages_nodejs
+[ 20%] Built target tf2_msgs_generate_messages_nodejs
+[ 20%] Built target tf2_msgs_generate_messages_lisp
+[ 20%] Built target tf2_msgs_generate_messages_eus
+[ 20%] Built target roscpp_generate_messages_eus
+[ 20%] Built target actionlib_generate_messages_lisp
+[ 20%] Built target sensor_msgs_generate_messages_nodejs
+[ 20%] Built target sensor_msgs_generate_messages_lisp
+[ 20%] Built target std_srvs_generate_messages_nodejs
+[ 20%] Built target tf_generate_messages_py
+[ 20%] Built target sensor_msgs_generate_messages_eus
+[ 20%] Built target dynamic_reconfigure_generate_messages_py
+[ 20%] Built target geometry_msgs_generate_messages_eus
+[ 20%] Built target actionlib_generate_messages_py
+[ 20%] Built target tf_generate_messages_nodejs
+[ 20%] Built target trajectory_msgs_generate_messages_nodejs
+[ 20%] Built target std_msgs_generate_messages_nodejs
+[ 20%] Built target rosgraph_msgs_generate_messages_eus
+[ 20%] Built target tf_generate_messages_lisp
+[ 20%] Built target dynamic_reconfigure_generate_messages_lisp
+[ 20%] Built target std_srvs_generate_messages_lisp
+[ 20%] Built target gazebo_msgs_generate_messages_cpp
+[ 20%] Built target roscpp_generate_messages_py
+[ 20%] Built target std_srvs_generate_messages_eus
+[ 20%] Built target tf_generate_messages_cpp
+[ 20%] Built target std_srvs_generate_messages_py
+[ 20%] Built target std_srvs_generate_messages_cpp
+[ 20%] Built target gazebo_msgs_generate_messages_py
+[ 20%] Built target std_msgs_generate_messages_eus
+[ 20%] Built target geometry_msgs_generate_messages_nodejs
+[ 20%] Built target dynamic_reconfigure_generate_messages_nodejs
+[ 20%] Built target roscpp_generate_messages_lisp
+[ 20%] Built target geometry_msgs_generate_messages_cpp
+[ 20%] Built target actionlib_msgs_generate_messages_eus
+[ 20%] Built target std_msgs_generate_messages_py
+[ 20%] Built target trajectory_msgs_generate_messages_lisp
+[ 20%] Built target rosgraph_msgs_generate_messages_py
+[ 20%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 20%] Built target std_msgs_generate_messages_lisp
+[ 20%] Built target rosgraph_msgs_generate_messages_lisp
+[ 20%] Built target actionlib_msgs_generate_messages_py
+[ 20%] Built target geometry_msgs_generate_messages_lisp
+[ 20%] Built target sensor_msgs_generate_messages_py
+[ 20%] Built target roscpp_generate_messages_nodejs
+[ 20%] Built target actionlib_generate_messages_eus
+[ 20%] Built target sensor_msgs_generate_messages_cpp
+[ 20%] Built target trajectory_msgs_generate_messages_eus
+[ 20%] Built target rosgraph_msgs_generate_messages_cpp
+[ 20%] Built target tf_generate_messages_eus
+[ 20%] Built target roscpp_generate_messages_cpp
+[ 20%] Built target trajectory_msgs_generate_messages_py
+[ 20%] Built target gazebo_msgs_generate_messages_nodejs
+[ 60%] Built target gazebo_ros_api_plugin
+[100%] Built target gazebo_ros_paths_plugin
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/gazebo_ros_pkgs/gazebo_ros
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_ros/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_ros /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/gazebo_ros_pkgs/gazebo_ros/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_ros install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_ros/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_ros/lib/gazebo_ros
+copying src/gazebo_ros/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_ros/lib/gazebo_ros
+copying src/gazebo_ros/gazebo_interface.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_ros/lib/gazebo_ros
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_ros/lib/gazebo_ros/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_ros/lib/gazebo_ros/gazebo_interface.py -> /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros/gazebo_interface.py to gazebo_interface.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros-2.5.17-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/include/gazebo_ros/PhysicsConfig.h
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_ros/lib/python2.7/site-packages/gazebo_ros/cfg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_ros/lib/python2.7/site-packages/gazebo_ros/cfg/PhysicsConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_ros/lib/python2.7/site-packages/gazebo_ros/cfg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros/cfg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros/cfg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros/cfg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros/cfg/PhysicsConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_ros/cfg/PhysicsConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/gazebo_ros.pc
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/cmake/gazebo_rosConfig.cmake
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/cmake/gazebo_rosConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/package.xml
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_api_plugin.dylib
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/install_name_tool: for: /opt/ros/kinetic/lib/libgazebo_ros_api_plugin.dylib (for architecture x86_64) option "-add_rpath /usr/local/Cellar/gazebo8/8.5.0_1/lib/gazebo-8/plugins" would duplicate path, file already has LC_RPATH for: /usr/local/Cellar/gazebo8/8.5.0_1/lib/gazebo-8/plugins
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_paths_plugin.dylib
+error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/install_name_tool: for: /opt/ros/kinetic/lib/libgazebo_ros_paths_plugin.dylib (for architecture x86_64) option "-add_rpath /usr/local/Cellar/gazebo8/8.5.0_1/lib/gazebo-8/plugins" would duplicate path, file already has LC_RPATH for: /usr/local/Cellar/gazebo8/8.5.0_1/lib/gazebo-8/plugins
+-- Installing: /opt/ros/kinetic/lib/gazebo_ros/gazebo
+-- Installing: /opt/ros/kinetic/lib/gazebo_ros/debug
+-- Installing: /opt/ros/kinetic/lib/gazebo_ros/gzclient
+-- Installing: /opt/ros/kinetic/lib/gazebo_ros/gzserver
+-- Installing: /opt/ros/kinetic/lib/gazebo_ros/gdbrun
+-- Installing: /opt/ros/kinetic/lib/gazebo_ros/perf
+-- Installing: /opt/ros/kinetic/lib/gazebo_ros/libcommon.sh
+-- Installing: /opt/ros/kinetic/lib/gazebo_ros/spawn_model
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/launch
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/launch/elevator_world.launch
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/launch/empty_world.launch
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/launch/mud_world.launch
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/launch/range_world.launch
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/launch/rubble_world.launch
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/launch/shapes_world.launch
+-- Installing: /opt/ros/kinetic/share/gazebo_ros/launch/willowgarage_world.launch

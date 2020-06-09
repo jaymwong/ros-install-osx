@@ -1,0 +1,4 @@
+package init file 'src/rqt_rviz/__init__.py' not found (or not a regular file)
+package init file 'src/rqt_rviz/__init__.py' not found (or not a regular file)
+warning: install_lib: '/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_rviz/lib' does not exist -- no Python modules to install
+

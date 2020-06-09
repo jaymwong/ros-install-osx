@@ -1,0 +1,19 @@
+[100%] Built target roscpp_serialization
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/roscpp_serialization.pc
+-- Installing: /opt/ros/kinetic/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake
+-- Installing: /opt/ros/kinetic/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/roscpp_serialization/package.xml
+-- Installing: /opt/ros/kinetic/lib/libroscpp_serialization.dylib
+-- Up-to-date: /opt/ros/kinetic/include
+-- Up-to-date: /opt/ros/kinetic/include/ros
+-- Installing: /opt/ros/kinetic/include/ros/roscpp_serialization_macros.h
+-- Installing: /opt/ros/kinetic/include/ros/serialization.h
+-- Installing: /opt/ros/kinetic/include/ros/serialized_message.h

@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target rosconsole_bridge[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/rosconsole_bridge.dir/src/bridge.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosconsole_bridge/lib/librosconsole_bridge.dylib[0m
+[ 50%] Built target rosconsole_bridge
+[35m[1mScanning dependencies of target cleanup[0m
+[ 75%] [32mBuilding CXX object test/CMakeFiles/cleanup.dir/cleanup.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosconsole_bridge/lib/rosconsole_bridge/cleanup[0m
+[100%] Built target cleanup

@@ -1,0 +1,377 @@
+[  0%] Built target _std_msgs_generate_messages_check_deps_UInt64MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_Header
+[  0%] Built target _std_msgs_generate_messages_check_deps_Int16MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_MultiArrayDimension
+[  0%] Built target _std_msgs_generate_messages_check_deps_Int64MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_Time
+[  0%] Built target _std_msgs_generate_messages_check_deps_UInt8MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_ByteMultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_Float64MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_Duration
+[  0%] Built target _std_msgs_generate_messages_check_deps_Int64
+[  0%] Built target _std_msgs_generate_messages_check_deps_UInt8
+[  0%] Built target _std_msgs_generate_messages_check_deps_Byte
+[  0%] Built target _std_msgs_generate_messages_check_deps_String
+[  0%] Built target _std_msgs_generate_messages_check_deps_Char
+[  0%] Built target _std_msgs_generate_messages_check_deps_UInt32
+[  0%] Built target _std_msgs_generate_messages_check_deps_Float32MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_Float64
+[  0%] Built target _std_msgs_generate_messages_check_deps_Float32
+[  0%] Built target _std_msgs_generate_messages_check_deps_UInt16MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_UInt16
+[  0%] Built target _std_msgs_generate_messages_check_deps_Empty
+[  0%] Built target _std_msgs_generate_messages_check_deps_Bool
+[  0%] Built target _std_msgs_generate_messages_check_deps_UInt64
+[  0%] Built target _std_msgs_generate_messages_check_deps_Int8MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_ColorRGBA
+[  0%] Built target _std_msgs_generate_messages_check_deps_UInt32MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_MultiArrayLayout
+[  0%] Built target _std_msgs_generate_messages_check_deps_Int8
+[  0%] Built target _std_msgs_generate_messages_check_deps_Int32MultiArray
+[  0%] Built target _std_msgs_generate_messages_check_deps_Int32
+[  0%] Built target _std_msgs_generate_messages_check_deps_Int16
+[ 21%] Built target std_msgs_generate_messages_eus
+[ 42%] Built target std_msgs_generate_messages_py
+[ 62%] Built target std_msgs_generate_messages_nodejs
+[ 81%] Built target std_msgs_generate_messages_lisp
+[100%] Built target std_msgs_generate_messages_cpp
+[100%] Built target std_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Bool.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Byte.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/ByteMultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Char.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/ColorRGBA.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Duration.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Empty.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Float32.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Float32MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Float64.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Float64MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Header.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Int16.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Int16MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Int32.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Int32MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Int64.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Int64MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Int8.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Int8MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/MultiArrayDimension.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/MultiArrayLayout.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/String.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/Time.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/UInt16.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/UInt16MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/UInt32.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/UInt32MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/UInt64.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/UInt64MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/UInt8.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/msg/UInt8MultiArray.msg
+-- Installing: /opt/ros/kinetic/share/std_msgs/cmake/std_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/std_msgs
+-- Installing: /opt/ros/kinetic/include/std_msgs/Bool.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Byte.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/ByteMultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Char.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/ColorRGBA.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Duration.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Empty.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Float32.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Float32MultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Float64.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Float64MultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Header.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Int16.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Int16MultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Int32.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Int32MultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Int64.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Int64MultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Int8.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Int8MultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/MultiArrayDimension.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/MultiArrayLayout.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/String.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/Time.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/UInt16.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/UInt16MultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/UInt32.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/UInt32MultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/UInt64.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/UInt64MultiArray.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/UInt8.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/UInt8MultiArray.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Bool.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Byte.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/ByteMultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Char.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/ColorRGBA.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Duration.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Empty.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Float32.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Float32MultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Float64.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Float64MultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Header.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Int16.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Int16MultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Int32.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Int32MultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Int64.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Int64MultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Int8.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Int8MultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/MultiArrayDimension.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/MultiArrayLayout.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/String.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/Time.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/UInt16.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/UInt16MultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/UInt32.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/UInt32MultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/UInt64.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/UInt64MultiArray.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/UInt8.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/std_msgs/msg/UInt8MultiArray.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Bool.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Byte.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_ByteMultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Char.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_ColorRGBA.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Duration.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Empty.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Float32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Float32MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Float64.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Float64MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Header.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Int16.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Int16MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Int32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Int32MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Int64.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Int64MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Int8.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Int8MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_MultiArrayDimension.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_MultiArrayLayout.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_String.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_Time.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_UInt16.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_UInt16MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_UInt32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_UInt32MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_UInt64.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_UInt64MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_UInt8.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/_package_UInt8MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Bool.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Byte.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/ByteMultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Char.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/ColorRGBA.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Duration.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Empty.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Float32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Float32MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Float64.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Float64MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Header.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Int16.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Int16MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Int32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Int32MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Int64.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Int64MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Int8.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Int8MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/MultiArrayDimension.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/MultiArrayLayout.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/std_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/String.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/Time.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/UInt16.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/UInt16MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/UInt32.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/UInt32MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/UInt64.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/UInt64MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/UInt8.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/std_msgs/msg/UInt8MultiArray.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Bool.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Byte.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/ByteMultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Char.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/ColorRGBA.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Duration.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Empty.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Float32.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Float32MultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Float64.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Float64MultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Header.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Int16.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Int16MultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Int32.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Int32MultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Int64.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Int64MultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Int8.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Int8MultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/MultiArrayDimension.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/MultiArrayLayout.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/String.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/Time.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/UInt16.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/UInt16MultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/UInt32.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/UInt32MultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/UInt64.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/UInt64MultiArray.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/UInt8.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/std_msgs/msg/UInt8MultiArray.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Bool.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Byte.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_ByteMultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Char.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_ColorRGBA.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Duration.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Empty.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Float32.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Float32MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Float64.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Float64MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Header.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Int16.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Int16MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Int32.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Int32MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Int64.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Int64MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Int8.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Int8MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_MultiArrayDimension.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_MultiArrayLayout.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_String.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_Time.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_UInt16.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_UInt16MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_UInt32.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_UInt32MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_UInt64.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_UInt64MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_UInt8.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/_UInt8MultiArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/std_msgs/lib/python2.7/site-packages/std_msgs/msg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Bool.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Bool.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Byte.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Byte.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_ByteMultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_ByteMultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Char.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Char.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_ColorRGBA.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_ColorRGBA.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Duration.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Duration.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Empty.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Empty.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Float32.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Float32.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Float32MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Float32MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Float64.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Float64.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Float64MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Float64MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Header.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Header.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int16.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int16.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int16MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int16MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int32.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int32.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int32MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int32MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int64.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int64.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int64MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int64MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int8.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int8.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int8MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Int8MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_MultiArrayDimension.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_MultiArrayDimension.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_MultiArrayLayout.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_MultiArrayLayout.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_String.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_String.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Time.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_Time.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt16.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt16.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt16MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt16MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt32.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt32.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt32MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt32MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt64.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt64.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt64MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt64MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt8.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt8.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt8MultiArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/std_msgs/msg/_UInt8MultiArray.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/std_msgs.pc
+-- Installing: /opt/ros/kinetic/share/std_msgs/cmake/std_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/std_msgs/cmake/std_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/std_msgs/cmake/std_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/std_msgs/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/std_msgs
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_bool.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_double.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_float.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_int16.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_int32.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_int64.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_int8.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_string.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_uint16.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_uint32.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_uint64.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/builtin_uint8.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/header_deprecated_def.h
+-- Installing: /opt/ros/kinetic/include/std_msgs/trait_macros.h

@@ -1,0 +1,23 @@
+[100%] Built target rostime
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rostime.pc
+-- Installing: /opt/ros/kinetic/share/rostime/cmake/rostimeConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rostime/cmake/rostimeConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rostime/package.xml
+-- Installing: /opt/ros/kinetic/lib/librostime.dylib
+-- Up-to-date: /opt/ros/kinetic/include
+-- Up-to-date: /opt/ros/kinetic/include/ros
+-- Installing: /opt/ros/kinetic/include/ros/duration.h
+-- Installing: /opt/ros/kinetic/include/ros/impl
+-- Installing: /opt/ros/kinetic/include/ros/impl/duration.h
+-- Installing: /opt/ros/kinetic/include/ros/impl/time.h
+-- Installing: /opt/ros/kinetic/include/ros/rate.h
+-- Installing: /opt/ros/kinetic/include/ros/rostime_decl.h
+-- Installing: /opt/ros/kinetic/include/ros/time.h

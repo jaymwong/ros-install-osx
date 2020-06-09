@@ -1,0 +1,82 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rqt_reconfigure.pc
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/cmake/rqt_reconfigureConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/cmake/rqt_reconfigureConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_reconfigure
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_reconfigure/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/dynreconf_client_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/filter_children_model.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/node_selector_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/param_editors.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/param_groups.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/param_plugin.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/param_updater.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/param_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/paramedit_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/text_filter.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/text_filter_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/treenode_item_model.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/treenode_qstditem.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+copying src/rqt_reconfigure/treenode_status.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/dynreconf_client_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/filter_children_model.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/node_selector_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/param_editors.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/param_groups.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/param_plugin.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/param_updater.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/param_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/paramedit_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/text_filter.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/text_filter_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/treenode_item_model.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/treenode_qstditem.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_reconfigure/lib/rqt_reconfigure/treenode_status.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/dynreconf_client_widget.py to dynreconf_client_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/filter_children_model.py to filter_children_model.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/node_selector_widget.py to node_selector_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/param_editors.py to param_editors.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/param_groups.py to param_groups.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/param_plugin.py to param_plugin.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/param_updater.py to param_updater.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/param_widget.py to param_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/paramedit_widget.py to paramedit_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/text_filter.py to text_filter.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/text_filter_widget.py to text_filter_widget.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/treenode_item_model.py to treenode_item_model.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/treenode_qstditem.py to treenode_qstditem.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure/treenode_status.py to treenode_status.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rqt_reconfigure-0.4.10-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/plugin.xml
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/editor_bool.ui
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/editor_enum.ui
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/editor_number.ui
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/editor_string.ui
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/node_selector.ui
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/param_main.ui
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/param_timeline.ui
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/paramedit_pane.ui
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/singlenode_parameditor.ui
+-- Installing: /opt/ros/kinetic/share/rqt_reconfigure/resource/text_filter_widget.ui
+-- Installing: /opt/ros/kinetic/lib/rqt_reconfigure/rqt_reconfigure

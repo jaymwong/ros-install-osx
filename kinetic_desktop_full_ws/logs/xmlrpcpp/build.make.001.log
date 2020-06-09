@@ -1,0 +1,2 @@
+[ 10%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/xmlrpcpp/lib/libxmlrpcpp.dylib[0m
+[100%] Built target xmlrpcpp

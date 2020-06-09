@@ -1,0 +1,77 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _smach_msgs_generate_messages_check_deps_SmachContainerInitialStatusCmd
+[  0%] Built target _smach_msgs_generate_messages_check_deps_SmachContainerStatus
+[  0%] Built target _smach_msgs_generate_messages_check_deps_SmachContainerStructure
+[ 23%] Built target smach_msgs_generate_messages_py
+[ 23%] Built target std_msgs_generate_messages_cpp
+[ 41%] Built target smach_msgs_generate_messages_cpp
+[ 41%] Built target std_msgs_generate_messages_eus
+[ 64%] Built target smach_msgs_generate_messages_eus
+[ 64%] Built target std_msgs_generate_messages_lisp
+[ 82%] Built target smach_msgs_generate_messages_lisp
+[ 82%] Built target std_msgs_generate_messages_nodejs
+[100%] Built target smach_msgs_generate_messages_nodejs
+[100%] Built target smach_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/smach_msgs/msg/SmachContainerInitialStatusCmd.msg
+-- Installing: /opt/ros/kinetic/share/smach_msgs/msg/SmachContainerStructure.msg
+-- Installing: /opt/ros/kinetic/share/smach_msgs/msg/SmachContainerStatus.msg
+-- Installing: /opt/ros/kinetic/share/smach_msgs/cmake/smach_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/smach_msgs
+-- Installing: /opt/ros/kinetic/include/smach_msgs/SmachContainerInitialStatusCmd.h
+-- Installing: /opt/ros/kinetic/include/smach_msgs/SmachContainerStatus.h
+-- Installing: /opt/ros/kinetic/include/smach_msgs/SmachContainerStructure.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/smach_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/smach_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/smach_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/smach_msgs/msg/SmachContainerInitialStatusCmd.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/smach_msgs/msg/SmachContainerStatus.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/smach_msgs/msg/SmachContainerStructure.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/_package_SmachContainerInitialStatusCmd.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/_package_SmachContainerStatus.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/_package_SmachContainerStructure.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/smach_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/SmachContainerInitialStatusCmd.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/SmachContainerStatus.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/SmachContainerStructure.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg/SmachContainerInitialStatusCmd.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg/SmachContainerStatus.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg/SmachContainerStructure.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smach_msgs/lib/python2.7/site-packages/smach_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smach_msgs/lib/python2.7/site-packages/smach_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smach_msgs/lib/python2.7/site-packages/smach_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smach_msgs/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerInitialStatusCmd.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smach_msgs/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStatus.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smach_msgs/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStructure.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smach_msgs/lib/python2.7/site-packages/smach_msgs/msg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerInitialStatusCmd.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerInitialStatusCmd.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStatus.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStatus.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStructure.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStructure.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/smach_msgs.pc
+-- Installing: /opt/ros/kinetic/share/smach_msgs/cmake/smach_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/smach_msgs/cmake/smach_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/smach_msgs/cmake/smach_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/smach_msgs/package.xml

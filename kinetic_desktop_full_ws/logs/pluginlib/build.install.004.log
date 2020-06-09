@@ -1,0 +1,38 @@
+[100%] Built target plugin_tool
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/pluginlib
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/pluginlib/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/pluginlib /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/pluginlib/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/pluginlib install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running install
+running install_egg_info
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/pluginlib-1.11.3-py2.7.egg-info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/pluginlib-1.11.3-py2.7.egg-info
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/pluginlib.pc
+-- Up-to-date: /opt/ros/kinetic/share/pluginlib/cmake/pluginlibConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/pluginlib/cmake/pluginlibConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/pluginlib/package.xml
+-- Installing: /opt/ros/kinetic/lib/pluginlib/plugin_tool
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_desc.h
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_desc.hpp
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_list_macros.h
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_list_macros.hpp
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_loader.h
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_loader.hpp
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_loader_base.h
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_loader_base.hpp
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_loader_imp.h
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/class_loader_imp.hpp
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/exceptions.hpp
+-- Up-to-date: /opt/ros/kinetic/include/pluginlib/pluginlib_exceptions.h
+-- Up-to-date: /opt/ros/kinetic/share/pluginlib/typed_class_loader_template.cpp
+-- Up-to-date: /opt/ros/kinetic/lib/pluginlib/plugin_macro_update
+-- Up-to-date: /opt/ros/kinetic/lib/pluginlib/pluginlib_headers_migration.py

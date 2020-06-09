@@ -1,0 +1,47 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rqt_logger_level.pc
+-- Installing: /opt/ros/kinetic/share/rqt_logger_level/cmake/rqt_logger_levelConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_logger_level/cmake/rqt_logger_levelConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rqt_logger_level/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_logger_level
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rqt_logger_level/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/rqt_logger_level
+copying src/rqt_logger_level/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/rqt_logger_level
+copying src/rqt_logger_level/logger_level.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/rqt_logger_level
+copying src/rqt_logger_level/logger_level_service_caller.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/rqt_logger_level
+copying src/rqt_logger_level/logger_level_widget.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/rqt_logger_level
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/scripts-2.7
+copying and adjusting scripts/rqt_logger_level -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/scripts-2.7/rqt_logger_level from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/rqt_logger_level/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/rqt_logger_level/logger_level.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/rqt_logger_level/logger_level_service_caller.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/lib/rqt_logger_level/logger_level_widget.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level/logger_level.py to logger_level.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level/logger_level_service_caller.py to logger_level_service_caller.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level/logger_level_widget.py to logger_level_widget.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rqt_logger_level/scripts-2.7/rqt_logger_level -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/rqt_logger_level to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rqt_logger_level-0.4.8-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rqt_logger_level/plugin.xml
+-- Installing: /opt/ros/kinetic/share/rqt_logger_level/resource
+-- Installing: /opt/ros/kinetic/share/rqt_logger_level/resource/logger_level.ui
+-- Installing: /opt/ros/kinetic/lib/rqt_logger_level/rqt_logger_level

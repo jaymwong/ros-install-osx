@@ -1,0 +1,80 @@
+[  0%] Built target _actionlib_msgs_generate_messages_check_deps_GoalID
+[  0%] Built target _actionlib_msgs_generate_messages_check_deps_GoalStatusArray
+[  0%] Built target _actionlib_msgs_generate_messages_check_deps_GoalStatus
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 17%] Built target actionlib_msgs_generate_messages_cpp
+[ 17%] Built target std_msgs_generate_messages_py
+[ 41%] Built target actionlib_msgs_generate_messages_py
+[ 41%] Built target std_msgs_generate_messages_lisp
+[ 58%] Built target actionlib_msgs_generate_messages_lisp
+[ 58%] Built target std_msgs_generate_messages_eus
+[ 82%] Built target actionlib_msgs_generate_messages_eus
+[ 82%] Built target std_msgs_generate_messages_nodejs
+[100%] Built target actionlib_msgs_generate_messages_nodejs
+[100%] Built target actionlib_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/msg/GoalID.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/msg/GoalStatus.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/msg/GoalStatusArray.msg
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/actionlib_msgs
+-- Installing: /opt/ros/kinetic/include/actionlib_msgs/GoalID.h
+-- Installing: /opt/ros/kinetic/include/actionlib_msgs/GoalStatus.h
+-- Installing: /opt/ros/kinetic/include/actionlib_msgs/GoalStatusArray.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/msg/GoalID.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/msg/GoalStatus.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/actionlib_msgs/msg/GoalStatusArray.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/_package_GoalID.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/_package_GoalStatus.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/_package_GoalStatusArray.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/actionlib_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/GoalID.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/GoalStatus.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/actionlib_msgs/msg/GoalStatusArray.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg/GoalID.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg/GoalStatus.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/actionlib_msgs/msg/GoalStatusArray.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_msgs/lib/python2.7/site-packages/actionlib_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_msgs/lib/python2.7/site-packages/actionlib_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_msgs/lib/python2.7/site-packages/actionlib_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_msgs/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalID.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_msgs/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatus.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_msgs/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatusArray.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/actionlib_msgs/lib/python2.7/site-packages/actionlib_msgs/msg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalID.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalID.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatus.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatus.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatusArray.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/actionlib_msgs/msg/_GoalStatusArray.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/actionlib_msgs.pc
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgs-extras.cmake
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionlib_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/package.xml
+-- Installing: /opt/ros/kinetic/lib/actionlib_msgs/genaction.py
+-- Installing: /opt/ros/kinetic/share/actionlib_msgs/cmake/actionbuild.cmake

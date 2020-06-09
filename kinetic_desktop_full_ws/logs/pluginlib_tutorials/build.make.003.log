@@ -1,0 +1,4 @@
+[ 25%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pluginlib_tutorials/lib/libpluginlib_tutorials.dylib[0m
+[ 50%] Built target pluginlib_tutorials
+[ 75%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pluginlib_tutorials/lib/pluginlib_tutorials/polygon_loader[0m
+[100%] Built target polygon_loader

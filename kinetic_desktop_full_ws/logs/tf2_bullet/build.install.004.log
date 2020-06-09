@@ -1,0 +1,16 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/tf2_bullet.pc
+-- Up-to-date: /opt/ros/kinetic/share/tf2_bullet/cmake/tf2_bulletConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/tf2_bullet/cmake/tf2_bulletConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/tf2_bullet/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/tf2_bullet
+-- Up-to-date: /opt/ros/kinetic/include/tf2_bullet/tf2_bullet
+-- Up-to-date: /opt/ros/kinetic/include/tf2_bullet/tf2_bullet/tf2_bullet.h
+-- Up-to-date: /opt/ros/kinetic/include/tf2_bullet/tf2_bullet.h

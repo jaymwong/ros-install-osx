@@ -1,0 +1,439 @@
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_ApplyJointEffort
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_SetJointTrajectory
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_ODEJointProperties
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_ContactsState
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_ModelStates
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_SetLinkProperties
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_SetLightProperties
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_GetLinkProperties
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_GetJointProperties
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_SpawnModel
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_SetModelConfiguration
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_SetModelState
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_ODEPhysics
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_GetLinkState
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_SetPhysicsProperties
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_SetLinkState
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_ModelState
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_GetLightProperties
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_JointRequest
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_BodyRequest
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_LinkState
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_LinkStates
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_DeleteModel
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_DeleteLight
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_GetModelState
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_ContactState
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_WorldState
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_GetPhysicsProperties
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_SetJointProperties
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_ApplyBodyWrench
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_GetModelProperties
+[  0%] Built target _gazebo_msgs_generate_messages_check_deps_GetWorldProperties
+[ 20%] Built target gazebo_msgs_generate_messages_nodejs
+[ 20%] Built target sensor_msgs_generate_messages_cpp
+[ 20%] Built target geometry_msgs_generate_messages_cpp
+[ 20%] Built target std_msgs_generate_messages_cpp
+[ 20%] Built target trajectory_msgs_generate_messages_cpp
+[ 39%] Built target gazebo_msgs_generate_messages_cpp
+[ 39%] Built target geometry_msgs_generate_messages_lisp
+[ 39%] Built target std_msgs_generate_messages_lisp
+[ 39%] Built target sensor_msgs_generate_messages_lisp
+[ 39%] Built target trajectory_msgs_generate_messages_lisp
+[ 59%] Built target gazebo_msgs_generate_messages_lisp
+[ 59%] Built target sensor_msgs_generate_messages_py
+[ 59%] Built target geometry_msgs_generate_messages_py
+[ 59%] Built target std_msgs_generate_messages_py
+[ 59%] Built target trajectory_msgs_generate_messages_py
+[ 80%] Built target gazebo_msgs_generate_messages_py
+[ 80%] Built target sensor_msgs_generate_messages_eus
+[ 80%] Built target geometry_msgs_generate_messages_eus
+[ 80%] Built target trajectory_msgs_generate_messages_eus
+[ 80%] Built target std_msgs_generate_messages_eus
+[100%] Built target gazebo_msgs_generate_messages_eus
+[100%] Built target gazebo_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/msg/ContactsState.msg
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/msg/ContactState.msg
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/msg/LinkState.msg
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/msg/LinkStates.msg
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/msg/ModelState.msg
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/msg/ModelStates.msg
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/msg/ODEJointProperties.msg
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/msg/ODEPhysics.msg
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/msg/WorldState.msg
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/ApplyBodyWrench.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/DeleteModel.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/DeleteLight.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/GetLinkState.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/GetPhysicsProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/SetJointProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/SetModelConfiguration.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/SpawnModel.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/ApplyJointEffort.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/GetJointProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/GetModelProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/GetWorldProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/SetLinkProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/SetModelState.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/BodyRequest.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/GetLinkProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/GetModelState.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/JointRequest.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/SetLinkState.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/SetPhysicsProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/SetJointTrajectory.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/GetLightProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/srv/SetLightProperties.srv
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/cmake/gazebo_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ApplyBodyWrench.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ApplyBodyWrenchRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ApplyBodyWrenchResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ApplyJointEffort.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ApplyJointEffortRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ApplyJointEffortResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/BodyRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/BodyRequestRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/BodyRequestResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ContactsState.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ContactState.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/DeleteLight.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/DeleteLightRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/DeleteLightResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/DeleteModel.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/DeleteModelRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/DeleteModelResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetJointProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetJointPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetJointPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetLightProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetLightPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetLightPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetLinkProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetLinkPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetLinkPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetLinkState.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetLinkStateRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetLinkStateResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetModelProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetModelPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetModelPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetModelState.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetModelStateRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetModelStateResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetPhysicsProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetPhysicsPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetPhysicsPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetWorldProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetWorldPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/GetWorldPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/JointRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/JointRequestRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/JointRequestResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/LinkState.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/LinkStates.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ModelState.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ModelStates.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ODEJointProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/ODEPhysics.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetJointProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetJointPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetJointPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetJointTrajectory.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetJointTrajectoryRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetJointTrajectoryResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetLightProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetLightPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetLightPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetLinkProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetLinkPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetLinkPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetLinkState.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetLinkStateRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetLinkStateResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetModelConfiguration.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetModelConfigurationRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetModelConfigurationResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetModelState.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetModelStateRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetModelStateResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetPhysicsProperties.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetPhysicsPropertiesRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SetPhysicsPropertiesResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SpawnModel.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SpawnModelRequest.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/SpawnModelResponse.h
+-- Installing: /opt/ros/kinetic/include/gazebo_msgs/WorldState.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg/ContactsState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg/ContactState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg/LinkState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg/LinkStates.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg/ModelState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg/ModelStates.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg/ODEJointProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg/ODEPhysics.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/msg/WorldState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/ApplyBodyWrench.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/ApplyJointEffort.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/BodyRequest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/DeleteLight.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/DeleteModel.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/GetJointProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/GetLightProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/GetLinkProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/GetLinkState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/GetModelProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/GetModelState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/GetPhysicsProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/GetWorldProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/JointRequest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/SetJointProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/SetJointTrajectory.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/SetLightProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/SetLinkProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/SetLinkState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/SetModelConfiguration.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/SetModelState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/SetPhysicsProperties.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/gazebo_msgs/srv/SpawnModel.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package_ContactsState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package_ContactState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package_LinkState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package_LinkStates.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package_ModelState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package_ModelStates.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package_ODEJointProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package_ODEPhysics.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/_package_WorldState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/ContactsState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/ContactState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/gazebo_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/LinkState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/LinkStates.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/ModelState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/ModelStates.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/ODEJointProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/ODEPhysics.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/msg/WorldState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_ApplyBodyWrench.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_ApplyJointEffort.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_BodyRequest.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_DeleteLight.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_DeleteModel.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_GetJointProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_GetLightProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_GetLinkProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_GetLinkState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_GetModelProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_GetModelState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_GetPhysicsProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_GetWorldProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_JointRequest.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_SetJointProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_SetJointTrajectory.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_SetLightProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_SetLinkProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_SetLinkState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_SetModelConfiguration.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_SetModelState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_SetPhysicsProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/_package_SpawnModel.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/ApplyBodyWrench.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/ApplyJointEffort.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/BodyRequest.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/DeleteLight.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/DeleteModel.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/gazebo_msgs-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/GetJointProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/GetLightProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/GetLinkProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/GetLinkState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/GetModelProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/GetModelState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/GetPhysicsProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/GetWorldProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/JointRequest.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/SetJointProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/SetJointTrajectory.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/SetLightProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/SetLinkProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/SetLinkState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/SetModelConfiguration.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/SetModelState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/SetPhysicsProperties.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/gazebo_msgs/srv/SpawnModel.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/ContactsState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/ContactState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/LinkState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/LinkStates.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/ModelState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/ModelStates.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/ODEJointProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/ODEPhysics.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/msg/WorldState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/ApplyBodyWrench.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/ApplyJointEffort.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/BodyRequest.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/DeleteLight.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/DeleteModel.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/GetJointProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/GetLightProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/GetLinkProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/GetLinkState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/GetModelProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/GetModelState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/GetPhysicsProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/GetWorldProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/JointRequest.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/SetJointProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/SetJointTrajectory.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/SetLightProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/SetLinkProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/SetLinkState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/SetModelConfiguration.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/SetModelState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/SetPhysicsProperties.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/gazebo_msgs/srv/SpawnModel.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/_ContactState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/_ContactsState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/_LinkState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/_LinkStates.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/_ModelState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/_ModelStates.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/_ODEJointProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/_ODEPhysics.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/_WorldState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_ApplyBodyWrench.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_ApplyJointEffort.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_BodyRequest.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_DeleteLight.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_DeleteModel.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_GetJointProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_GetLightProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_GetLinkProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_GetLinkState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_GetModelProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_GetModelState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_GetPhysicsProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_GetWorldProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_JointRequest.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_SetJointProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_SetJointTrajectory.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_SetLightProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_SetLinkProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_SetLinkState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_SetModelConfiguration.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_SetModelState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_SetPhysicsProperties.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/_SpawnModel.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_msgs/lib/python2.7/site-packages/gazebo_msgs/srv/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ContactsState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ContactsState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ContactState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ContactState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_LinkState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_LinkState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_LinkStates.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_LinkStates.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ModelState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ModelState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ModelStates.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ModelStates.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ODEJointProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ODEJointProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ODEPhysics.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_ODEPhysics.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_WorldState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/msg/_WorldState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_ApplyBodyWrench.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_ApplyBodyWrench.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_ApplyJointEffort.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_ApplyJointEffort.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_BodyRequest.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_BodyRequest.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_DeleteLight.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_DeleteLight.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_DeleteModel.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_DeleteModel.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetJointProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetJointProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetLightProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetLightProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetLinkProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetLinkProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetLinkState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetLinkState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetModelProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetModelProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetModelState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetModelState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetPhysicsProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetPhysicsProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetWorldProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_GetWorldProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_JointRequest.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_JointRequest.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetJointProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetJointProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetJointTrajectory.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetJointTrajectory.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetLightProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetLightProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetLinkProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetLinkProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetLinkState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetLinkState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetModelConfiguration.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetModelConfiguration.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetModelState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetModelState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetPhysicsProperties.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SetPhysicsProperties.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SpawnModel.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_msgs/srv/_SpawnModel.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/gazebo_msgs.pc
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/cmake/gazebo_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/cmake/gazebo_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/cmake/gazebo_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/gazebo_msgs/package.xml

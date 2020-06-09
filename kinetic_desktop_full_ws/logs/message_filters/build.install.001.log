@@ -1,0 +1,41 @@
+[100%] Built target message_filters
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/message_filters.pc
+-- Up-to-date: /opt/ros/kinetic/share/message_filters/cmake/message_filtersConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/message_filters/cmake/message_filtersConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/message_filters/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/message_filters
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/message_filters/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/message_filters /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/message_filters/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/message_filters install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/message_filters-1.12.14-py2.7.egg-info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/message_filters-1.12.14-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/libmessage_filters.dylib
+-- Up-to-date: /opt/ros/kinetic/include/message_filters
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/cache.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/chain.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/connection.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/macros.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/null_types.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/pass_through.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/signal1.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/signal9.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/simple_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/subscriber.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/sync_policies
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/sync_policies/approximate_time.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/sync_policies/exact_time.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/synchronizer.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/time_sequencer.h
+-- Up-to-date: /opt/ros/kinetic/include/message_filters/time_synchronizer.h

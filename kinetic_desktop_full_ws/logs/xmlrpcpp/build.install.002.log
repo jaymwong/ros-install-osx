@@ -1,0 +1,29 @@
+[100%] Built target xmlrpcpp
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/xmlrpcpp.pc
+-- Up-to-date: /opt/ros/kinetic/share/xmlrpcpp/cmake/xmlrpcpp-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/xmlrpcpp/package.xml
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/base64.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpc.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcClient.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcDecl.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcDispatch.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcException.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcServer.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcServerConnection.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcServerMethod.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcSocket.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcSource.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcUtil.h
+-- Up-to-date: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcValue.h
+-- Installing: /opt/ros/kinetic/lib/libxmlrpcpp.dylib

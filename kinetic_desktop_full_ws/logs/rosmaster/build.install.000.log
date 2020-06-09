@@ -1,0 +1,61 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rosmaster.pc
+-- Installing: /opt/ros/kinetic/share/rosmaster/cmake/rosmasterConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rosmaster/cmake/rosmasterConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rosmaster/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rosmaster
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rosmaster/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/exceptions.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/main.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/master.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/master_api.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/paramserver.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/registrations.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/threadpool.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/util.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+copying src/rosmaster/validators.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/scripts-2.7
+copying and adjusting scripts/rosmaster -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/scripts-2.7/rosmaster from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/exceptions.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/main.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/master.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/master_api.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/paramserver.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/registrations.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/threadpool.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/util.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/lib/rosmaster/validators.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/exceptions.py to exceptions.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/main.py to main.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/master.py to master.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/master_api.py to master_api.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/paramserver.py to paramserver.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/registrations.py to registrations.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/threadpool.py to threadpool.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/util.py to util.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster/validators.py to validators.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosmaster/scripts-2.7/rosmaster -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/rosmaster to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rosmaster-1.12.14-py2.7.egg-info

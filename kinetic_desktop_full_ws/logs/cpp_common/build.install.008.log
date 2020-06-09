@@ -1,0 +1,24 @@
+[100%] Built target cpp_common
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/cpp_common.pc
+-- Up-to-date: /opt/ros/kinetic/share/cpp_common/cmake/cpp_commonConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/cpp_common/cmake/cpp_commonConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/cpp_common/package.xml
+-- Installing: /opt/ros/kinetic/lib/libcpp_common.dylib
+-- Up-to-date: /opt/ros/kinetic/include
+-- Up-to-date: /opt/ros/kinetic/include/ros
+-- Up-to-date: /opt/ros/kinetic/include/ros/cpp_common_decl.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/datatypes.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/debug.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/exception.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/header.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/macros.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/platform.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/types.h

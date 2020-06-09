@@ -1,0 +1,18 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _theora_image_transport_generate_messages_check_deps_Packet
+[ 13%] Built target theora_image_transport_gencfg
+[ 13%] Built target std_msgs_generate_messages_nodejs
+[ 13%] Built target std_msgs_generate_messages_py
+[ 13%] Built target std_msgs_generate_messages_lisp
+[ 13%] Built target std_msgs_generate_messages_eus
+[ 20%] Built target theora_image_transport_generate_messages_cpp
+[ 26%] Built target theora_image_transport_generate_messages_nodejs
+[ 40%] Built target theora_image_transport_generate_messages_py
+[ 46%] Built target theora_image_transport_generate_messages_lisp
+[ 60%] Built target theora_image_transport_generate_messages_eus
+[ 60%] Built target theora_image_transport_gencpp
+[ 60%] Built target theora_image_transport_generate_messages
+[ 66%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/theora_image_transport/lib/theora_image_transport/ogg_saver[0m
+[ 73%] Built target ogg_saver
+[ 80%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/theora_image_transport/lib/libtheora_image_transport.dylib[0m
+[100%] Built target theora_image_transport

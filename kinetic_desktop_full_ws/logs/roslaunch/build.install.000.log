@@ -1,0 +1,128 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/roslaunch.pc
+-- Installing: /opt/ros/kinetic/share/roslaunch/cmake/roslaunch-extras.cmake
+-- Installing: /opt/ros/kinetic/share/roslaunch/cmake/roslaunchConfig.cmake
+-- Installing: /opt/ros/kinetic/share/roslaunch/cmake/roslaunchConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/roslaunch/package.xml
+-- Installing: /opt/ros/kinetic/etc/catkin/profile.d/10.roslaunch.sh
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roslaunch
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/roslaunch/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/arg_dump.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/child.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/config.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/core.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/depends.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/launch.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/loader.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/netapi.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/node_args.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/nodeprocess.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/param_dump.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/parent.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/pmon.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/remote.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/remoteprocess.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/rlutil.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/roslaunch_logs.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/scriptapi.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/server.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/substitution_args.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+copying src/roslaunch/xmlloader.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7
+copying and adjusting scripts/roscore -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7
+copying and adjusting scripts/roslaunch -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7
+copying and adjusting scripts/roslaunch-complete -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7
+copying and adjusting scripts/roslaunch-deps -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7
+copying and adjusting scripts/roslaunch-logs -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roscore from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roslaunch from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roslaunch-complete from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roslaunch-deps from 644 to 755
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roslaunch-logs from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/arg_dump.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/child.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/config.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/core.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/depends.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/launch.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/loader.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/netapi.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/node_args.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/nodeprocess.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/param_dump.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/parent.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/pmon.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/remote.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/remoteprocess.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/rlutil.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/roslaunch_logs.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/scriptapi.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/server.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/substitution_args.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/lib/roslaunch/xmlloader.py -> /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/arg_dump.py to arg_dump.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/child.py to child.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/config.py to config.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/core.py to core.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/depends.py to depends.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/launch.py to launch.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/loader.py to loader.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/netapi.py to netapi.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/node_args.py to node_args.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/nodeprocess.py to nodeprocess.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/param_dump.py to param_dump.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/parent.py to parent.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/pmon.py to pmon.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/remote.py to remote.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/remoteprocess.py to remoteprocess.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/rlutil.py to rlutil.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/roslaunch_logs.py to roslaunch_logs.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/scriptapi.py to scriptapi.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/server.py to server.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/substitution_args.py to substitution_args.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch/xmlloader.py to xmlloader.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roscore -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roslaunch -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roslaunch-complete -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roslaunch-deps -> /opt/ros/kinetic/bin
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/roslaunch/scripts-2.7/roslaunch-logs -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/roscore to 755
+changing mode of /opt/ros/kinetic/bin/roslaunch to 755
+changing mode of /opt/ros/kinetic/bin/roslaunch-complete to 755
+changing mode of /opt/ros/kinetic/bin/roslaunch-deps to 755
+changing mode of /opt/ros/kinetic/bin/roslaunch-logs to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/roslaunch-1.12.14-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/etc/ros/roscore.xml
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/example-args.launch
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/example-env-substutition.xml
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/example-gdb.launch
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/example-include.launch
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/example-min.launch
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/example-params.launch
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/example-pass_all_args.launch
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/example-ssh.launch
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/example.launch
+-- Installing: /opt/ros/kinetic/share/roslaunch/resources/roscore.xml
+-- Installing: /opt/ros/kinetic/share/roslaunch/scripts/roslaunch-check

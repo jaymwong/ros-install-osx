@@ -1,0 +1,5 @@
+[100%] Built target python_module_PyKDL
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/PyKDL.so
+-- Up-to-date: /opt/ros/kinetic/share/python_orocos_kdl/package.xml

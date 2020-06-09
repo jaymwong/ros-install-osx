@@ -1,0 +1,5 @@
+image_pipeline/depth_image_proc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/depth_image_proc/lib/libdepth_image_proc.dylib /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/libdepth_image_proc.dylib
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/depth_image_proc/lib/pkgconfig/depth_image_proc.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/depth_image_proc.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/depth_image_proc/share/depth_image_proc/cmake/depth_image_procConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/depth_image_proc/cmake/depth_image_procConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/depth_image_proc/share/depth_image_proc/cmake/depth_image_procConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/depth_image_proc/cmake/depth_image_procConfig.cmake

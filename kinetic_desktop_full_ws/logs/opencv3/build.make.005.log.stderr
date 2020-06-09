@@ -1,0 +1,8 @@
+[1m/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/opencv3/opencv_contrib/freetype/src/freetype.cpp:56:10: [0m[0;1;31mfatal error: [0m[1m'hb.h' file not found[0m
+#include <hb.h>
+[0;1;32m         ^~~~~~
+[0m1 error generated.
+make[2]: *** [modules/freetype/CMakeFiles/opencv_freetype.dir/src/freetype.cpp.o] Error 1
+make[1]: *** [modules/freetype/CMakeFiles/opencv_freetype.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

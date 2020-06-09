@@ -1,0 +1,25 @@
+[100%] Built target geometric_shapes
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/geometric_shapes.pc
+-- Installing: /opt/ros/kinetic/share/geometric_shapes/cmake/geometric_shapesConfig.cmake
+-- Installing: /opt/ros/kinetic/share/geometric_shapes/cmake/geometric_shapesConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/geometric_shapes/package.xml
+-- Installing: /opt/ros/kinetic/lib/libgeometric_shapes.dylib
+-- Installing: /opt/ros/kinetic/include/geometric_shapes
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/bodies.h
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/body_operations.h
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/console_bridge_compatibility.hpp
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/mesh_operations.h
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/shape_extents.h
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/shape_messages.h
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/shape_operations.h
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/shape_to_marker.h
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/shapes.h
+-- Installing: /opt/ros/kinetic/include/geometric_shapes/solid_primitive_dims.h

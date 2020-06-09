@@ -1,0 +1,57 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/diagnostics/diagnostic_common_diagnostics
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/diagnostics/diagnostic_common_diagnostics/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics
+copying src/diagnostic_common_diagnostics/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics
+copying src/diagnostic_common_diagnostics/cpu_monitor.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics
+copying src/diagnostic_common_diagnostics/hd_monitor.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics
+copying src/diagnostic_common_diagnostics/ntp_monitor.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics
+copying src/diagnostic_common_diagnostics/sensors_monitor.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics
+copying src/diagnostic_common_diagnostics/tf_monitor.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics/cpu_monitor.py -> /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics/hd_monitor.py -> /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics/ntp_monitor.py -> /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics/sensors_monitor.py -> /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/diagnostic_common_diagnostics/tf_monitor.py -> /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics/cpu_monitor.py to cpu_monitor.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics/hd_monitor.py to hd_monitor.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics/ntp_monitor.py to ntp_monitor.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics/sensors_monitor.py to sensors_monitor.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics/tf_monitor.py to tf_monitor.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics-1.9.3-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/diagnostic_common_diagnostics.pc
+-- Installing: /opt/ros/kinetic/share/diagnostic_common_diagnostics/cmake/diagnostic_common_diagnosticsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/diagnostic_common_diagnostics/cmake/diagnostic_common_diagnosticsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/diagnostic_common_diagnostics/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/diagnostics/diagnostic_common_diagnostics
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/diagnostics/diagnostic_common_diagnostics/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/diagnostic_common_diagnostics install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics-1.9.3-py2.7.egg-info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/diagnostic_common_diagnostics-1.9.3-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/diagnostic_common_diagnostics/cpu_monitor.py
+-- Installing: /opt/ros/kinetic/lib/diagnostic_common_diagnostics/hd_monitor.py
+-- Installing: /opt/ros/kinetic/lib/diagnostic_common_diagnostics/ntp_monitor.py
+-- Installing: /opt/ros/kinetic/lib/diagnostic_common_diagnostics/sensors_monitor.py
+-- Installing: /opt/ros/kinetic/lib/diagnostic_common_diagnostics/tf_monitor.py

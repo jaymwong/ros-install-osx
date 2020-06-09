@@ -1,0 +1,51 @@
+[  0%] [34m[1mAutomatic MOC for target rviz[0m
+[  0%] [34m[1mAutomatic MOC for target interactive_marker_test[0m
+[  0%] Built target interactive_marker_test_autogen
+[  0%] [34m[1mAutomatic MOC for target connect_test[0m
+[  0%] Built target rviz_autogen
+[  0%] Built target connect_test_autogen
+[  0%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/rviz/interactive_marker_test[0m
+[  1%] Built target interactive_marker_test
+[  2%] Built target connect_test
+[  3%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/librviz.dylib[0m
+[ 50%] Built target rviz
+[ 50%] [34m[1mAutomatic MOC for target rviz_default_plugin[0m
+[ 50%] [34m[1mAutomatic MOC for target executable[0m
+[ 52%] [34m[1mAutomatic MOC for target two_render_widgets[0m
+[ 52%] [34m[1mAutomatic MOC for target render_points_test[0m
+[ 52%] [34m[1mAutomatic MOC for target rviz_image_view[0m
+[ 52%] [34m[1mAutomatic MOC for target new_display_dialog_test[0m
+[ 52%] [34m[1mAutomatic MOC for target color_editor_test[0m
+[ 52%] Built target executable_autogen
+[ 52%] Built target two_render_widgets_autogen
+[ 52%] Built target new_display_dialog_test_autogen
+[ 52%] Built target rviz_image_view_autogen
+[ 52%] Built target color_editor_test_autogen
+[ 52%] Built target render_points_test_autogen
+[ 52%] [34m[1mAutomatic MOC for target line_edit_with_button_test[0m
+[ 53%] [34m[1mAutomatic MOC for target render_panel_test[0m
+[ 53%] [34m[1mCompiling generated code for rviz_sip Python bindings...[0m
+[ 53%] Built target line_edit_with_button_test_autogen
+[ 53%] Built target render_panel_test_autogen
+[ 53%] Built target rviz_default_plugin_autogen
+ld: warning: directory not found for option '-F0'
+[ 53%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/rviz/rviz[0m
+[ 53%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/rviz/color_editor_test[0m
+[ 55%] [34m[1mMeta target for rviz_sip Python bindings...[0m
+[ 55%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/rviz/two_render_widgets[0m
+[ 55%] Built target librviz_sip
+[ 56%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/rviz/line_edit_with_button_test[0m
+[ 57%] Built target color_editor_test
+[ 59%] Built target executable
+[ 59%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/rviz/new_display_dialog_test[0m
+[ 60%] Built target two_render_widgets
+[ 60%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/rviz/render_points_test[0m
+[ 61%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/rviz/image_view[0m
+[ 63%] Built target line_edit_with_button_test
+[ 63%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/rviz/render_panel_test[0m
+[ 64%] Built target new_display_dialog_test
+[ 65%] Built target render_points_test
+[ 67%] Built target rviz_image_view
+[ 68%] Built target render_panel_test
+[ 68%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz/lib/librviz_default_plugin.dylib[0m
+[100%] Built target rviz_default_plugin

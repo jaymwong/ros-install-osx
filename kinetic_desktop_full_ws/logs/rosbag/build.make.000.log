@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target rosbag[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/rosbag.dir/src/player.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/rosbag.dir/src/recorder.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/rosbag.dir/src/time_translator.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbag/lib/librosbag.dylib[0m
+[ 50%] Built target rosbag
+[35m[1mScanning dependencies of target play[0m
+[35m[1mScanning dependencies of target record[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/play.dir/src/play.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/record.dir/src/record.cpp.o[0m
+[ 87%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbag/lib/rosbag/play[0m
+[ 87%] Built target play
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosbag/lib/rosbag/record[0m
+[100%] Built target record

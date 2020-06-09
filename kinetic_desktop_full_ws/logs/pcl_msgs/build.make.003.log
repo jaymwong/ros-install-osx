@@ -1,0 +1,20 @@
+[  0%] Built target _pcl_msgs_generate_messages_check_deps_PointIndices
+[  0%] Built target _pcl_msgs_generate_messages_check_deps_PolygonMesh
+[  0%] Built target _pcl_msgs_generate_messages_check_deps_Vertices
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _pcl_msgs_generate_messages_check_deps_ModelCoefficients
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[ 18%] Built target pcl_msgs_generate_messages_cpp
+[ 36%] Built target pcl_msgs_generate_messages_nodejs
+[ 54%] Built target pcl_msgs_generate_messages_lisp
+[ 77%] Built target pcl_msgs_generate_messages_py
+[100%] Built target pcl_msgs_generate_messages_eus
+[100%] Built target pcl_msgs_generate_messages

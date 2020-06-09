@@ -1,0 +1,7 @@
+[  0%] Built target diagnostic_msgs_generate_messages_cpp
+[  8%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_aggregator/lib/libdiagnostic_aggregator.dylib[0m
+[ 58%] Built target diagnostic_aggregator
+[ 66%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_aggregator/lib/diagnostic_aggregator/analyzer_loader[0m
+[ 75%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/diagnostic_aggregator/lib/diagnostic_aggregator/aggregator_node[0m
+[ 91%] Built target analyzer_loader
+[100%] Built target aggregator_node

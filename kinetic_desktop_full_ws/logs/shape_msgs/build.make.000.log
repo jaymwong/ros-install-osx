@@ -1,0 +1,62 @@
+[35m[1mScanning dependencies of target _shape_msgs_generate_messages_check_deps_MeshTriangle[0m
+[35m[1mScanning dependencies of target _shape_msgs_generate_messages_check_deps_SolidPrimitive[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _shape_msgs_generate_messages_check_deps_Plane[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _shape_msgs_generate_messages_check_deps_Mesh[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target _shape_msgs_generate_messages_check_deps_SolidPrimitive
+[  0%] Built target _shape_msgs_generate_messages_check_deps_MeshTriangle
+[  0%] Built target _shape_msgs_generate_messages_check_deps_Plane
+[  0%] Built target _shape_msgs_generate_messages_check_deps_Mesh
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_cpp[0m
+[ 18%] [34m[1mGenerating EusLisp code from shape_msgs/Plane.msg[0m
+[ 22%] [34m[1mGenerating C++ code from shape_msgs/Plane.msg[0m
+[ 27%] [34m[1mGenerating Python from MSG shape_msgs/MeshTriangle[0m
+[ 27%] [34m[1mGenerating Python from MSG shape_msgs/Plane[0m
+[ 27%] [34m[1mGenerating EusLisp code from shape_msgs/Mesh.msg[0m
+[ 22%] [34m[1mGenerating EusLisp code from shape_msgs/MeshTriangle.msg[0m
+[ 36%] [34m[1mGenerating Javascript code from shape_msgs/Plane.msg[0m
+[ 36%] [34m[1mGenerating Lisp code from shape_msgs/Plane.msg[0m
+[ 40%] [34m[1mGenerating Javascript code from shape_msgs/MeshTriangle.msg[0m
+[ 45%] [34m[1mGenerating Lisp code from shape_msgs/MeshTriangle.msg[0m
+[ 50%] [34m[1mGenerating C++ code from shape_msgs/MeshTriangle.msg[0m
+[ 54%] [34m[1mGenerating Python from MSG shape_msgs/Mesh[0m
+[ 59%] [34m[1mGenerating EusLisp code from shape_msgs/SolidPrimitive.msg[0m
+[ 63%] [34m[1mGenerating EusLisp manifest code for shape_msgs[0m
+[ 68%] [34m[1mGenerating Javascript code from shape_msgs/Mesh.msg[0m
+[ 72%] [34m[1mGenerating Lisp code from shape_msgs/Mesh.msg[0m
+[ 77%] [34m[1mGenerating C++ code from shape_msgs/Mesh.msg[0m
+[ 81%] [34m[1mGenerating Javascript code from shape_msgs/SolidPrimitive.msg[0m
+[ 86%] [34m[1mGenerating Python from MSG shape_msgs/SolidPrimitive[0m
+[ 90%] [34m[1mGenerating Lisp code from shape_msgs/SolidPrimitive.msg[0m
+[ 95%] [34m[1mGenerating C++ code from shape_msgs/SolidPrimitive.msg[0m
+[ 95%] Built target shape_msgs_generate_messages_nodejs
+[ 95%] Built target shape_msgs_generate_messages_lisp
+[100%] [34m[1mGenerating Python msg __init__.py for shape_msgs[0m
+[100%] Built target shape_msgs_generate_messages_cpp
+[100%] Built target shape_msgs_generate_messages_py
+[100%] Built target shape_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target shape_msgs_generate_messages[0m
+[100%] Built target shape_msgs_generate_messages

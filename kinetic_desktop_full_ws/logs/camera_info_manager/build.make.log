@@ -1,0 +1,4 @@
+[ 25%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/camera_info_manager/lib/libcamera_info_manager.dylib[0m
+[ 50%] Built target camera_info_manager
+[ 75%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/camera_info_manager/lib/camera_info_manager/unit_test[0m
+[100%] Built target unit_test

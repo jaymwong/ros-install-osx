@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target rviz_plugin_tutorials_autogen[0m
+[ 12%] [34m[1mAutomatic MOC for target rviz_plugin_tutorials[0m
+[ 12%] Built target rviz_plugin_tutorials_autogen
+[35m[1mScanning dependencies of target rviz_plugin_tutorials[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/rviz_plugin_tutorials.dir/src/drive_widget.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/rviz_plugin_tutorials.dir/src/imu_display.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/rviz_plugin_tutorials.dir/src/imu_visual.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/rviz_plugin_tutorials.dir/src/plant_flag_tool.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/rviz_plugin_tutorials.dir/src/teleop_panel.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/rviz_plugin_tutorials.dir/rviz_plugin_tutorials_autogen/mocs_compilation.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rviz_plugin_tutorials/lib/librviz_plugin_tutorials.dylib[0m
+[100%] Built target rviz_plugin_tutorials

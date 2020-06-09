@@ -1,0 +1,4 @@
+[ 50%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/visualization_marker_tutorials/lib/visualization_marker_tutorials/points_and_lines[0m
+[ 50%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/visualization_marker_tutorials/lib/visualization_marker_tutorials/basic_shapes[0m
+[100%] Built target basic_shapes
+[100%] Built target points_and_lines

@@ -1,0 +1,56 @@
+[35m[1mScanning dependencies of target _nodelet_generate_messages_check_deps_NodeletLoad[0m
+[35m[1mScanning dependencies of target _nodelet_generate_messages_check_deps_NodeletList[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _nodelet_generate_messages_check_deps_NodeletUnload[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletList
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletLoad
+[  0%] Built target _nodelet_generate_messages_check_deps_NodeletUnload
+[35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[  8%] [34m[1mGenerating Javascript code from nodelet/NodeletLoad.srv[0m
+[  4%] [34m[1mGenerating Javascript code from nodelet/NodeletUnload.srv[0m
+[ 12%] [34m[1mGenerating EusLisp code from nodelet/NodeletList.srv[0m
+[ 16%] [34m[1mGenerating C++ code from nodelet/NodeletList.srv[0m
+[ 25%] [34m[1mGenerating Lisp code from nodelet/NodeletList.srv[0m
+[ 25%] [34m[1mGenerating EusLisp code from nodelet/NodeletUnload.srv[0m
+[ 33%] [34m[1mGenerating Python code from SRV nodelet/NodeletList[0m
+[ 33%] [34m[1mGenerating Javascript code from nodelet/NodeletList.srv[0m
+[ 37%] [34m[1mGenerating C++ code from nodelet/NodeletUnload.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from nodelet/NodeletUnload.srv[0m
+[ 45%] [34m[1mGenerating EusLisp code from nodelet/NodeletLoad.srv[0m
+[ 45%] Built target nodelet_generate_messages_nodejs
+[ 50%] [34m[1mGenerating Python code from SRV nodelet/NodeletUnload[0m
+[ 54%] [34m[1mGenerating EusLisp manifest code for nodelet[0m
+[ 58%] [34m[1mGenerating Python code from SRV nodelet/NodeletLoad[0m
+[ 62%] [34m[1mGenerating C++ code from nodelet/NodeletLoad.srv[0m
+[ 66%] [34m[1mGenerating Lisp code from nodelet/NodeletLoad.srv[0m
+[ 70%] [34m[1mGenerating Python srv __init__.py for nodelet[0m
+[ 70%] Built target nodelet_generate_messages_lisp
+[ 70%] Built target nodelet_generate_messages_py
+[ 70%] Built target nodelet_generate_messages_cpp
+[ 70%] Built target nodelet_generate_messages_eus
+[35m[1mScanning dependencies of target nodelet_generate_messages[0m
+[35m[1mScanning dependencies of target nodeletlib[0m
+[ 70%] Built target nodelet_generate_messages
+[ 75%] [32mBuilding CXX object CMakeFiles/nodeletlib.dir/src/nodelet_class.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/nodeletlib.dir/src/loader.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/nodeletlib.dir/src/callback_queue.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/nodeletlib.dir/src/callback_queue_manager.cpp.o[0m
+[ 91%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/libnodeletlib.dylib[0m
+[ 91%] Built target nodeletlib
+[35m[1mScanning dependencies of target nodelet[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/nodelet.dir/src/nodelet.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/nodelet/lib/nodelet/nodelet[0m
+[100%] Built target nodelet

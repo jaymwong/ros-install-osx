@@ -4,9 +4,6 @@
 [submodule "src/rospack"]
 	path = src/rospack
 	url = https://github.com/ros/rospack.git
-[submodule "kinetic_desktop_full_ws/src/rospack"]
-	path = kinetic_desktop_full_ws/src/rospack
-	url = https://github.com/ros/rospack.git
 [submodule "kinetic_desktop_full_ws/src/rviz"]
 	path = kinetic_desktop_full_ws/src/rviz
 	url = https://github.com/ros-visualization/rviz.git
@@ -16,3 +13,24 @@
 [submodule "kinetic_desktop_full_ws/src/ros-planning/moveit"]
 	path = kinetic_desktop_full_ws/src/ros-planning/moveit
 	url = https://github.com/ros-planning/moveit.git
+[submodule "kinetic_desktop_full_ws/src/rospack"]
+	path = kinetic_desktop_full_ws/src/rospack
+	url = https://github.com/ros/rospack.git
+[submodule "kinetic_desktop_full_ws/src/roscpp_core"]
+	path = kinetic_desktop_full_ws/src/roscpp_core
+	url = https://github.com/ros/roscpp_core.git
+[submodule "kinetic_desktop_full_ws/src/bond_core"]
+	path = kinetic_desktop_full_ws/src/bond_core
+	url = https://github.com/ros/bond_core.git
+[submodule "kinetic_desktop_full_ws/src/geometry2"]
+	path = kinetic_desktop_full_ws/src/geometry2
+	url = https://github.com/ros/geometry2.git
+[submodule "kinetic_desktop_full_ws/src/actionlib"]
+	path = kinetic_desktop_full_ws/src/actionlib
+	url = https://github.com/ros/actionlib.git
+[submodule "kinetic_desktop_full_ws/src/image_common"]
+	path = kinetic_desktop_full_ws/src/image_common
+	url = https://github.com/ros-perception/image_common.git
+[submodule "kinetic_desktop_full_ws/src/rosauth"]
+	path = kinetic_desktop_full_ws/src/rosauth
+	url = https://github.com/GT-RAIL/rosauth.git

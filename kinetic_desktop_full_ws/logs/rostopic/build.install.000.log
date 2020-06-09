@@ -1,0 +1,35 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rostopic.pc
+-- Installing: /opt/ros/kinetic/share/rostopic/cmake/rostopicConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rostopic/cmake/rostopicConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rostopic/package.xml
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rostopic
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/ros_comm/rostopic/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic/lib/rostopic
+copying src/rostopic/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic/lib/rostopic
+running build_scripts
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic/scripts-2.7
+copying and adjusting scripts/rostopic -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic/scripts-2.7
+changing mode of /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic/scripts-2.7/rostopic from 644 to 755
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rostopic
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic/lib/rostopic/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rostopic
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rostopic/__init__.py to __init__.pyc
+running install_scripts
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rostopic/scripts-2.7/rostopic -> /opt/ros/kinetic/bin
+changing mode of /opt/ros/kinetic/bin/rostopic to 755
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rostopic-1.12.14-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/rostopic/rostopic

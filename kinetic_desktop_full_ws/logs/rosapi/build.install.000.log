@@ -1,0 +1,380 @@
+[  0%] Built target _rosapi_generate_messages_check_deps_SetParam
+[  0%] Built target _rosapi_generate_messages_check_deps_GetActionServers
+[  0%] Built target _rosapi_generate_messages_check_deps_Nodes
+[  0%] Built target _rosapi_generate_messages_check_deps_TopicType
+[  0%] Built target _rosapi_generate_messages_check_deps_GetParam
+[  0%] Built target _rosapi_generate_messages_check_deps_SearchParam
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceResponseDetails
+[  0%] Built target _rosapi_generate_messages_check_deps_GetTime
+[  0%] Built target _rosapi_generate_messages_check_deps_Services
+[  0%] Built target _rosapi_generate_messages_check_deps_HasParam
+[  0%] Built target _rosapi_generate_messages_check_deps_Topics
+[  0%] Built target _rosapi_generate_messages_check_deps_TopicsForType
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceHost
+[  0%] Built target _rosapi_generate_messages_check_deps_MessageDetails
+[  0%] Built target _rosapi_generate_messages_check_deps_Subscribers
+[  0%] Built target _rosapi_generate_messages_check_deps_GetParamNames
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceRequestDetails
+[  0%] Built target _rosapi_generate_messages_check_deps_ServicesForType
+[  0%] Built target _rosapi_generate_messages_check_deps_DeleteParam
+[  0%] Built target _rosapi_generate_messages_check_deps_Publishers
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceNode
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceType
+[  0%] Built target _rosapi_generate_messages_check_deps_ServiceProviders
+[  0%] Built target _rosapi_generate_messages_check_deps_TypeDef
+[  0%] Built target _rosapi_generate_messages_check_deps_NodeDetails
+[ 19%] Built target rosapi_generate_messages_nodejs
+[ 39%] Built target rosapi_generate_messages_lisp
+[ 59%] Built target rosapi_generate_messages_eus
+[ 81%] Built target rosapi_generate_messages_py
+[100%] Built target rosapi_generate_messages_cpp
+[100%] Built target rosapi_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rosbridge_suite/rosapi
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/rosbridge_suite/rosapi/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi
+copying src/rosapi/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi
+copying src/rosapi/glob_helper.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi
+copying src/rosapi/objectutils.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi
+copying src/rosapi/params.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi
+copying src/rosapi/proxy.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi/glob_helper.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi/objectutils.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi/params.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/rosapi/lib/rosapi/proxy.py -> /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/glob_helper.py to glob_helper.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/objectutils.py to objectutils.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/params.py to params.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/proxy.py to proxy.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/rosapi-0.10.2-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/share/rosapi/msg/TypeDef.msg
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/DeleteParam.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/GetActionServers.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/GetParam.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/GetParamNames.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/GetTime.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/HasParam.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/MessageDetails.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/Nodes.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/NodeDetails.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/Publishers.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/SearchParam.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/ServiceHost.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/ServiceNode.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/ServiceProviders.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/ServiceRequestDetails.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/ServiceResponseDetails.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/Services.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/ServicesForType.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/ServiceType.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/SetParam.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/Subscribers.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/Topics.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/TopicsForType.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/srv/TopicType.srv
+-- Installing: /opt/ros/kinetic/share/rosapi/cmake/rosapi-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/rosapi
+-- Installing: /opt/ros/kinetic/include/rosapi/DeleteParam.h
+-- Installing: /opt/ros/kinetic/include/rosapi/DeleteParamRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/DeleteParamResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetActionServers.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetActionServersRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetActionServersResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetParam.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetParamNames.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetParamNamesRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetParamNamesResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetParamRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetParamResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetTime.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetTimeRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/GetTimeResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/HasParam.h
+-- Installing: /opt/ros/kinetic/include/rosapi/HasParamRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/HasParamResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/MessageDetails.h
+-- Installing: /opt/ros/kinetic/include/rosapi/MessageDetailsRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/MessageDetailsResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/NodeDetails.h
+-- Installing: /opt/ros/kinetic/include/rosapi/NodeDetailsRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/NodeDetailsResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/Nodes.h
+-- Installing: /opt/ros/kinetic/include/rosapi/NodesRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/NodesResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/Publishers.h
+-- Installing: /opt/ros/kinetic/include/rosapi/PublishersRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/PublishersResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/SearchParam.h
+-- Installing: /opt/ros/kinetic/include/rosapi/SearchParamRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/SearchParamResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceHost.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceHostRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceHostResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceNode.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceNodeRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceNodeResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceProviders.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceProvidersRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceProvidersResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceRequestDetails.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceRequestDetailsRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceRequestDetailsResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceResponseDetails.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceResponseDetailsRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceResponseDetailsResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/Services.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServicesForType.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServicesForTypeRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServicesForTypeResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServicesRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServicesResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceType.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceTypeRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/ServiceTypeResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/SetParam.h
+-- Installing: /opt/ros/kinetic/include/rosapi/SetParamRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/SetParamResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/Subscribers.h
+-- Installing: /opt/ros/kinetic/include/rosapi/SubscribersRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/SubscribersResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/Topics.h
+-- Installing: /opt/ros/kinetic/include/rosapi/TopicsForType.h
+-- Installing: /opt/ros/kinetic/include/rosapi/TopicsForTypeRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/TopicsForTypeResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/TopicsRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/TopicsResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/TopicType.h
+-- Installing: /opt/ros/kinetic/include/rosapi/TopicTypeRequest.h
+-- Installing: /opt/ros/kinetic/include/rosapi/TopicTypeResponse.h
+-- Installing: /opt/ros/kinetic/include/rosapi/TypeDef.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/msg/TypeDef.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/DeleteParam.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/GetActionServers.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/GetParam.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/GetParamNames.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/GetTime.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/HasParam.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/MessageDetails.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/NodeDetails.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Nodes.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Publishers.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/SearchParam.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceHost.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceNode.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceProviders.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceRequestDetails.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceResponseDetails.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Services.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServicesForType.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/ServiceType.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/SetParam.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Subscribers.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/Topics.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/TopicsForType.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/rosapi/srv/TopicType.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg/_package_TypeDef.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg/rosapi-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/msg/TypeDef.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_DeleteParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_GetActionServers.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_GetParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_GetParamNames.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_GetTime.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_HasParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_MessageDetails.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_NodeDetails.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Nodes.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Publishers.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_SearchParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceHost.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceNode.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceProviders.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceRequestDetails.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceResponseDetails.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Services.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServicesForType.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_ServiceType.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_SetParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Subscribers.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_Topics.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_TopicsForType.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/_package_TopicType.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/DeleteParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/GetActionServers.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/GetParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/GetParamNames.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/GetTime.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/HasParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/MessageDetails.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/NodeDetails.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Nodes.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Publishers.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/rosapi-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/SearchParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceHost.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceNode.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceProviders.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceRequestDetails.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceResponseDetails.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Services.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServicesForType.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/ServiceType.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/SetParam.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Subscribers.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/Topics.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/TopicsForType.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/rosapi/srv/TopicType.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/msg/TypeDef.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/DeleteParam.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/GetActionServers.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/GetParam.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/GetParamNames.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/GetTime.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/HasParam.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/MessageDetails.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/NodeDetails.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Nodes.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Publishers.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/SearchParam.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceHost.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceNode.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceProviders.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceRequestDetails.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceResponseDetails.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Services.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServicesForType.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/ServiceType.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/SetParam.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Subscribers.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/Topics.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/TopicsForType.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/rosapi/srv/TopicType.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/msg/_TypeDef.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_DeleteParam.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_GetActionServers.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_GetParam.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_GetParamNames.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_GetTime.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_HasParam.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_MessageDetails.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_NodeDetails.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_Nodes.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_Publishers.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_SearchParam.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_ServiceHost.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_ServiceNode.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_ServiceProviders.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_ServiceRequestDetails.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_ServiceResponseDetails.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_ServiceType.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_Services.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_ServicesForType.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_SetParam.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_Subscribers.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_TopicType.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_Topics.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/_TopicsForType.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rosapi/lib/python2.7/site-packages/rosapi/srv/__init__.py ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg/_TypeDef.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg/_TypeDef.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_DeleteParam.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_DeleteParam.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetActionServers.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetActionServers.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetParam.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetParam.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetParamNames.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetParamNames.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetTime.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_GetTime.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_HasParam.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_HasParam.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_MessageDetails.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_MessageDetails.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_NodeDetails.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_NodeDetails.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Nodes.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Nodes.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Publishers.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Publishers.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_SearchParam.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_SearchParam.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceHost.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceHost.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceNode.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceNode.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceProviders.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceProviders.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceRequestDetails.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceRequestDetails.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceResponseDetails.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceResponseDetails.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Services.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Services.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServicesForType.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServicesForType.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceType.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_ServiceType.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_SetParam.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_SetParam.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Subscribers.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Subscribers.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Topics.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_Topics.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_TopicsForType.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_TopicsForType.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_TopicType.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/_TopicType.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/rosapi/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/rosapi.pc
+-- Installing: /opt/ros/kinetic/share/rosapi/cmake/rosapi-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/rosapi/cmake/rosapiConfig.cmake
+-- Installing: /opt/ros/kinetic/share/rosapi/cmake/rosapiConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/rosapi/package.xml
+-- Installing: /opt/ros/kinetic/lib/rosapi/rosapi_node

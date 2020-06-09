@@ -1,0 +1,275 @@
+[35m[1mScanning dependencies of target table_scene_lms400.pcd[0m
+Downloading http://download.ros.org/data/pcl/table_scene_lms400.pcd to /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/perception_pcl/pcl_ros/samples/data/table_scene_lms400.pcd...[35m[1mScanning dependencies of target pointcloud_to_pcd[0m
+[  1%] [32mBuilding CXX object CMakeFiles/pointcloud_to_pcd.dir/tools/pointcloud_to_pcd.cpp.o[0m
+ done.
+Checking md5sum on /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/perception_pcl/pcl_ros/samples/data/table_scene_lms400.pcd
+[  1%] Built target table_scene_lms400.pcd
+[35m[1mScanning dependencies of target convert_pointcloud_to_image[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[  1%] Built target topic_tools_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  1%] Built target tf2_msgs_generate_messages_lisp
+[  1%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  1%] Built target tf2_msgs_generate_messages_cpp
+[  1%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  1%] Built target actionlib_msgs_generate_messages_nodejs
+[  1%] Built target actionlib_msgs_generate_messages_lisp
+[  3%] [32mBuilding CXX object CMakeFiles/convert_pointcloud_to_image.dir/tools/convert_pointcloud_to_image.cpp.o[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  3%] Built target actionlib_msgs_generate_messages_cpp
+[  3%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  3%] Built target std_msgs_generate_messages_eus
+[  3%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[  3%] Built target tf_generate_messages_cpp
+[  3%] Built target topic_tools_generate_messages_py
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  3%] Built target topic_tools_generate_messages_eus
+[  3%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  3%] Built target geometry_msgs_generate_messages_cpp
+[  3%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  3%] Built target geometry_msgs_generate_messages_py
+[  3%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[  3%] Built target tf_generate_messages_py
+[  3%] Built target pcl_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[  3%] Built target sensor_msgs_generate_messages_nodejs
+[  3%] Built target topic_tools_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  3%] Built target sensor_msgs_generate_messages_lisp
+[  3%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[  3%] Built target nodelet_topic_tools_gencfg
+[  3%] Built target pcl_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  3%] Built target sensor_msgs_generate_messages_cpp
+[  3%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  3%] Built target tf_generate_messages_lisp
+[  3%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  3%] Built target std_msgs_generate_messages_nodejs
+[  3%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  3%] Built target rosgraph_msgs_generate_messages_eus
+[  3%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  3%] Built target roscpp_generate_messages_py
+[  3%] Built target actionlib_msgs_generate_messages_py
+[  3%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[  3%] Built target geometry_msgs_generate_messages_lisp
+[  3%] Built target sensor_msgs_generate_messages_py
+[  3%] Built target topic_tools_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  3%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  3%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[  3%] Built target nodelet_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  3%] Built target pcl_msgs_generate_messages_eus
+[  3%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[  3%] Built target tf_generate_messages_nodejs
+[  3%] Built target bond_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  3%] Built target nodelet_generate_messages_eus
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[  3%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[  3%] Built target pcl_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[  3%] Built target nodelet_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  3%] Built target bond_generate_messages_nodejs
+[35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[  3%] Built target tf_generate_messages_eus
+[  3%] Built target bond_generate_messages_eus
+[  3%] Built target bond_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  3%] Built target actionlib_generate_messages_lisp
+[  3%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  3%] Built target pcl_msgs_generate_messages_py
+[  3%] Built target nodelet_generate_messages_cpp
+[  3%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  3%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[  3%] Built target rosgraph_msgs_generate_messages_lisp
+[  3%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  3%] Built target bond_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  3%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  3%] Built target std_msgs_generate_messages_cpp
+[  3%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  3%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  3%] Built target actionlib_generate_messages_py
+[  3%] Built target actionlib_generate_messages_cpp
+[  3%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  3%] Built target nodelet_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  3%] Built target rosgraph_msgs_generate_messages_py
+[  3%] Built target dynamic_reconfigure_generate_messages_eus
+[  3%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[35m[1mScanning dependencies of target pcd_to_pointcloud[0m
+[35m[1mScanning dependencies of target download_extra_data[0m
+[  4%] [34m[1mGenerating dynamic reconfigure files from cfg/EuclideanClusterExtraction.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/EuclideanClusterExtractionConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/EuclideanClusterExtractionConfig.py[0m
+[35m[1mScanning dependencies of target convert_pcd_to_image[0m
+[  4%] Built target download_extra_data
+[  6%] [34m[1mGenerating dynamic reconfigure files from cfg/ExtractIndices.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/ExtractIndicesConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/ExtractIndicesConfig.py[0m
+Generating reconfiguration files for EuclideanClusterExtraction in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/EuclideanClusterExtractionConfig.h
+Generating reconfiguration files for ExtractIndices in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/ExtractIndicesConfig.h
+[35m[1mScanning dependencies of target pcl_ros_tf[0m
+[  7%] [34m[1mGenerating dynamic reconfigure files from cfg/ExtractPolygonalPrismData.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/ExtractPolygonalPrismDataConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/ExtractPolygonalPrismDataConfig.py[0m
+Generating reconfiguration files for ExtractPolygonalPrismData in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/ExtractPolygonalPrismDataConfig.h
+[  9%] [34m[1mGenerating dynamic reconfigure files from cfg/Feature.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/FeatureConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/FeatureConfig.py[0m
+Generating reconfiguration files for Feature in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/FeatureConfig.h
+[ 11%] [34m[1mGenerating dynamic reconfigure files from cfg/Filter.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/FilterConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/FilterConfig.py[0m
+Generating reconfiguration files for Filter in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/FilterConfig.h
+[ 12%] [34m[1mGenerating dynamic reconfigure files from cfg/MLS.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/MLSConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/MLSConfig.py[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/pcd_to_pointcloud.dir/tools/pcd_to_pointcloud.cpp.o[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/convert_pcd_to_image.dir/tools/convert_pcd_to_image.cpp.o[0m
+Generating reconfiguration files for MLS in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/MLSConfig.h
+[ 17%] [34m[1mGenerating dynamic reconfigure files from cfg/SACSegmentation.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/SACSegmentationConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/SACSegmentationConfig.py[0m
+Generating reconfiguration files for SACSegmentation in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/SACSegmentationConfig.h
+[ 19%] [34m[1mGenerating dynamic reconfigure files from cfg/SACSegmentationFromNormals.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/SACSegmentationFromNormalsConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/SACSegmentationFromNormalsConfig.py[0m
+[ 20%] [34m[1mGenerating dynamic reconfigure files from cfg/SegmentDifferences.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/SegmentDifferencesConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/SegmentDifferencesConfig.py[0m
+Generating reconfiguration files for SACSegmentationFromNormals in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/SACSegmentationFromNormalsConfig.h
+Generating reconfiguration files for SegmentDifferences in pcl_ros
+[ 22%] [32mBuilding CXX object CMakeFiles/pcl_ros_tf.dir/src/transforms.cpp.o[0m
+[ 23%] [34m[1mGenerating dynamic reconfigure files from cfg/StatisticalOutlierRemoval.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/StatisticalOutlierRemovalConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/StatisticalOutlierRemovalConfig.py[0m
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/SegmentDifferencesConfig.h
+[ 25%] [34m[1mGenerating dynamic reconfigure files from cfg/RadiusOutlierRemoval.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/RadiusOutlierRemovalConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/RadiusOutlierRemovalConfig.py[0m
+Generating reconfiguration files for StatisticalOutlierRemoval in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/StatisticalOutlierRemovalConfig.h
+Generating reconfiguration files for RadiusOutlierRemoval in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/RadiusOutlierRemovalConfig.h
+[ 26%] [34m[1mGenerating dynamic reconfigure files from cfg/VoxelGrid.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/VoxelGridConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/VoxelGridConfig.py[0m
+[ 28%] [34m[1mGenerating dynamic reconfigure files from cfg/CropBox.cfg: /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/CropBoxConfig.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/python2.7/site-packages/pcl_ros/cfg/CropBoxConfig.py[0m
+Generating reconfiguration files for VoxelGrid in pcl_ros
+Generating reconfiguration files for CropBox in pcl_ros
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/VoxelGridConfig.h
+Wrote header file in /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/include/pcl_ros/CropBoxConfig.h
+[ 28%] Built target pcl_ros_gencfg
+[35m[1mScanning dependencies of target download[0m
+[35m[1mScanning dependencies of target pcl_ros_features[0m
+[ 28%] Built target download
+[35m[1mScanning dependencies of target pcl_ros_surface[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/pcl_ros_surface.dir/src/pcl_ros/surface/surface.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/pcl_ros_surface.dir/src/pcl_ros/surface/convex_hull.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/feature.cpp.o[0m
+[ 34%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/pointcloud_to_pcd[0m
+[ 34%] Built target pointcloud_to_pcd
+[ 36%] [32mBuilding CXX object CMakeFiles/pcl_ros_surface.dir/src/pcl_ros/surface/moving_least_squares.cpp.o[0m
+[ 38%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/convert_pointcloud_to_image[0m
+[ 38%] Built target convert_pointcloud_to_image
+[ 39%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/boundary.cpp.o[0m
+[ 41%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/convert_pcd_to_image[0m
+[ 42%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/pcd_to_pointcloud[0m
+[ 42%] Built target convert_pcd_to_image
+[ 44%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/fpfh.cpp.o[0m
+[ 44%] Built target pcd_to_pointcloud
+[ 46%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/fpfh_omp.cpp.o[0m
+[ 47%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_tf.dylib[0m
+[ 47%] Built target pcl_ros_tf
+[ 49%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/shot.cpp.o[0m
+[35m[1mScanning dependencies of target pcl_ros_io[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pcl_ros_io.dir/src/pcl_ros/io/bag_io.cpp.o[0m
+[35m[1mScanning dependencies of target pcl_ros_segmentation[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/shot_omp.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/pcl_ros_io.dir/src/pcl_ros/io/concatenate_data.cpp.o[0m
+[35m[1mScanning dependencies of target bag_to_pcd[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/pcl_ros_segmentation.dir/src/pcl_ros/segmentation/extract_clusters.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/bag_to_pcd.dir/tools/bag_to_pcd.cpp.o[0m
+[ 58%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_surface.dylib[0m
+[ 58%] Built target pcl_ros_surface
+[35m[1mScanning dependencies of target pcl_ros_filters[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/pcl_ros_io.dir/src/pcl_ros/io/concatenate_fields.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/pcl_ros_filters.dir/src/pcl_ros/filters/extract_indices.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/pcl_ros_segmentation.dir/src/pcl_ros/segmentation/extract_polygonal_prism_data.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/pcl_ros_filters.dir/src/pcl_ros/filters/filter.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/pcl_ros/bag_to_pcd[0m
+[ 66%] Built target bag_to_pcd
+[ 68%] [32mBuilding CXX object CMakeFiles/pcl_ros_segmentation.dir/src/pcl_ros/segmentation/sac_segmentation.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/moment_invariants.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/pcl_ros_filters.dir/src/pcl_ros/filters/passthrough.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/pcl_ros_io.dir/src/pcl_ros/io/io.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/pcl_ros_segmentation.dir/src/pcl_ros/segmentation/segment_differences.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/normal_3d.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/pcl_ros_io.dir/src/pcl_ros/io/pcd_io.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/pcl_ros_filters.dir/src/pcl_ros/filters/project_inliers.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/normal_3d_omp.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/pcl_ros_segmentation.dir/src/pcl_ros/segmentation/segmentation.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/pcl_ros_filters.dir/src/pcl_ros/filters/radius_outlier_removal.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/pfh.cpp.o[0m
+[ 87%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_io.dylib[0m
+[ 87%] Built target pcl_ros_io
+[ 88%] [32mBuilding CXX object CMakeFiles/pcl_ros_filters.dir/src/pcl_ros/filters/statistical_outlier_removal.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/pcl_ros_filters.dir/src/pcl_ros/filters/voxel_grid.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/principal_curvatures.cpp.o[0m
+[ 93%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_segmentation.dylib[0m
+[ 93%] Built target pcl_ros_segmentation
+[ 95%] [32mBuilding CXX object CMakeFiles/pcl_ros_filters.dir/src/pcl_ros/filters/crop_box.cpp.o[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/pcl_ros_features.dir/src/pcl_ros/features/vfh.cpp.o[0m
+[ 98%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_filters.dylib[0m
+[ 98%] Built target pcl_ros_filters
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/pcl_ros/lib/libpcl_ros_features.dylib[0m
+[100%] Built target pcl_ros_features

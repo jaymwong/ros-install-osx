@@ -1,0 +1,20 @@
+[ 50%] Built target pluginlib_tutorials
+[100%] Built target polygon_loader
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/pluginlib_tutorials.pc
+-- Installing: /opt/ros/kinetic/share/pluginlib_tutorials/cmake/pluginlib_tutorialsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/pluginlib_tutorials/cmake/pluginlib_tutorialsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/pluginlib_tutorials/package.xml
+-- Installing: /opt/ros/kinetic/lib/libpluginlib_tutorials.dylib
+-- Installing: /opt/ros/kinetic/lib/pluginlib_tutorials/polygon_loader
+-- Installing: /opt/ros/kinetic/include/pluginlib_tutorials
+-- Installing: /opt/ros/kinetic/include/pluginlib_tutorials/polygon_base.h
+-- Installing: /opt/ros/kinetic/include/pluginlib_tutorials/polygon_plugins.h
+-- Installing: /opt/ros/kinetic/share/pluginlib_tutorials/polygon_plugins.xml

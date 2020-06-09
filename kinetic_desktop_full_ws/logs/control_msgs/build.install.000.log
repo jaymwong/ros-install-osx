@@ -1,0 +1,502 @@
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointTrajectoryAction
+[  0%] Built target _control_msgs_generate_messages_check_deps_PointHeadActionGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_FollowJointTrajectoryActionGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointTrajectoryActionGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointControllerState
+[  0%] Built target _control_msgs_generate_messages_check_deps_GripperCommandResult
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointTrajectoryControllerState
+[  0%] Built target _control_msgs_generate_messages_check_deps_FollowJointTrajectoryAction
+[  0%] Built target _control_msgs_generate_messages_check_deps_GripperCommandGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointTolerance
+[  0%] Built target _control_msgs_generate_messages_check_deps_QueryTrajectoryState
+[  0%] Built target _control_msgs_generate_messages_check_deps_PidState
+[  0%] Built target _control_msgs_generate_messages_check_deps_SingleJointPositionFeedback
+[  0%] Built target _control_msgs_generate_messages_check_deps_GripperCommandActionGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointTrajectoryActionFeedback
+[  0%] Built target _control_msgs_generate_messages_check_deps_GripperCommandFeedback
+[  0%] Built target _control_msgs_generate_messages_check_deps_GripperCommandActionFeedback
+[  0%] Built target _control_msgs_generate_messages_check_deps_GripperCommandAction
+[  0%] Built target _control_msgs_generate_messages_check_deps_PointHeadActionFeedback
+[  0%] Built target _control_msgs_generate_messages_check_deps_SingleJointPositionActionResult
+[  0%] Built target _control_msgs_generate_messages_check_deps_SingleJointPositionResult
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointTrajectoryGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_QueryCalibrationState
+[  0%] Built target _control_msgs_generate_messages_check_deps_PointHeadResult
+[  0%] Built target _control_msgs_generate_messages_check_deps_SingleJointPositionGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointTrajectoryActionResult
+[  0%] Built target _control_msgs_generate_messages_check_deps_PointHeadFeedback
+[  0%] Built target _control_msgs_generate_messages_check_deps_FollowJointTrajectoryResult
+[  0%] Built target _control_msgs_generate_messages_check_deps_GripperCommandActionResult
+[  0%] Built target _control_msgs_generate_messages_check_deps_FollowJointTrajectoryGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointTrajectoryResult
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target _control_msgs_generate_messages_check_deps_FollowJointTrajectoryActionResult
+[  0%] Built target _control_msgs_generate_messages_check_deps_PointHeadGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_SingleJointPositionActionFeedback
+[  0%] Built target _control_msgs_generate_messages_check_deps_PointHeadActionResult
+[  0%] Built target _control_msgs_generate_messages_check_deps_SingleJointPositionAction
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _control_msgs_generate_messages_check_deps_SingleJointPositionActionGoal
+[  0%] Built target _control_msgs_generate_messages_check_deps_PointHeadAction
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target _control_msgs_generate_messages_check_deps_GripperCommand
+[  0%] Built target _control_msgs_generate_messages_check_deps_FollowJointTrajectoryFeedback
+[  0%] Built target _control_msgs_generate_messages_check_deps_FollowJointTrajectoryActionFeedback
+[  0%] Built target _control_msgs_generate_messages_check_deps_JointTrajectoryFeedback
+[ 20%] Built target control_msgs_generate_messages_eus
+[ 20%] Built target actionlib_msgs_generate_messages_py
+[ 20%] Built target geometry_msgs_generate_messages_py
+[ 20%] Built target std_msgs_generate_messages_py
+[ 20%] Built target trajectory_msgs_generate_messages_py
+[ 41%] Built target control_msgs_generate_messages_py
+[ 41%] Built target geometry_msgs_generate_messages_lisp
+[ 41%] Built target actionlib_msgs_generate_messages_lisp
+[ 41%] Built target std_msgs_generate_messages_lisp
+[ 41%] Built target trajectory_msgs_generate_messages_lisp
+[ 61%] Built target control_msgs_generate_messages_lisp
+[ 61%] Built target actionlib_msgs_generate_messages_cpp
+[ 61%] Built target geometry_msgs_generate_messages_cpp
+[ 61%] Built target trajectory_msgs_generate_messages_cpp
+[ 61%] Built target std_msgs_generate_messages_cpp
+[ 80%] Built target control_msgs_generate_messages_cpp
+[ 80%] Built target std_msgs_generate_messages_nodejs
+[ 80%] Built target trajectory_msgs_generate_messages_nodejs
+[ 80%] Built target actionlib_msgs_generate_messages_nodejs
+[ 80%] Built target geometry_msgs_generate_messages_nodejs
+[100%] Built target control_msgs_generate_messages_nodejs
+[100%] Built target control_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/share/control_msgs/action/FollowJointTrajectory.action
+-- Installing: /opt/ros/kinetic/share/control_msgs/action/GripperCommand.action
+-- Installing: /opt/ros/kinetic/share/control_msgs/action/JointTrajectory.action
+-- Installing: /opt/ros/kinetic/share/control_msgs/action/PointHead.action
+-- Installing: /opt/ros/kinetic/share/control_msgs/action/SingleJointPosition.action
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/FollowJointTrajectoryAction.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/FollowJointTrajectoryActionGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/FollowJointTrajectoryActionResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/FollowJointTrajectoryActionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/FollowJointTrajectoryGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/FollowJointTrajectoryResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/FollowJointTrajectoryFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/GripperCommandAction.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/GripperCommandActionGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/GripperCommandActionResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/GripperCommandActionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/GripperCommandGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/GripperCommandResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/GripperCommandFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointTrajectoryAction.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointTrajectoryActionGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointTrajectoryActionResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointTrajectoryActionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointTrajectoryGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointTrajectoryResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointTrajectoryFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/PointHeadAction.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/PointHeadActionGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/PointHeadActionResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/PointHeadActionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/PointHeadGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/PointHeadResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/PointHeadFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/SingleJointPositionAction.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/SingleJointPositionActionGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/SingleJointPositionActionResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/SingleJointPositionActionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/SingleJointPositionGoal.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/SingleJointPositionResult.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/SingleJointPositionFeedback.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/GripperCommand.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointControllerState.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointTolerance.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/JointTrajectoryControllerState.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/msg/PidState.msg
+-- Installing: /opt/ros/kinetic/share/control_msgs/srv/QueryCalibrationState.srv
+-- Installing: /opt/ros/kinetic/share/control_msgs/srv/QueryTrajectoryState.srv
+-- Installing: /opt/ros/kinetic/share/control_msgs/cmake/control_msgs-msg-paths.cmake
+-- Installing: /opt/ros/kinetic/include/control_msgs
+-- Installing: /opt/ros/kinetic/include/control_msgs/FollowJointTrajectoryAction.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/FollowJointTrajectoryActionFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/FollowJointTrajectoryActionGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/FollowJointTrajectoryActionResult.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/FollowJointTrajectoryFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/FollowJointTrajectoryGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/FollowJointTrajectoryResult.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/GripperCommand.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/GripperCommandAction.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/GripperCommandActionFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/GripperCommandActionGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/GripperCommandActionResult.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/GripperCommandFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/GripperCommandGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/GripperCommandResult.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointControllerState.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointTolerance.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointTrajectoryAction.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointTrajectoryActionFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointTrajectoryActionGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointTrajectoryActionResult.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointTrajectoryControllerState.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointTrajectoryFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointTrajectoryGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/JointTrajectoryResult.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/PidState.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/PointHeadAction.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/PointHeadActionFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/PointHeadActionGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/PointHeadActionResult.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/PointHeadFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/PointHeadGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/PointHeadResult.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/QueryCalibrationState.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/QueryCalibrationStateRequest.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/QueryCalibrationStateResponse.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/QueryTrajectoryState.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/QueryTrajectoryStateRequest.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/QueryTrajectoryStateResponse.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/SingleJointPositionAction.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/SingleJointPositionActionFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/SingleJointPositionActionGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/SingleJointPositionActionResult.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/SingleJointPositionFeedback.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/SingleJointPositionGoal.h
+-- Installing: /opt/ros/kinetic/include/control_msgs/SingleJointPositionResult.h
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/manifest.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/FollowJointTrajectoryAction.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/FollowJointTrajectoryActionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/FollowJointTrajectoryActionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/FollowJointTrajectoryActionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/FollowJointTrajectoryFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/FollowJointTrajectoryGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/FollowJointTrajectoryResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/GripperCommand.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/GripperCommandAction.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/GripperCommandActionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/GripperCommandActionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/GripperCommandActionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/GripperCommandFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/GripperCommandGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/GripperCommandResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointControllerState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointTolerance.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointTrajectoryAction.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointTrajectoryActionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointTrajectoryActionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointTrajectoryActionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointTrajectoryControllerState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointTrajectoryFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointTrajectoryGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/JointTrajectoryResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/PidState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/PointHeadAction.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/PointHeadActionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/PointHeadActionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/PointHeadActionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/PointHeadFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/PointHeadGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/PointHeadResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/SingleJointPositionAction.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/SingleJointPositionActionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/SingleJointPositionActionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/SingleJointPositionActionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/SingleJointPositionFeedback.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/SingleJointPositionGoal.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/msg/SingleJointPositionResult.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/srv
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/srv/QueryCalibrationState.l
+-- Installing: /opt/ros/kinetic/share/roseus/ros/control_msgs/srv/QueryTrajectoryState.l
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_FollowJointTrajectoryAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_FollowJointTrajectoryActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_FollowJointTrajectoryActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_FollowJointTrajectoryActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_FollowJointTrajectoryFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_FollowJointTrajectoryGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_FollowJointTrajectoryResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_GripperCommand.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_GripperCommandAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_GripperCommandActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_GripperCommandActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_GripperCommandActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_GripperCommandFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_GripperCommandGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_GripperCommandResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointControllerState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointTolerance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointTrajectoryAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointTrajectoryActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointTrajectoryActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointTrajectoryActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointTrajectoryControllerState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointTrajectoryFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointTrajectoryGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_JointTrajectoryResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_PidState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_PointHeadAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_PointHeadActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_PointHeadActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_PointHeadActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_PointHeadFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_PointHeadGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_PointHeadResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_SingleJointPositionAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_SingleJointPositionActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_SingleJointPositionActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_SingleJointPositionActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_SingleJointPositionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_SingleJointPositionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/_package_SingleJointPositionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/control_msgs-msg.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/FollowJointTrajectoryAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/FollowJointTrajectoryActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/FollowJointTrajectoryActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/FollowJointTrajectoryActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/FollowJointTrajectoryFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/FollowJointTrajectoryGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/FollowJointTrajectoryResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/GripperCommand.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/GripperCommandAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/GripperCommandActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/GripperCommandActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/GripperCommandActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/GripperCommandFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/GripperCommandGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/GripperCommandResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointControllerState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointTolerance.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointTrajectoryAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointTrajectoryActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointTrajectoryActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointTrajectoryActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointTrajectoryControllerState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointTrajectoryFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointTrajectoryGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/JointTrajectoryResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/PidState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/PointHeadAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/PointHeadActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/PointHeadActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/PointHeadActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/PointHeadFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/PointHeadGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/PointHeadResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/SingleJointPositionAction.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/SingleJointPositionActionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/SingleJointPositionActionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/SingleJointPositionActionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/SingleJointPositionFeedback.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/SingleJointPositionGoal.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/msg/SingleJointPositionResult.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/srv
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/srv/_package.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/srv/_package_QueryCalibrationState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/srv/_package_QueryTrajectoryState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/srv/control_msgs-srv.asd
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/srv/QueryCalibrationState.lisp
+-- Installing: /opt/ros/kinetic/share/common-lisp/ros/control_msgs/srv/QueryTrajectoryState.lisp
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/FollowJointTrajectoryAction.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/FollowJointTrajectoryActionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/FollowJointTrajectoryActionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/FollowJointTrajectoryActionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/FollowJointTrajectoryFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/FollowJointTrajectoryGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/FollowJointTrajectoryResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/GripperCommand.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/GripperCommandAction.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/GripperCommandActionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/GripperCommandActionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/GripperCommandActionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/GripperCommandFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/GripperCommandGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/GripperCommandResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointControllerState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointTolerance.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointTrajectoryAction.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointTrajectoryActionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointTrajectoryActionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointTrajectoryActionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointTrajectoryControllerState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointTrajectoryFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointTrajectoryGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/JointTrajectoryResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/PidState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/PointHeadAction.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/PointHeadActionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/PointHeadActionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/PointHeadActionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/PointHeadFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/PointHeadGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/PointHeadResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/SingleJointPositionAction.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/SingleJointPositionActionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/SingleJointPositionActionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/SingleJointPositionActionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/SingleJointPositionFeedback.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/SingleJointPositionGoal.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/msg/SingleJointPositionResult.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/srv
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/srv/_index.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/srv/QueryCalibrationState.js
+-- Installing: /opt/ros/kinetic/share/gennodejs/ros/control_msgs/srv/QueryTrajectoryState.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryAction.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryActionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryActionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryActionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_GripperCommand.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandAction.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandActionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandActionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandActionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointControllerState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointTolerance.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryAction.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryActionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryActionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryActionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryControllerState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_PidState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_PointHeadAction.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_PointHeadActionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_PointHeadActionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_PointHeadActionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_PointHeadFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_PointHeadGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_PointHeadResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionAction.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionActionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionActionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionActionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionFeedback.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionGoal.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionResult.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/msg/__init__.py ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/srv ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/srv/_QueryCalibrationState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/srv/_QueryTrajectoryState.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/control_msgs/lib/python2.7/site-packages/control_msgs/srv/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryAction.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryAction.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryActionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryActionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryActionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryActionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryActionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryActionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_FollowJointTrajectoryResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommand.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommand.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandAction.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandAction.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandActionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandActionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandActionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandActionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandActionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandActionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_GripperCommandResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointControllerState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointControllerState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTolerance.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTolerance.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryAction.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryAction.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryActionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryActionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryActionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryActionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryActionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryActionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryControllerState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryControllerState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_JointTrajectoryResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PidState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PidState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadAction.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadAction.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadActionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadActionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadActionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadActionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadActionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadActionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_PointHeadResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionAction.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionAction.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionActionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionActionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionActionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionActionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionActionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionActionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionFeedback.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionFeedback.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionGoal.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionGoal.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionResult.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/msg/_SingleJointPositionResult.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/srv
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/srv/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/srv/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/srv/_QueryCalibrationState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/srv/_QueryCalibrationState.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/srv/_QueryTrajectoryState.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/control_msgs/srv/_QueryTrajectoryState.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/control_msgs.pc
+-- Installing: /opt/ros/kinetic/share/control_msgs/cmake/control_msgs-msg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/control_msgs/cmake/control_msgsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/control_msgs/cmake/control_msgsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/control_msgs/package.xml

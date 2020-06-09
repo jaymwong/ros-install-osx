@@ -1,0 +1,61 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/genmsg.pc
+-- Installing: /opt/ros/kinetic/share/genmsg/cmake/genmsg-extras.cmake
+-- Installing: /opt/ros/kinetic/share/genmsg/cmake/genmsgConfig.cmake
+-- Installing: /opt/ros/kinetic/share/genmsg/cmake/genmsgConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/genmsg/package.xml
+-- Installing: /opt/ros/kinetic/share/genmsg/cmake/pkg-genmsg.cmake.em
+-- Installing: /opt/ros/kinetic/share/genmsg/cmake/pkg-genmsg.context.in
+-- Installing: /opt/ros/kinetic/share/genmsg/cmake/pkg-msg-extras.cmake.in
+-- Installing: /opt/ros/kinetic/share/genmsg/cmake/pkg-msg-paths.cmake.develspace.in
+-- Installing: /opt/ros/kinetic/share/genmsg/cmake/pkg-msg-paths.cmake.installspace.in
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/genmsg
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/wizard/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/tbt/devel/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-externals/devel/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/genmsg/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/base.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/command_line.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/deps.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/gentools.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/msg_loader.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/msgs.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/names.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/srvs.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+copying src/genmsg/template_tools.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/base.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/command_line.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/deps.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/gentools.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/msg_loader.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/msgs.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/names.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/srvs.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genmsg/lib/genmsg/template_tools.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genmsg
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/base.py to base.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/command_line.py to command_line.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/deps.py to deps.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/gentools.py to gentools.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/msg_loader.py to msg_loader.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/msgs.py to msgs.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/names.py to names.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/srvs.py to srvs.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genmsg/template_tools.py to template_tools.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/genmsg-0.5.11-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/genmsg/genmsg_check_deps.py

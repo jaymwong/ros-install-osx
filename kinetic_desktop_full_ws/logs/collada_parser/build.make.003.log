@@ -1,0 +1,4 @@
+[ 25%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/collada_parser/lib/libcollada_parser.dylib[0m
+[ 50%] Built target collada_parser
+[ 75%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/collada_parser/lib/libcollada_parser_plugin.dylib[0m
+[100%] Built target collada_parser_plugin

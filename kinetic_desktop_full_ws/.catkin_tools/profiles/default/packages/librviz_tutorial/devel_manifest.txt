@@ -1,0 +1,5 @@
+visualization_tutorials/librviz_tutorial
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/librviz_tutorial/lib/librviz_tutorial/myviz /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/librviz_tutorial/myviz
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/librviz_tutorial/lib/pkgconfig/librviz_tutorial.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/librviz_tutorial.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/librviz_tutorial/share/librviz_tutorial/cmake/librviz_tutorialConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/librviz_tutorial/cmake/librviz_tutorialConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/librviz_tutorial/share/librviz_tutorial/cmake/librviz_tutorialConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/librviz_tutorial/cmake/librviz_tutorialConfig.cmake

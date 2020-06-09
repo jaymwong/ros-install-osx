@@ -1,0 +1,14 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/tf2_tools.pc
+-- Installing: /opt/ros/kinetic/share/tf2_tools/cmake/tf2_toolsConfig.cmake
+-- Installing: /opt/ros/kinetic/share/tf2_tools/cmake/tf2_toolsConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/tf2_tools/package.xml
+-- Installing: /opt/ros/kinetic/lib/tf2_tools/view_frames.py
+-- Installing: /opt/ros/kinetic/lib/tf2_tools/echo.py

@@ -1,0 +1,58 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/genpy.pc
+-- Installing: /opt/ros/kinetic/share/genpy/cmake/genpy-extras.cmake
+-- Installing: /opt/ros/kinetic/share/genpy/cmake/genpyConfig.cmake
+-- Installing: /opt/ros/kinetic/share/genpy/cmake/genpyConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/genpy/package.xml
+-- Installing: /opt/ros/kinetic/etc/ros/genmsg/genpy
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/genpy
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/genpy/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib
+creating /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/__init__.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/base.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/dynamic.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/generate_initpy.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/generate_numpy.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/generate_struct.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/generator.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/genpy_main.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/message.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+copying src/genpy/rostime.py -> /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy
+running install
+running install_lib
+creating /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/__init__.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/base.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/dynamic.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/generate_initpy.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/generate_numpy.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/generate_struct.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/generator.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/genpy_main.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/message.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+copying /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/genpy/lib/genpy/rostime.py -> /opt/ros/kinetic/lib/python2.7/site-packages/genpy
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/__init__.py to __init__.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/base.py to base.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/dynamic.py to dynamic.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/generate_initpy.py to generate_initpy.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/generate_numpy.py to generate_numpy.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/generate_struct.py to generate_struct.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/generator.py to generator.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/genpy_main.py to genpy_main.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/message.py to message.pyc
+byte-compiling /opt/ros/kinetic/lib/python2.7/site-packages/genpy/rostime.py to rostime.pyc
+running install_egg_info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/genpy-0.6.7-py2.7.egg-info
+-- Installing: /opt/ros/kinetic/lib/genpy/genmsg_py.py
+-- Installing: /opt/ros/kinetic/lib/genpy/gensrv_py.py

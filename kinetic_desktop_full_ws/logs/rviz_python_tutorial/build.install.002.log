@@ -1,0 +1,14 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rviz_python_tutorial.pc
+-- Up-to-date: /opt/ros/kinetic/share/rviz_python_tutorial/cmake/rviz_python_tutorialConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rviz_python_tutorial/cmake/rviz_python_tutorialConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rviz_python_tutorial/package.xml
+-- Up-to-date: /opt/ros/kinetic/share/rviz_python_tutorial/config.myviz
+-- Up-to-date: /opt/ros/kinetic/lib/rviz_python_tutorial/myviz.py

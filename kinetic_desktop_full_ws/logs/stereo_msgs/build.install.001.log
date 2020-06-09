@@ -1,0 +1,59 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _stereo_msgs_generate_messages_check_deps_DisparityImage
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[ 14%] Built target stereo_msgs_generate_messages_nodejs
+[ 14%] Built target sensor_msgs_generate_messages_lisp
+[ 14%] Built target std_msgs_generate_messages_lisp
+[ 28%] Built target stereo_msgs_generate_messages_lisp
+[ 28%] Built target std_msgs_generate_messages_cpp
+[ 28%] Built target sensor_msgs_generate_messages_cpp
+[ 42%] Built target stereo_msgs_generate_messages_cpp
+[ 42%] Built target sensor_msgs_generate_messages_eus
+[ 42%] Built target std_msgs_generate_messages_eus
+[ 71%] Built target stereo_msgs_generate_messages_eus
+[ 71%] Built target std_msgs_generate_messages_py
+[ 71%] Built target sensor_msgs_generate_messages_py
+[100%] Built target stereo_msgs_generate_messages_py
+[100%] Built target stereo_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/stereo_msgs/msg/DisparityImage.msg
+-- Up-to-date: /opt/ros/kinetic/share/stereo_msgs/cmake/stereo_msgs-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/stereo_msgs
+-- Up-to-date: /opt/ros/kinetic/include/stereo_msgs/DisparityImage.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/stereo_msgs
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/stereo_msgs/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/stereo_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/stereo_msgs/msg/DisparityImage.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg/_package_DisparityImage.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg/DisparityImage.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/stereo_msgs/msg/stereo_msgs-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/stereo_msgs/msg/DisparityImage.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_msgs/lib/python2.7/site-packages/stereo_msgs ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/stereo_msgs/lib/python2.7/site-packages/stereo_msgs/msg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg/_DisparityImage.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/stereo_msgs/msg/_DisparityImage.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/stereo_msgs.pc
+-- Up-to-date: /opt/ros/kinetic/share/stereo_msgs/cmake/stereo_msgs-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/stereo_msgs/cmake/stereo_msgsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/stereo_msgs/cmake/stereo_msgsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/stereo_msgs/package.xml

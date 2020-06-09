@@ -1,0 +1,394 @@
+[  2%] Built target gazebo_ros_template
+[  4%] Built target gazebo_ros_planar_move
+[  7%] Built target gazebo_ros_video
+[  9%] Built target gazebo_ros_utils
+[ 12%] Built target gazebo_ros_tricycle_drive
+[ 12%] Built target trajectory_msgs_generate_messages_cpp
+[ 12%] Built target diagnostic_msgs_generate_messages_py
+[ 12%] Built target diagnostic_msgs_generate_messages_eus
+[ 12%] Built target diagnostic_msgs_generate_messages_cpp
+[ 12%] Built target polled_camera_generate_messages_py
+[ 12%] Built target polled_camera_generate_messages_lisp
+[ 12%] Built target polled_camera_generate_messages_cpp
+[ 12%] Built target polled_camera_generate_messages_nodejs
+[ 12%] Built target trajectory_msgs_generate_messages_eus
+[ 12%] Built target dynamic_reconfigure_generate_messages_eus
+[ 12%] Built target dynamic_reconfigure_generate_messages_cpp
+[ 12%] Built target dynamic_reconfigure_gencfg
+[ 12%] Built target std_srvs_generate_messages_eus
+[ 12%] Built target geometry_msgs_generate_messages_py
+[ 12%] Built target gazebo_msgs_generate_messages_cpp
+[ 12%] Built target tf2_msgs_generate_messages_nodejs
+[ 12%] Built target tf2_msgs_generate_messages_lisp
+[ 12%] Built target tf2_msgs_generate_messages_eus
+[ 12%] Built target tf2_msgs_generate_messages_cpp
+[ 12%] Built target polled_camera_generate_messages_eus
+[ 12%] Built target actionlib_generate_messages_nodejs
+[ 12%] Built target actionlib_generate_messages_eus
+[ 12%] Built target tf_generate_messages_cpp
+[ 12%] Built target actionlib_msgs_generate_messages_eus
+[ 12%] Built target diagnostic_msgs_generate_messages_lisp
+[ 12%] Built target actionlib_msgs_generate_messages_nodejs
+[ 12%] Built target actionlib_msgs_generate_messages_lisp
+[ 12%] Built target actionlib_msgs_generate_messages_cpp
+[ 12%] Built target nav_msgs_generate_messages_py
+[ 12%] Built target nav_msgs_generate_messages_eus
+[ 12%] Built target nav_msgs_generate_messages_cpp
+[ 12%] Built target tf_generate_messages_nodejs
+[ 12%] Built target bond_generate_messages_py
+[ 12%] Built target rosgraph_msgs_generate_messages_lisp
+[ 12%] Built target bond_generate_messages_lisp
+[ 12%] Built target bond_generate_messages_eus
+[ 12%] Built target gazebo_msgs_generate_messages_py
+[ 12%] Built target tf_generate_messages_eus
+[ 12%] Built target bond_generate_messages_cpp
+[ 12%] Built target nodelet_generate_messages_py
+[ 12%] Built target nodelet_generate_messages_eus
+[ 12%] Built target tf2_msgs_generate_messages_py
+[ 12%] Built target bond_generate_messages_nodejs
+[ 12%] Built target trajectory_msgs_generate_messages_lisp
+[ 12%] Built target nodelet_generate_messages_nodejs
+[ 12%] Built target trajectory_msgs_generate_messages_py
+[ 12%] Built target nodelet_generate_messages_lisp
+[ 12%] Built target rosgraph_msgs_generate_messages_py
+[ 12%] Built target nav_msgs_generate_messages_nodejs
+[ 12%] Built target sensor_msgs_generate_messages_cpp
+[ 12%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 12%] Built target roscpp_generate_messages_py
+[ 12%] Built target nodelet_generate_messages_cpp
+[ 12%] Built target actionlib_generate_messages_lisp
+[ 12%] Built target nav_msgs_generate_messages_lisp
+[ 12%] Built target roscpp_generate_messages_eus
+[ 12%] Built target roscpp_generate_messages_cpp
+[ 12%] Built target dynamic_reconfigure_generate_messages_lisp
+[ 12%] Built target rosgraph_msgs_generate_messages_eus
+[ 12%] Built target std_srvs_generate_messages_lisp
+[ 12%] Built target std_srvs_generate_messages_py
+[ 12%] Built target geometry_msgs_generate_messages_cpp
+[ 12%] Built target std_srvs_generate_messages_cpp
+[ 12%] Built target roscpp_generate_messages_nodejs
+[ 12%] Built target actionlib_msgs_generate_messages_py
+[ 12%] Built target dynamic_reconfigure_generate_messages_py
+[ 12%] Built target geometry_msgs_generate_messages_lisp
+[ 12%] Built target sensor_msgs_generate_messages_py
+[ 12%] Built target sensor_msgs_generate_messages_nodejs
+[ 12%] Built target tf_generate_messages_py
+[ 12%] Built target std_srvs_generate_messages_nodejs
+[ 12%] Built target std_msgs_generate_messages_cpp
+[ 12%] Built target sensor_msgs_generate_messages_eus
+[ 12%] Built target std_msgs_generate_messages_nodejs
+[ 12%] Built target rosgraph_msgs_generate_messages_cpp
+[ 12%] Built target std_msgs_generate_messages_eus
+[ 12%] Built target geometry_msgs_generate_messages_nodejs
+[ 12%] Built target gazebo_msgs_generate_messages_nodejs
+[ 12%] Built target actionlib_generate_messages_py
+[ 12%] Built target geometry_msgs_generate_messages_eus
+[ 12%] Built target dynamic_reconfigure_generate_messages_nodejs
+[ 12%] Built target roscpp_generate_messages_lisp
+[ 12%] Built target tf_generate_messages_lisp
+[ 12%] Built target trajectory_msgs_generate_messages_nodejs
+[ 12%] Built target std_msgs_generate_messages_lisp
+[ 12%] Built target _catkin_empty_exported_target
+[ 12%] Built target sensor_msgs_generate_messages_lisp
+[ 12%] Built target gazebo_msgs_generate_messages_lisp
+[ 12%] Built target gazebo_msgs_generate_messages_eus
+[ 12%] Built target std_msgs_generate_messages_py
+[ 12%] Built target actionlib_generate_messages_cpp
+[ 12%] Built target diagnostic_msgs_generate_messages_nodejs
+[ 14%] Built target gazebo_ros_joint_pose_trajectory
+[ 17%] Built target gazebo_ros_joint_trajectory
+[ 19%] Built target gazebo_ros_force
+[ 21%] Built target gazebo_ros_projector
+[ 24%] Built target gazebo_ros_imu
+[ 26%] Built target gazebo_ros_p3d
+[ 29%] Built target gazebo_ros_block_laser
+[ 31%] Built target gazebo_ros_laser
+[ 34%] Built target gazebo_ros_harness
+[ 36%] Built target gazebo_ros_gpu_laser
+[ 41%] Built target gazebo_plugins_gencfg
+[ 43%] Built target gazebo_ros_camera_utils
+[ 46%] Built target gazebo_ros_depth_camera
+[ 48%] Built target gazebo_ros_elevator
+[ 51%] Built target gazebo_ros_triggered_camera
+[ 53%] Built target gazebo_ros_camera
+[ 56%] Built target MultiCameraPlugin
+[ 58%] Built target vision_reconfigure
+[ 60%] Built target camera_synchronizer
+[ 63%] Built target hokuyo_node
+[ 65%] Built target gazebo_ros_vacuum_gripper
+[ 68%] Built target gazebo_ros_range
+[ 70%] Built target gazebo_ros_diff_drive
+[ 73%] Built target gazebo_ros_f3d
+[ 75%] Built target pub_joint_trajectory_test
+[ 78%] Built target gazebo_ros_hand_of_god
+[ 80%] Built target gazebo_ros_triggered_multicamera
+[ 82%] Built target gazebo_ros_bumper
+[ 85%] Built target gazebo_ros_prosilica
+[ 87%] Built target gazebo_ros_multicamera
+[ 90%] Built target gazebo_ros_skid_steer_drive
+[ 92%] Built target gazebo_ros_ft_sensor
+[ 95%] Built target gazebo_ros_imu_sensor
+[ 97%] Built target gazebo_ros_openni_kinect
+[100%] Built target gazebo_ros_joint_state_publisher
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
++ cd /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/gazebo_ros_pkgs/gazebo_plugins
++ mkdir -p /opt/ros/kinetic/lib/python2.7/site-packages
++ /usr/bin/env PYTHONPATH=/opt/ros/kinetic/lib/python2.7/site-packages:/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_plugins/lib/python2.7/site-packages:/opt/ros/kinetic/lib/python2.7/site-packages:/usr/local/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/site-packages/:/Users/jaymingwong/Documents/code/wizard/externals/drake/build/lib/python2.7/dist-packages/:/Users/jaymingwong/Documents/code/wizard/externals/devina/devina/include/devina/lcm CATKIN_BINARY_DIR=/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_plugins /usr/local/bin/python2 /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/src/gazebo_ros_pkgs/gazebo_plugins/setup.py build --build-base /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/build/gazebo_plugins install --prefix=/opt/ros/kinetic --install-scripts=/opt/ros/kinetic/bin
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+Removing /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins-2.5.17-py2.7.egg-info
+Writing /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins-2.5.17-py2.7.egg-info
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/CameraSynchronizerConfig.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/GazeboRosCameraConfig.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/GazeboRosOpenniKinectConfig.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/HokuyoConfig.h
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/gazebo_plugins/lib/python2.7/site-packages/gazebo_plugins/cfg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/CameraSynchronizerConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/CameraSynchronizerConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/GazeboRosCameraConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/GazeboRosCameraConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/GazeboRosOpenniKinectConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/GazeboRosOpenniKinectConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/HokuyoConfig.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/gazebo_plugins/cfg/HokuyoConfig.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/gazebo_plugins.pc
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/cmake/gazebo_pluginsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/cmake/gazebo_pluginsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/package.xml
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/gazebo_plugins.pc
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/cmake/gazebo_pluginsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/cmake/gazebo_pluginsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/package.xml
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/gazebo_plugins.pc
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/cmake/gazebo_pluginsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/cmake/gazebo_pluginsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/package.xml
+-- Installing: /opt/ros/kinetic/lib/gazebo_plugins/hokuyo_node
+-- Installing: /opt/ros/kinetic/lib/libvision_reconfigure.dylib
+-- Installing: /opt/ros/kinetic/lib/gazebo_plugins/camera_synchronizer
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_utils.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_camera_utils.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_camera.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_triggered_camera.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_multicamera.dylib
+-- Installing: /opt/ros/kinetic/lib/libMultiCameraPlugin.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_triggered_multicamera.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_depth_camera.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_openni_kinect.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_openni_kinect.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_laser.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_block_laser.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_p3d.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_imu.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_imu_sensor.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_f3d.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_ft_sensor.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_bumper.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_hand_of_god.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_template.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_projector.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_prosilica.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_force.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_joint_trajectory.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_joint_state_publisher.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_joint_pose_trajectory.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_diff_drive.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_tricycle_drive.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_skid_steer_drive.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_video.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_planar_move.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_vacuum_gripper.dylib
+-- Installing: /opt/ros/kinetic/lib/gazebo_plugins/pub_joint_trajectory_test
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_gpu_laser.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_range.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_elevator.dylib
+-- Installing: /opt/ros/kinetic/lib/libgazebo_ros_harness.dylib
+-- Up-to-date: /opt/ros/kinetic/include
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_block_laser.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_bumper.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_camera.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_camera_utils.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_depth_camera.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_diff_drive.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_elevator.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_f3d.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_force.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_ft_sensor.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_gpu_laser.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_hand_of_god.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_harness.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_imu.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_imu_sensor.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_joint_pose_trajectory.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_joint_state_publisher.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_joint_trajectory.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_laser.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_multicamera.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_openni_kinect.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_p3d.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_planar_move.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_projector.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_prosilica.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_range.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_skid_steer_drive.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_template.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_tricycle_drive.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_triggered_camera.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_triggered_multicamera.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_utils.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_vacuum_gripper.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/gazebo_ros_video.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/MultiCameraPlugin.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/PubQueue.h
+-- Up-to-date: /opt/ros/kinetic/include/gazebo_plugins/vision_reconfigure.h
+-- Up-to-date: /opt/ros/kinetic/lib/gazebo_plugins/set_wrench.py
+-- Up-to-date: /opt/ros/kinetic/lib/gazebo_plugins/set_pose.py
+-- Up-to-date: /opt/ros/kinetic/lib/gazebo_plugins/gazebo_model
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models/chair
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models/chair/doc.kml
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models/chair/images
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models/chair/images/texture0.jpg
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models/chair/images/texture1.jpg
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models/chair/models
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models/chair/models/Chair.dae
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models/chair/models/Chair.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/Media/models/chair/textures.txt
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/bumper_test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/bumper_test/gazebo_ros_bumper.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/bumper_test/test_bumper.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/bumper_test/test_bumper.py
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/camera.cpp
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/camera.h
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/camera.test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/camera.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/camera16bit.cpp
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/camera16bit.test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/camera16bit.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/depth_camera.cpp
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/depth_camera.test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/depth_camera.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/distortion.h
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/distortion_barrel.cpp
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/distortion_barrel.test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/distortion_barrel.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/distortion_pincushion.cpp
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/distortion_pincushion.test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/distortion_pincushion.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/multicamera.cpp
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/multicamera.test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/multicamera.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/triggered_camera.cpp
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/triggered_camera.test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/camera/triggered_camera.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/config
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/config/example_models.yaml
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/launch/multi_robot_scenario.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/launch/pioneer3dx.gazebo.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/launch/pioneer3dx.rviz
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/launch/pioneer3dx.urdf.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/laser
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/laser/hokuyo.dae
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/back_rim.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/back_sonar.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/center_hubcap.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/center_wheel.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/chassis.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/Coordinates
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/front_rim.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/front_sonar.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/left_hubcap.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/left_wheel.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/right_hubcap.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/right_wheel.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/swivel.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/meshes/p3dx/top.stl
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/camera
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/camera/camera.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/laser
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/laser/hokuyo.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/laser/hokuyo_gpu.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/materials.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx/battery_block.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx/inertia_tensors.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx/pioneer3dx.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx/pioneer3dx_body.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx/pioneer3dx_chassis.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx/pioneer3dx_plugins.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx/pioneer3dx_sonar.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx/pioneer3dx_swivel.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/multi_robot_scenario/xacro/p3dx/pioneer3dx_wheel.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/test_3_double_pendulums.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/test_3_single_pendulums.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/test_double_pendulum.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/test_link_pose.py
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/test_single_pendulum.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/worlds
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/worlds/3_double_pendulums.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/worlds/3_single_pendulums.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/worlds/double_pendulum.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/p3d_test/worlds/single_pendulum.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/pub_joint_trajectory_test.cpp
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/range
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/range/range_plugin.test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/set_model_state_test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/set_model_state_test/set_model_state_test.cpp
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/set_model_state_test/set_model_state_test.test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/set_model_state_test/set_model_state_test_p2dx.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/spawn_test
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/spawn_test/parameter_server_test.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/spawn_test/spawn_robots.sh
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/bumper_test.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/elevator.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/gazebo_ros_block_laser.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/gazebo_ros_camera.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/gazebo_ros_depth_camera.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/gazebo_ros_gpu_laser.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/gazebo_ros_laser.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/gazebo_ros_range.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/gazebo_ros_trimesh_collision.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/test_worlds/test_lasers.world
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/launch/.directory
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/launch/tricycle.gazebo.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/launch/tricycle.rviz
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/launch/tricycle.urdf.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/launch/tricycle_drive_scenario.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/launch/tricycle_rviz.launch
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/.directory
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/materials.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/tricycle
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/tricycle/inertia_tensors.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/tricycle/tricycle.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/tricycle/tricycle_body.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/tricycle/tricycle_chassis.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/tricycle/tricycle_plugins.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/tricycle/wheel.xacro
+-- Up-to-date: /opt/ros/kinetic/share/gazebo_plugins/test/tricycle_drive/xacro/tricycle/wheel_actuated.xacro

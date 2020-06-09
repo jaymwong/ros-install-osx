@@ -1,0 +1,9 @@
+[ 28%] [34m[1mGenerating include/rqt_rviz/moc_rviz.cpp[0m
+[ 28%] [34m[1mGenerating include/rqt_rviz/moc_config_dialog.cpp[0m
+[35m[1mScanning dependencies of target rqt_rviz[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/rqt_rviz.dir/src/rqt_rviz/config_dialog.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/rqt_rviz.dir/include/rqt_rviz/moc_config_dialog.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/rqt_rviz.dir/src/rqt_rviz/rviz.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/rqt_rviz.dir/include/rqt_rviz/moc_rviz.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rqt_rviz/lib/librqt_rviz.dylib[0m
+[100%] Built target rqt_rviz

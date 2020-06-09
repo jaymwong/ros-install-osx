@@ -1,0 +1,37 @@
+[ 33%] Built target laser_scan_filters
+[ 46%] Built target test_scan_filter_chain
+[ 60%] Built target generic_laser_filter_node
+[ 73%] Built target scan_to_cloud_filter_chain
+[ 86%] Built target scan_to_scan_filter_chain
+[100%] Built target pointcloud_filters
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/laser_filters.pc
+-- Up-to-date: /opt/ros/kinetic/share/laser_filters/cmake/laser_filtersConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/laser_filters/cmake/laser_filtersConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/laser_filters/package.xml
+-- Installing: /opt/ros/kinetic/lib/libpointcloud_filters.dylib
+-- Installing: /opt/ros/kinetic/lib/liblaser_scan_filters.dylib
+-- Installing: /opt/ros/kinetic/lib/laser_filters/scan_to_cloud_filter_chain
+-- Installing: /opt/ros/kinetic/lib/laser_filters/scan_to_scan_filter_chain
+-- Installing: /opt/ros/kinetic/lib/laser_filters/generic_laser_filter_node
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/angular_bounds_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/angular_bounds_filter_in_place.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/array_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/box_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/footprint_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/intensity_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/interpolation_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/median_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/point_cloud_footprint_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/range_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/scan_mask_filter.h
+-- Up-to-date: /opt/ros/kinetic/include/laser_filters/scan_shadows_filter.h
+-- Up-to-date: /opt/ros/kinetic/share/laser_filters/laser_filters_plugins.xml

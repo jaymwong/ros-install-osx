@@ -1,0 +1,28 @@
+[ 20%] Built target image_rotate_gencfg
+[ 60%] Built target image_rotate
+[100%] Built target image_rotate_exe
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/include/image_rotate/ImageRotateConfig.h
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_rotate/__init__.py
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_rotate/lib/python2.7/site-packages/image_rotate/cfg ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_rotate/lib/python2.7/site-packages/image_rotate/cfg/ImageRotateConfig.py ...
+Compiling /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/image_rotate/lib/python2.7/site-packages/image_rotate/cfg/__init__.py ...
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_rotate/cfg
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_rotate/cfg/__init__.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_rotate/cfg/__init__.pyc
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_rotate/cfg/ImageRotateConfig.py
+-- Installing: /opt/ros/kinetic/lib/python2.7/site-packages/image_rotate/cfg/ImageRotateConfig.pyc
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/image_rotate.pc
+-- Installing: /opt/ros/kinetic/share/image_rotate/cmake/image_rotateConfig.cmake
+-- Installing: /opt/ros/kinetic/share/image_rotate/cmake/image_rotateConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/image_rotate/package.xml
+-- Installing: /opt/ros/kinetic/lib/libimage_rotate.dylib
+-- Installing: /opt/ros/kinetic/lib/image_rotate/image_rotate
+-- Installing: /opt/ros/kinetic/share/image_rotate/nodelet_plugins.xml

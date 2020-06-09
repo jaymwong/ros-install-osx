@@ -1,0 +1,6 @@
+urdf/urdf
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf/include/urdf/urdfdom_compatibility.h /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/include/urdf/urdfdom_compatibility.h
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf/lib/liburdf.dylib /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/liburdf.dylib
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf/lib/pkgconfig/urdf.pc /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/lib/pkgconfig/urdf.pc
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf/share/urdf/cmake/urdfConfig-version.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/urdf/cmake/urdfConfig-version.cmake
+/Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/urdf/share/urdf/cmake/urdfConfig.cmake /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/share/urdf/cmake/urdfConfig.cmake

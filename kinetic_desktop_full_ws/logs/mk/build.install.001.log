@@ -1,0 +1,22 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/mk.pc
+-- Up-to-date: /opt/ros/kinetic/share/mk/cmake/mkConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/mk/cmake/mkConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/mk/package.xml
+-- Up-to-date: /opt/ros/kinetic/share/mk/buildtest.mk
+-- Up-to-date: /opt/ros/kinetic/share/mk/bzr_checkout.mk
+-- Up-to-date: /opt/ros/kinetic/share/mk/cmake.mk
+-- Up-to-date: /opt/ros/kinetic/share/mk/cmake_stack.mk
+-- Up-to-date: /opt/ros/kinetic/share/mk/download_unpack_build.mk
+-- Up-to-date: /opt/ros/kinetic/share/mk/eclipse.awk
+-- Up-to-date: /opt/ros/kinetic/share/mk/git_checkout.mk
+-- Up-to-date: /opt/ros/kinetic/share/mk/hg_checkout.mk
+-- Up-to-date: /opt/ros/kinetic/share/mk/make_pydev_project.py
+-- Up-to-date: /opt/ros/kinetic/share/mk/svn_checkout.mk

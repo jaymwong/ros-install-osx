@@ -1,0 +1,28 @@
+[ 33%] Built target rosconsole_backend_interface
+[ 66%] Built target rosconsole_log4cxx
+[100%] Built target rosconsole
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rosconsole.pc
+-- Up-to-date: /opt/ros/kinetic/share/rosconsole/cmake/rosconsole-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosconsole/cmake/rosconsoleConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosconsole/cmake/rosconsoleConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosconsole/package.xml
+-- Installing: /opt/ros/kinetic/lib/librosconsole.dylib
+-- Installing: /opt/ros/kinetic/lib/librosconsole_log4cxx.dylib
+-- Installing: /opt/ros/kinetic/lib/librosconsole_backend_interface.dylib
+-- Up-to-date: /opt/ros/kinetic/share/ros/config/rosconsole.config
+-- Up-to-date: /opt/ros/kinetic/include
+-- Up-to-date: /opt/ros/kinetic/include/ros
+-- Up-to-date: /opt/ros/kinetic/include/ros/assert.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/console.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/console_backend.h
+-- Up-to-date: /opt/ros/kinetic/include/ros/static_assert.h
+-- Up-to-date: /opt/ros/kinetic/include/rosconsole
+-- Up-to-date: /opt/ros/kinetic/include/rosconsole/macros_generated.h

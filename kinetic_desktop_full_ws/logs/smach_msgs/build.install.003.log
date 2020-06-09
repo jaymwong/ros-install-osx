@@ -1,0 +1,72 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _smach_msgs_generate_messages_check_deps_SmachContainerInitialStatusCmd
+[  0%] Built target _smach_msgs_generate_messages_check_deps_SmachContainerStatus
+[  0%] Built target _smach_msgs_generate_messages_check_deps_SmachContainerStructure
+[ 23%] Built target smach_msgs_generate_messages_py
+[ 23%] Built target std_msgs_generate_messages_cpp
+[ 41%] Built target smach_msgs_generate_messages_cpp
+[ 41%] Built target std_msgs_generate_messages_eus
+[ 64%] Built target smach_msgs_generate_messages_eus
+[ 64%] Built target std_msgs_generate_messages_lisp
+[ 82%] Built target smach_msgs_generate_messages_lisp
+[ 82%] Built target std_msgs_generate_messages_nodejs
+[100%] Built target smach_msgs_generate_messages_nodejs
+[100%] Built target smach_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /opt/ros/kinetic/_setup_util.py
+-- Up-to-date: /opt/ros/kinetic/env.sh
+-- Up-to-date: /opt/ros/kinetic/setup.bash
+-- Up-to-date: /opt/ros/kinetic/setup.sh
+-- Up-to-date: /opt/ros/kinetic/setup.zsh
+-- Up-to-date: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/share/smach_msgs/msg/SmachContainerInitialStatusCmd.msg
+-- Up-to-date: /opt/ros/kinetic/share/smach_msgs/msg/SmachContainerStructure.msg
+-- Up-to-date: /opt/ros/kinetic/share/smach_msgs/msg/SmachContainerStatus.msg
+-- Up-to-date: /opt/ros/kinetic/share/smach_msgs/cmake/smach_msgs-msg-paths.cmake
+-- Up-to-date: /opt/ros/kinetic/include/smach_msgs
+-- Up-to-date: /opt/ros/kinetic/include/smach_msgs/SmachContainerInitialStatusCmd.h
+-- Up-to-date: /opt/ros/kinetic/include/smach_msgs/SmachContainerStatus.h
+-- Up-to-date: /opt/ros/kinetic/include/smach_msgs/SmachContainerStructure.h
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/smach_msgs
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/smach_msgs/manifest.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/smach_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/smach_msgs/msg/SmachContainerInitialStatusCmd.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/smach_msgs/msg/SmachContainerStatus.l
+-- Up-to-date: /opt/ros/kinetic/share/roseus/ros/smach_msgs/msg/SmachContainerStructure.l
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/_package.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/_package_SmachContainerInitialStatusCmd.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/_package_SmachContainerStatus.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/_package_SmachContainerStructure.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/smach_msgs-msg.asd
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/SmachContainerInitialStatusCmd.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/SmachContainerStatus.lisp
+-- Up-to-date: /opt/ros/kinetic/share/common-lisp/ros/smach_msgs/msg/SmachContainerStructure.lisp
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg/_index.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg/SmachContainerInitialStatusCmd.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg/SmachContainerStatus.js
+-- Up-to-date: /opt/ros/kinetic/share/gennodejs/ros/smach_msgs/msg/SmachContainerStructure.js
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smach_msgs/lib/python2.7/site-packages/smach_msgs ...
+Listing /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/smach_msgs/lib/python2.7/site-packages/smach_msgs/msg ...
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/__init__.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/__init__.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerInitialStatusCmd.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerInitialStatusCmd.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStatus.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStatus.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStructure.py
+-- Up-to-date: /opt/ros/kinetic/lib/python2.7/site-packages/smach_msgs/msg/_SmachContainerStructure.pyc
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/smach_msgs.pc
+-- Up-to-date: /opt/ros/kinetic/share/smach_msgs/cmake/smach_msgs-msg-extras.cmake
+-- Up-to-date: /opt/ros/kinetic/share/smach_msgs/cmake/smach_msgsConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/smach_msgs/cmake/smach_msgsConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/smach_msgs/package.xml

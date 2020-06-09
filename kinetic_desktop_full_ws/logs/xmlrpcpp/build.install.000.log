@@ -1,0 +1,29 @@
+[100%] Built target xmlrpcpp
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Installing: /opt/ros/kinetic/lib/pkgconfig/xmlrpcpp.pc
+-- Installing: /opt/ros/kinetic/share/xmlrpcpp/cmake/xmlrpcpp-extras.cmake
+-- Installing: /opt/ros/kinetic/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake
+-- Installing: /opt/ros/kinetic/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake
+-- Installing: /opt/ros/kinetic/share/xmlrpcpp/package.xml
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/base64.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpc.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcClient.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcDecl.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcDispatch.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcException.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcServer.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcServerConnection.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcServerMethod.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcSocket.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcSource.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcUtil.h
+-- Installing: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcValue.h
+-- Installing: /opt/ros/kinetic/lib/libxmlrpcpp.dylib

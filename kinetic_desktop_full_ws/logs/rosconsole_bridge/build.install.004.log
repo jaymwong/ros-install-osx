@@ -1,0 +1,17 @@
+[ 50%] Built target rosconsole_bridge
+[100%] Built target cleanup
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /opt/ros/kinetic/_setup_util.py
+-- Installing: /opt/ros/kinetic/env.sh
+-- Installing: /opt/ros/kinetic/setup.bash
+-- Installing: /opt/ros/kinetic/setup.sh
+-- Installing: /opt/ros/kinetic/setup.zsh
+-- Installing: /opt/ros/kinetic/.rosinstall
+-- Up-to-date: /opt/ros/kinetic/lib/pkgconfig/rosconsole_bridge.pc
+-- Up-to-date: /opt/ros/kinetic/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig-version.cmake
+-- Up-to-date: /opt/ros/kinetic/share/rosconsole_bridge/package.xml
+-- Installing: /opt/ros/kinetic/lib/librosconsole_bridge.dylib
+-- Up-to-date: /opt/ros/kinetic/include/rosconsole_bridge
+-- Up-to-date: /opt/ros/kinetic/include/rosconsole_bridge/bridge.h

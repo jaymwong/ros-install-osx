@@ -1,0 +1,2 @@
+/opt/ros/kinetic/lib/python2.7/site-packages/PyKDL.so
+/opt/ros/kinetic/share/python_orocos_kdl/package.xml

@@ -1,0 +1,7 @@
+[ 20%] [34m[1mGenerating src/rqt_gui_cpp/moc_roscpp_plugin_provider.cpp[0m
+[35m[1mScanning dependencies of target rqt_gui_cpp[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/rqt_gui_cpp.dir/src/rqt_gui_cpp/moc_roscpp_plugin_provider.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/rqt_gui_cpp.dir/src/rqt_gui_cpp/roscpp_plugin_provider.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/rqt_gui_cpp.dir/src/rqt_gui_cpp/nodelet_plugin_provider.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /Users/jaymingwong/Documents/code/ros-install-osx/kinetic_desktop_full_ws/devel/.private/rqt_gui_cpp/lib/librqt_gui_cpp.dylib[0m
+[100%] Built target rqt_gui_cpp

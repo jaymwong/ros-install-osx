@@ -1,0 +1,14 @@
+CMake Warning (dev) at /usr/local/Cellar/cmake/3.11.4/share/cmake/Modules/FindBoost.cmake:954 (if):
+  Policy CMP0054 is not set: Only interpret if() arguments as variables or
+  keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+  details.  Use the cmake_policy command to set the policy and suppress this
+  warning.
+
+  Quoted variables like "chrono" will no longer be dereferenced when the
+  policy is set to NEW.  Since the policy is not set the OLD behavior will be
+  used.
+[36mCall Stack (most recent call first):[0m
+  /usr/local/Cellar/cmake/3.11.4/share/cmake/Modules/FindBoost.cmake:1618 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:24 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

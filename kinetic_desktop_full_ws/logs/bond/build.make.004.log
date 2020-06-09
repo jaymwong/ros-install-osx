@@ -1,0 +1,13 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _bond_generate_messages_check_deps_Status
+[  0%] Built target _bond_generate_messages_check_deps_Constants
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 16%] Built target bond_generate_messages_cpp
+[ 33%] Built target bond_generate_messages_lisp
+[ 58%] Built target bond_generate_messages_eus
+[ 83%] Built target bond_generate_messages_py
+[100%] Built target bond_generate_messages_nodejs
+[100%] Built target bond_generate_messages
